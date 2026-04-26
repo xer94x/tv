@@ -601,7 +601,7 @@ function makeCard(ch){
   const blob=new Blob([m3uLines.join("\n")+"\n"],{type:"application/octet-stream"});
   const blobUrl=URL.createObjectURL(blob);
   let linksHtml="";
-  const dlBtn=`<a class="lnk-dl" href="${blobUrl}" download="${safe}.m3u8" onclick="event.stopPropagation()" title="Scarica tutti i link per VLC"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v13M7 11l5 5 5-5"/><path d="M5 20h14"/></svg></a>`;
+  const dlBtn=`<a class="lnk-dl" href="${blobUrl}" download="${safe}.m3u" onclick="event.stopPropagation()" title="Scarica tutti i link per VLC"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v13M7 11l5 5 5-5"/><path d="M5 20h14"/></svg></a>`;
   if(ch.streams.length===1){const s=ch.streams[0];linksHtml=`<a class="lnk-btn ${srcClass(s.source)}" href="${s.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">▶ Guarda</a>${dlBtn}`;}
   else{linksHtml=ch.streams.map((s,i)=>i===0?"":`<a class="lnk-btn ${srcClass(s.source)}" href="${s.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${s.label||i+1}</a>`).join("")+dlBtn;}
   card.innerHTML=`<div class="ch-logo-wrap">${numBadge}${srcBadge}${logoHtml}</div><div class="ch-info"><div class="ch-name" title="${ch.name}">${ch.name}</div><div class="ch-links">${linksHtml}</div></div>`;
