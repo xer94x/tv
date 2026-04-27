@@ -1,1 +1,16 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://iptv-epg.org/logos/Italy/Eurosport.it.png" group-title="Sport",EUROSPORT 1
+https://skysport.xer94x.workers.dev/eurosport1
+
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://iptv-epg.org/logos/Italy/Eurosport2.it.png" group-title="Sport",EUROSPORT 2
+https://skysport.xer94x.workers.dev/eurosport2
+
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://iptv-epg.org/logos/Italy/MilanTV.it.png" group-title="Sport",MILAN TV
+https://skysport.xer94x.workers.dev/milan
+
+#EXTINF:-1 tvg-chno="1001" tvg-id="RSILA1.it" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="INTERNAZIONALE",RSI La1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+
+#EXTINF:-1 tvg-chno="1002" tvg-id="RSILA2.it" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="INTERNAZIONALE",RSI La2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
