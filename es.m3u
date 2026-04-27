@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://iptv-epg.org/logos/Italy/Eurosport.it.png" group-title="Sport",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://i.ibb.co/C5N7CDJR/eurosport1.png" group-title="Sport",EUROSPORT 1
 https://skysport.xer94x.workers.dev/eurosport1
 
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://iptv-epg.org/logos/Italy/Eurosport2.it.png" group-title="Sport",EUROSPORT 2
