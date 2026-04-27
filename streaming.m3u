@@ -206,7 +206,7 @@ https://skysport.xer94x.workers.dev/golf
 https://skysport.xer94x.workers.dev/mix
 #EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://i.ibb.co/C5N7CDJR/eurosport1.png" group-title="Sky",EUROSPORT 1
 https://skysport.xer94x.workers.dev/eurosport1
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://iptv-epg.org/logos/Italy/Eurosport2.it.png" group-title="Sky",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://i.ibb.co/NgZDdjxh/eurosport2.png" group-title="Sky",EUROSPORT 2
 https://skysport.xer94x.workers.dev/eurosport2
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://iptv-epg.org/logos/Italy/MilanTV.it.png" group-title="Sport",MILAN TV
 https://skysport.xer94x.workers.dev/milan
