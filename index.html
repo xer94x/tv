@@ -80,8 +80,7 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:0
 .lnk-dtt:hover{background:rgba(0,229,255,.22);border-color:#00e5ff}
 .lnk-free{background:rgba(255,23,68,.12);border-color:rgba(255,23,68,.3);color:#ff5277}
 .lnk-free:hover{background:rgba(255,23,68,.22);border-color:#ff5277}
-.lnk-webtv,.lnk-netplus,.lnk-netplusmpd{background:rgba(123,36,28,.15);border-color:rgba(123,36,28,.5);color:#c0524a}
-.lnk-webtv:hover,.lnk-netplus:hover,.lnk-netplusmpd:hover{background:rgba(123,36,28,.25);border-color:#c0524a}
+
 .lnk-samsung{background:rgba(255,109,0,.12);border-color:rgba(255,109,0,.3);color:#ff9800}
 .lnk-samsung:hover{background:rgba(255,109,0,.22);border-color:#ff9800}
 .lnk-rakuten{background:rgba(170,0,255,.12);border-color:rgba(170,0,255,.3);color:#ce93d8}
@@ -133,8 +132,8 @@ function initScrollArrows(){
   cats.addEventListener("scroll",()=>updateArrows(cats,cl,cr));
   setTimeout(()=>{updateArrows(tabs,tl,tr);updateArrows(cats,cl,cr)},100);
 }
-const GROUP_ORDER=["RAI","Mediaset","SKY","Nazionali","Internazionali","Sport","News","Kids","Musica","Religiosi","Cinema","Streaming","Regioni","Altro"];
-const GROUP_EMOJI={"RAI":"📺","Mediaset":"📡","SKY":"🛰️","Nazionali":"🇮🇹","Internazionali":"🌍","Sport":"⚽","News":"📰","Kids":"🧒","Musica":"🎵","Religiosi":"🙏","Cinema":"🎬","Streaming":"▶️","Regioni":"🏘","Altro":"📡"};
+const GROUP_ORDER=["RAI","Mediaset","SKY","Nazionali","Sport","News","Kids","Musica","Religiosi","Cinema","Streaming","Regioni","Altro"];
+const GROUP_EMOJI={"RAI":"📺","Mediaset":"📡","SKY":"🛰️","Nazionali":"🇮🇹","Sport":"⚽","News":"📰","Kids":"🧒","Musica":"🎵","Religiosi":"🙏","Cinema":"🎬","Streaming":"▶️","Regioni":"🏘","Altro":"📡"};
 const STREAMING_SUBCAT_ORDER=['Novità','Cinema','Serie','Sport','Kids','Musica','Natura & Doc','Food & Lifestyle','News','Comedy','Intrattenimento','Horror','Western','Romance','Rakuten Viki'];
 const ALL_REGIONI=["Abruzzo","Basilicata","Calabria","Campania","Emilia Romagna","Friuli VG","Lazio","Liguria","Lombardia","Marche","Molise","Piemonte","Puglia","Sardegna","Sicilia","Toscana","Trentino AA","Umbria","Valle d'Aosta","Veneto"];
 function groupLabel(g){return (GROUP_EMOJI[g]||"")+" "+g}
@@ -154,7 +153,7 @@ const GMAP={
 };
 const REGIONE_RAW={"Sicilia":"Sicilia","Campania":"Campania","Calabria":"Calabria","Puglia":"Puglia","Lombardia":"Lombardia","Lazio":"Lazio","Toscana":"Toscana","Emilia Romagna":"Emilia Romagna","Veneto":"Veneto","Piemonte":"Piemonte","Sardegna":"Sardegna","Abruzzo":"Abruzzo","Basilicata":"Basilicata","Friuli Venezia Giulia":"Friuli VG","Liguria":"Liguria","Marche":"Marche","Molise":"Molise","Trentino Alto Adige":"Trentino AA","Umbria":"Umbria","Valle D'Aosta":"Valle d'Aosta"};
 function localGroupMap(g){
-  const m={"RAI":"RAI","MEDIASET":"Mediaset","SKY":"SKY","DISCOVERY":"Nazionali","SPORT":"Sport","KIDS":"Kids","MUSICA":"Musica","INTERNAZIONALE":"Internazionali","WEB":"Altro","NAZIONALI":"Nazionali"};
+  const m={"RAI":"RAI","MEDIASET":"Mediaset","SKY":"SKY","DISCOVERY":"Nazionali","SPORT":"Sport","KIDS":"Kids","MUSICA":"Musica","WEB":"Altro","NAZIONALI":"Nazionali"};
   return m[(g||"").toUpperCase()]||"Nazionali";
 }
 function getLgSubcat(num){
@@ -290,8 +289,8 @@ function applySubgroupOverride(name,subgroup){
 }
 
 // ── Priorità loghi (più basso = più prioritario per il logo) ──────────────────
-// local:0, dtt:1, free:2, netplus:3, netplusmpd:3, webtv:4, samsung:5, lg:6, wedo:6, pluto:7, rakuten:8
-const LOGO_PRIO={local:0,dtt:1,free:2,netplus:3,netplusmpd:3,webtv:4,samsung:5,lg:6,wedo:6,pluto:7,rakuten:8};
+// local:0, dtt:1, free:2, samsung:5, lg:6, wedo:6, pluto:7, rakuten:8
+const LOGO_PRIO={local:0,dtt:1,free:2,samsung:5,lg:6,wedo:6,pluto:7,rakuten:8};
 
 // ── Loghi fallback per canali DTT che potrebbero non avere logo nella playlist ──
 // Chiave: normKey(nome canale), Valore: URL logo
@@ -352,7 +351,7 @@ const DTT_FALLBACK_LOGOS={
   "twentyseven":"https://i.ibb.co/Tb4RLBM/twentyseven.png",
 };
 
-function buildChannels(rawDTT,rawFree,rawRakuten,rawPluto,rawWebtv,rawNetplus,rawNetplusMpd){
+function buildChannels(rawDTT,rawFree,rawRakuten,rawPluto){
   const map={};
 
   // helper: aggiunge stream a canale esistente o lo crea
@@ -424,50 +423,6 @@ function buildChannels(rawDTT,rawFree,rawRakuten,rawPluto,rawWebtv,rawNetplus,ra
     const lp=LOGO_PRIO["free"];
     if(r.logo&&lp<ch.logoPrio){ch.logo=r.logo;ch.logoPrio=lp;}
     if(!ch.seenUrls.has(r.url)){ch.seenUrls.add(r.url);ch.streams.push({url:r.url,source:"free",label:null});}
-  }
-
-  // 4. Netplus (prio stream 3, logo 3) → tutti Internazionali
-  for(const r of (rawNetplus||[])){
-    if(!r.url||!r.name)continue;
-    if(r.url.includes("youtube.com")||r.url.includes("twitch.tv"))continue;
-    let cname=stripQuality(r.name.trim());
-    if(r.url.includes("rsila1"))cname="RSI La1";
-    else if(r.url.includes("rsila2"))cname="RSI La2";
-    const fa=resolveAlias(cname);if(fa)cname=fa;else{const fs=_stripSuf(_normAlias(cname));const fa2=resolveAlias(fs);if(fa2)cname=fa2;}
-    const key=normKey(cname);
-    if(!map[key]){map[key]={name:cname,logo:null,group:"Internazionali",subgroup:null,brand:null,dttNum:null,streams:[],seenUrls:new Set(),logoPrio:99};}
-    const ch=map[key];
-    const lp=LOGO_PRIO["netplus"];
-    if(r.logo&&lp<ch.logoPrio){ch.logo=r.logo;ch.logoPrio=lp;}
-    if(!ch.seenUrls.has(r.url)){ch.seenUrls.add(r.url);ch.streams.push({url:r.url,source:"netplus",label:null});}
-  }
-
-  // 4b. NetplusMPD (prio stream 3, logo 3) → tutti Internazionali (stesso colore/categoria di netplus)
-  for(const r of (rawNetplusMpd||[])){
-    if(!r.url||!r.name)continue;
-    if(r.url.includes("youtube.com")||r.url.includes("twitch.tv"))continue;
-    let cname=stripQuality(r.name.trim());
-    const fa=resolveAlias(cname);if(fa)cname=fa;else{const fs=_stripSuf(_normAlias(cname));const fa2=resolveAlias(fs);if(fa2)cname=fa2;}
-    const key=normKey(cname);
-    if(!map[key]){map[key]={name:cname,logo:null,group:"Internazionali",subgroup:null,brand:null,dttNum:null,streams:[],seenUrls:new Set(),logoPrio:99};}
-    const ch=map[key];
-    const lp=LOGO_PRIO["netplusmpd"];
-    if(r.logo&&lp<ch.logoPrio){ch.logo=r.logo;ch.logoPrio=lp;}
-    if(!ch.seenUrls.has(r.url)){ch.seenUrls.add(r.url);ch.streams.push({url:r.url,source:"netplusmpd",label:null});}
-  }
-
-  // 5. WebTV (prio stream 4, logo 4) → tutti Internazionali
-  for(const r of (rawWebtv||[])){
-    if(!r.url||!r.name)continue;
-    if(r.url.includes("youtube.com")||r.url.includes("twitch.tv"))continue;
-    let cname=stripQuality(r.name.trim());
-    const fa=resolveAlias(cname);if(fa)cname=fa;else{const fs=_stripSuf(_normAlias(cname));const fa2=resolveAlias(fs);if(fa2)cname=fa2;}
-    const key=normKey(cname);
-    if(!map[key]){map[key]={name:cname,logo:null,group:"Internazionali",subgroup:null,brand:null,dttNum:null,streams:[],seenUrls:new Set(),logoPrio:99};}
-    const ch=map[key];
-    const lp=LOGO_PRIO["webtv"];
-    if(r.logo&&lp<ch.logoPrio){ch.logo=r.logo;ch.logoPrio=lp;}
-    if(!ch.seenUrls.has(r.url)){ch.seenUrls.add(r.url);ch.streams.push({url:r.url,source:"webtv",label:null});}
   }
 
   // 6. Rakuten (prio stream 9, logo 9)
@@ -611,16 +566,13 @@ function makeCard(ch){
 }
 
 
-function applyData(dttText,freeText,samsungText,plutoText,rakutenText,webtvText,netplusText,netplusMpdText){
+function applyData(dttText,freeText,samsungText,plutoText,rakutenText){
   const rd=dttText?parseM3U(dttText):[];
   const rf=[...(freeText?parseM3U(freeText):[]),...(samsungText?parseM3U(samsungText):[])];
   const rr=rakutenText?parseM3U(rakutenText):[];
   const rp=plutoText?parseM3U(plutoText):[];
-  const rw=webtvText?parseM3U(webtvText):[];
-  const rn=netplusText?parseM3U(netplusText):[];
-  const rnm=netplusMpdText?parseM3U(netplusMpdText):[];
-  if(!rd.length&&!rf.length&&!rr.length&&!rp.length&&!rw.length&&!rn.length&&!rnm.length)throw new Error("no data");
-  ALL=buildChannels(rd,rf,rr,rp,rw,rn,rnm);
+  if(!rd.length&&!rf.length&&!rr.length&&!rp.length)throw new Error("no data");
+  ALL=buildChannels(rd,rf,rr,rp);
   document.getElementById("ch-count").textContent=ALL.length+" canali";
   document.getElementById("content").innerHTML="";
   renderTabs();renderCats();render();initScrollArrows();
@@ -629,7 +581,7 @@ function applyData(dttText,freeText,samsungText,plutoText,rakutenText,webtvText,
 async function init(){
   // ── Mostra subito i canali locali ──────────────────────────────────────────
   document.getElementById("skel").innerHTML="";
-  ALL=buildChannels([],[],[],[],[],[],[]);
+  ALL=buildChannels([],[],[],[]);
   document.getElementById("ch-count").textContent=ALL.length+" canali (locali)";
   document.getElementById("content").innerHTML="";
   renderTabs();renderCats();render();initScrollArrows();
@@ -639,19 +591,16 @@ async function init(){
     async function fetchLocal(path){
       try{const r=await fetch(path);if(r.ok){const t=await r.text();if(t.includes("#EXTINF"))return t;}return null;}catch(e){return null;}
     }
-    const[textDTT,textFree,textSamsung,textPluto,textWebtv,textNetplusMpd,textNetplus]=await Promise.all([
+    const[textDTT,textFree,textSamsung,textPluto]=await Promise.all([
       fetchLocal("tivustream.m3u"),
       fetchLocal("freetv.m3u"),
       fetchLocal("samsung.m3u"),
       fetchLocal("pluto.m3u"),
-      fetchLocal("webtv.m3u"),
-      fetchLocal("netplus.mpd"),
-      fetchLocal("netplus.m3u"),
     ]);
     const textRakuten=RAKUTEN_M3U_EMBEDDED;
-    const hasData=textDTT||textFree||textSamsung||textPluto||textRakuten||textWebtv||textNetplusMpd||textNetplus;
+    const hasData=textDTT||textFree||textSamsung||textPluto||textRakuten;
     if(hasData){
-      applyData(textDTT,textFree,textSamsung,textPluto,textRakuten,textWebtv,textNetplus,textNetplusMpd);
+      applyData(textDTT,textFree,textSamsung,textPluto,textRakuten);
       setStatus("ok","Pronto ✓");
     }else{
       setStatus("err","Playlist non trovate");
