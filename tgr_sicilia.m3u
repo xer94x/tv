@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",1 maggio 2026 - ore 14:00
+https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29319837.mp4/playlist.m3u8?auth=daEdjaOdbd8aYaZdGcocDbdcWcAdwcya5aS-bP9llL-c0-JjrxsHn&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",30 aprile 2026 - ore 19:30
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29313343.mp4/playlist.m3u8?auth=daEanabbobUb2bOaGaiatcoanchdacicQdD-bP86Gw-c0-DjsvvFt&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",30 aprile 2026 - ore 14:00
@@ -97,5 +99,3 @@ https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29077303.mp
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29071712.mp4/playlist.m3u8?auth=daEcpdZc9aadobVcHbCbCbOaeb4a5a4aBd1-bP0RCk-c0-FmswsEn&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",5 aprile 2026 - ore 14:00
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29069138.mp4/playlist.m3u8?auth=daEbLdpatdGdwc4cMcuaFbladcmccdLcpc2-bP0MXr-c0-HmwuAHp&aifp=V001
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",4 aprile 2026 - ore 19:30
-https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29063965.mp4/playlist.m3u8?auth=daEabdrdYc4aFd6ctdZdNa.cha7dzcccfcb-bP0yEf-c0-BmyxrGt&aifp=V001
