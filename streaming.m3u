@@ -22,7 +22,7 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 tvg-chno="8" tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://i.ibb.co/r2Kkhf4R/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-chno="9" tvg-id="NOVE.it" tvg-name="NOVE" tvg-logo="https://i.ibb.co/jPZ8bzRP/009-nove-it.png" group-title="Discovery",NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+https://jmp2.uk/stvp-IT9000060Q
 #EXTINF:-1 tvg-chno="10" tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.ibb.co/gFLmgvx3/010-rai-4-it.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
@@ -180,7 +180,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 https://skysport.xer94x.workers.dev/dazn
 #EXTINF:-1 tvg-chno="200" tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
 https://skysport.xer94x.workers.dev/24
-#EXTINF:-1 tvg-chno="201" tvg-id="SkySportUno.it" tvg-name="Sky Sport UNO" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="Sky",Sky Sport UNO
+#EXTINF:-1 tvg-chno="201" tvg-id="SkySportUno.it" tvg-name="Sky Sport UNO" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="Sky",Sky Sport Uno
 https://skysport.xer94x.workers.dev/uno
 #EXTINF:-1 tvg-chno="202" tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://i.ibb.co/xSzDbc4t/202-sky-sport-calcio-it.png" group-title="Sky",Sky Sport Calcio
 https://skysport.xer94x.workers.dev/calcio
