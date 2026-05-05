@@ -176,10 +176,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="85" tvg-id="" tvg-name="GF Un'ora fa" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="Mediaset",GF Un'ora fa
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="RSILA1.it" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="Sky",RSI La1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-chno="102" tvg-id="RSILA2.it" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="Sky",RSI La2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-chno="199" tvg-id="ZONADAZN.it" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
 https://skysport.xer94x.workers.dev/dazn
 #EXTINF:-1 tvg-chno="200" tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
@@ -210,6 +206,14 @@ https://skysport.xer94x.workers.dev/eurosport1
 https://skysport.xer94x.workers.dev/eurosport2
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://iptv-epg.org/logos/Italy/MilanTV.it.png" group-title="Sport",MILAN TV
 https://skysport.xer94x.workers.dev/milan
+#EXTINF:-1 tvg-chno="550" tvg-id="SanMarinoRTV.sm" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",550 SAN MARINO RTV
+https://rtv.xer94x.workers.dev
+#EXTINF:-1 tvg-chno="551" tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",551 SAN MARINO RTV SPORT
+https://rtv.xer94x.workers.dev/sport
+#EXTINF:-1 tvg-chno="101" tvg-id="RSILA1.it" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="Nazionali",RSI La1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-chno="102" tvg-id="RSILA2.it" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="Nazionali",RSI La2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 # SPORT 
 
