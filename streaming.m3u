@@ -229,8 +229,8 @@ https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 https://edge-003.streamup.eu/origin/laziostyle_abr/origin/laziostyle_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7DGvNZflAqwqj0nTNBV0idwmmfAZp00JEw&s" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Fov0B9fMoXdWTgUdEqxsJYnZHvodeCbgYQ&s" group-title="Sport",BandW Rally Tv
-https://59d7d6f47d7fc.streamlock.net/bandw/bandw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Fov0B9fMoXdWTgUdEqxsJYnZHvodeCbgYQ&s" group-title="Sport",Rally Tv
+https://jmp2.uk/stvp-IT510000124
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-crc-tv-cover.jpg" group-title="Sport",Radio C.R.C.
 https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZKv0yRME0Sri2-YtC7IidN5lyTjvS3-hZg&s" group-title="Sport",TeleClubItalia
