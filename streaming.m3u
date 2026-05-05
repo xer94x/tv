@@ -996,6 +996,15 @@ https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
 #EXTINF:-1 channel-id="66a8c8b3d2d50d000821fc4c" tvg-id="66a8c8b3d2d50d000821fc4c" tvg-chno="160" tvg-name="Tandem" tvg-logo="https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/colorLogoPNG.png" group-title="Serie TV",Tandem
 https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
+#EXTINF:-1 channel-id="IT700009BQ" tvg-id="IT700009BQ" tvg-chno="4224" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700009BQ_20260421T125921SQUARE.png" group-title="Documentari",Space Live
+https://jmp2.uk/stvp-IT700009BQ
+#EXTINF:-1 channel-id="6994800c470389f33df8e090" tvg-id="6994800c470389f33df8e090" tvg-chno="51" tvg-name="Pluto TV Azione Cult" tvg-logo="https://images.pluto.tv/channels/6994800c470389f33df8e090/colorLogoPNG_1774006898101.png" group-title="Film",Pluto TV Azione Cult
+https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8
+#EXTINF:-1 channel-id="69b1489b5828e7c242d83064" tvg-id="69b1489b5828e7c242d83064" tvg-chno="50" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b1489b5828e7c242d83064/colorLogoPNG_1775118441487.png" group-title="Documentari",Space Live
+https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8
+#EXTINF:-1 channel-id="IT900013AJ" tvg-id="IT900013AJ" tvg-chno="4138" tvg-name="A tu per tu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900013AJ_20260428T031435SQUARE.png" group-title="Intrattenimento",A tu per tu
+https://jmp2.uk/stvp-IT900013AJ
+
 
 # roku_all
 
@@ -3092,11 +3101,3 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6IJiAL4iWHwoGC8N3QCSPEwSJESchFZHuEQ&s" group-title="Radio",Xite
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 channel-id="IT700009BQ" tvg-id="IT700009BQ" tvg-chno="4224" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700009BQ_20260421T125921SQUARE.png" group-title="Nuovi",Space Live
-https://jmp2.uk/stvp-IT700009BQ
-#EXTINF:-1 channel-id="6994800c470389f33df8e090" tvg-id="6994800c470389f33df8e090" tvg-chno="51" tvg-name="Pluto TV Azione Cult" tvg-logo="https://images.pluto.tv/channels/6994800c470389f33df8e090/colorLogoPNG_1774006898101.png" group-title="Nuovi",Pluto TV Azione Cult
-https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8
-#EXTINF:-1 channel-id="69b1489b5828e7c242d83064" tvg-id="69b1489b5828e7c242d83064" tvg-chno="50" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b1489b5828e7c242d83064/colorLogoPNG_1775118441487.png" group-title="Nuovi",Space Live
-https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8
-#EXTINF:-1 channel-id="IT900013AJ" tvg-id="IT900013AJ" tvg-chno="4138" tvg-name="A tu per tu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900013AJ_20260428T031435SQUARE.png" group-title="Nuovi",A tu per tu
-https://jmp2.uk/stvp-IT900013AJ
