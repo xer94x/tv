@@ -241,8 +241,6 @@ https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442F
 https://nrvideo1.newradio.it:1936/jsudrgxbnb/jsudrgxbnb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/giocabet-tv.png" group-title="Sport",GiocaBet Tv
 https://live1.giocabet.tv/stream/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyxvNiswHjWhkm9U6PgfhkkfSTDr7EKlXWGw&s" group-title="Sport",Giornale Radio Tv Sport
-https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVM4ikRazQqdvEefxTIexacatvMuXuGwojGw&s" group-title="Sport",Italian Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GpK1sl4BdthyEuRYzREI3vBkVuiG0AyPpR4oZxymIEZVaXRSdk3qy8weehjN6XIciLJpkbX8oQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sport",Motori Tv
