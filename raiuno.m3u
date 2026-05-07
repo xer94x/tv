@@ -1,7 +1,0 @@
-#EXTM3U
-
-# DTT
-
-#EXTINF:-1 tvg-chno="1" tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.ibb.co/qMcsYXFB/101-rai-1-it.png" group-title="",1 Rai 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
