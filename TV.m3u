@@ -224,10 +224,10 @@ https://skysport.xer94x.workers.dev/mix
 
 # SPORT
 
-#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="212" tvg-logo="https://i.ibb.co/C5N7CDJR/eurosport1.png" group-title="Sport",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="212" tvg-logo="https://i.ibb.co/C5N7CDJR/eurosport1.png" group-title="",EUROSPORT 1
 https://skysport.xer94x.workers.dev/eurosport1
 
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="213" tvg-logo="https://i.ibb.co/NgZDdjxh/eurosport2.png" group-title="Sport",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="213" tvg-logo="https://i.ibb.co/NgZDdjxh/eurosport2.png" group-title="",EUROSPORT 2
 https://skysport.xer94x.workers.dev/eurosport2
 
 #EXTINF:-1 tvg-chno="214" tvg-id="SuperTennis.it" tvg-name="SuperTennis" tvg-logo="https://i.ibb.co/GfjYBG2s/224-super-tennis-it.png" group-title="",212 SuperTennis
@@ -245,19 +245,22 @@ https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1 tvg-chno="218" tvg-id="BIKE.it" tvg-name="BIKE Channel" tvg-logo="https://i.ibb.co/g5ttgFZ/bike-channel.jpg" group-title="",216 BIKE Channel
 https://edge-001.streamup.eu/origin/bike_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="219" tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="",217 Inter TV
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="219" tvg-logo="https://iptv-epg.org/logos/Italy/MilanTV.it.png" group-title="",MILAN TV
+https://skysport.xer94x.workers.dev/milan
+
+#EXTINF:-1 tvg-chno="220" tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="",217 Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
-#EXTINF:-1 tvg-chno="220" tvg-id="InterTV.it" tvg-name="Inter TV 2" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="",218 Inter TV 2
+#EXTINF:-1 tvg-chno="221" tvg-id="InterTV.it" tvg-name="Inter TV 2" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="",218 Inter TV 2
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="221" tvg-id="" tvg-name="Juventus Play" tvg-logo="https://i.ibb.co/DHcjJkY1/juveventusplay.webp" group-title="",219 Juventus Play
+#EXTINF:-1 tvg-chno="222" tvg-id="" tvg-name="Juventus Play" tvg-logo="https://i.ibb.co/DHcjJkY1/juveventusplay.webp" group-title="",219 Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="222" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="",220 Radio Bianconera TV
+#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="",220 Radio Bianconera TV
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 
-#EXTINF:-1 tvg-chno="223" tvg-id="" tvg-name="Lazio Style" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/02/lazio_style.jpg" group-title="",221 Lazio Style
+#EXTINF:-1 tvg-chno="224" tvg-id="" tvg-name="Lazio Style" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/02/lazio_style.jpg" group-title="",221 Lazio Style
 https://edge-003.streamup.eu/origin/laziostyle_abr/origin/laziostyle_1080p/chunks.m3u8
 
 # NAZIONALI
