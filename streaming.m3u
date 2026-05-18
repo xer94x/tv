@@ -208,7 +208,7 @@ https://skysport.xer94x.workers.dev/eurosport2
 # SPORT 
 
 #EXTINF:-1 tvg-chno="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
-https://topcalcio24.xer94x.workers.dev
+https://topcalcio24.xer94x.workers.dev/index.m3u8
 #EXTINF:-1 tvg-chno="550" tvg-id="SanMarinoRTV.sm" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",San Marino RTV
 https://rtv.xer94x.workers.dev
 #EXTINF:-1 tvg-chno="551" tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",San Marino RTV SPORT
