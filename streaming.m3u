@@ -203,9 +203,9 @@ https://skysport.xer94x.workers.dev/motogp/index.m3u8
 https://skysport.xer94x.workers.dev/golf/index.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-id="SkySport.it" tvg-name="Sky Sport Mix" tvg-logo="https://i.ibb.co/cXYSBfRP/211-sky-sport-mix-it.png" group-title="Sky",Sky Sport Mix
 https://skysport.xer94x.workers.dev/mix/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://i.ibb.co/C5N7CDJR/eurosport1.png" group-title="Sky",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://iptv-epg.org/images/NUvT2nAR4QbmsYQ4AmAQfuiVAkmCRZJAoz0QHcMn7CGY0_7VDkXeMYxD-ItiGOQXBX5uGYTXSMkoLta49BATdBry8MFIyekeAR52DMCv-CBk" group-title="Sky",EUROSPORT 1
 https://skysport.xer94x.workers.dev/eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://i.ibb.co/NgZDdjxh/eurosport2.png" group-title="Sky",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://iptv-epg.org/images/P7x5a-boGSx0f0ZKGYRHyGC0N926zbecVqRudOOD0acBdy9hsFDE7Ji4dR8598z9riH9n7yHKy4iUi9o5Q0TAYt-Ymeq20-4xJhUzJjTAUlc4Q" group-title="Sky",EUROSPORT 2
 https://skysport.xer94x.workers.dev/eurosport2/index.m3u8
 
 # SPORT 
