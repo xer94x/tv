@@ -313,13 +313,13 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
 https://cp1.server89.com:19360/djchanneltv/djchanneltv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhGZKfC090VrqPvC44x3bNOJUGF3yq_hbAg&s" group-title="Radio",DJFoxRadio
 https://57068da1deb21.streamlock.net/deejayfoxradio/deejayfoxradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/GamberoRosso.it.png" group-title="Radio",Dj Osso Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/djosso.png" group-title="Radio",Dj Osso Radio
 https://djosso.fluid.stream/DJOssoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/enjoy-television-cover.jpg" group-title="Radio",Enjoy Television
 https://tvd-ejy.fluid.stream/EnjoyTelevision/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N8J7rJr/eimc.webp" group-title="Radio",Euro Indie Music Chart (E.I.M.C.)
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/RadioItaliaTV.it.png" group-title="Radio",FM Italia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/fmitaliatv.png" group-title="Radio",FM Italia TV
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4VOO6aYYSF_8YOEeiF3M3NJCGQtm3NA24Vw&s" group-title="Radio",Freedom Street Radio
 https://streaming.freedomsr.com/visual/stream/manifest.m3u8
@@ -395,7 +395,7 @@ https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0F
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/380/380200/600/600/mc0rhtsz.jpeg" group-title="Radio",RTL 102.5 Traffic
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/RTL1025.it.png" group-title="Radio",RTL 102.5 Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/100px-RTL_102.5_TV.png" group-title="Radio",RTL 102.5 Tv
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Radio",RTR99
 https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w2019426144.m3u8
@@ -441,11 +441,11 @@ https://tivusto.org/sh/radiocentro
 https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-core-de-roma-tv-cover.jpg" group-title="Radio",Radio Core de Roma Tv
 https://stream3.aswifi.it/radiocore/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/DeejayTV.it.png" group-title="Radio",Radio Deejay Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Deejay%20TV.png" group-title="Radio",Radio Deejay Tv
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-delta-1-tv.png" group-title="Radio",Radio Delta 1
 https://stream6.xdevel.com/video0s976486-1271/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/SkyDocumentaries.it.png" group-title="Radio",Radio DOC Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/doctv.webp" group-title="Radio",Radio DOC Tv
 https://64b16f23efbee.streamlock.net/radiodoctv/radiodoctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://admuzzum.xdevel.com/cloud/x/cid/35/im/jpeg/XZXV/Y/YU/4de85a0a5ada4a3ae07787064319042c.jpg" group-title="Radio",Radio Empire Taormina
 https://5f22d76e220e1.streamlock.net:443/radioempiretv/radioempiretv/playlist.m3u8
@@ -453,7 +453,7 @@ https://5f22d76e220e1.streamlock.net:443/radioempiretv/radioempiretv/playlist.m3
 https://tivusto.org/sh/radiofmfaleria
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-ferentino-tv-cover.jpg" group-title="Radio",Radio Ferentino
 https://stream10.xdevel.com/video0s977777-2230/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/RADIOFRECCIA.it.png" group-title="Radio",Radio Freccia Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20RADIOFRECCIA.png" group-title="Radio",Radio Freccia Tv
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://globaluserfiles.com/media/10341_72143e09ffc361d450d4c64fd39ccc7e5e61ffa8.png/v1/w_763,h_0/gschannel%20logo%20per%20messa%20in%20onda.png" group-title="Radio",Radio GS Channel (Retereggio2)
 https://www.radiosaiuz.it/retereggio2.html
@@ -467,7 +467,7 @@ https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w19614502
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-immagine-tv-cover.jpg" group-title="Radio",Radio Immagine Tv
 https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/RadioItaliaTV.it.png" group-title="Radio",Radio Italia Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/51c6f40b935d49f56113b7ad1a36e3f7afa54881/loghi/Radio_Italia_TV.svg" group-title="Radio",Radio Italia Tv
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/jukebox-tv-cover.jpg" group-title="Radio",Radio JukeBox Tv
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
@@ -509,7 +509,7 @@ https://tivusto.org/sh/radiomusicatutt
 http://wz3.newradio.it:1935/9050/9050/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiobolognauno.it/images/logo_small.jpg" group-title="Radio",Radio Nettuno Bologna Uno
 https://tivusto.org/sh/bolognauno
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Italy/TGNORBA24.it.png" group-title="Radio",Radio Norba TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20RADIONORBA%20TV.png" group-title="Radio",Radio Norba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgng8wI_z5WxlPlasy7aWCC9nR17ahakHq-g&s" group-title="Radio",Radio Number One Tv
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
@@ -613,7 +613,7 @@ https://cdn117-it.azotosolutions.com:8443/cdnedge12/live12/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="Radio",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/France/TraceUrban.fr.png" group-title="Radio",Trace Urban
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/TRACE_URBAN.webp" group-title="Radio",Trace Urban
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROwhMmVy13vGL5dlf0WuuNwXSnWpbTfIl6VQ&s" group-title="Radio",V2 Beat
 https://de1se01.v2beat.live/chunks.m3u8
@@ -635,7 +635,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsun
 https://stmv1.srvif.com/6/6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/vintage-radio-tv-cover.jpg" group-title="Radio",Vintage Radio TV
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/UK/VirginRadio.uk.png" group-title="Radio",Virgin Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/51c6f40b935d49f56113b7ad1a36e3f7afa54881/loghi/Virgin_Radio.svg" group-title="Radio",Virgin Radio
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/tsn-visual-radio-cover.jpg" group-title="Radio",Visual Radio Tv
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
@@ -643,7 +643,6 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6IJiAL4iWHwoGC8N3QCSPEwSJESchFZHuEQ&s" group-title="Radio",Xite
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-
 
 # SICILIA
 
