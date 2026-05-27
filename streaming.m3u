@@ -204,7 +204,7 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Juventus Play" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/juventus_play.png?raw=true" group-title="Sport",Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="Sport",Radio Bianconera TV
+#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/RBN.png" group-title="Sport",Radio Bianconera TV
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/568/radio-firenze-viola.11284744.jpg" group-title="Sport",Radio Firenze Viola
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
