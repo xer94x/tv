@@ -156,6 +156,8 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 # sky
+#EXTINF:-1 tvg-chno="200" tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
+https://skysport.xer94x.workers.dev/24/index.m3u8
 #EXTINF:-1 tvg-chno="196" tvg-id="ZONADAZN.it" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
 https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
 #EXTINF:-1 tvg-chno="199" tvg-id="ZONADAZN.it" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
@@ -168,8 +170,6 @@ https://skysport.xer94x.workers.dev/uno/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
 #EXTINF:-1 tvg-chno="202" tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://i.ibb.co/xSzDbc4t/202-sky-sport-calcio-it.png" group-title="Sky",Sky Sport Calcio
 https://skysport.xer94x.workers.dev/calcio/index.m3u8
-#EXTINF:-1 tvg-chno="200" tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
-https://skysport.xer94x.workers.dev/24/index.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://i.ibb.co/p6zyRkvR/203-sky-sport-tennis-it.png" group-title="Sky",Sky Sport Tennis
 https://skysport.xer94x.workers.dev/tennis/index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena" tvg-logo="https://i.ibb.co/whBhzVtn/204-sky-sport-arena-it.png" group-title="Sky",Sky Sport Arena
