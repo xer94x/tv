@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-chno="10" tvg-id="ZONADAZN.it" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
 https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
 
-#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="Sport",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="EUROSPORT 1" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="Sport",EUROSPORT 1
 https://skysport.xer94x.workers.dev/eurosport1/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="Sport",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="Sport",EUROSPORT 2
 https://skysport.xer94x.workers.dev/eurosport2/index.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
 https://topcalcio24.xer94x.workers.dev/index.m3u8
 
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://iptv-epg.org/logos/Italy/MilanTV.it.png" group-title="Sport",MILAN TV
