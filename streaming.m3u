@@ -156,15 +156,20 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 # sky
-
+#EXTINF:-1 tvg-chno="196" tvg-id="ZONADAZN.it" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
+https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
 #EXTINF:-1 tvg-chno="199" tvg-id="ZONADAZN.it" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
 https://skysport.xer94x.workers.dev/dazn/index.m3u8
-#EXTINF:-1 tvg-chno="200" tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
-https://skysport.xer94x.workers.dev/24/index.m3u8
+#EXTINF:-1 tvg-chno="197" tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="Sky",Sky Sport Uno
+https://1nyaler.streamhostingcdn.top/stream/130/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
 #EXTINF:-1 tvg-chno="201" tvg-id="SkySportUno.it" tvg-name="Sky Sport UNO" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="Sky",Sky Sport Uno
 https://skysport.xer94x.workers.dev/uno/index.m3u8
+#EXTINF:-1 tvg-chno="198" tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://i.ibb.co/xSzDbc4t/202-sky-sport-calcio-it.png" group-title="Sky",Sky Sport Calcio
+https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
 #EXTINF:-1 tvg-chno="202" tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://i.ibb.co/xSzDbc4t/202-sky-sport-calcio-it.png" group-title="Sky",Sky Sport Calcio
 https://skysport.xer94x.workers.dev/calcio/index.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
+https://skysport.xer94x.workers.dev/24/index.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-id="SkySportTennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://i.ibb.co/p6zyRkvR/203-sky-sport-tennis-it.png" group-title="Sky",Sky Sport Tennis
 https://skysport.xer94x.workers.dev/tennis/index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena" tvg-logo="https://i.ibb.co/whBhzVtn/204-sky-sport-arena-it.png" group-title="Sky",Sky Sport Arena
@@ -186,31 +191,20 @@ https://skysport.xer94x.workers.dev/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="Sky",EUROSPORT 2
 https://skysport.xer94x.workers.dev/eurosport2/index.m3u8
 
-# MH
-
-#EXTINF:-1 tvg-chno="197" tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO
-https://1nyaler.streamhostingcdn.top/stream/130/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
-#EXTINF:-1 tvg-chno="198" tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://i.ibb.co/xSzDbc4t/202-sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
-#EXTINF:-1 tvg-chno="196" tvg-id="ZONADAZN.it" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sport",DAZN 1
-https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8?token=aN7QrmHIoz60HOhI%7CReferer=https://mediahosting.space/&Origin=https://mediahosting.space
-
 # SPORT 
 
 #EXTINF:-1 tvg-chno="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
 https://topcalcio24.xer94x.workers.dev/index.m3u8
-#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Juventus Play" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/juventus_play.png?raw=true" group-title="Sport",Juventus Play
-https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="Sport",Radio Bianconera TV
-https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="Sport",MILAN TV
+https://skysport.xer94x.workers.dev/milan/index.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="Sport",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 tvg-chno="233" tvg-id="InterTV.it" tvg-name="Inter TV 2" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="Sport",Inter TV 247
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="Sport",MILAN TV
-https://skysport.xer94x.workers.dev/milan/index.m3u8
-#EXTINF:-1 tvg-chno="236" tvg-id="" tvg-name="Lazio Style" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/02/lazio_style.jpg" group-title="Sport",Lazio Style
-https://edge-003.streamup.eu/origin/laziostyle_abr/origin/laziostyle_1080p/chunks.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Juventus Play" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/juventus_play.png?raw=true" group-title="Sport",Juventus Play
+https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="Sport",Radio Bianconera TV
+https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/568/radio-firenze-viola.11284744.jpg" group-title="Sport",Radio Firenze Viola
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHOgM_K2K-hKrWc6CN2sgu3b2JTp9p53YtA&s" group-title="Sport",TMW  Radio Tv (Tutto Mercato Web)
@@ -223,6 +217,8 @@ https://teleclubitalia.iostream.it/tci1080.m3u8
 https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsYSwtS3sXC0V7BX2jgsMKpuFT-J5Vv5zSpA&s" group-title="Sport",Citta' Celeste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="" tvg-name="Lazio Style" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/02/lazio_style.jpg" group-title="Sport",Lazio Style
+https://edge-003.streamup.eu/origin/laziostyle_abr/origin/laziostyle_1080p/chunks.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="Sportitalia HD Plus" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20260113T032738SQUARE.png" group-title="Sport",Sportitalia HD Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="Sportitalia SoloCalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="Sport",Sportitalia SoloCalcio
@@ -237,8 +233,6 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVM4ikRazQqdvEefxTIexacatvMuXuGwojGw&s" group-title="Sport",Italian Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1798451958686121984/BJCNb36p_400x400.jpg" group-title="Sport",TR Sport
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLnHipRJyJ4QOIMRMioQo-65y8oOIIwBfyqg&s" group-title="Sport",DomusBet Tv
 https://nrvideo1.newradio.it:1936/jsudrgxbnb/jsudrgxbnb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/giocabet-tv.png" group-title="Sport",GiocaBet Tv
@@ -247,6 +241,10 @@ https://live1.giocabet.tv/stream/1/index.m3u8
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.rete8.it/wp-content/uploads/2018/12/rete8sport.jpg" group-title="Sport",Rete8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1798451958686121984/BJCNb36p_400x400.jpg" group-title="Sport",TR Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 channel-id="IT510000124" tvg-id="IT510000124" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT510000124_20260120T044623SQUARE.png" group-title="Sport",Rally.TV FAST+
+https://jmp2.uk/stvp-IT510000124
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3SVSLCwenNeVlg2-VPPKSUHTa8LhcMoBB7A&s" group-title="Sport",Plus+ Tv Motori
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOZEp1JDImH4i0DSp3cfyZAmgPBPQ2EM_DQ&s" group-title="Sport",Plus+ Tv Sport
