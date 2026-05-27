@@ -467,7 +467,7 @@ https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w19614502
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-immagine-tv-cover.jpg" group-title="Radio",Radio Immagine Tv
 https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/51c6f40b935d49f56113b7ad1a36e3f7afa54881/loghi/Radio_Italia_TV.svg" group-title="Radio",Radio Italia Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Radio%20Italia%20TV.png" group-title="Radio",Radio Italia Tv
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/jukebox-tv-cover.jpg" group-title="Radio",Radio JukeBox Tv
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
@@ -635,7 +635,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsun
 https://stmv1.srvif.com/6/6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/vintage-radio-tv-cover.jpg" group-title="Radio",Vintage Radio TV
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/51c6f40b935d49f56113b7ad1a36e3f7afa54881/loghi/Virgin_Radio.svg" group-title="Radio",Virgin Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/73px-Virgin_Radio.png" group-title="Radio",Virgin Radio
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/tsn-visual-radio-cover.jpg" group-title="Radio",Visual Radio Tv
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
