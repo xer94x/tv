@@ -677,7 +677,7 @@ https://nuovatv.net:8443/tv2/stream.m3u8
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/pubblimage%20tv.jpg" group-title="Sicilia",Pubblimage Tv
-workinprogress
+https://pubblimagetv.xer94x.workers.dev/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Prima%20Tv%20Catania.png" group-title="Sicilia",Prima Tv Catania
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w1827249215.m3u8
