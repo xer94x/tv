@@ -25,7 +25,7 @@ LOGO = "https://i.ibb.co/rRjXmMZQ/images.jpg"
 
 API_URL = "https://www.rainews.it/tgr/sicilia/notiziari.json"
 WORKER_URL = "https://tgrsicilia.xer94x.workers.dev/stream.m3u8"
-WORKER_TITLE = "TGR Sicilia - Ultima Puntata"
+WORKER_TITLE = "Ultima Puntata"
 MAX_VOD = 50
 
 HEADERS = {
