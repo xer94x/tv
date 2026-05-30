@@ -4,9 +4,9 @@ update_streaming.py
 Aggiorna streaming.m3u dalle fonti samsung.m3u, pluto.m3u e roku_all.m3u.
 
 Logica:
-- Canali Samsung (tvg-id inizia con "IT"): aggiorna URL e logo da samsung.m3u
-- Canali Pluto (tvg-id UUID hex 24 chars): aggiorna URL e logo da pluto.m3u
-- Canali Roku (tvg-id UUID hex 32 chars): aggiorna URL e logo da roku_all.m3u
+- Canali Samsung (tvg-id inizia con "IT"): aggiorna solo URL da samsung.m3u (logo conservato)
+- Canali Pluto (tvg-id UUID hex 24 chars): aggiorna solo URL da pluto.m3u (logo conservato)
+- Canali Roku (tvg-id UUID hex 32 chars): aggiorna solo URL da roku_all.m3u (logo conservato)
 - Canali extra (tutti gli altri): conservati invariati
 - Commenti/righe orfane tra canali (es. "# SPORT", "# roku_all"): conservati invariati
 - Nuovi canali nelle fonti non presenti in streaming.m3u: aggiunti nel gruppo "Nuovi"
@@ -153,16 +153,32 @@ def build_index_by_tvgid(channels: list) -> dict:
 # ── aggiornamento EXTINF ──────────────────────────────────────────────────────
 def update_extinf(old_extinf: str, new_source: dict, keep_group: str) -> str:
     """
-    Sostituisce URL-dipendenti (logo) dall'extinf della fonte,
-    ma mantiene il group-title della lista corrente.
+    Prende l'extinf dalla fonte, ma mantiene:
+    - group-title dalla lista corrente (streaming.m3u)
+    - tvg-logo dalla lista corrente (streaming.m3u), se presente
     """
     new_extinf = new_source['extinf']
+
+    # Conserva il group-title originale
     if RE_GROUP.search(new_extinf):
         new_extinf = RE_GROUP.sub(f'group-title="{keep_group}"', new_extinf)
     else:
         comma = new_extinf.rfind(',')
         if comma != -1:
             new_extinf = new_extinf[:comma] + f' group-title="{keep_group}"' + new_extinf[comma:]
+
+    # Conserva il logo originale di streaming.m3u (se presente)
+    old_logo_m = RE_LOGO.search(old_extinf)
+    if old_logo_m:
+        keep_logo = old_logo_m.group(1)
+        if RE_LOGO.search(new_extinf):
+            new_extinf = RE_LOGO.sub(f'tvg-logo="{keep_logo}"', new_extinf)
+        else:
+            # Il canale fonte non aveva logo: inseriscilo prima della virgola finale
+            comma = new_extinf.rfind(',')
+            if comma != -1:
+                new_extinf = new_extinf[:comma] + f' tvg-logo="{keep_logo}"' + new_extinf[comma:]
+
     return new_extinf
 
 
@@ -295,7 +311,7 @@ def main():
 
     total_channels = len(output_entries) + len(new_channels)
     print(f'\n── Riepilogo ────────────────────────────────')
-    print(f'   Canali aggiornati (URL/logo): {updated_count}')
+    print(f'   Canali aggiornati (solo URL): {updated_count}')
     print(f'   Nuovi canali aggiunti:        {len(new_channels)}')
     print(f'   Totale canali in output:      {total_channels}')
     if new_channels:
