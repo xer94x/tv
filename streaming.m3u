@@ -134,7 +134,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:-1 tvg-id="RAI Italia" tvg-chno="79" tvg-name="Rai Italia SudAmerica" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_Italia.png?raw=true" group-title="Rai",Rai Italia SudAmerica
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:-1 tvg-id="Mediaset.Italia.-.America.it" tvg-chno="80" tvg-name="Mediaset Italia" tvg-logo="https://i.ibb.co/RpNCZMxM/Mediaset-Italia-TV-channel-1-1.png" group-title="Mediaset",Mediaset Italia
+#EXTINF:-1 tvg-id="Mediaset.Italia.-.Australia.e.Asia.it" tvg-chno="80" tvg-name="Mediaset Italia" tvg-logo="https://i.ibb.co/RpNCZMxM/Mediaset-Italia-TV-channel-1-1.png" group-title="Mediaset",Mediaset Italia
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-name="La7 Italia" tvg-logo="https://i.ibb.co/zy1ywT5/107-la7-it.png" group-title="Nazionali",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
