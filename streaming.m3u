@@ -1115,7 +1115,7 @@ https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
 #EXTINF:-1 channel-id="6911c9b88caba6f046c5ca8f" tvg-id="6911c9b88caba6f046c5ca8f" tvg-chno="83" tvg-name="Pluto TV Notti di Crimine" tvg-logo="https://images.pluto.tv/channels/6911c9b88caba6f046c5ca8f/colorLogoPNG_1766041133171.png" group-title="Film",Pluto TV Notti di Crimine
 https://jmp2.uk/plu-6911c9b88caba6f046c5ca8f.m3u8
-#EXTINF:-1 channel-id="6911c9704316999535eb21cf" tvg-id="6911c9704316999535eb21cf" tvg-chno="80" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" group-title="Film",Pluto TV Notti di Passione
+#EXTINF:-1 channel-id="6911c9704316999535eb21cf" tvg-id="6911c9704316999535eb21cf" tvg-chno="82" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" group-title="Film",Pluto TV Notti di Passione
 https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
 #EXTINF:-1 channel-id="6911c92b4316999535eb1e08" tvg-id="6911c92b4316999535eb1e08" tvg-chno="81" tvg-name="Pluto TV Notti di Sangue" tvg-logo="https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png" group-title="Film",Pluto TV Notti di Sangue
 https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
@@ -3165,13 +3165,15 @@ https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 channel-id="6971fc932c004063166ac8fd" tvg-id="6971fc932c004063166ac8fd" tvg-chno="915" tvg-name="Il Sole24Ore TV" tvg-logo="https://images.pluto.tv/channels/6971fc932c004063166ac8fd/colorLogoPNG_1773240969038.png" group-title="Nuovi",Il Sole24Ore TV
 https://jmp2.uk/plu-6971fc932c004063166ac8fd.m3u8
-#EXTINF:-1 channel-id="69ef53e12f4d2b4f9c582e76" tvg-id="69ef53e12f4d2b4f9c582e76" tvg-chno="51" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1779094999764.png" group-title="Nuovi",That's 70s
+#EXTINF:-1 channel-id="69ef53e12f4d2b4f9c582e76" tvg-id="69ef53e12f4d2b4f9c582e76" tvg-chno="920" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1779094999764.png" group-title="Nuovi",That's 70s
 https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
-#EXTINF:-1 channel-id="69ef54f3c700cf0140272def" tvg-id="69ef54f3c700cf0140272def" tvg-chno="52" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png" group-title="Nuovi",That's 80s
+#EXTINF:-1 channel-id="69ef54f3c700cf0140272def" tvg-id="69ef54f3c700cf0140272def" tvg-chno="925" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png" group-title="Nuovi",That's 80s
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
-#EXTINF:-1 channel-id="69ef55c3b80e144b55d74e36" tvg-id="69ef55c3b80e144b55d74e36" tvg-chno="53" tvg-name="That's 90s/00s" tvg-logo="https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png" group-title="Nuovi",That's 90s/00s
+#EXTINF:-1 channel-id="69ef55c3b80e144b55d74e36" tvg-id="69ef55c3b80e144b55d74e36" tvg-chno="930" tvg-name="That's 90s/00s" tvg-logo="https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png" group-title="Nuovi",That's 90s/00s
 https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
-#EXTINF:-1 channel-id="69ef5682980899a9edf1a884" tvg-id="69ef5682980899a9edf1a884" tvg-chno="54" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png" group-title="Nuovi",That's Rock
+#EXTINF:-1 channel-id="69ef5682980899a9edf1a884" tvg-id="69ef5682980899a9edf1a884" tvg-chno="935" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png" group-title="Nuovi",That's Rock
 https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
-#EXTINF:-1 channel-id="699d87093d5dba980705cca8" tvg-id="699d87093d5dba980705cca8" tvg-chno="50" tvg-name="Pluto TV Film Ancora Più Romantici" tvg-logo="https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png" group-title="Nuovi",Pluto TV Film Ancora Più Romantici
+#EXTINF:-1 channel-id="699d87093d5dba980705cca8" tvg-id="699d87093d5dba980705cca8" tvg-chno="230" tvg-name="Pluto TV Film Ancora Più Romantici" tvg-logo="https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png" group-title="Nuovi",Pluto TV Film Ancora Più Romantici
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+#EXTINF:-1 channel-id="69affcad8940750a23a7231a" tvg-id="69affcad8940750a23a7231a" tvg-chno="50" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1778079789267.png" group-title="Nuovi",One Piece
+https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
