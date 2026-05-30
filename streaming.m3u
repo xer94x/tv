@@ -819,7 +819,7 @@ https://jmp2.uk/stvp-IT3200003YZ
 https://jmp2.uk/stvp-ITBD1000002HF
 #EXTINF:-1 channel-id="660bfc4424e1d000085b5f93" tvg-id="660bfc4424e1d000085b5f93" tvg-chno="560" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Calcio",FIFA+
 https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
-#EXTINF:-1 channel-id="IT3100001FT" tvg-id="IT3100001FT" tvg-chno="4643" tvg-name="INTER 24/7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/INTER%2024/7.png" group-title="Calcio",INTER 24/7
+#EXTINF:-1 channel-id="IT3100001FT" tvg-id="IT3100001FT" tvg-chno="4643" tvg-name="INTER 24/7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/INTER%2024_7.png" group-title="Calcio",INTER 24/7
 https://jmp2.uk/stvp-IT3100001FT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/juventus_play.png" group-title="Calcio",Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
@@ -861,7 +861,7 @@ https://jmp2.uk/stvp-ITAJ4500016FM
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992190&ads.xumo_streamId=99992190&ads.channelId=99992190&ads.csid=lgchannels_it_jukin_ssai&ads.channelName=thisishappening_it&ads.xumo_contentName=Jukin&ads.xumo_contentId=56&ads.xumo_providerName=Jukin&ads.xumo_providerId=56&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CRIME-TIME_800x200_ExtraLOGO.png" group-title="Crime",Crime Time
 https://amg02512-amg02512c9-lg-it-8920.playouts.now.amagi.tv/playlist/amg02512-nexodigital-crimetime-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 channel-id="ITBD3700001TM" tvg-id="ITBD3700001TM" tvg-chno="4301" tvg-name="DATELINE 24/7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/DATELINE%2024/7.png" group-title="Crime",DATELINE 24/7
+#EXTINF:-1 channel-id="ITBD3700001TM" tvg-id="ITBD3700001TM" tvg-chno="4301" tvg-name="DATELINE 24/7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/DATELINE%2024_7.png" group-title="Crime",DATELINE 24/7
 https://jmp2.uk/stvp-ITBD3700001TM
 #EXTINF:-1 channel-id="66d7120815d2c60008cec006" tvg-id="66d7120815d2c60008cec006" tvg-chno="155" tvg-name="Flashpoint" tvg-logo="https://images.pluto.tv/channels/66d7120815d2c60008cec006/colorLogoPNG.png" group-title="Crime",Flashpoint
 https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8
