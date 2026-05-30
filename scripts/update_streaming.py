@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """
 update_streaming.py
-Aggiorna streaming.m3u dalle fonti samsung.m3u, pluto.m3u e roku_all.m3u.
+Aggiorna streaming.m3u dalle fonti samsung.m3u e roku_all.m3u.
 
 Logica:
 - Canali Samsung (tvg-id inizia con "IT"): aggiorna solo URL da samsung.m3u (logo conservato)
-- Canali Pluto (tvg-id UUID hex 24 chars): aggiorna solo URL da pluto.m3u (logo conservato)
 - Canali Roku (tvg-id UUID hex 32 chars): aggiorna solo URL da roku_all.m3u (logo conservato)
 - Canali extra (tutti gli altri): conservati invariati
 - Commenti/righe orfane tra canali (es. "# SPORT", "# roku_all"): conservati invariati
@@ -23,20 +22,17 @@ RE_TVGID   = re.compile(r'tvg-id="([^"]*)"')
 RE_LOGO    = re.compile(r'tvg-logo="([^"]*)"')
 RE_GROUP   = re.compile(r'group-title="([^"]*)"')
 RE_SAMSUNG = re.compile(r'^IT', re.IGNORECASE)
-RE_PLUTO   = re.compile(r'^[0-9a-f]{24}$', re.IGNORECASE)
 RE_ROKU    = re.compile(r'^[0-9a-f]{32}$', re.IGNORECASE)
 # #EXTREM [https://...] oppure #EXTREM https://...
 RE_EXTREM  = re.compile(r'^#EXTREM\s+\[?(https?://[^\]\s]+)\]?', re.IGNORECASE)
 
 
 def source_of(tvg_id: str) -> str:
-    """Restituisce 'samsung', 'pluto', 'roku' o 'extra'."""
+    """Restituisce 'samsung', 'roku' o 'extra'."""
     if not tvg_id:
         return 'extra'
     if RE_SAMSUNG.match(tvg_id):
         return 'samsung'
-    if RE_PLUTO.match(tvg_id):
-        return 'pluto'
     if RE_ROKU.match(tvg_id):
         return 'roku'
     return 'extra'
@@ -199,7 +195,6 @@ def main():
     base           = Path(__file__).parent.parent
     streaming_path = base / 'streaming.m3u'
     samsung_path   = base / 'samsung.m3u'
-    pluto_path     = base / 'pluto.m3u'
     roku_path      = base / 'roku_all.m3u'
 
     if not streaming_path.exists():
@@ -207,7 +202,6 @@ def main():
         sys.exit(1)
 
     samsung_idx: dict = {}
-    pluto_idx:   dict = {}
     roku_idx:    dict = {}
 
     if samsung_path.exists():
@@ -216,13 +210,6 @@ def main():
         print(f'Samsung: {len(samsung_channels)} canali caricati ({len(samsung_idx)} con tvg-id)')
     else:
         print('AVVISO: samsung.m3u non trovato, skip aggiornamento Samsung.')
-
-    if pluto_path.exists():
-        pluto_channels = parse_m3u(pluto_path)
-        pluto_idx = build_index_by_tvgid(pluto_channels)
-        print(f'Pluto: {len(pluto_channels)} canali caricati ({len(pluto_idx)} con tvg-id)')
-    else:
-        print('AVVISO: pluto.m3u non trovato, skip aggiornamento Pluto.')
 
     if roku_path.exists():
         roku_channels = parse_m3u(roku_path)
@@ -254,13 +241,6 @@ def main():
                 updated_count += 1
             output_entries.append(('updated', new_extinf, new_url, orphans))
 
-        elif src == 'pluto' and tid in pluto_idx:
-            new_extinf = update_extinf(ch['extinf'], pluto_idx[tid], current_group)
-            new_url    = pluto_idx[tid]['url']
-            if new_extinf != ch['extinf'] or new_url != ch['url']:
-                updated_count += 1
-            output_entries.append(('updated', new_extinf, new_url, orphans))
-
         elif src == 'roku' and tid in roku_idx:
             new_extinf = update_extinf(ch['extinf'], roku_idx[tid], current_group)
             new_url    = roku_idx[tid]['url']
@@ -277,12 +257,6 @@ def main():
     new_channels: list = []
 
     for tid, ch in samsung_idx.items():
-        if tid not in present_ids:
-            extinf = new_extinf_for_new_channel(ch['extinf'])
-            new_channels.append(('updated', extinf, ch['url'], []))
-            present_ids.add(tid)
-
-    for tid, ch in pluto_idx.items():
         if tid not in present_ids:
             extinf = new_extinf_for_new_channel(ch['extinf'])
             new_channels.append(('updated', extinf, ch['url'], []))
@@ -317,7 +291,8 @@ def main():
     if new_channels:
         print(f'\n   Nuovi canali aggiunti nel gruppo "Nuovi":')
         for entry in new_channels:
-            name = entry[1].rsplit(',', 1)[-1].strip()
+            name = entry[1].rsplit(',', 1)[-1].strip()\
+            
             print(f'     + {name}')
 
 
