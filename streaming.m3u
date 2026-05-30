@@ -138,7 +138,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-id="La7.it" tvg-name="La7 Italia" tvg-logo="https://i.ibb.co/zy1ywT5/107-la7-it.png" group-title="Nazionali",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-id="RaiPremium.it" tvg-name="Rai World Premium" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_World_Premium.png?raw=true" group-title="Rai",Rai World Premium
+#EXTINF:-1 tvg-chno="82" tvg-id="RaiPremium.it" tvg-name="Rai World Premium" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Rai_World_Premium.png" group-title="Rai",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="Mediaset",GF Regia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
@@ -202,9 +202,9 @@ https://skysport.xer94x.workers.dev/milan/index.m3u8
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 tvg-chno="233" tvg-id="InterTV.it" tvg-name="Inter TV 2" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="Sport",Inter TV 247
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Juventus Play" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/juventus_play.png?raw=true" group-title="Sport",Juventus Play
+#EXTINF:-1 tvg-chno="234" tvg-id="" tvg-name="Juventus Play" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/juventus_play.png" group-title="Sport",Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="Sport",Radio Bianconera TV
+#EXTINF:-1 tvg-chno="235" tvg-id="" tvg-name="Radio Bianconera TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/RBN.png" group-title="Sport",Radio Bianconera TV
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/568/radio-firenze-viola.11284744.jpg" group-title="Sport",Radio Firenze Viola
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
@@ -220,11 +220,11 @@ https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
 #EXTINF:-1 tvg-chno="236" tvg-id="" tvg-name="Lazio Style" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/02/lazio_style.jpg" group-title="Sport",Lazio Style
 https://edge-003.streamup.eu/origin/laziostyle_abr/origin/laziostyle_1080p/chunks.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="Sportitalia HD Plus" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20260113T032738SQUARE.png" group-title="Sport",Sportitalia HD Plus
+#EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Sportitalia.png" group-title="Sport",Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="Sportitalia SoloCalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png" group-title="Sport",Sportitalia SoloCalcio
+#EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="Sportitalia SoloCalcio" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Solocalcio.png" group-title="Sport",Sportitalia SoloCalcio
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="SportItalia Primavera Tv" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/08/primaveratv.jpg" group-title="Sport",SportItalia Primavera Tv
+#EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="SportItalia Primavera Tv" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/primaveratv.jpg" group-title="Sport",SportItalia Primavera Tv
 https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="BIKE.it" tvg-name="BIKE Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXVWgQFLQLlEctRiePgjfqZsdP_GPD2Y6Yw&s" group-title="Sport",BIKE Channel
 https://edge-001.streamup.eu/origin/bike_abr/playlist.m3u8
@@ -467,7 +467,7 @@ https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w19614502
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-immagine-tv-cover.jpg" group-title="Radio",Radio Immagine Tv
 https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/51c6f40b935d49f56113b7ad1a36e3f7afa54881/loghi/Radio_Italia_TV.svg" group-title="Radio",Radio Italia Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Radio%20Italia%20TV.png" group-title="Radio",Radio Italia Tv
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/jukebox-tv-cover.jpg" group-title="Radio",Radio JukeBox Tv
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
@@ -635,7 +635,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsun
 https://stmv1.srvif.com/6/6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/vintage-radio-tv-cover.jpg" group-title="Radio",Vintage Radio TV
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/51c6f40b935d49f56113b7ad1a36e3f7afa54881/loghi/Virgin_Radio.svg" group-title="Radio",Virgin Radio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/73px-Virgin_Radio.png" group-title="Radio",Virgin Radio
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/tsn-visual-radio-cover.jpg" group-title="Radio",Visual Radio Tv
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
@@ -677,7 +677,7 @@ https://nuovatv.net:8443/tv2/stream.m3u8
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/pubblimage%20tv.jpg" group-title="Sicilia",Pubblimage Tv
-workinprogress
+https://pubblimagetv.xer94x.workers.dev/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Prima%20Tv%20Catania.png" group-title="Sicilia",Prima Tv Catania
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w1827249215.m3u8
@@ -865,7 +865,7 @@ https://jmp2.uk/stvp-ITBD1000002HF
 https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
 #EXTINF:-1 channel-id="IT3100001FT" tvg-id="IT3100001FT" tvg-chno="4643" tvg-name="INTER 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3100001FT_20260421T125918SQUARE.png" group-title="Calcio",INTER 24/7
 https://jmp2.uk/stvp-IT3100001FT
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/24966fb1-d4f0-4d97-90a3-f7d50684feb0.png" group-title="Calcio",Juventus Play
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/juventus_play.png" group-title="Calcio",Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 channel-id="ITBD2300001MT" tvg-id="ITBD2300001MT" tvg-chno="4637" tvg-name="RBN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png" group-title="Calcio",RBN
 https://jmp2.uk/stvp-ITBD2300001MT
@@ -1115,7 +1115,7 @@ https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
 #EXTINF:-1 channel-id="6911c9b88caba6f046c5ca8f" tvg-id="6911c9b88caba6f046c5ca8f" tvg-chno="83" tvg-name="Pluto TV Notti di Crimine" tvg-logo="https://images.pluto.tv/channels/6911c9b88caba6f046c5ca8f/colorLogoPNG_1766041133171.png" group-title="Film",Pluto TV Notti di Crimine
 https://jmp2.uk/plu-6911c9b88caba6f046c5ca8f.m3u8
-#EXTINF:-1 channel-id="6911c9704316999535eb21cf" tvg-id="6911c9704316999535eb21cf" tvg-chno="80" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" group-title="Film",Pluto TV Notti di Passione
+#EXTINF:-1 channel-id="6911c9704316999535eb21cf" tvg-id="6911c9704316999535eb21cf" tvg-chno="82" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" group-title="Film",Pluto TV Notti di Passione
 https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
 #EXTINF:-1 channel-id="6911c92b4316999535eb1e08" tvg-id="6911c92b4316999535eb1e08" tvg-chno="81" tvg-name="Pluto TV Notti di Sangue" tvg-logo="https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png" group-title="Film",Pluto TV Notti di Sangue
 https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
@@ -1349,7 +1349,7 @@ https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
 https://jmp2.uk/stvp-ITBD4100001MG
 #EXTINF:-1 tvg-name="Graceful Family" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_161/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Serie TV",Graceful Family
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=gracefulfamily_rakutenviki&channel_id=newid_161&mpf=ee2080e1-39af1962-92118c0c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=0a33462b-34ab5459-a889cd29-43dbcef5&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 channel-id="IT500007X2" tvg-id="IT500007X2" tvg-chno="4244" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500007X2_20260414T003246SQUARE.png" group-title="Serie TV",H2O & Friends
+#EXTINF:-1 channel-id="IT500007X2" tvg-id="IT500007X2" tvg-chno="4244" tvg-name="H2O & Friends" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/H2O%20%26%20Friends.png" group-title="Serie TV",H2O & Friends
 https://jmp2.uk/stvp-IT500007X2
 #EXTINF:-1 channel-id="62442f28afe626000747f195" tvg-id="62442f28afe626000747f195" tvg-chno="100" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png" group-title="Serie TV",I Jefferson
 https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
@@ -1403,15 +1403,15 @@ https://jmp2.uk/stvp-IT4600001JQ
 https://jmp2.uk/stvp-IT3600007QQ
 #EXTINF:-1 channel-id="IT300006W3" tvg-id="IT300006W3" tvg-chno="4254" tvg-name="Sony One Gli imperdibili" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300006W3_20260421T124028SQUARE.png" group-title="Serie TV",Sony One Gli imperdibili
 https://jmp2.uk/stvp-IT300006W3
-#EXTINF:-1 tvg-name="Sony One Gli imperdibili link2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300006W3_20260224T031408SQUARE.png" group-title="Serie TV",Sony One Gli imperdibili
+#EXTINF:-1 tvg-name="Sony One Gli imperdibili link2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Sony%20One%20Gli%20imperdibili.png" group-title="Serie TV",Sony One Gli imperdibili
 https://15bd51164d444cf0b03f472a0b40381b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-826-IT-SONYONEPOPOLARI-LG_IT/playlist.m3u8
 #EXTINF:-1 channel-id="IT300007SE" tvg-id="IT300007SE" tvg-chno="4256" tvg-name="Sony One Serie Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300007SE_20260421T124031SQUARE.png" group-title="Serie TV",Sony One Serie Thriller
 https://jmp2.uk/stvp-IT300007SE
-#EXTINF:-1 tvg-name="Sony One Serie Thriller link2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300007SE_20260224T031411SQUARE.png" group-title="Serie TV",Sony One Serie Thriller
+#EXTINF:-1 tvg-name="Sony One Serie Thriller link2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Sony%20One%20Serie%20Thriller.png" group-title="Serie TV",Sony One Serie Thriller
 https://ffec840c10d546f0a04a004f8fd61ce4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-827-IT-SONYONESERIETHRILLER-LG_IT/playlist.m3u8
 #EXTINF:-1 channel-id="IT3000035B" tvg-id="IT3000035B" tvg-chno="4255" tvg-name="Sony One Serie da Ridere" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000035B_20260421T124019SQUARE.png" group-title="Serie TV",Sony One Serie da Ridere
 https://jmp2.uk/stvp-IT3000035B
-#EXTINF:-1 tvg-name="Sony One Serie da Ridere link2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000035B_20260224T031414SQUARE.png" group-title="Serie TV",Sony One Serie da Ridere
+#EXTINF:-1 tvg-name="Sony One Serie da Ridere link2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Sony%20One%20Serie%20da%20Ridere.png" group-title="Serie TV",Sony One Serie da Ridere
 https://5ee04aace69647d9beda78401dc4c0ee.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-825-IT-SONYONESERIEDARIDERE-LG_IT/playlist.m3u8
 #EXTINF:-1 channel-id="65cb73d33ba51e00084cabad" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="355" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" group-title="Serie TV",Star Trek: Voyager
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
@@ -3165,14 +3165,15 @@ https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 channel-id="6971fc932c004063166ac8fd" tvg-id="6971fc932c004063166ac8fd" tvg-chno="915" tvg-name="Il Sole24Ore TV" tvg-logo="https://images.pluto.tv/channels/6971fc932c004063166ac8fd/colorLogoPNG_1773240969038.png" group-title="Nuovi",Il Sole24Ore TV
 https://jmp2.uk/plu-6971fc932c004063166ac8fd.m3u8
-#EXTINF:-1 channel-id="69ef53e12f4d2b4f9c582e76" tvg-id="69ef53e12f4d2b4f9c582e76" tvg-chno="51" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1779094999764.png" group-title="Nuovi",That's 70s
+#EXTINF:-1 channel-id="69ef53e12f4d2b4f9c582e76" tvg-id="69ef53e12f4d2b4f9c582e76" tvg-chno="920" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1779094999764.png" group-title="Nuovi",That's 70s
 https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
-#EXTINF:-1 channel-id="69ef54f3c700cf0140272def" tvg-id="69ef54f3c700cf0140272def" tvg-chno="52" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png" group-title="Nuovi",That's 80s
+#EXTINF:-1 channel-id="69ef54f3c700cf0140272def" tvg-id="69ef54f3c700cf0140272def" tvg-chno="925" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png" group-title="Nuovi",That's 80s
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
-#EXTINF:-1 channel-id="69ef55c3b80e144b55d74e36" tvg-id="69ef55c3b80e144b55d74e36" tvg-chno="53" tvg-name="That's 90s/00s" tvg-logo="https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png" group-title="Nuovi",That's 90s/00s
+#EXTINF:-1 channel-id="69ef55c3b80e144b55d74e36" tvg-id="69ef55c3b80e144b55d74e36" tvg-chno="930" tvg-name="That's 90s/00s" tvg-logo="https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png" group-title="Nuovi",That's 90s/00s
 https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
-#EXTINF:-1 channel-id="69ef5682980899a9edf1a884" tvg-id="69ef5682980899a9edf1a884" tvg-chno="54" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png" group-title="Nuovi",That's Rock
+#EXTINF:-1 channel-id="69ef5682980899a9edf1a884" tvg-id="69ef5682980899a9edf1a884" tvg-chno="935" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png" group-title="Nuovi",That's Rock
 https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
-#EXTINF:-1 channel-id="699d87093d5dba980705cca8" tvg-id="699d87093d5dba980705cca8" tvg-chno="50" tvg-name="Pluto TV Film Ancora Più Romantici" tvg-logo="https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png" group-title="Nuovi",Pluto TV Film Ancora Più Romantici
+#EXTINF:-1 channel-id="699d87093d5dba980705cca8" tvg-id="699d87093d5dba980705cca8" tvg-chno="230" tvg-name="Pluto TV Film Ancora Più Romantici" tvg-logo="https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png" group-title="Nuovi",Pluto TV Film Ancora Più Romantici
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
-
+#EXTINF:-1 channel-id="69affcad8940750a23a7231a" tvg-id="69affcad8940750a23a7231a" tvg-chno="50" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1778079789267.png" group-title="Nuovi",One Piece
+https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8

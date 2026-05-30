@@ -2,7 +2,13 @@
 fetch_tgr_sicilia.py
 
 Recupera l'ultimo VOD del TGR Sicilia dall'API JSON di rainews.it
-e aggiunge la voce in coda a tgr_sicilia.m3u senza sovrascrivere.
+inserendo sempre come prima voce il link fisso del Worker Cloudflare,
+e aggiungendo le nuove puntate subito dopo il Worker senza sovrascrivere.
+
+Ordine finale playlist:
+1) Worker fisso
+2) Ultime puntate VOD (più recente in alto)
+3) Puntate più vecchie
 
 Dipendenze: requests, beautifulsoup4
 """
@@ -18,6 +24,9 @@ PLAYLIST_FILE = "tgr_sicilia.m3u"
 LOGO = "https://i.ibb.co/rRjXmMZQ/images.jpg"
 
 API_URL = "https://www.rainews.it/tgr/sicilia/notiziari.json"
+WORKER_URL = "https://tgrsicilia.xer94x.workers.dev/stream.m3u8"
+WORKER_TITLE = "Ultima Puntata"
+MAX_VOD = 50
 
 HEADERS = {
     "User-Agent": (
@@ -32,8 +41,7 @@ HEADERS = {
 
 
 def data_italiana():
-    """Restituisce la data odierna in formato italiano, es. '29 marzo 2026'."""
-    tz_it = timezone(timedelta(hours=2))  # CEST; in inverno cambiare a hours=1
+    tz_it = timezone(timedelta(hours=2))
     now = datetime.now(tz_it)
     mesi = [
         "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno",
@@ -43,25 +51,15 @@ def data_italiana():
 
 
 def fix_title(raw):
-    """
-    Estrae solo l'orario dal titolo grezzo e lo combina con la data.
-    Input esempio: 'TGR Sicilia del   Edizione delle ore 19:30'
-    Output: '30 marzo 2026 - ore 19:30'
-    """
     data = data_italiana()
-
-    # Cerca l'orario nel titolo (es. "19:30")
-    match = re.search(r'(\d{1,2}:\d{2})', raw)
+    match = re.search(r'(\d{1,2}:\d{2})', raw or "")
     if match:
         orario = match.group(1)
         return f"{data} - ore {orario}"
-
-    # Fallback: solo la data
     return data
 
 
 def extract_title(soup):
-    """Estrae e corregge il titolo dalla pagina."""
     for sel in ["h1", "h2.title", ".article-title", "h2", "title"]:
         el = soup.select_one(sel)
         if el:
@@ -72,12 +70,6 @@ def extract_title(soup):
 
 
 def get_latest_vod():
-    """
-    Prova prima l'endpoint JSON; se fallisce, fa scraping HTML della pagina.
-    Restituisce (stream_url, title) o (None, None).
-    """
-
-    # --- Tentativo 1: endpoint JSON ---
     try:
         r = requests.get(API_URL, headers=HEADERS, timeout=20)
         if r.status_code == 200:
@@ -99,7 +91,6 @@ def get_latest_vod():
     except Exception as e:
         print(f"  ℹ️  JSON endpoint non disponibile: {e}")
 
-    # --- Tentativo 2: scraping HTML della pagina notiziari ---
     print("  🔄 Provo scraping HTML...")
     try:
         page_url = "https://www.rainews.it/tgr/sicilia/notiziari"
@@ -120,12 +111,12 @@ def get_latest_vod():
                 match = re.search(r'https://mediapolis[^\s"\']+', text)
                 if match:
                     url = match.group(0).rstrip("\\,;")
-                    print(f"  📺 Trovato via script embedded")
+                    print("  📺 Trovato via script embedded")
                     return resolve_stream(url), extract_title(soup)
                 match = re.search(r'https://[^\s"\']+\.m3u8[^\s"\']*', text)
                 if match:
                     url = match.group(0).rstrip("\\,;")
-                    print(f"  ✅ m3u8 trovato direttamente")
+                    print("  ✅ m3u8 trovato direttamente")
                     return url, extract_title(soup)
 
         article_link = soup.select_one("a[href*='/tgr/sicilia/articoli']")
@@ -141,7 +132,6 @@ def get_latest_vod():
 
 
 def get_stream_from_article(url):
-    """Apre la pagina di un singolo articolo/notiziario e cerca il video."""
     try:
         headers = HEADERS.copy()
         headers["Referer"] = "https://www.rainews.it/tgr/sicilia/notiziari"
@@ -169,7 +159,6 @@ def get_stream_from_article(url):
 
 
 def resolve_stream(url):
-    """Segue il redirect del relinker RAI per ottenere l'm3u8 reale."""
     if not url:
         return None
     if ".m3u8" in url:
@@ -187,14 +176,7 @@ def resolve_stream(url):
     return url
 
 
-MAX_VOD = 50
-
-
 def parse_entries(content):
-    """
-    Analizza il contenuto del file .m3u e restituisce una lista di tuple
-    (extinf_line, url_line) per ogni voce, ignorando l'header #EXTM3U.
-    """
     entries = []
     lines = content.splitlines()
     i = 0
@@ -212,6 +194,13 @@ def parse_entries(content):
     return entries
 
 
+def worker_entry():
+    return (
+        f'#EXTINF:-1 tvg-logo="{LOGO}",{WORKER_TITLE}',
+        WORKER_URL,
+    )
+
+
 def append_to_playlist(stream_url, title):
     try:
         with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
@@ -221,36 +210,46 @@ def append_to_playlist(stream_url, title):
 
     entries = parse_entries(content)
 
-    # Controllo duplicati: confronta la parte base dell'URL (senza token temporanei)
+    # Separa il worker fisso dal resto ed elimina eventuali duplicati del worker
+    worker = worker_entry()
+    other_entries = []
+    for extinf, url in entries:
+        if url.strip() == WORKER_URL:
+            continue
+        other_entries.append((extinf, url))
+
+    # Controllo duplicati sulle puntate VOD reali: confronta la parte base dell'URL
     base_url = stream_url.split("?")[0]
-    for _, existing_url in entries:
+    for _, existing_url in other_entries:
         if existing_url.split("?")[0] == base_url:
-            print(f"  ℹ️  Stream già presente nella playlist, salto.")
-            return
+            print("  ℹ️  Stream già presente nella playlist, nessuna nuova puntata da aggiungere.")
+            vod_entries = other_entries
+            break
+    else:
+        new_entry = (
+            f'#EXTINF:-1 tvg-logo="{LOGO}",{title}',
+            stream_url,
+        )
+        vod_entries = [new_entry] + other_entries
+        print(f"  ✅ Aggiunta nuova puntata subito sotto il Worker: {title}")
 
-    # Nuova voce in cima
-    new_entry = (
-        f'#EXTINF:-1 tvg-logo="{LOGO}",{title}',
-        stream_url,
-    )
-    entries.insert(0, new_entry)
-
-    # Limite MAX_VOD: elimina i più vecchi (in fondo alla lista)
-    if len(entries) > MAX_VOD:
-        rimossi = len(entries) - MAX_VOD
-        entries = entries[:MAX_VOD]
+    # Limite solo sulle puntate VOD, non sul worker fisso
+    if len(vod_entries) > MAX_VOD:
+        rimossi = len(vod_entries) - MAX_VOD
+        vod_entries = vod_entries[:MAX_VOD]
         print(f"  🗑️  Rimossi {rimossi} VOD più vecchi (limite {MAX_VOD}).")
 
-    # Ricostruisce il file
+    final_entries = [worker] + vod_entries
+
     lines = ["#EXTM3U"]
-    for extinf, url in entries:
+    for extinf, url in final_entries:
         lines.append(extinf)
         lines.append(url)
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
-    print(f"  ✅ Aggiunto in cima: {title} ({len(entries)}/{MAX_VOD} VOD)")
+    print(f"  ✅ Playlist aggiornata: Worker in cima + {len(vod_entries)}/{MAX_VOD} VOD sotto.")
 
 
 def main():
@@ -269,3 +268,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
