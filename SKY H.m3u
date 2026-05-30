@@ -46,8 +46,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177622&e
 https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
 #EXTINF:-1 tvg-chno="8" tvg-id="TV8.it" tvg-logo="https://i.ibb.co/r2Kkhf4R/tv8.png" group-title="SKY",148 TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-chno="9" tvg-id="NOVE.it" tvg-logo="https://i.ibb.co/jPZ8bzRP/009-nove-it.png" group-title="SKY",149 NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="Mediaset20.it" tvg-logo="https://i.ibb.co/CyXz7KG/20.png" group-title="SKY",151 MEDIASET 20
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="cielo.it" tvg-logo="https://i.ibb.co/Pvhzbh95/126-cielo-it.png" group-title="SKY",156 CIELO
@@ -62,16 +60,26 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-chno="17" tvg-id="MediasetExtra.it" tvg-logo="https://i.ibb.co/FLbMGYzT/163-mediaset-extra-it.png" group-title="SKY",163 MEDIASET EXTRA
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="GIALLO.it" tvg-logo="https://i.ibb.co/spWmJ86z/038-giallo-it.png" group-title="SKY",167 GIALLO
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="TOPcrime.it" tvg-logo="https://i.ibb.co/RkFtcYCr/168-top-crime-it.png" group-title="SKY",168 TOP CRIME
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="DMAX.it" tvg-logo="https://i.ibb.co/XrHwmCcM/dmax.webp" group-title="SKY",170 DMAX
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Italia2.it" tvg-logo="https://i.ibb.co/4Z0L375W/175-italia2-it.png" group-title="SKY",175 ITALIA 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="4068" tvg-id="IT500010AQ" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Class_TV_Moda.png" group-title="SKY",180 CLASS TV MODA
 https://jmp2.uk/stvp-IT500010AQ
+#EXTINF:-1 tvg-chno="9" tvg-id="NOVE.it" tvg-name="NOVE" tvg-logo="https://i.ibb.co/jPZ8bzRP/009-nove-it.png" group-title="Discovery",NOVE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177625&extension=ts&play_token=u1Z9k3YWbJ
+#EXTINF:-1 tvg-chno="28" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://i.ibb.co/XrHwmCcM/dmax.webp" group-title="Discovery",DMAX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177623&extension=ts&play_token=u1Z9k3YWbJ
+#EXTINF:-1 tvg-chno="31" tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://i.ibb.co/3mJW8zXZ/031-real-time-it.png" group-title="Discovery",Real Time
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177584&extension=ts&play_token=u1Z9k3YWbJ
+#EXTINF:-1 tvg-chno="33" tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="https://i.ibb.co/tMnYd6sM/food-network.webp" group-title="Discovery",Food Network
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177673&extension=ts&play_token=u1Z9k3YWbJ
+#EXTINF:-1 tvg-chno="35" tvg-id="Discovery.it" tvg-name="Discovery" tvg-logo="https://i.ibb.co/j9Rv7Ywc/discovery-channel-logo-new-1-1.jpg" group-title="Discovery",Discovery
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177667&extension=ts&play_token=u1Z9k3YWbJ
+#EXTINF:-1 tvg-chno="38" tvg-id="GIALLO.it" tvg-name="Giallo" tvg-logo="https://i.ibb.co/spWmJ86z/038-giallo-it.png" group-title="Discovery",Giallo
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177628&extension=ts&play_token=u1Z9k3YWbJ
+#EXTINF:-1 tvg-chno="44" tvg-id="-frisbee-.it" tvg-name="Frisbee" tvg-logo="https://i.ibb.co/TqkNKv3z/044-frisbee-it.png" group-title="Discovery",Frisbee
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177612&extension=ts&play_token=u1Z9k3YWbJ
 #EXTINF:-1 tvg-chno="121" tvg-id="RSILA1.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 1.png" group-title="SKY",198 RSI LA1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177591&extension=ts&play_token=aIjqNWL8tP
 #EXTINF:-1 tvg-chno="122" tvg-id="RSILA2.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 2.png" group-title="SKY",199 RSI LA2
