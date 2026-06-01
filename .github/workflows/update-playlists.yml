@@ -34,7 +34,6 @@ jobs:
           download "https://tivustream.website/urls/listm3u" "tivustream.m3u"
           download "https://cdn.jsdelivr.net/gh/Free-TV/IPTV@master/playlists/playlist_italy.m3u8" "freetv.m3u"
           download "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_it.m3u" "samsung.m3u"
-          download "https://plutotv.xer94x.workers.dev/playlist.m3u" "pluto.m3u"
           download "https://iptv-ch.github.io/webtv.m3u" "webtv.m3u"
           download "https://iptv-ch.github.io/netplus.mpd" "netplus.mpd"
           download "https://iptv-ch.github.io/netplus.m3u8" "netplus.m3u"
