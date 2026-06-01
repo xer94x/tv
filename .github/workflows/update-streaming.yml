@@ -35,7 +35,6 @@ jobs:
 
           download "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_it.m3u" "samsung.m3u"
           download "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/roku_all.m3u" "roku_all.m3u"
-          download "https://plutotv.xer94x.workers.dev/playlist.m3u" "pluto.m3u"
 
       - name: Aggiorna streaming.m3u
         run: python3 scripts/update_streaming.py
