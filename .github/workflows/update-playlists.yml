@@ -1,10 +1,13 @@
 name: Aggiorna Playlist
+
 on:
   schedule:
     - cron: '0 4 * * *'   # ogni giorno alle 04:00 UTC
-  workflow_dispatch:        # avvio manuale dal tab Actions
+  workflow_dispatch:      # avvio manuale dal tab Actions
+
 permissions:
-  contents: write           # permesso di scrittura sul repo
+  contents: write         # permesso di scrittura sul repo
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -13,6 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Scarica playlist
         run: |
           download() {
@@ -27,13 +31,14 @@ jobs:
               echo "  ✗ Fallito o vuoto — file precedente mantenuto"
             fi
           }
-          download "https://tivustream.website/urls/listm3u"                                                          "tivustream.m3u"
-          download "https://cdn.jsdelivr.net/gh/Free-TV/IPTV@master/playlists/playlist_italy.m3u8"                   "freetv.m3u"
-          download "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_it.m3u"  "samsung.m3u"
-          download "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_it.m3u" "pluto.m3u"
-          download "https://iptv-ch.github.io/webtv.m3u"                                                             "webtv.m3u"
-          download "https://iptv-ch.github.io/netplus.mpd"                                                           "netplus.mpd"
-          download "https://iptv-ch.github.io/netplus.m3u8"                                                          "netplus.m3u"
+          download "https://tivustream.website/urls/listm3u" "tivustream.m3u"
+          download "https://cdn.jsdelivr.net/gh/Free-TV/IPTV@master/playlists/playlist_italy.m3u8" "freetv.m3u"
+          download "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_it.m3u" "samsung.m3u"
+          download "https://iptv-ch.github.io/webtv.m3u" "webtv.m3u"
+          download "https://iptv-ch.github.io/netplus.mpd" "netplus.mpd"
+          download "https://iptv-ch.github.io/netplus.m3u8" "netplus.m3u"
+          download "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u" "roku_all.m3u"
+
       - name: Commit e push (solo se ci sono modifiche)
         run: |
           git config user.name  "github-actions[bot]"

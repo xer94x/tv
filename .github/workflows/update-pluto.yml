@@ -1,0 +1,53 @@
+name: Aggiorna pluto.m3u
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Scarica playlist Pluto TV Italia
+        run: |
+          echo "Scarico plutotv_it.m3u..."
+          if curl -fsSL --max-time 60 \
+            "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/plutotv_it.m3u" \
+            -o plutotv_it.m3u.tmp && grep -q "#EXTINF" plutotv_it.m3u.tmp; then
+            mv plutotv_it.m3u.tmp plutotv_it.m3u
+            echo "Download completato."
+          else
+            rm -f plutotv_it.m3u.tmp
+            echo "Download fallito o playlist vuota."
+            exit 1
+          fi
+
+      - name: Aggiorna pluto.m3u
+        run: python3 scripts/update_pluto.py
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pluto.m3u
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica, skip commit."
+          else
+            git commit -m "chore: aggiorna pluto.m3u $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
