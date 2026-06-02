@@ -6,7 +6,7 @@ Aggiorna streaming.m3u dalle fonti samsung.m3u, roku_all.m3u, plutotv.m3u, rakut
 Regole:
 - Blocchi con gruppi normalizzati e ordinamento: RAKUTEN SAMSUNG PLUTO, WEDOTV, ROKU, PLEX, TUBI, REWARDEDTV, VIZIO.
 - Blocchi pass-through con gruppi originali: DTT, SKY, SPORT, RADIO ITALIANE, SICILIA, FREELIVESPORTS.
-- Samsung/Roku/Rakuten/WedoTV: aggiornano EXTINF e URL sui canali esistenti, mantenendo il logo originale se presente.
+- Samsung/Roku/Rakuten/WedoTV: aggiornano completamente EXTINF e URL sui canali esistenti; per Samsung resta la logica speciale dei loghi jmp2.uk.
 - Pluto: aggiorna solo l'URL sui canali esistenti, mantenendo EXTINF intatto, salvo normalizzazione group-title nei blocchi gestiti.
 - Samsung con URL jmp2.uk: il logo viene ricostruito come
   https://raw.githubusercontent.com/xer94x/tv/main/loghi/<NomeCanaleSamsung>.png
@@ -51,8 +51,14 @@ BLOCK_ALIASES = {
 }
 
 NORMALIZED_BLOCKS = {
-    'RAKUTEN SAMSUNG PLUTO', 'WEDOTV', 'ROKU', 'PLEX', 'TUBI', 'REWARDEDTV', 'VIZIO'
+    'RAKUTEN SAMSUNG PLUTO', 'WEDOTV', 'ROKU'
 }
+
+ORDER_ONLY_BLOCKS = {
+    'PLEX', 'TUBI', 'REWARDEDTV', 'VIZIO'
+}
+
+MANAGED_SORT_BLOCKS = NORMALIZED_BLOCKS
 
 NORMALIZED_GROUPS = [
     'Animazione', 'Comedy', 'Crime', 'Documentari', 'Film', 'Intrattenimento',
@@ -94,8 +100,6 @@ SOURCE_BLOCK = {
     'wedotv': 'WEDOTV',
     'roku': 'ROKU',
 }
-
-TARGET_BLOCKS_FOR_NEW = list(NORMALIZED_BLOCKS)
 
 
 def canon_text(value: str) -> str:
@@ -205,7 +209,7 @@ def apply_samsung_logo_rule(extinf: str, src_channel: dict) -> str:
     return extinf
 
 
-def update_extinf(old_extinf: str, new_source: dict, normalized_group=None, keep_logo=True, source_name='') -> str:
+def update_extinf(old_extinf: str, new_source: dict, normalized_group=None, keep_logo=False, source_name='') -> str:
     new_extinf = new_source['extinf']
     if normalized_group is not None:
         new_extinf = set_attr(new_extinf, RE_GROUP, 'group-title', normalized_group)
@@ -305,10 +309,10 @@ def main():
     present_ids = {c['tvg_id'] for c in current_channels if c['tvg_id']}
 
     passthrough_blocks = {}
-    normalized_blocks = {k: [] for k in NORMALIZED_BLOCKS}
+    normalized_blocks = {k: [] for k in MANAGED_SORT_BLOCKS}
 
     for block_name, block_lines in blocks:
-        if block_name in NORMALIZED_BLOCKS:
+        if block_name in MANAGED_SORT_BLOCKS:
             for ch in parse_block_channels(block_lines):
                 ch['block'] = block_name
                 normalized_blocks[block_name].append(ch)
@@ -337,7 +341,7 @@ def main():
             new_extinf = update_extinf(
                 ch['extinf'], src_ch,
                 normalized_group=effective_group if ch['block'] in NORMALIZED_BLOCKS else None,
-                keep_logo=True,
+                keep_logo=False,
                 source_name=src
             )
             new_url = src_ch['url']
@@ -379,7 +383,7 @@ def main():
         out_lines.extend(prefix)
 
     for block_name in BLOCK_ORDER:
-        if block_name in NORMALIZED_BLOCKS:
+        if block_name in MANAGED_SORT_BLOCKS:
             out_lines.append(f'# {block_name}')
             for ch in sorted(normalized_blocks[block_name], key=channel_sort_key):
                 out_lines.append(ch['extinf'])
@@ -398,7 +402,7 @@ def main():
     for ch in new_channels:
         by_block[ch['block']] += 1
     for block_name in BLOCK_ORDER:
-        if block_name in NORMALIZED_BLOCKS:
+        if block_name in MANAGED_SORT_BLOCKS:
             print(f'{block_name}: {len(normalized_blocks[block_name])} canali, nuovi {by_block[block_name]}')
 
 if __name__ == '__main__':
