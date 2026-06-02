@@ -37,7 +37,7 @@ jobs:
           download "https://iptv-ch.github.io/webtv.m3u" "webtv.m3u"
           download "https://iptv-ch.github.io/netplus.mpd" "netplus.mpd"
           download "https://iptv-ch.github.io/netplus.m3u8" "netplus.m3u"
-          download "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u"
+          download "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u" "roku_all.m3u"
 
       - name: Commit e push (solo se ci sono modifiche)
         run: |
