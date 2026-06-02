@@ -1324,26 +1324,16 @@ https://jmp2.uk/stvp-IT18000033C
 https://jmp2.uk/stvp-IT50001295
 #EXTINF:-1 tvg-id="urania-news" tvg-name="Urania News" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4dc23b4b-0161-4d10-80ad-26fe699867c7.jpeg" tvg-chno="883" group-title="News",Urania News
 https://rakuten.xer94x.workers.dev/urania-news/index.m3u8?lang=ITA
-#EXTINF:-1 channel-id="60802d37ee238e0007c94e64" tvg-id="60802d37ee238e0007c94e64" tvg-chno="365" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png" group-title="Nuovi",Andromeda
-https://plutotv.xer94x.workers.dev/60802d37ee238e0007c94e64/index.m3u8
 #EXTINF:-1 channel-id="6500457d3efb510008315e59" tvg-id="6500457d3efb510008315e59" tvg-chno="51" tvg-name="New Tricks" tvg-logo="https://images.pluto.tv/channels/6500457d3efb510008315e59/colorLogoPNG.png" group-title="Nuovi",New Tricks
 https://plutotv.xer94x.workers.dev/6500457d3efb510008315e59/index.m3u8
 #EXTINF:-1 channel-id="69affcad8940750a23a7231a" tvg-id="69affcad8940750a23a7231a" tvg-chno="50" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1778079789267.png" group-title="Nuovi",One Piece
 https://plutotv.xer94x.workers.dev/69affcad8940750a23a7231a/index.m3u8
-#EXTINF:-1 channel-id="61728bb9ee3773000840c1fa" tvg-id="61728bb9ee3773000840c1fa" tvg-chno="360" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png" group-title="Nuovi",Pluto TV Sci-Fi
-https://plutotv.xer94x.workers.dev/61728bb9ee3773000840c1fa/index.m3u8
-#EXTINF:-1 channel-id="67ed14aaf7c5d70b9089c3bf" tvg-id="67ed14aaf7c5d70b9089c3bf" tvg-chno="355" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" group-title="Nuovi",Pluto TV Serie Sci-Fi
-https://plutotv.xer94x.workers.dev/67ed14aaf7c5d70b9089c3bf/index.m3u8
-#EXTINF:-1 channel-id="63eb57d6c111bc0008fe2658" tvg-id="63eb57d6c111bc0008fe2658" tvg-chno="370" tvg-name="Sanctuary" tvg-logo="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png" group-title="Nuovi",Sanctuary
-https://plutotv.xer94x.workers.dev/63eb57d6c111bc0008fe2658/index.m3u8
-#EXTINF:-1 channel-id="65cb73d33ba51e00084cabad" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="355" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" group-title="Nuovi",Star Trek: Voyager
-https://plutotv.xer94x.workers.dev/65cb73d33ba51e00084cabad/index.m3u8
-#EXTINF:-1 channel-id="62e8d5369e48940007fc1dc1" tvg-id="62e8d5369e48940007fc1dc1" tvg-chno="350" tvg-name="The Asylum" tvg-logo="https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png" group-title="Nuovi",The Asylum
-https://plutotv.xer94x.workers.dev/62e8d5369e48940007fc1dc1/index.m3u8
 #EXTINF:-1 channel-id="ITBA14000026G" tvg-id="ITBA14000026G" tvg-chno="4268" tvg-name="Anche i ricchi piangono" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Anche%20i%20ricchi%20piangono.png" group-title="Serie TV",Anche i ricchi piangono
 https://jmp2.uk/stvp-ITBA14000026G
 #EXTINF:-1 channel-id="ITBD3200003HL" tvg-id="ITBD3200003HL" tvg-chno="4241" tvg-name="Andromeda" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Andromeda.png" group-title="Serie TV",Andromeda
 https://jmp2.uk/stvp-ITBD3200003HL
+#EXTINF:-1 channel-id="60802d37ee238e0007c94e64" tvg-id="60802d37ee238e0007c94e64" tvg-chno="365" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png" group-title="Serie TV",Andromeda
+https://plutotv.xer94x.workers.dev/60802d37ee238e0007c94e64/index.m3u8
 #EXTINF:-1 tvg-id="andromeda-it" tvg-name="Andromeda" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4c88804c-d4c1-49c9-84a9-18d6dea605c0.jpeg" tvg-chno="112" group-title="Serie TV",Andromeda
 https://rakuten.xer94x.workers.dev/andromeda-it/index.m3u8?lang=ITA
 #EXTINF:-1 channel-id="ITBD3200004KN" tvg-id="ITBD3200004KN" tvg-chno="4251" tvg-name="Autostop per il Cielo" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Autostop%20per%20il%20Cielo.png" group-title="Serie TV",Autostop per il Cielo
@@ -1390,10 +1380,14 @@ https://jmp2.uk/stvp-ITBD3200005YA
 https://plutotv.xer94x.workers.dev/691c5b2e74baa89ef7230baf/index.m3u8
 #EXTINF:-1 channel-id="IT2900002QI" tvg-id="IT2900002QI" tvg-chno="4270" tvg-name="Piel Salvaje" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Piel%20Salvaje.png" group-title="Serie TV",Piel Salvaje
 https://jmp2.uk/stvp-IT2900002QI
+#EXTINF:-1 channel-id="61728bb9ee3773000840c1fa" tvg-id="61728bb9ee3773000840c1fa" tvg-chno="360" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png" group-title="Serie TV",Pluto TV Sci-Fi
+https://plutotv.xer94x.workers.dev/61728bb9ee3773000840c1fa/index.m3u8
 #EXTINF:-1 channel-id="ITAJ3800007P8" tvg-id="ITAJ3800007P8" tvg-chno="4235" tvg-name="Pluto TV Serie" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Pluto%20TV%20Serie.png" group-title="Serie TV",Pluto TV Serie
 https://jmp2.uk/stvp-ITAJ3800007P8
 #EXTINF:-1 channel-id="60b9ff2722bfa400072676ef" tvg-id="60b9ff2722bfa400072676ef" tvg-chno="125" tvg-name="Pluto TV Serie" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG_1779187121953.png" group-title="Serie TV",Pluto TV Serie
 https://plutotv.xer94x.workers.dev/60b9ff2722bfa400072676ef/index.m3u8
+#EXTINF:-1 channel-id="67ed14aaf7c5d70b9089c3bf" tvg-id="67ed14aaf7c5d70b9089c3bf" tvg-chno="355" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" group-title="Serie TV",Pluto TV Serie Sci-Fi
+https://plutotv.xer94x.workers.dev/67ed14aaf7c5d70b9089c3bf/index.m3u8
 #EXTINF:-1 tvg-id="rakuten-viki-new" tvg-name="Rakuten VIKI" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/98e211c8-240b-443d-9a1f-90577369da10.jpeg" tvg-chno="131" group-title="Serie TV",Rakuten VIKI
 https://rakuten.xer94x.workers.dev/rakuten-viki-new/index.m3u8?lang=ENG
 #EXTINF:-1 channel-id="ITBD3200006F0" tvg-id="ITBD3200006F0" tvg-chno="4249" tvg-name="Relic Hunter" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Relic%20Hunter.png" group-title="Serie TV",Relic Hunter
@@ -1404,6 +1398,8 @@ https://plutotv.xer94x.workers.dev/67d9836ba1609bdb523f0c9d/index.m3u8
 https://rakuten.xer94x.workers.dev/filmrise-relic-hunter-ita/index.m3u8?lang=ITA
 #EXTINF:-1 channel-id="634926e4b51d2d00077819a2" tvg-id="634926e4b51d2d00077819a2" tvg-chno="195" tvg-name="Renegade" tvg-logo="https://images.pluto.tv/channels/634926e4b51d2d00077819a2/colorLogoPNG.png" group-title="Serie TV",Renegade
 https://plutotv.xer94x.workers.dev/634926e4b51d2d00077819a2/index.m3u8
+#EXTINF:-1 channel-id="63eb57d6c111bc0008fe2658" tvg-id="63eb57d6c111bc0008fe2658" tvg-chno="370" tvg-name="Sanctuary" tvg-logo="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png" group-title="Serie TV",Sanctuary
+https://plutotv.xer94x.workers.dev/63eb57d6c111bc0008fe2658/index.m3u8
 #EXTINF:-1 tvg-id="crime-rakuten-tv" tvg-name="Serie Crime - Rakuten TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f9577d8c-bbb7-4055-919a-66c9ad8ee701.jpeg" tvg-chno="100" group-title="Serie TV",Serie Crime - Rakuten TV
 https://rakuten.xer94x.workers.dev/crime-rakuten-tv/index.m3u8?lang=ITA
 #EXTINF:-1 channel-id="6245d3792792150007e20634" tvg-id="6245d3792792150007e20634" tvg-chno="110" tvg-name="Settimo Cielo" tvg-logo="https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png" group-title="Serie TV",Settimo Cielo
@@ -1424,6 +1420,10 @@ https://jmp2.uk/stvp-IT3000035B
 https://jmp2.uk/stvp-IT300007SE
 #EXTINF:-1 tvg-id="alarm-for-cobra-rakuten-tv" tvg-name="Squadra Speciale Cobra 11" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9fdc4cf3-65c8-4656-bb6a-4a82a5477780.jpeg" tvg-chno="101" group-title="Serie TV",Squadra Speciale Cobra 11
 https://rakuten.xer94x.workers.dev/alarm-for-cobra-rakuten-tv/index.m3u8?lang=ITA
+#EXTINF:-1 channel-id="65cb73d33ba51e00084cabad" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="355" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" group-title="Serie TV",Star Trek: Voyager
+https://plutotv.xer94x.workers.dev/65cb73d33ba51e00084cabad/index.m3u8
+#EXTINF:-1 channel-id="62e8d5369e48940007fc1dc1" tvg-id="62e8d5369e48940007fc1dc1" tvg-chno="350" tvg-name="The Asylum" tvg-logo="https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png" group-title="Serie TV",The Asylum
+https://plutotv.xer94x.workers.dev/62e8d5369e48940007fc1dc1/index.m3u8
 #EXTINF:-1 tvg-id="bbc-top-gear-it" tvg-name="Top Gear" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/35c23421-e57d-40d4-a3d1-e0f1e49a5643.jpeg" tvg-chno="138" group-title="Serie TV",Top Gear
 https://rakuten.xer94x.workers.dev/bbc-top-gear-it/index.m3u8?lang=ITA
 #EXTINF:-1 channel-id="IT4000061Q" tvg-id="IT4000061Q" tvg-chno="4003" tvg-name="Un medico in famiglia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Un%20medico%20in%20famiglia.png" group-title="Serie TV",Un medico in famiglia
