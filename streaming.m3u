@@ -2199,7 +2199,7 @@ https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
 #EXTINF:-1 channel-id="0a1fae7f18a56923219beb5b34b098f3" tvg-id="0a1fae7f18a56923219beb5b34b098f3" tvg-chno="201" tvg-name="Yahoo! Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a1fae7f18a56923219beb5b34b098f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755563347829_YahooSportsNetwork_HUD_logo_260x147_centre_aligned.png" group-title="Sport",Yahoo! Sports Network
 https://jmp2.uk/rok-0a1fae7f18a56923219beb5b34b098f3.m3u8
 
-# freelivesports.m3u (https://www.apsattv.com/freelivesports.m3u)
+# FREELIVESPORTS
 
 #EXTINF:-1 tvg-name="ACC Digital Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5cce0b4e-a92e-4315-9d6a-67ba73c871ef" group-title="Sport",ACC Digital Network
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8?channel_name=ACCDN&content_genre=Basketball%2CSport&ic=IAB17%2CIAB17-26&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
@@ -2336,7 +2336,7 @@ https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.a
 #EXTINF:-1 channel-id="2a243861dea754eabb13a92e1106a4af" tvg-id="2a243861dea754eabb13a92e1106a4af" tvg-chno="561" tvg-name="Complex TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2a243861dea754eabb13a92e1106a4af/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775050519108_ROKU_Editable_260x147_Cente.png" group-title="Serie TV",Complex TV
 https://jmp2.uk/rok-2a243861dea754eabb13a92e1106a4af.m3u8
 
-# plex_all
+# PLEX
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Animazione",123GO!
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
@@ -2361,7 +2361,7 @@ https://epg.provider.plex.tv/library/parts/6430aa45fc3be5947780904e-62ee72cc271f
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29" tvg-id="5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29" tvg-chno="" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png" group-title="Serie TV",Z Nation
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-66ce3e009ac0b1441b19ca29/?X-Plex-Token=hJtRp4MEQ3QtSmJgGhS3
 
-# tubi_all
+# TUBI
 
 #EXTINF:-1 tvg-name="Always Funny" tvg-logo="https://canvas-lb.tubitv.com/opts/5dQ1izCyXmvqBg==/e8f543f1-3086-4896-a76e-20e86b782bd3/CHgQeDoFMS4xLjlAAQ==" group-title="Comedy",Always Funny
 https://live-manifest.production-public.tubi.io/live/6181c031-9a68-4206-b0e6-7655f96ab6bc/playlist.m3u8
@@ -2550,7 +2550,7 @@ https://live-manifest.production-public.tubi.io/live/8a3bfd19-8982-4a0a-b76c-14d
 #EXTINF:-1 tvg-name="Xplore" tvg-logo="https://canvas-lb.tubitv.com/opts/O6w2cPsZ16GUNA==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjlAAQ==" group-title="Documentari",Xplore
 https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb4c8f015aa/playlist.m3u8
 
-# rewardedtv.m3u
+# REWARDEDTV
 
 #EXTINF:-1 tvg-name="Humor Mill" tvg-logo="https://media.unreel.me/prod/rewardedtv/logo/566199df-0710-4a8a-ab2f-5f4db4a66d40" group-title="Comedy",Humor Mill
 https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a892ac4403c3f21b811d2/152.m3u8
@@ -2653,7 +2653,7 @@ https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/67c4940a64d73f292d0
 #EXTINF:-1 tvg-name="United Fight Alliance" tvg-logo="https://media.unreel.me/prod/rewardedtv/logo/801b4fe3-8ef1-4173-ab64-30af4f9f856d" group-title="Sport",United Fight Alliance
 https://api-wrapper-tracking.imaginereplay.com/api/v1/stream/65a852128549580a36739528/playlist.m3u8
 
-# vizio_m3u
+# VIZIO
 
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://canvas-lb.tubitv.com/opts/T8yaEtMuJkd6MA==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjlAAQ==" group-title="News",LiveNOW from FOX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk4Mjg2OTcwMX0
