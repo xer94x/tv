@@ -199,7 +199,8 @@ def set_attr(extinf: str, regex: re.Pattern, attr_name: str, value: str) -> str:
 
 
 def samsung_logo_from_name(name: str) -> str:
-    safe_name = quote(name.strip(), safe="()&!'+,.-")
+    clean_name = name.strip().replace('/', '_')
+    safe_name = quote(clean_name, safe="()&!'+,._-")
     return f'https://raw.githubusercontent.com/xer94x/tv/main/loghi/{safe_name}.png'
 
 
@@ -419,4 +420,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
