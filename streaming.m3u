@@ -263,7 +263,7 @@ https://ippicabetflag-live.morescreens.com/IPPICA_1_002/304p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHyqoggapx3Ck9b_N1KfmovckBmjpnMmCbQ&s" group-title="Sport",Ippica Web TV 3
 https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 
-# radio italiane
+# RADIO ITALIANE
 
 #EXTINF:-1 tvg-chno="61" tvg-name="Radio24 (Il Sole24Ore)" tvg-logo="https://i.imgur.com/NTqrdWW.png" group-title="Radio",Radio24 (Il Sole24Ore)
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
@@ -1474,7 +1474,7 @@ https://jmp2.uk/stvp-IT900013AJ
 
 
 
-# roku_all
+# ROKU
 
 #EXTINF:-1 channel-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-chno="840" tvg-name="Animation+" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b54188672a6acb8d3e4c6b9e71a3a7c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731519594723_AnimationPlus_Hud_Logo_260x147_no_frame_alpha.png" group-title="Animazione",Animation+
 https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8
