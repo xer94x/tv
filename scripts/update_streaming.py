@@ -301,4 +301,122 @@ def main():
         else:
             source_channels[src] = []
             source_indexes[src] = {}
-            prin
+            print(f'AVVISO: {path.name} non trovato, skip.')
+
+    raw_streaming = streaming_path.read_text(encoding='utf-8', errors='replace').splitlines()
+    prefix, blocks = split_streaming_blocks(raw_streaming)
+    current_channels = parse_m3u(streaming_path)
+    present_ids = {c['tvg_id'] for c in current_channels if c['tvg_id']}
+
+    passthrough_blocks = {}
+    normalized_blocks = {k: [] for k in MANAGED_SORT_BLOCKS}
+
+    for block_name, block_lines in blocks:
+        if block_name in MANAGED_SORT_BLOCKS:
+            # I blocchi gestiti vengono sempre ricostruiti da zero: il vecchio contenuto viene ignorato
+            continue
+        else:
+            passthrough_blocks[block_name] = block_lines
+
+    updated_count = 0
+
+    matched_by_source = defaultdict(int)
+    existing_in_managed_blocks = defaultdict(int)
+
+    def update_existing_channel(ch):
+        nonlocal updated_count
+        tid = ch['tvg_id']
+        src, src_ch = source_from_indexes(tid, source_indexes)
+        if ch.get('block') in NORMALIZED_BLOCKS:
+            existing_in_managed_blocks[ch.get('block')] += 1
+        if src:
+            matched_by_source[src] += 1
+        group_norm = normalize_group(ch.get('group', ''), 'Nuovi')
+
+        if ch['block'] in NORMALIZED_BLOCKS:
+            effective_group = group_norm
+        else:
+            effective_group = ch.get('group', '')
+
+        if src == 'pluto' and src_ch:
+            new_extinf = rebuild_group(ch['extinf'], effective_group) if ch['block'] in NORMALIZED_BLOCKS else ch['extinf']
+            new_url = src_ch['url']
+            if RE_JMP2UK.search(src_ch.get('url', '')):
+                new_extinf = apply_samsung_logo_rule(new_extinf, src_ch)
+        elif src_ch:
+            new_extinf = update_extinf(
+                ch['extinf'], src_ch,
+                normalized_group=effective_group if ch['block'] in NORMALIZED_BLOCKS else None,
+                keep_logo=False,
+                source_name=src
+            )
+            new_url = src_ch['url']
+        else:
+            new_extinf = rebuild_group(ch['extinf'], effective_group) if ch['block'] in NORMALIZED_BLOCKS else ch['extinf']
+            new_url = ch['url']
+
+        if new_extinf != ch['extinf'] or new_url != ch['url']:
+            updated_count += 1
+        out = dict(ch)
+        out['extinf'] = new_extinf
+        out['url'] = new_url
+        out['group_norm'] = group_norm
+        return out
+
+    for block_name in list(normalized_blocks):
+        normalized_blocks[block_name] = []
+
+    new_channels = []
+    for src in ('samsung', 'pluto', 'rakuten', 'wedotv', 'roku'):
+        for tid, ch in source_indexes[src].items():
+            group_norm = normalize_group(ch.get('group', ''), 'Nuovi')
+            block_name = SOURCE_BLOCK[src]
+            extinf = rebuild_group(ch['extinf'], group_norm)
+            if src == 'pluto':
+                extinf = rebuild_group(ch['extinf'], group_norm)
+            if src == 'samsung':
+                extinf = apply_samsung_logo_rule(extinf, ch)
+            new_ch = dict(ch)
+            new_ch['extinf'] = extinf
+            new_ch['group_norm'] = group_norm
+            new_ch['block'] = block_name
+            normalized_blocks[block_name].append(new_ch)
+            new_channels.append(new_ch)
+            present_ids.add(tid)
+
+    updated_count = sum(len(normalized_blocks[b]) for b in NORMALIZED_BLOCKS)
+
+    out_lines = ['#EXTM3U']
+    if prefix:
+        out_lines.extend(prefix)
+
+    for block_name in BLOCK_ORDER:
+        if block_name in MANAGED_SORT_BLOCKS:
+            out_lines.append(f'# {block_name}')
+            for ch in sorted(normalized_blocks[block_name], key=channel_sort_key):
+                out_lines.append(ch['extinf'])
+                if ch['url']:
+                    out_lines.append(ch['url'])
+        elif block_name in passthrough_blocks:
+            out_lines.extend(passthrough_blocks[block_name])
+
+    streaming_path.write_text('\n'.join(out_lines) + '\n', encoding='utf-8')
+
+    print('\n── Riepilogo ────────────────────────────────')
+    print(f'Canali aggiornati: {updated_count}')
+    print(f'Nuovi canali aggiunti: {len(new_channels)}')
+    print('Match canali esistenti per fonte: ' + ', '.join(f'{k}={matched_by_source[k]}' for k in ('samsung','pluto','rakuten','wedotv','roku')))
+    print(f'Totale canali con tvg-id presenti: {len(present_ids)}')
+    by_block = defaultdict(int)
+    for ch in new_channels:
+        by_block[ch['block']] += 1
+    for block_name in BLOCK_ORDER:
+        if block_name in MANAGED_SORT_BLOCKS:
+            print(f'{block_name}: {len(normalized_blocks[block_name])} canali, nuovi {by_block[block_name]}')
+
+    if updated_count == 0 and len(new_channels) == 0:
+        print('Nessuna modifica rilevata: o i canali sono già allineati, oppure i tvg-id dei blocchi gestiti non trovano corrispondenza nelle playlist sorgenti, oppure le playlist sorgenti non sono presenti/in root.')
+
+if __name__ == '__main__':
+    main()
+
