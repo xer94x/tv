@@ -2,11 +2,11 @@ name: Aggiorna Playlist
 
 on:
   schedule:
-    - cron: '0 4 * * *'
-  workflow_dispatch:
+    - cron: '0 4 * * *'   # ogni giorno alle 04:00 UTC
+  workflow_dispatch:      # avvio manuale dal tab Actions
 
 permissions:
-  contents: write
+  contents: write         # permesso di scrittura sul repo
 
 jobs:
   update:
@@ -33,7 +33,7 @@ jobs:
 
             [ -f "$file" ] || touch "$file"
 
-            if curl -fsSL --max-time 30 "$url" -o "$file.tmp" && grep -q "#EXTINF\|#KODIPROP\|#EXTM3U\|<MPD" "$file.tmp"; then
+            if curl -fsSL --max-time 30 "$url" -o "$file.tmp" && grep -q "#EXTINF\|#EXTM3U\|#KODIPROP\|<MPD" "$file.tmp"; then
               mv "$file.tmp" "$file"
               echo "  ✓ OK ($(wc -l < "$file") righe)"
             else
@@ -52,19 +52,17 @@ jobs:
 
       - name: Commit e push (solo se ci sono modifiche)
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           for f in tivustream.m3u freetv.m3u samsung.m3u webtv.m3u netplus.mpd netplus.m3u roku_all.m3u; do
             [ -f "$f" ] && git add "$f"
           done
 
+          git status --short
+
           if git diff --cached --quiet; then
             echo "Nessuna modifica, skip commit."
-          else
-            git commit -m "chore: aggiorna playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          fi
           else
             git commit -m "chore: aggiorna playlist $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
