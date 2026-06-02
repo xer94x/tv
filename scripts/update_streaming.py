@@ -86,7 +86,7 @@ GROUP_MAP = {
     'Musica': {'music'},
     'News': {'news e mondo', 'bus./financial', 'weather'},
     'Serie TV': {
-        'serie tv: sci-fi', 'serie', 'serie classiche', 'tv & entertainment',
+        'sci-fi', 'serie', 'serie classiche', 'tv & entertainment',
         'series', 'telenovela', 'serie tv'
     },
     'Sport': {'motori e sport', 'auto & motorsports', 'sports', 'calcio'},
