@@ -62,7 +62,7 @@ MANAGED_SORT_BLOCKS = NORMALIZED_BLOCKS
 
 NORMALIZED_GROUPS = [
     'Animazione', 'Comedy', 'Crime', 'Documentari', 'Film', 'Intrattenimento',
-    'Lifestyle', 'Musica', 'News', 'Nuovi', 'Serie Tv', 'Sport'
+    'Lifestyle', 'Musica', 'News', 'Nuovi', 'Serie TV', 'Sport'
 ]
 
 GROUP_MAP = {
@@ -85,9 +85,9 @@ GROUP_MAP = {
     },
     'Musica': {'music'},
     'News': {'news e mondo', 'bus./financial', 'weather'},
-    'Serie Tv': {
+    'Serie TV': {
         'serie tv: sci-fi', 'serie', 'serie classiche', 'tv & entertainment',
-        'series', 'telenovela'
+        'series', 'telenovela', 'serie tv'
     },
     'Sport': {'motori e sport', 'auto & motorsports', 'sports', 'calcio'},
     'Nuovi': {'novità su pluto tv'},
