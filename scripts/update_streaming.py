@@ -273,7 +273,7 @@ def source_from_indexes(tid: str, source_indexes: dict):
 
 
 def main():
-    base = Path(__file__).resolve().parent
+    base = Path(__file__).resolve().parent.parent
     streaming_path = base / 'streaming.m3u'
     source_paths = {
         'samsung': base / 'samsung.m3u',
