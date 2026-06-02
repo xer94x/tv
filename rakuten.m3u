@@ -137,9 +137,9 @@ https://rakuten.xer94x.workers.dev/class-tv-moda/index.m3u8?lang=ITA
 https://rakuten.xer94x.workers.dev/daystar-spa/index.m3u8?lang=SPA
 #EXTINF:-1 tvg-id="daystar-eng" tvg-name="Daystar TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/efe4aad6-6114-4535-adab-44ac9d552fcc.jpeg" tvg-chno="446" group-title="Intrattenimento",Daystar TV
 https://rakuten.xer94x.workers.dev/daystar-eng/index.m3u8?lang=ENG
-#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg" tvg-chno="470" group-title="Cucina",Gusto TV
+#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg" tvg-chno="470" group-title="Cucina & Viaggi",Gusto TV
 https://rakuten.xer94x.workers.dev/gusto-tv-new/index.m3u8?lang=ENG
-#EXTINF:-1 tvg-id="gambero-rosso" tvg-name="Gambero Rosso" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0e951713-d5d2-43ca-ac4b-eb6c503f4a68.jpeg" tvg-chno="485" group-title="Cucina",Gambero Rosso
+#EXTINF:-1 tvg-id="gambero-rosso" tvg-name="Gambero Rosso" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0e951713-d5d2-43ca-ac4b-eb6c503f4a68.jpeg" tvg-chno="485" group-title="Cucina & Viaggi",Gambero Rosso
 https://rakuten.xer94x.workers.dev/gambero-rosso/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="metal-rocks" tvg-name="Metal.Rocks" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg" tvg-chno="537" group-title="Musica",Metal.Rocks
 https://rakuten.xer94x.workers.dev/metal-rocks/index.m3u8?lang=ZXX
