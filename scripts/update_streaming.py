@@ -83,7 +83,7 @@ GROUP_MAP = {
         'reality show', 'auction', 'biography', 'game show', 'law',
         'paranormal', 'entertainment', 'wedotv'
     },
-    'Musica': {'music'},
+    'Musica': {'music', 'musica e ambient'},
     'News': {'news e mondo', 'bus./financial', 'weather'},
     'Serie TV': {
         'serie tv: sci-fi', 'serie tv sci-fi', 'sci-fi', 'sci fi', 'scifi', 'serie', 'serie classiche', 'tv & entertainment',
