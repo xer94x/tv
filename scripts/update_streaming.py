@@ -10,7 +10,7 @@ Regole:
 - Pluto: aggiorna solo l'URL sui canali esistenti, mantenendo EXTINF intatto, salvo normalizzazione group-title nei blocchi gestiti.
 - Samsung con URL jmp2.uk: il logo viene ricostruito come
   https://raw.githubusercontent.com/xer94x/tv/main/loghi/<NomeCanaleSamsung>.png
-- Nuovi canali: nel blocco corretto; se il gruppo non è mappabile, vanno in "Nuovi".
+- Nuovi canali: nel blocco corretto; se il gruppo non Ã¨ mappabile, vanno in "Nuovi".
 """
 
 import re
@@ -90,7 +90,7 @@ GROUP_MAP = {
         'series', 'telenovela', 'serie tv'
     },
     'Sport': {'motori e sport', 'auto & motorsports', 'sports', 'calcio'},
-    'Nuovi': {'novità su pluto tv'},
+    'Nuovi': {'novitÃ  su pluto tv'},
 }
 
 SOURCE_BLOCK = {
@@ -403,7 +403,7 @@ def main():
 
     streaming_path.write_text('\n'.join(out_lines) + '\n', encoding='utf-8')
 
-    print('\n── Riepilogo ────────────────────────────────')
+    print('\nâ”€â”€ Riepilogo â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€')
     print(f'Canali aggiornati: {updated_count}')
     print(f'Nuovi canali aggiunti: {len(new_channels)}')
     print('Match canali esistenti per fonte: ' + ', '.join(f'{k}={matched_by_source[k]}' for k in ('samsung','pluto','rakuten','wedotv','roku')))
@@ -416,7 +416,7 @@ def main():
             print(f'{block_name}: {len(normalized_blocks[block_name])} canali, nuovi {by_block[block_name]}')
 
     if updated_count == 0 and len(new_channels) == 0:
-        print('Nessuna modifica rilevata: o i canali sono già allineati, oppure i tvg-id dei blocchi gestiti non trovano corrispondenza nelle playlist sorgenti, oppure le playlist sorgenti non sono presenti/in root.')
+        print('Nessuna modifica rilevata: o i canali sono giÃ  allineati, oppure i tvg-id dei blocchi gestiti non trovano corrispondenza nelle playlist sorgenti, oppure le playlist sorgenti non sono presenti/in root.')
 
 if __name__ == '__main__':
     main()
