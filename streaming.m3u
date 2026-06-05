@@ -201,7 +201,7 @@ https://topcalcio24.xer94x.workers.dev/index.m3u8
 https://skysport.xer94x.workers.dev/milan/index.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="Sport",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-id="InterTV.it" tvg-chno="233" tvg-name="Inter TV 2" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="Sport",Inter TV 247
+#EXTINF:-1 tvg-id="IT3100001FT" tvg-chno="233" tvg-name="Inter TV 2" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="Sport",Inter TV 247
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-chno="234" tvg-name="Juventus Play" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/juventus_play.png" group-title="Sport",Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
