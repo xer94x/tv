@@ -1161,10 +1161,16 @@ https://jmp2.uk/stvp-IT90001094
 https://jmp2.uk/stvp-IT500011RG
 #EXTINF:-1 channel-id="6971fc07c945e6e4e5bc46bf" tvg-id="6971fc07c945e6e4e5bc46bf" tvg-chno="804" tvg-name="Gambero Rosso" tvg-logo="https://images.pluto.tv/channels/6971fc07c945e6e4e5bc46bf/colorLogoPNG_1771841506820.png" group-title="Lifestyle",Gambero Rosso
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+#EXTINF:-1 tvg-id="IT500011RG" tvg-name="Gambero Rosso" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0e951713-d5d2-43ca-ac4b-eb6c503f4a68.jpeg" tvg-chno="485" group-title="Lifestyle",Gambero Rosso
+https://rakuten.xer94x.workers.dev/gambero-rosso/index.m3u8?lang=ITA
+#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg" tvg-chno="470" group-title="Lifestyle",Gusto TV
+https://rakuten.xer94x.workers.dev/gusto-tv-new/index.m3u8?lang=ENG
 #EXTINF:-1 channel-id="IT3900003FE" tvg-id="IT3900003FE" tvg-chno="4513" tvg-name="Hell's Kitchen" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Hell's%20Kitchen.png" group-title="Lifestyle",Hell's Kitchen
 https://jmp2.uk/stvp-IT3900003FE
 #EXTINF:-1 channel-id="664f0ddbf78a8500092dcffa" tvg-id="664f0ddbf78a8500092dcffa" tvg-chno="800" tvg-name="Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/664f0ddbf78a8500092dcffa/colorLogoPNG.png" group-title="Lifestyle",Hell's Kitchen
 https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
+#EXTINF:-1 tvg-id="IT3900003FE" tvg-name="Hell's Kitchen" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/69e6167f-9e80-4921-9499-059465564135.jpeg" tvg-chno="680" group-title="Lifestyle",Hell's Kitchen
+https://rakuten.xer94x.workers.dev/hell-s-kitchen-it-itv/index.m3u8?lang=ITA
 #EXTINF:-1 channel-id="IT900003FU" tvg-id="IT900003FU" tvg-chno="4525" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/HGTV.png" group-title="Lifestyle",HGTV
 https://jmp2.uk/stvp-IT900003FU
 #EXTINF:-1 tvg-id="med-tv" tvg-name="Med.TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ab7a2d2a-67cc-4e80-848b-ec163019bae3.jpeg" tvg-chno="410" group-title="Lifestyle",Med.TV
@@ -1333,12 +1339,6 @@ https://jmp2.uk/stvp-IT18000033C
 https://jmp2.uk/stvp-IT50001295
 #EXTINF:-1 tvg-id="IT50001295" tvg-name="Urania News" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4dc23b4b-0161-4d10-80ad-26fe699867c7.jpeg" tvg-chno="883" group-title="News",Urania News
 https://rakuten.xer94x.workers.dev/urania-news/index.m3u8?lang=ITA
-#EXTINF:-1 tvg-id="IT500011RG" tvg-name="Gambero Rosso" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0e951713-d5d2-43ca-ac4b-eb6c503f4a68.jpeg" tvg-chno="485" group-title="Nuovi",Gambero Rosso
-https://rakuten.xer94x.workers.dev/gambero-rosso/index.m3u8?lang=ITA
-#EXTINF:-1 tvg-id="gusto-tv-new" tvg-name="Gusto TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg" tvg-chno="470" group-title="Nuovi",Gusto TV
-https://rakuten.xer94x.workers.dev/gusto-tv-new/index.m3u8?lang=ENG
-#EXTINF:-1 tvg-id="IT3900003FE" tvg-name="Hell's Kitchen" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/69e6167f-9e80-4921-9499-059465564135.jpeg" tvg-chno="680" group-title="Nuovi",Hell's Kitchen
-https://rakuten.xer94x.workers.dev/hell-s-kitchen-it-itv/index.m3u8?lang=ITA
 #EXTINF:-1 channel-id="6500457d3efb510008315e59" tvg-id="6500457d3efb510008315e59" tvg-chno="51" tvg-name="New Tricks" tvg-logo="https://images.pluto.tv/channels/6500457d3efb510008315e59/colorLogoPNG.png" group-title="Nuovi",New Tricks
 https://jmp2.uk/plu-6500457d3efb510008315e59.m3u8
 #EXTINF:-1 channel-id="69affcad8940750a23a7231a" tvg-id="69affcad8940750a23a7231a" tvg-chno="50" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1778079789267.png" group-title="Nuovi",One Piece
