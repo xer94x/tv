@@ -424,10 +424,11 @@ def main():
             usatv_channels.append((new_extinf, ch['url']))
 
     # LIVE EVENTS: canali di usaTV.m3u con group-title originale == "Live Events" (invariato)
+    # Si usano raw_lines per preservare le righe #EXTVLCOPT presenti nella sorgente
     liveevents_channels = []
     for ch in source_channels.get('usatv', []):
         if ch.get('group', '').strip() == 'Live Events':
-            liveevents_channels.append((ch['extinf'], ch['url']))
+            liveevents_channels.append(ch['raw_lines'])
 
     # TGR SICILIA: tutti i VOD di tgr_sicilia.m3u, group-title forzato a "TGR Sicilia"
     tgr_sicilia_channels = []
@@ -448,10 +449,15 @@ def main():
     for block_name in BLOCK_ORDER:
         if block_name in source_rebuilt:
             out_lines.append(f'# {block_name}')
-            for extinf, url in source_rebuilt[block_name]:
-                out_lines.append(extinf)
-                if url:
-                    out_lines.append(url)
+            if block_name == 'LIVE EVENTS':
+                # raw_lines contiene EXTINF + #EXTVLCOPT + URL nell'ordine corretto
+                for raw_lines in source_rebuilt[block_name]:
+                    out_lines.extend(raw_lines)
+            else:
+                for extinf, url in source_rebuilt[block_name]:
+                    out_lines.append(extinf)
+                    if url:
+                        out_lines.append(url)
         elif block_name in MANAGED_SORT_BLOCKS:
             out_lines.append(f'# {block_name}')
             for ch in sorted(normalized_blocks[block_name], key=channel_sort_key):
