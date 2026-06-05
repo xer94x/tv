@@ -3517,7 +3517,7 @@ https://rakuten.xer94x.workers.dev/world-poker-tour/index.m3u8?lang=ENG
 https://rakuten.xer94x.workers.dev/world-surf-league/index.m3u8?lang=ENG
 # LG
 
-tvg-chno="48" tvg-id="" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Animazione",BeJoy.Kids
+#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Animazione",BeJoy.Kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="Super!" tvg-logo="https://i.ibb.co/TDgnwjQP/047-super-it.png" group-title="Animazione",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
