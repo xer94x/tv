@@ -35,6 +35,9 @@ BLOCK_ORDER = [
     'SPORT',
     'RADIO ITALIANE',
     'SICILIA',
+    'SVIZZERA',
+    'USATV',
+    'LIVE EVENTS',
     'RAKUTEN SAMSUNG PLUTO',
     'LG',
     'WEDOTV',
@@ -59,6 +62,13 @@ NORMALIZED_BLOCKS = {
 
 ORDER_ONLY_BLOCKS = {
     'PLEX', 'TUBI', 'REWARDEDTV', 'VIZIO'
+}
+
+# Blocchi ricostruiti interamente dalla sorgente (non usano tvg-id matching)
+SOURCE_REBUILT_BLOCKS = {
+    'SVIZZERA',
+    'USATV',
+    'LIVE EVENTS',
 }
 
 MANAGED_SORT_BLOCKS = NORMALIZED_BLOCKS
@@ -293,6 +303,8 @@ def main():
         'pluto': base / 'pluto.m3u',
         'rakuten': base / 'rakuten.m3u',
         'wedotv': base / 'wedotv.m3u',
+        'netplus': base / 'netplus.m3u',
+        'usatv': base / 'usaTV.m3u',
     }
     if not streaming_path.exists():
         print('ERRORE: streaming.m3u non trovato.', file=sys.stderr)
@@ -394,11 +406,43 @@ def main():
 
     updated_count = sum(len(normalized_blocks[b]) for b in NORMALIZED_BLOCKS)
 
+    # ── Blocchi ricostruiti da sorgente ──────────────────────────────────────
+    # SVIZZERA: tutti i canali di netplus.m3u, group-title forzato a "Svizzera"
+    svizzera_channels = []
+    for ch in source_channels.get('netplus', []):
+        new_extinf = set_attr(ch['extinf'], RE_GROUP, 'group-title', 'Svizzera')
+        svizzera_channels.append((new_extinf, ch['url']))
+
+    # USATV: canali di usaTV.m3u con group-title originale == "TV", rinominato "usaTV"
+    usatv_channels = []
+    for ch in source_channels.get('usatv', []):
+        if ch.get('group', '').strip() == 'TV':
+            new_extinf = set_attr(ch['extinf'], RE_GROUP, 'group-title', 'usaTV')
+            usatv_channels.append((new_extinf, ch['url']))
+
+    # LIVE EVENTS: canali di usaTV.m3u con group-title originale == "Live Events" (invariato)
+    liveevents_channels = []
+    for ch in source_channels.get('usatv', []):
+        if ch.get('group', '').strip() == 'Live Events':
+            liveevents_channels.append((ch['extinf'], ch['url']))
+
     extm3u_header = f'#EXTM3U url-tvg="{header_tvgurl}"' if header_tvgurl else '#EXTM3U'
     out_lines = [extm3u_header]
 
+    source_rebuilt = {
+        'SVIZZERA': svizzera_channels,
+        'USATV': usatv_channels,
+        'LIVE EVENTS': liveevents_channels,
+    }
+
     for block_name in BLOCK_ORDER:
-        if block_name in MANAGED_SORT_BLOCKS:
+        if block_name in source_rebuilt:
+            out_lines.append(f'# {block_name}')
+            for extinf, url in source_rebuilt[block_name]:
+                out_lines.append(extinf)
+                if url:
+                    out_lines.append(url)
+        elif block_name in MANAGED_SORT_BLOCKS:
             out_lines.append(f'# {block_name}')
             for ch in sorted(normalized_blocks[block_name], key=channel_sort_key):
                 out_lines.append(ch['extinf'])
@@ -420,6 +464,9 @@ def main():
     for block_name in BLOCK_ORDER:
         if block_name in MANAGED_SORT_BLOCKS:
             print(f'{block_name}: {len(normalized_blocks[block_name])} canali, nuovi {by_block[block_name]}')
+    print(f'SVIZZERA: {len(svizzera_channels)} canali')
+    print(f'USATV: {len(usatv_channels)} canali')
+    print(f'LIVE EVENTS: {len(liveevents_channels)} canali')
 
     if updated_count == 0 and len(new_channels) == 0:
         print('Nessuna modifica rilevata: o i canali sono giÃ  allineati, oppure i tvg-id dei blocchi gestiti non trovano corrispondenza nelle playlist sorgenti, oppure le playlist sorgenti non sono presenti/in root.')
