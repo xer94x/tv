@@ -197,7 +197,7 @@ https://rakuten.xer94x.workers.dev/cgtn-documentary/index.m3u8?lang=ENG
 https://rakuten.xer94x.workers.dev/mayday-air-disaster-channel-ita/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="IT2600009QD" tvg-name="Euronews IN DIRETTA" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3f225f93-9131-429d-94f1-1d5f00370d0e.jpeg" tvg-chno="877" group-title="News",Euronews IN DIRETTA
 https://rakuten.xer94x.workers.dev/euronews-live-ita/index.m3u8?lang=ITA
-#EXTINF:-1 tvg-id="RakutenReutersNew.it" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" tvg-chno="881" group-title="News",The Reuters 60
+#EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" tvg-chno="881" group-title="News",The Reuters 60
 https://rakuten.xer94x.workers.dev/the-reuters-60/index.m3u8?lang=DEU
 #EXTINF:-1 tvg-id="IT3300001G3" tvg-name="Il Sole 24 Ore TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c5919de-21a9-4d1c-a541-7ca536ceed24.png" tvg-chno="882" group-title="News",Il Sole 24 Ore TV
 https://rakuten.xer94x.workers.dev/il-sole-24-ore-tv/index.m3u8?lang=ITA
