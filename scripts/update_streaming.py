@@ -73,7 +73,7 @@ GROUP_MAP = {
     'Comedy': {'comedy'},
     'Crime': {'serie crime', 'true crime', 'crime drama'},
     'Lifestyle': {
-        'cucina, 'cucina & viaggi', 'art', 'cooking', 'faith & family', 'food',
+        'cucina', 'cucina & viaggi', 'art', 'cooking', 'faith & family', 'food',
         'gaming & tech', 'gaming and tech', 'health', 'home improvement',
         'house/garden', 'music talk', 'shopping', 'religion'
     },
