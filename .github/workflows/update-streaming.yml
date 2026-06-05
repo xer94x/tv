@@ -1,44 +1,20 @@
 name: Aggiorna streaming.m3u
-
 on:
   schedule:
     - cron: '0 4 * * *'   # ogni giorno alle 04:00 UTC
   workflow_dispatch:      # avvio manuale dal tab Actions
-
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Scarica fonti
-        run: |
-          download() {
-            local url="$1"
-            local file="$2"
-            echo "→ $file da $url"
-            if curl -fsSL --max-time 30 "$url" -o "$file.tmp" && grep -q "#EXTINF" "$file.tmp"; then
-              mv "$file.tmp" "$file"
-              echo "  ✓ OK ($(wc -l < "$file") righe)"
-            else
-              rm -f "$file.tmp"
-              echo "  ✗ Fallito o vuoto — file precedente mantenuto"
-            fi
-          }
-
-          download "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_it.m3u" "samsung.m3u"
-          download "https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/roku_all.m3u" "roku_all.m3u"
-
       - name: Aggiorna streaming.m3u
         run: python3 scripts/update_streaming.py
-
       - name: Commit e push (solo se ci sono modifiche)
         run: |
           git config user.name  "github-actions[bot]"
