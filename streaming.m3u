@@ -194,7 +194,7 @@ https://skysport.xer94x.workers.dev/eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="Top Calcio 24" tvg-chno="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
 https://topcalcio24.xer94x.workers.dev/index.m3u8
-#EXTINF:-1 tvg-id="Milan.TV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="Sport",MILAN TV
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="Sport",MILAN TV
 https://skysport.xer94x.workers.dev/milan/index.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="Sport",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
