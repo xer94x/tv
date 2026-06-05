@@ -1,158 +1,4 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz, https://wedotv.xer94x.workers.dev/epg.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml"
-
-#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-name="Rai 1" tvg-logo="https://i.ibb.co/qMcsYXFB/101-rai-1-it.png" group-title="Rai",Rai 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-name="Rai 2" tvg-logo="https://i.ibb.co/zHZXx5Hw/102-rai-2-it.png" group-title="Rai",Rai 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-name="Rai 3" tvg-logo="https://i.ibb.co/cqKGmMb/103-rai-3-it.png" group-title="Rai",Rai 3
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-name="Rete 4" tvg-logo="https://i.ibb.co/jk3Fb0W0/104-rete4-it.png" group-title="Mediaset",Rete 4
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-name="Canale 5" tvg-logo="https://i.ibb.co/XfCQpn47/105-canale5-it.png" group-title="Mediaset",Canale 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-name="Italia 1" tvg-logo="https://i.ibb.co/Jj0PL8dX/106-italia1-it.png" group-title="Mediaset",Italia 1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-name="LA7" tvg-logo="https://i.ibb.co/zy1ywT5/107-la7-it.png" group-title="Nazionali",LA7
-https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 tvg-id="TV8.it" tvg-chno="8" tvg-name="TV8" tvg-logo="https://i.ibb.co/r2Kkhf4R/tv8.png" group-title="Sky",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="NOVE.it" tvg-chno="9" tvg-name="NOVE" tvg-logo="https://i.ibb.co/jPZ8bzRP/009-nove-it.png" group-title="Discovery",NOVE
-https://jmp2.uk/stvp-IT9000060Q
-#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="10" tvg-name="Rai 4" tvg-logo="https://i.ibb.co/gFLmgvx3/010-rai-4-it.png" group-title="Rai",Rai 4
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Iris.it" tvg-chno="11" tvg-name="Iris" tvg-logo="https://i.ibb.co/21d8kNv4/011-iris-it.png" group-title="Mediaset",Iris
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="La5.it" tvg-chno="12" tvg-name="La 5" tvg-logo="https://i.ibb.co/zhCBwNnx/012-la5-it.png" group-title="Mediaset",La 5
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="13" tvg-name="Rai 5" tvg-logo="https://i.ibb.co/Lh9fVBsy/013-rai-5-it.png" group-title="Rai",Rai 5
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="14" tvg-name="Rai Movie" tvg-logo="https://i.ibb.co/CsTvnR4J/014-rai-movie-it.png" group-title="Rai",Rai Movie
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="15" tvg-name="Rai Premium" tvg-logo="https://i.ibb.co/VWthYJvQ/015-rai-premium-it.png" group-title="Rai",Rai Premium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Italia2.it" tvg-chno="16" tvg-name="Italia 2" tvg-logo="https://i.ibb.co/4Z0L375W/175-italia2-it.png" group-title="Mediaset",Italia 2
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="17" tvg-name="Mediaset Extra" tvg-logo="https://i.ibb.co/FLbMGYzT/163-mediaset-extra-it.png" group-title="Mediaset",Mediaset Extra
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="TV2000.it" tvg-chno="18" tvg-name="TV 2000" tvg-logo="https://i.ibb.co/rGT01MYQ/tv2000.webp" group-title="Nazionali",TV 2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="cielo.it" tvg-chno="19" tvg-name="Cielo" tvg-logo="https://i.ibb.co/Pvhzbh95/126-cielo-it.png" group-title="Sky",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="Mediaset20.it" tvg-chno="20" tvg-name="Mediaset 20" tvg-logo="https://i.ibb.co/CyXz7KG/20.png" group-title="Mediaset",Mediaset 20
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="RAISport.it" tvg-chno="21" tvg-name="Rai Sport" tvg-logo="https://i.ibb.co/23VcZNvF/021-rai-sport-it.png" group-title="Rai",Rai Sport
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Focus.it" tvg-chno="22" tvg-name="Focus" tvg-logo="https://i.ibb.co/chy2kgvM/033-focus-it.png" group-title="Mediaset",Focus
-https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="23" tvg-name="Rai Storia" tvg-logo="https://i.ibb.co/24WHm4Y/023-rai-storia-it.png" group-title="Rai",Rai Storia
-https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-chno="24" tvg-name="Rai News 24" tvg-logo="https://i.ibb.co/nM1MwpzQ/024-rai-news-24-it.png" group-title="Rai",Rai News 24
-https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-chno="25" tvg-name="TgCom 24" tvg-logo="https://i.ibb.co/4wsbVkC2/025-tgcom24-it.png" group-title="Mediaset",TgCom 24
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="26" tvg-name="Rai Scuola" tvg-logo="https://i.ibb.co/zTz3R1qL/026-rai-scuola-it.png" group-title="Rai",Rai Scuola
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-chno="27" tvg-name="27 Twentyseven" tvg-logo="https://i.ibb.co/hJXr29MC/158-twenty-seven-it.png" group-title="Mediaset",27 Twentyseven
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="DMAX.it" tvg-chno="28" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20DMAX.png" group-title="Discovery",DMAX
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 tvg-id="La7D.it" tvg-chno="29" tvg-name="La 7 Cinema" tvg-logo="https://i.ibb.co/0R997DLv/161-la7-cinema-it.png" group-title="Nazionali",La 7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="30" tvg-name="Sky TG24" tvg-logo="https://i.ibb.co/GGkB6Q0/100-sky-tg24-it.png" group-title="Sky",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-name="Real Time" tvg-logo="https://i.ibb.co/3mJW8zXZ/031-real-time-it.png" group-title="Discovery",Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 tvg-id="QVC" tvg-chno="32" tvg-name="QVC" tvg-logo="https://i.ibb.co/DPbWK3qY/qvc.webp" group-title="Nazionali",QVC
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Food%20Network.png" group-title="Discovery",Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-name="Cine 34" tvg-logo="https://i.ibb.co/C3D9hnf5/034-cine34-it.png" group-title="Mediaset",Cine 34
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.it" tvg-chno="35" tvg-name="Discovery" tvg-logo="https://github.com/xer94x/tv/blob/main/icone_epg/IT%20-%20Discovery.png?raw=true" group-title="Discovery",Discovery
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-#EXTINF:-1 tvg-id="HGTV.it" tvg-chno="36" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20HGTV.png" group-title="Discovery",HGTV
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-chno="37" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Discovery%20Turbo.png" group-title="Discovery",Discovery Turbo
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
-#EXTINF:-1 tvg-id="GIALLO.it" tvg-chno="38" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20GIALLO.png" group-title="Discovery",Giallo
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-chno="39" tvg-name="Top Crime" tvg-logo="https://i.ibb.co/RkFtcYCr/168-top-crime-it.png" group-title="Mediaset",Top Crime
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-name="Boing" tvg-logo="https://i.ibb.co/KpNs2DtL/040-boing-it.png" group-title="Mediaset",Boing
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-chno="41" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co/WN3kfPZH/041-cartoonito-it.png" group-title="Mediaset",Cartoonito
-https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-name="Rai Gulp" tvg-logo="https://i.ibb.co/k2jVpQj7/042-rai-gulp-it.png" group-title="Rai",Rai Gulp
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-name="Rai YoYo" tvg-logo="https://i.ibb.co/bctKkZ8/043-rai-yoyo-it.png" group-title="Rai",Rai YoYo
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-chno="44" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20-frisbee-.png" group-title="Discovery",Frisbee
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 tvg-id="K2.it" tvg-chno="46" tvg-name="K2" tvg-logo="https://i.ibb.co/5xXFtzPV/046-k2-it.png" group-title="Discovery",K2
-https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-name="Travel TV" tvg-logo="https://yt3.googleusercontent.com/F2Pd6YEZY0MNObE5EJNvnmcPhVrVffcSBdUy6PECgGoYK3rmTYo1UxmGMizMufX4QirHqfP6=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",Travel TV
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-name="Donna TV" tvg-logo="https://i.ibb.co/YFrMm2Zy/166-donna-tv-it.png" group-title="Nazionali",Donna TV
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="52" tvg-name="Alma TV" tvg-logo="https://www.tvdream.net/img/alma-tv.png" group-title="Nazionali",Alma TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio.105.it" tvg-chno="53" tvg-name="Radio 105 TV" tvg-logo="https://i.ibb.co/p6HfFcZB/Radio-105-logo.jpg" group-title="Mediaset",Radio 105 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="R101tv.it" tvg-chno="54" tvg-name="R101 TV" tvg-logo="https://i.ibb.co/QjnH9QHN/748-r101-tv-it.png" group-title="Mediaset",R101 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="58" tvg-name="Rai Radio 2" tvg-logo="https://i.ibb.co/0y0rcT5H/602-rai-radio-2-it.png" group-title="Rai",Rai Radio 2
-https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-chno="62" tvg-name="Gambero Rosso" tvg-logo="https://i.ibb.co/BV0Xvcg6/133-gambero-rosso-it.png" group-title="Nazionali",Gambero Rosso
-https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
-#EXTINF:-1 tvg-id="RadioMonteCarlo.it" tvg-chno="70" tvg-name="Radio Montecarlo TV" tvg-logo="https://i.ibb.co/x8sqhS7g/716-radio-monte-carlo-it.png" group-title="Mediaset",Radio Montecarlo TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-chno="71" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Mediaset",Virgin Radio TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Senato Italiano" tvg-chno="72" tvg-name="Senato TV" tvg-logo="https://i.ibb.co/Fq3ywXcB/512-senato-tv-it.png" group-title="Nazionali",Senato TV
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 tvg-id="Camera dei Deputati" tvg-chno="73" tvg-name="Camera dei Deputati" tvg-logo="https://i.ibb.co/qM2gdxwS/511-camera-dei-deputati-it.png" group-title="Nazionali",Camera dei Deputati
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="74" tvg-name="Rai 4K" tvg-logo="https://i.ibb.co/kVyLpjxV/rai4k.png" group-title="Rai",Rai 4K
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="UniNettuno University TV" tvg-chno="75" tvg-name="UniNettuno Univ. TV" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Nazionali",UniNettuno Univ. TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 tvg-id="RAI Italia" tvg-chno="77" tvg-name="Rai Italia Australia" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_Italia.png?raw=true" group-title="Rai",Rai Italia Australia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:-1 tvg-id="RAI Italia" tvg-chno="78" tvg-name="Rai Italia SudAfrica " tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_Italia.png?raw=true" group-title="Rai",Rai Italia SudAfrica
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 tvg-id="RAI Italia" tvg-chno="79" tvg-name="Rai Italia SudAmerica" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_Italia.png?raw=true" group-title="Rai",Rai Italia SudAmerica
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:-1 tvg-id="Mediaset.Italia.-.Australia.e.Asia.it" tvg-chno="80" tvg-name="Mediaset Italia" tvg-logo="https://i.ibb.co/RpNCZMxM/Mediaset-Italia-TV-channel-1-1.png" group-title="Mediaset",Mediaset Italia
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-name="La7 Italia" tvg-logo="https://i.ibb.co/zy1ywT5/107-la7-it.png" group-title="Nazionali",La7 Italia
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-name="Rai World Premium" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Rai_World_Premium.png" group-title="Rai",Rai World Premium
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:-1 tvg-id="GF.VIP.-.Regia.1.it" tvg-chno="83" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="Mediaset",GF Regia 1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="GF.VIP.-.Regia.2.it" tvg-chno="84" tvg-name="GF Regia 2" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="Mediaset",GF Regia 2
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="GF.VIP.-.Unâ€™ora.fa.it" tvg-chno="85" tvg-name="GF Un'ora fa" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="Mediaset",GF Un'ora fa
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="SanMarinoRTV.it" tvg-chno="550" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",San Marino RTV
-https://rtv.xer94x.workers.dev
-#EXTINF:-1 tvg-chno="551" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",San Marino RTV SPORT
-https://rtv.xer94x.workers.dev/sport
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-chno="101" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="Nazionali",RSI La1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-chno="102" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="Nazionali",RSI La2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-
 # SKY
 
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-chno="200" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
@@ -735,6 +581,1053 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Zerouno%20TV%20Music.png" group-title="Sicilia",Zerouno Tv News
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 
+# SVIZZERA
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",RTS 1 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",RTS 2 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TF1 CH HD 720p
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",France2 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",France3 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",France4 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",France5 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 tvg-id="m6.fr" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",M6 CH HD 720p
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="canal9.ch" tvg-logo="https://picserve.netplus.ch/channels/canal9.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Canal9 FHD
+https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
+#EXTINF:-1 tvg-id="lemanbleu.ch" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Léman bleu HD
+https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
+#EXTINF:-1 tvg-id="latele.ch" tvg-logo="https://picserve.netplus.ch/channels/latele.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",LA TELE HD
+https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
+#EXTINF:-1 tvg-id="canalalphaju.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Canal Alpha JU HD
+https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
+#EXTINF:-1 tvg-id="canalalphane.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Canal Alpha NE HD
+https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
+#EXTINF:-1 tvg-id="tmc.fr" tvg-logo="https://picserve.netplus.ch/channels/tmc.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TMC HD 720p
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="w9.fr" tvg-logo="https://picserve.netplus.ch/channels/w9.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",W9 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="carac1.ch" tvg-logo="https://picserve.netplus.ch/channels/rougetv.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",carac1 HD
+https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+#EXTINF:-1 tvg-id="tfx.fr" tvg-logo="https://picserve.netplus.ch/channels/nt1.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TFX HD 720p
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 tvg-id="t18.fr" tvg-logo="https://picserve.netplus.ch/channels/t18.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",T18 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+#EXTINF:-1 tvg-id="cstar.fr" tvg-logo="https://picserve.netplus.ch/channels/d17.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",CSTAR HD 720p
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+#EXTINF:-1 tvg-id="rtl9.be" tvg-logo="https://picserve.netplus.ch/channels/rtl9.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",RTL9 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+#EXTINF:-1 tvg-id="ab1.tv" tvg-logo="https://picserve.netplus.ch/channels/ab1.png" tvg-country="BE" tvg-language="French" group-title="Svizzera",AB1 720p
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-logo="https://picserve.netplus.ch/channels/hd1.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TF1 Series Films HD 720p
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://picserve.netplus.ch/channels/6ter.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",6ter CH HD 720p
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 tvg-id="rmclife.fr" tvg-logo="https://picserve.netplus.ch/channels/cherie25.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",RMC Life HD 720p
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 tvg-id="novo19.fr" tvg-logo="https://picserve.netplus.ch/channels/novo19.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",NOVO19 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-id="numero23.fr" tvg-logo="https://picserve.netplus.ch/channels/numero23.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",RMC STORY HD 720p
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 tvg-id="bluezoom.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",blue zoom F HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",La chaine L'EQUIPE 720p
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+#EXTINF:-1 tvg-id="ab3.tv" tvg-logo="https://picserve.netplus.ch/channels/ab3.png" tvg-country="BE" tvg-language="French" group-title="Svizzera",AB3 720p
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+#EXTINF:-1 tvg-id="tcm.fr" tvg-logo="https://picserve.netplus.ch/channels/tcm.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TCM CINEMA F HD
+https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ch" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",CARTOON NETWORK 720p
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="gulli.fr" tvg-logo="https://picserve.netplus.ch/channels/gulli.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",gulli 720p
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 tvg-id="escales.fr" tvg-logo="https://picserve.netplus.ch/channels/escales.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TREK HD 720p
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-logo="https://picserve.netplus.ch/channels/rmcdecouverte.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",RMC DECOUVERTE HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-logo="https://picserve.netplus.ch/channels/planeteplus.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",PLANETE+ HD 720p
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 tvg-id="animaux.fr" tvg-logo="https://picserve.netplus.ch/channels/animaux.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",ANIMAUX HD 720p
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
+#EXTINF:-1 tvg-id="arte.fr" tvg-logo="https://picserve.netplus.ch/channels/artehd.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",arte F HD 720p
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",BFM TV HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+#EXTINF:-1 tvg-id="france24.fr" tvg-logo="https://picserve.netplus.ch/channels/france24.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",France24 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
+#EXTINF:-1 tvg-id="euronews.fr" tvg-logo="https://picserve.netplus.ch/channels/euronews.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",euronews F HD 720p
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-logo="https://picserve.netplus.ch/channels/tv5mondefbs.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TV5 MONDE FBSM HD 720p
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="itele.fr" tvg-logo="https://picserve.netplus.ch/channels/itele.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",CNEWS HD 720p
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 tvg-id="lci.fr" tvg-logo="https://picserve.netplus.ch/channels/lci.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",LCI HD 720p
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 tvg-id="bfmbusiness.fr" tvg-logo="https://picserve.netplus.ch/channels/bfmbusiness.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",BFM BUSINESS HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
+#EXTINF:-1 tvg-id="lcp.fr" tvg-logo="https://picserve.netplus.ch/channels/lcp.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",LCP8 Public Senat HD 720p
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+#EXTINF:-1 tvg-id="monacotv.fr" tvg-logo="https://picserve.netplus.ch/channels/monacotv.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TVMONACO HD
+https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",Franceinfo HD 720p
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-logo="https://picserve.netplus.ch/channels/mezzo.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",mezzo HD 720p
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+#EXTINF:-1 tvg-id="carac2.ch" tvg-logo="https://picserve.netplus.ch/channels/onetv.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",carac2 HD
+https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+#EXTINF:-1 tvg-id="carac3.ch" tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",carac3 HD
+https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+#EXTINF:-1 tvg-id="mtvfrance.fr" tvg-logo="https://picserve.netplus.ch/channels/mtvfrance.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",MTV France HD 720p
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 tvg-id="kto.fr" tvg-logo="https://picserve.netplus.ch/channels/kto.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",kto
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1 tvg-id="canalplusclair.fr" tvg-logo="https://picserve.netplus.ch/channels/canalplusclair.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",canal+ en clair CH
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+#EXTINF:-1 tvg-id="carac4.ch" tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",carac4 HD
+https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+#EXTINF:-1 tvg-id="carac5.ch" tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",carac5 HD
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+#EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://picserve.netplus.ch/channels/canalj.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",Canal J HD
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 tvg-id="nrtv.ch" tvg-logo="https://picserve.netplus.ch/channels/nrtv.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",nrtv HD 720p
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
+#EXTINF:-1 tvg-id="maxtv.ch" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",DieuTV HD
+https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
+#EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",tvm3 HD
+https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" tvg-country="FR" tvg-language="French" group-title="Svizzera", 8Mont-Blanc HD
+https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
+#EXTINF:-1 tvg-id="valtv.ch" tvg-logo="https://picserve.netplus.ch/channels/valtv.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Val TV HD
+https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",SRF1 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",SRF2 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+#EXTINF:-1 tvg-id="SRFinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",SRF info HD 720p
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+#EXTINF:-1 tvg-id="daserstehd.de" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", ARD1 Das Erste HD
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://picserve.netplus.ch/channels/zdf.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ZDF HD 720p
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTINF:-1 tvg-id="orf1.at" tvg-logo="https://picserve.netplus.ch/channels/orf1.png" tvg-country="AT" tvg-language="German" group-title="Svizzera",ORF1 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-logo="https://picserve.netplus.ch/channels/rtl.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",RTL HD
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",RTLZWEI HD
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-logo="https://picserve.netplus.ch/channels/pro7.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ProSieben HD
+https://viamotionhsi.netplus.ch/live/eds/pro7/browser-HLS8/pro7.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://picserve.netplus.ch/channels/sat1.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",SAT.1 HD
+https://viamotionhsi.netplus.ch/live/eds/sateins/browser-HLS8/sateins.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-logo="https://picserve.netplus.ch/channels/vox.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",VOX HD
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 tvg-id="kabel1.de" tvg-logo="https://picserve.netplus.ch/channels/kabel1.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", Kabel1 HD
+https://viamotionhsi.netplus.ch/live/eds/kabeleins/browser-HLS8/kabeleins.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://picserve.netplus.ch/channels/3sat.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", 3sat HD
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-id="swr.de" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", SWR HD
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",RTL SUPER HD
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+#EXTINF:-1 tvg-id="kika.de" tvg-logo="https://picserve.netplus.ch/channels/kika.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",KIKA HD
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
+#EXTINF:-1 tvg-id="sport1.de" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",sport1 HD
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+#EXTINF:-1 tvg-id="kanal9.ch" tvg-logo="https://picserve.netplus.ch/channels/kanal9.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",kanal9 HD
+https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
+#EXTINF:-1 tvg-id="telebaern.ch" tvg-logo="https://picserve.netplus.ch/channels/telebaern.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",TeleBärn HD
+https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
+#EXTINF:-1 tvg-id="tv24.ch" tvg-logo="https://picserve.netplus.ch/channels/tv24.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",tv24 HD
+https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
+#EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",blue zoom D HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+#EXTINF:-1 tvg-id="telebielingue.ch" tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",Tele Bielingue HD
+https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
+#EXTINF:-1 tvg-id="orf2.at" tvg-logo="https://picserve.netplus.ch/channels/orf2.png" tvg-country="AT" tvg-language="German" group-title="Svizzera",ORF2 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",NITRO. HD
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://picserve.netplus.ch/channels/sixx.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",sixx HD
+https://viamotionhsi.netplus.ch/live/eds/sixx/browser-HLS8/sixx.m3u8
+#EXTINF:-1 tvg-id="brhdsud.de" tvg-logo="https://picserve.netplus.ch/channels/brhdsud.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",BR HD
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTINF:-1 tvg-id="wdrhd.de" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",WDR HD
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="https://picserve.netplus.ch/channels/ndr.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ndr HD
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
+#EXTINF:-1 tvg-id="hr.de" tvg-logo="https://picserve.netplus.ch/channels/hr.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",hr HD
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-logo="https://picserve.netplus.ch/channels/mdr.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",mdr HD
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",zdf neo HD
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+#EXTINF:-1 tvg-id="zdfinfohd.de" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",zdf info HD
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-logo="https://picserve.netplus.ch/channels/sat1gold.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",SAT.1 GOLD
+https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-HLS8/sat1gold.m3u8
+#EXTINF:-1 tvg-id="welt.de" tvg-logo="https://picserve.netplus.ch/channels/n24.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",WeLT
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://picserve.netplus.ch/channels/ntv.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ntv
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-logo="https://picserve.netplus.ch/channels/phoenixhd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",phoenix HD
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",eurosport1 D
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",comedy central D HD
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",comedy central+1 D
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",Disney Channel D
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="ric.ch" tvg-logo="https://picserve.netplus.ch/channels/ric.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",RiC D
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
+#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://picserve.netplus.ch/channels/dmax.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",DMAX CH
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
+#EXTINF:-1 tvg-id="deluxmusic.de" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",DELUXE MUSIC HD
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
+#EXTINF:-1 tvg-id="servustv.de" tvg-logo="https://picserve.netplus.ch/channels/servustvhd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:-1 tvg-id="anixe.de" tvg-logo="https://picserve.netplus.ch/channels/anixe.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ANIXE SERIE HD
+https://viamotionhsi.netplus.ch/live/eds/anixe/browser-HLS8/anixe.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-logo="https://picserve.netplus.ch/channels/tele5.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",tele5 D
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+#EXTINF:-1 tvg-id="alpha.de" tvg-logo="https://picserve.netplus.ch/channels/bralpha.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ARD alpha HD
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+#EXTINF:-1 tvg-id="rbb.de" tvg-logo="https://picserve.netplus.ch/channels/rbb.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",rbb HD
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
+#EXTINF:-1 tvg-id="atv.at" tvg-logo="https://picserve.netplus.ch/channels/atv.png" tvg-country="AT" tvg-language="German" group-title="Svizzera",atv2 HD
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
+#EXTINF:-1 tvg-id="onehd.de" tvg-logo="https://picserve.netplus.ch/channels/onehd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ARD one HD
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+#EXTINF:-1 tvg-id="startv.ch" tvg-logo="https://picserve.netplus.ch/channels/startv.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",STAR TV D HD
+https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
+#EXTINF:-1 tvg-id="RSILa1.ch" tvg-logo="https://picserve.netplus.ch/channels/rsila1.png" tvg-country="CH" tvg-language="Italian" group-title="Svizzera",RSI La 1 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+#EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://picserve.netplus.ch/channels/rsila2.png" tvg-country="CH" tvg-language="Italian" group-title="Svizzera",RSI La 2 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://picserve.netplus.ch/channels/rai1.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai 1 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://picserve.netplus.ch/channels/rai2.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai 2 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://picserve.netplus.ch/channels/rai3.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai 3 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 tvg-id="Raisport1.it" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1 tvg-id="Rainews24.it" tvg-logo="https://picserve.netplus.ch/channels/rainews.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai News24 HD
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+#EXTINF:-1 tvg-id="italia1.it" tvg-logo="https://picserve.netplus.ch/channels/italia1.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Italia1 HD
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+#EXTINF:-1 tvg-id="rete4.it" tvg-logo="https://picserve.netplus.ch/channels/rete4.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rete4 HD
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 tvg-id="canale5.it" tvg-logo="https://picserve.netplus.ch/channels/canale5.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",canale5 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+#EXTINF:-1 tvg-id="la7.it" tvg-logo="https://picserve.netplus.ch/channels/la7.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",LA7 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://picserve.netplus.ch/channels/raigulp.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai Gulp HD 720p
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://picserve.netplus.ch/channels/raistoria.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai Storia FHD
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-logo="https://picserve.netplus.ch/channels/raiscuola.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",Rai Scuola HD 720p
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://picserve.netplus.ch/channels/dmaxitalia.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",DMAX Italia HD 720p
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
+#EXTINF:-1 tvg-id="canaleit.it" tvg-logo="https://picserve.netplus.ch/channels/canaleit.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",CANALE Italia
+https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-HLS8/canaleit.m3u8
+#EXTINF:-1 tvg-id="VideoItalia.it" tvg-logo="https://picserve.netplus.ch/channels/videoitalia.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",VIDEO ITALIA HD
+https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
+#EXTINF:-1 tvg-id="nove.it" tvg-logo="https://picserve.netplus.ch/channels/nove.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",nove HD 720p
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 tvg-id="la7cinema.it" tvg-logo="https://picserve.netplus.ch/channels/la7d.png" tvg-country="IT" tvg-language="Italian" group-title="Svizzera",LA7 CINEMA HD 720p
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",BBC TWO HD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 tvg-id="bbc3cbbc.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",BBC THREE CBBC HD
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id="bbc4cbeebies.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",BBC FOUR CBeebies HD
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-id="bbcworld.uk" tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",BBC NEWS HD
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 tvg-id="itv2.uk" tvg-logo="https://picserve.netplus.ch/channels/itv2.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",itv2 HD
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:-1 tvg-id="itv3.uk" tvg-logo="https://picserve.netplus.ch/channels/itv3.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",itv3 HD
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-id="itv4.uk" tvg-logo="https://picserve.netplus.ch/channels/itv4.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",itv4 HD
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-logo="https://picserve.netplus.ch/channels/skynews.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",sky news
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+#EXTINF:-1 tvg-id="cnn.uk" tvg-logo="https://picserve.netplus.ch/channels/cnn.png" tvg-country="US" tvg-language="English" group-title="Svizzera",cnn europe HD
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+#EXTINF:-1 tvg-id="aljazeera.com" tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",AlJazeera En HD
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",CNBC 720p
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",bloomberg HD
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTINF:-1 tvg-id="questtv.com" tvg-logo="https://picserve.netplus.ch/channels/quest.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",QUEST HD
+https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
+#EXTINF:-1 tvg-id="channel4.uk" tvg-logo="https://picserve.netplus.ch/channels/channel4.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",channel4 HD
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-id="channel5.uk" tvg-logo="https://picserve.netplus.ch/channels/channel5.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",channel5 HD
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-id="film4.uk" tvg-logo="https://picserve.netplus.ch/channels/film4.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",FILM4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-id="more4.uk" tvg-logo="https://picserve.netplus.ch/channels/more4.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-logo="https://picserve.netplus.ch/channels/foodnetwork.png" tvg-country="EN" tvg-language="English" group-title="Svizzera",food network E HD
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8
+#EXTINF:-1 tvg-id="tvcnews.ng" tvg-logo="https://picserve.netplus.ch/channels/tvcnews.png" tvg-country="NG" tvg-language="English" group-title="Svizzera",TVCNEWS
+https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+#EXTINF:-1 tvg-id="nhkworldjapan.jp" tvg-logo="https://picserve.netplus.ch/channels/nhk.png" tvg-country="JP" tvg-language="English" group-title="Svizzera",NHK WORLD JAPAN HD
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 tvg-id="rtpi.pt" tvg-logo="https://picserve.netplus.ch/channels/rtpi.png" tvg-country="PT" tvg-language="Portuguese" group-title="Svizzera",RTP mundo_
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+#EXTINF:-1 tvg-id="Rederecordinternacional.br" tvg-logo="https://picserve.netplus.ch/channels/rederecordinternacional.png" tvg-country="BR" tvg-language="Portuguese" group-title="Svizzera",Rede Record internacional HD
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1 tvg-id="tveinternacional.es" tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png" tvg-country="ES" tvg-language="Spanish" group-title="Svizzera",tve internacional HD
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
+#EXTINF:-1 tvg-id="canal24horas.es" tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png" tvg-country="ES" tvg-language="Spanish" group-title="Svizzera",24h HD
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-id="Aragontv.es" tvg-logo="https://picserve.netplus.ch/channels/aragontv.png" tvg-country="ES" tvg-language="Spanish" group-title="Svizzera",Aragon TV HD
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 tvg-id="starhd.es" tvg-logo="https://picserve.netplus.ch/channels/starhd.png" tvg-country="ES" tvg-language="Spanish" group-title="Svizzera",star ES HD
+https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-logo="https://picserve.netplus.ch/channels/recordnews.png" tvg-country="BR" tvg-language="Portuguese" group-title="Svizzera",Record news internacional HD
+https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
+#EXTINF:-1 tvg-id="alarabiya.net" tvg-logo="https://picserve.netplus.ch/channels/alarabiya.png" tvg-country="UA" tvg-language="Arabic" group-title="Svizzera",Al Arabiya HD
+https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
+#EXTINF:-1 tvg-id="almaghribia.ma" tvg-logo="https://picserve.netplus.ch/channels/almaghribia.png" tvg-country="MA" tvg-language="Arabic" group-title="Svizzera",Al Maghribia HD
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 tvg-id="almasriyah.eg" tvg-logo="https://picserve.netplus.ch/channels/almasriyah.png" tvg-country="EG" tvg-language="Arabic" group-title="Svizzera",Al Masriyah HD
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
+#EXTINF:-1 tvg-id="dmsat.rs" tvg-logo="https://picserve.netplus.ch/channels/dmsat.png" tvg-country="RS" tvg-language="Serbia" group-title="Svizzera",DMSAT
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
+#EXTINF:-1 tvg-id="showturk.tr" tvg-logo="https://picserve.netplus.ch/channels/showturk.png" tvg-country="TR" tvg-language="Turkish" group-title="Svizzera",show turk HD
+https://viamotionhsi.netplus.ch/live/eds/showturk/browser-HLS8/showturk.m3u8
+#EXTINF:-1 tvg-id="eurod.tr" tvg-logo="https://picserve.netplus.ch/channels/eurod.png" tvg-country="TR" tvg-language="Turkish" group-title="Svizzera",EUROD HD
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-logo="https://picserve.netplus.ch/channels/tvpolonia.png" tvg-country="PL" tvg-language="Polonia" group-title="Svizzera",TVP POLONIA HD
+https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
+#EXTINF:-1 tvg-id="duna.hu" tvg-logo="https://picserve.netplus.ch/channels/duna.png" tvg-country="HU" tvg-language="Hungarian" group-title="Svizzera",DUNA HD
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
+#EXTINF:-1 tvg-id="bntworld.bg" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png" tvg-country="BG" tvg-language="Bulgarian" group-title="Svizzera",BNT4 HD
+https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-logo="https://picserve.netplus.ch/channels/tvrinternational.png" tvg-country="RO" tvg-language="Romanian" group-title="Svizzera",TVRomania int HD
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
+#EXTINF:-1 tvg-id="bvn.nl" tvg-logo="https://picserve.netplus.ch/channels/bvn.png" tvg-country="NL" tvg-language="Dutch" group-title="Svizzera",BVN
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+#EXTINF:-1 tvg-id="rtk1.al" tvg-logo="https://picserve.netplus.ch/channels/rtk1.png" tvg-country="AL" tvg-language="Albanian" group-title="Svizzera",RTK1 SAT HD
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1 tvg-id="ptccbet.rs" tvg-logo="https://picserve.netplus.ch/channels/rtssat.png" tvg-country="RS" tvg-language="Serbia" group-title="Svizzera",PTC CBET HD
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
+#EXTINF:-1 tvg-id="mne.me" tvg-logo="https://picserve.netplus.ch/channels/rtcg.png" tvg-country="ME" tvg-language="Serbia" group-title="Svizzera",MNE HD
+https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://picserve.netplus.ch/channels/trtturk.png" tvg-country="TR" tvg-language="Turkish" group-title="Svizzera",TRT TURK HD
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
+#EXTINF:-1 tvg-id="2m.ma" tvg-logo="https://picserve.netplus.ch/channels/2mmaroc.png" tvg-country="MA" tvg-language="Arabic" group-title="Svizzera",2M Maroc FHD
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-id="canalalgerie." tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png" tvg-country="DZ" tvg-language="Arabic" group-title="Svizzera",Canal Algerie2
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:-1 tvg-id="cctv4.cn" tvg-logo="https://picserve.netplus.ch/channels/cctv4.png" tvg-country="CN" tvg-language="Chinese" group-title="Svizzera",cctv4 HD
+https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+# USATV
+#EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="usaTV",A&E TV
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="WABC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="usaTV",ABC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/727.ts
+#EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="usaTV",ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
+#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="usaTV",Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Altitude.Sports.us2" tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="usaTV",Altitude Sports
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1521.ts
+#EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="usaTV",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="usaTV",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="usaTV",Aspire
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2156.ts
+#EXTINF:-1 tvg-chno="9" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="usaTV",AXS TV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="usaTV",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="usaTV",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="usaTV",BET
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/204.ts
+#EXTINF:-1 tvg-chno="13" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="usaTV",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="usaTV",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="usaTV",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="usaTV",Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="usaTV",Bravo TV
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="usaTV",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="usaTV",C-SPAN
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1184.ts
+#EXTINF:-1 tvg-chno="20" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="usaTV",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="WBZ-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="usaTV",CBS
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1852.ts
+#EXTINF:-1 tvg-chno="22" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="usaTV",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="CBS Sports Golazo Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s133691_dark_360w_270h.png" group-title="usaTV",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="usaTV",CBS Sports Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/197.ts
+#EXTINF:-1 tvg-chno="25" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="usaTV",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="usaTV",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="usaTV",CNBC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/192.ts
+#EXTINF:-1 tvg-chno="28" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="usaTV",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="usaTV",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="usaTV",Comedy TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1459.ts
+#EXTINF:-1 tvg-chno="31" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="usaTV",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="usaTV",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117160_dark_360w_270h.png" group-title="usaTV",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="usaTV",Cozi TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/49027.ts
+#EXTINF:-1 tvg-chno="35" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="usaTV",Crime & Investigation Network
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+#EXTINF:-1 tvg-chno="36" tvg-id="KTLA-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="usaTV",CW
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1086.ts
+#EXTINF:-1 tvg-chno="37" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="usaTV",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="usaTV",Discovery Family Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/183.ts
+#EXTINF:-1 tvg-chno="39" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="usaTV",Discovery Life
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/182.ts
+#EXTINF:-1 tvg-chno="40" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="usaTV",Discovery Science
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/181.ts
+#EXTINF:-1 tvg-chno="41" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="usaTV",Disney Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/180.ts
+#EXTINF:-1 tvg-chno="42" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="usaTV",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="usaTV",E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="usaTV",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="usaTV",ESPN News
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/134.ts
+#EXTINF:-1 tvg-chno="46" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="usaTV",ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="usaTV",ESPN2
+http://41.223.30.230/ESPN2/index.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="plex.tv.FIFA+.plex" tvg-name="FIFA+ TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s136235_dark_360w_270h.png" group-title="usaTV",FIFA+ TV
+https://jmp2.uk/stvp-IN270000230
+#EXTINF:-1 tvg-chno="49" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="usaTV",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="WNYW-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="usaTV",Fox
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/728.ts
+#EXTINF:-1 tvg-chno="51" tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="usaTV",Fox Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="usaTV",Fox News
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/267.ts
+#EXTINF:-1 tvg-chno="53" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="usaTV",Fox Sports 1
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
+#EXTINF:-1 tvg-chno="54" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="usaTV",Fox Sports 2
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
+#EXTINF:-1 tvg-chno="55" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="usaTV",Freeform TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/170.ts
+#EXTINF:-1 tvg-chno="56" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="usaTV",FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="usaTV",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="usaTV",FX Movie Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/166.ts
+#EXTINF:-1 tvg-chno="59" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="usaTV",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="usaTV",FYI TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/164.ts
+#EXTINF:-1 tvg-chno="61" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="usaTV",Game Show Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/358.ts
+#EXTINF:-1 tvg-chno="62" tvg-id="get.us2" tvg-name="getTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="usaTV",getTV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45830.ts
+#EXTINF:-1 tvg-chno="63" tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="usaTV",Golf Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/138.ts
+#EXTINF:-1 tvg-chno="64" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="usaTV",Grit TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/734.ts
+#EXTINF:-1 tvg-chno="65" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="usaTV",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="usaTV",Hallmark Family
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/356.ts
+#EXTINF:-1 tvg-chno="67" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="usaTV",Hallmark Mystery
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/161.ts
+#EXTINF:-1 tvg-chno="68" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="usaTV",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="usaTV",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="usaTV",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="usaTV",HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="usaTV",History Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/153.ts
+#EXTINF:-1 tvg-chno="73" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="usaTV",HLN TV
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="usaTV",INSP
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/895.ts
+#EXTINF:-1 tvg-chno="75" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="usaTV",Investigation Discovery
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/150.ts
+#EXTINF:-1 tvg-chno="76" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="usaTV",ION TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/809.ts
+#EXTINF:-1 tvg-chno="77" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="usaTV",Lifetime
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/148.ts
+#EXTINF:-1 tvg-chno="78" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="usaTV",Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="usaTV",Marquee Sports Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1045.ts
+#EXTINF:-1 tvg-chno="80" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="usaTV",MLB Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/145.ts
+#EXTINF:-1 tvg-chno="81" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="usaTV",MotorTrend TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/250.ts
+#EXTINF:-1 tvg-chno="82" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="usaTV",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="usaTV",MSNBC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/143.ts
+#EXTINF:-1 tvg-chno="84" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="usaTV",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="usaTV",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="usaTV",NBA TV
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="usaTV",NBC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/729.ts
+#EXTINF:-1 tvg-chno="88" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="usaTV",NBC Sports Bay Area
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/591.ts
+#EXTINF:-1 tvg-chno="89" tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="usaTV",NBC Sports Boston
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/590.ts
+#EXTINF:-1 tvg-chno="90" tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="usaTV",NBC Sports California
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/589.ts
+#EXTINF:-1 tvg-chno="91" tvg-id="a90a91570ce0536cbb22b591ad7e0da2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="usaTV",NBC Sports NOW
+https://jmp2.uk/stvp-USBD420002446
+#EXTINF:-1 tvg-chno="92" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="usaTV",NBC Sports Philadelphia
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/586.ts
+#EXTINF:-1 tvg-chno="93" tvg-id="New.England.Sports.Network.HD.us2" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="usaTV",NESN
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/890.ts
+#EXTINF:-1 tvg-chno="94" tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="usaTV",NewsNation
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45839.ts
+#EXTINF:-1 tvg-chno="95" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="usaTV",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="usaTV",NHL Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/299.ts
+#EXTINF:-1 tvg-chno="97" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="usaTV",Nick Jr
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/351.ts
+#EXTINF:-1 tvg-chno="98" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="usaTV",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="usaTV",Nicktoons
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1223.ts
+#EXTINF:-1 tvg-chno="100" tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="usaTV",Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
+#EXTINF:-1 tvg-chno="101" tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="usaTV",Ovation
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45840.ts
+#EXTINF:-1 tvg-chno="102" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="usaTV",Oxygen
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/228.ts
+#EXTINF:-1 tvg-chno="103" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="usaTV",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="usaTV",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="usaTV",Pop TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/226.ts
+#EXTINF:-1 tvg-chno="106" tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png" group-title="usaTV",Premier Sports 1
+http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/376
+#EXTINF:-1 tvg-chno="107" tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png" group-title="usaTV",Premier Sports 2
+http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89090.ts
+#EXTINF:-1 tvg-chno="108" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="usaTV",Reelz Channel
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="usaTV",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="usaTV",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="usaTV",Showtime Extreme
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/385.ts
+#EXTINF:-1 tvg-chno="112" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="usaTV",Sky Sports Football
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2166.ts
+#EXTINF:-1 tvg-chno="113" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="usaTV",Sky Sports News
+http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/416
+#EXTINF:-1 tvg-chno="114" tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89362_gray_360w_270h.png" group-title="usaTV",Sky Sports Premier League
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2165.ts
+#EXTINF:-1 tvg-chno="115" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="usaTV",Smithsonian Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/46810.ts
+#EXTINF:-1 tvg-chno="116" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="usaTV",Sony Movie Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
+#EXTINF:-1 tvg-chno="117" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="usaTV",Space City Home Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1276.ts
+#EXTINF:-1 tvg-chno="118" tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png" group-title="usaTV",Spectrum SportsNet LA Dodgers
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1609.ts
+#EXTINF:-1 tvg-chno="119" tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="Spectrum SportsNet Lakers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png" group-title="usaTV",Spectrum SportsNet Lakers
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/873.ts
+#EXTINF:-1 tvg-chno="120" tvg-id="Sportsman.Channel.us2" tvg-name="Sportsman Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="usaTV",Sportsman Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54385.ts
+#EXTINF:-1 tvg-chno="121" tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="usaTV",Sportsnet 360
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2044.ts
+#EXTINF:-1 tvg-chno="122" tvg-id="Sportsnet.East.ca2" tvg-name="Sportsnet East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png" group-title="usaTV",Sportsnet East
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2045.ts
+#EXTINF:-1 tvg-chno="123" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SportsNet New York" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="usaTV",SportsNet New York
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/330.ts
+#EXTINF:-1 tvg-chno="124" tvg-id="Sportsnet.One.ca2" tvg-name="Sportsnet One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="usaTV",Sportsnet One
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/2046.ts
+#EXTINF:-1 tvg-chno="125" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="usaTV",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-chno="126" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="usaTV",Starz Encore Classic
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1471.ts
+#EXTINF:-1 tvg-chno="127" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="usaTV",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-chno="128" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="usaTV",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="usaTV",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="usaTV",The Weather Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/301.ts
+#EXTINF:-1 tvg-chno="131" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="usaTV",TLC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/241.ts
+#EXTINF:-1 tvg-chno="132" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="usaTV",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="usaTV",truTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="usaTV",TSN1
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1195.ts
+#EXTINF:-1 tvg-chno="135" tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="usaTV",TSN2
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/175.ts
+#EXTINF:-1 tvg-chno="136" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="usaTV",Turner Classic Movies
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="usaTV",TV Land
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/300.ts
+#EXTINF:-1 tvg-chno="138" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="usaTV",TV One
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/384.ts
+#EXTINF:-1 tvg-chno="139" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="usaTV",USA Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/251.ts
+#EXTINF:-1 tvg-chno="140" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="usaTV",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="usaTV",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 tvg-chno="142" tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="usaTV",We Tv
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="Willow.Cricket.HD.us2" tvg-name="Willow Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="usaTV",Willow Cricket
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/54760.ts
+#EXTINF:-1 tvg-chno="144" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="usaTV",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+# LIVE EVENTS
+#EXTINF:-1 tvg-chno="145" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Athletics Athletics at Houston Astros (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Athletics Athletics at Houston Astros (STRMCNTR)
+https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Baltimore Orioles at Toronto Blue Jays (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Baltimore Orioles at Toronto Blue Jays (STRMCNTR)
+https://mainstreams.pro/hls/bzagLHzach19.m3u8
+#EXTINF:-1 tvg-chno="147" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Boston Red Sox at New York Yankees (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Boston Red Sox at New York Yankees (STRMCNTR)
+https://mainstreams.pro/hls/Czajafjihafch18.m3u8
+#EXTINF:-1 tvg-chno="148" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Chicago White Sox at Philadelphia Phillies (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Chicago White Sox at Philadelphia Phillies (STRMCNTR)
+https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Cincinnati Reds at St. Louis Cardinals (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Cincinnati Reds at St. Louis Cardinals (STRMCNTR)
+https://mainstreams.pro/hls/kjhfzua25.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Cleveland Guardians at Texas Rangers (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Cleveland Guardians at Texas Rangers (STRMCNTR)
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Kansas City Royals at Minnesota Twins (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Kansas City Royals at Minnesota Twins (STRMCNTR)
+https://mainstreams.pro/hls/fskjanach24.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Los Angeles Angels at Los Angeles Dodgers (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Los Angeles Angels at Los Angeles Dodgers (STRMCNTR)
+https://mainstreams.pro/hls/hfzljfahzcax29.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Milwaukee Brewers at Colorado Rockies (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Milwaukee Brewers at Colorado Rockies (STRMCNTR)
+https://mainstreams.pro/hls/dzjhkfazbka26.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] New York Mets at San Diego Padres (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] New York Mets at San Diego Padres (STRMCNTR)
+https://mainstreams.pro/hls/jzabfazkbf27.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Pittsburgh Pirates at Atlanta Braves (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Pittsburgh Pirates at Atlanta Braves (STRMCNTR)
+https://mainstreams.pro/hls/ojzkajnach21.m3u8
+#EXTINF:-1 tvg-chno="156" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] San Francisco Giants at Chicago Cubs (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] San Francisco Giants at Chicago Cubs (STRMCNTR)
+https://mainstreams.pro/hls/dazhfiach15.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Seattle Mariners at Detroit Tigers (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Seattle Mariners at Detroit Tigers (STRMCNTR)
+https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8
+#EXTINF:-1 tvg-chno="158" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Tampa Bay Rays at Miami Marlins (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Tampa Bay Rays at Miami Marlins (STRMCNTR)
+https://mainstreams.pro/hls/jkzahzadach20.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Washington Nationals at Arizona Diamondbacks (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Washington Nationals at Arizona Diamondbacks (STRMCNTR)
+https://mainstreams.pro/hls/hefbafbakx28.m3u8
+#EXTINF:-1 tvg-chno="160" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Connecticut Sun at Chicago Sky (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Connecticut Sun at Chicago Sky (STRMCNTR)
+https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8
+#EXTINF:-1 tvg-chno="161" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Dallas Wings at Los Angeles Sparks (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Dallas Wings at Los Angeles Sparks (STRMCNTR)
+https://mainstreams.pro/hls/ztyarueaghj71.m3u8
+#EXTINF:-1 tvg-chno="162" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New York Knicks at San Antonio Spurs (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] New York Knicks at San Antonio Spurs (STRMCNTR)
+https://mainstreams.pro/hls/mlkijfezag65.m3u8
+#EXTINF:-1 tvg-chno="163" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Phoenix Mercury at Portland Fire (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Phoenix Mercury at Portland Fire (STRMCNTR)
+https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8
+#EXTINF:-1 tvg-chno="164" tvg-id="Live.Event.us" tvg-name="[Boxing] Edward Vazquez - Daniel Lugo (EMBEDHD)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Boxing] Edward Vazquez - Daniel Lugo (EMBEDHD)
+https://cdn15.zohanayaan.com:1686/hls/mevent1.m3u8?md5=xR3xmApG3Ojd4SxRInlnaA&expires=1780700460
+#EXTINF:-1 tvg-chno="165" tvg-id="Live.Event.us" tvg-name="[College Baseball] North Carolina vs USC (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[College Baseball] North Carolina vs USC (CDNTV)
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=fe87fe2c714496344c7dd107be7f90e2bfa8360d9489cb94e4e87b918f7b3e37.1780684261.dc2bc76b206cb90fc0bb120b5b5c0a9f.b45ca3fafbd22727c7263bc473451adb.2836068b9edc9f2b9f213214dc594531&signature=bc412a406ae272120884467febb8c38abfeb56863a468e1edfeb7a6129bb4d6e
+#EXTINF:-1 tvg-chno="166" tvg-id="Live.Event.us" tvg-name="[College Baseball] Troy vs Little Rock (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[College Baseball] Troy vs Little Rock (CDNTV)
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=496e560f8a0770f347a994285aace5b5f74238c7e799a71246bdb5be5a6b5a33.1780691426.87f6e15a29163222ce3ca915323faa33.66a0d83404db03bae64f08cf7c4aa349.6fd0655fa2243bb02cf12f7a86807b0f&signature=7b8ae5f8668e1451c430f085b0822b35037c6b42204dfba70b5c86c61b2dfcd1
+#EXTINF:-1 tvg-chno="167" tvg-id="Live.Event.us" tvg-name="[Cricket Vitality Blast] Yorkshire vs Lancashire (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cricket Vitality Blast] Yorkshire vs Lancashire (FAWA)
+http://193.47.62.59/hls/nnnnX.m3u8
+#EXTINF:-1 tvg-chno="168" tvg-id="Live.Event.us" tvg-name="[Cricket] England vs New Zealand (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cricket] England vs New Zealand (FAWA)
+http://193.47.62.42/hls/nnnn.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-id="Live.Event.us" tvg-name="[DENMARK: Nordic Darts Masters] Bunting S. vs Tingstrom V. (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[DENMARK: Nordic Darts Masters] Bunting S. vs Tingstrom V. (WATCHFTY)
+https://lb5.wfty.wtf/secure/VrFxhmuEfZOSn42FBa464A/easy/bunting-s-tingstrom-v/1/784c7c37cc1/1780705865/playlist.m3u8
+#EXTINF:-1 tvg-chno="170" tvg-id="Live.Event.us" tvg-name="[DENMARK: Nordic Darts Masters] Price G. vs Labanauskas D. (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[DENMARK: Nordic Darts Masters] Price G. vs Labanauskas D. (WATCHFTY)
+https://lb2.wfty.wtf/secure/Tgn7bSb_I3tXmNDXFXJHeA/easy/price-g-labanauskas-d/1/3928ce70a47/1780704157/playlist.m3u8
+#EXTINF:-1 tvg-chno="171" tvg-id="Live.Event.us" tvg-name="[Darts] Darts Nordic Masters (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Darts] Darts Nordic Masters (FAWA)
+http://193.47.62.59/hls/kyyyQQ.m3u8
+#EXTINF:-1 tvg-chno="172" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Bradford vs York RLFC (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[English Rugby Super League] Bradford vs York RLFC (FAWA)
+http://193.47.62.59/hls/DVVV.m3u8
+#EXTINF:-1 tvg-chno="173" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Castleford vs Leigh (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[English Rugby Super League] Castleford vs Leigh (FAWA)
+http://193.47.62.59/hls/DVVVZ.m3u8
+#EXTINF:-1 tvg-chno="174" tvg-id="Live.Event.us" tvg-name="[English Rugby Super League] Warrington vs Hull FC (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[English Rugby Super League] Warrington vs Hull FC (FAWA)
+http://193.47.62.59/hls/DVVVZZ.m3u8
+#EXTINF:-1 tvg-chno="175" tvg-id="Live.Event.us" tvg-name="[European League (M)] Finland vs Austria (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[European League (M)] Finland vs Austria (WATCHFTY)
+https://lb5.wfty.wtf/secure/s00nihQisv-_RDo-RB0jXQ/regular/finland-austria/1/4731253/1780711259/playlist.m3u8
+#EXTINF:-1 tvg-chno="176" tvg-id="Live.Event.us" tvg-name="[European League (M)] Israel vs Croatia (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[European League (M)] Israel vs Croatia (WATCHFTY)
+https://lb6.wfty.wtf/secure/Xzfg1pZMul6Hj9gU8sMuUQ/regular/israel-croatia/1/4731272/1780707646/playlist.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-id="Live.Event.us" tvg-name="[European League (M)] Netherlands vs North Macedonia (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[European League (M)] Netherlands vs North Macedonia (WATCHFTY)
+https://lb1.wfty.wtf/secure/aBXXZFlQRricsqMwpcFNmQ/regular/netherlands-north-macedonia/1/4731260/1780704146/playlist.m3u8
+#EXTINF:-1 tvg-chno="178" tvg-id="Live.Event.us" tvg-name="[European League (W)] Slovenia (W) vs Montenegro (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[European League (W)] Slovenia (W) vs Montenegro (W) (WATCHFTY)
+https://lb4.wfty.wtf/secure/L_G7K2hyy5F6gQE4Na1e4w/regular/slovenia-w-montenegro-w/1/4676753/1780705867/playlist.m3u8
+#EXTINF:-1 tvg-chno="179" tvg-id="Live.Event.us" tvg-name="[FIFA International Friendly] Hungary vs Finland (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA International Friendly] Hungary vs Finland (WATCHFTY)
+https://lb2.wfty.wtf/secure/B9Fl8R1OTUz_axUFvIFx1w/regular/hungary-finland/1/4674985/1780704145/playlist.m3u8
+#EXTINF:-1 tvg-chno="180" tvg-id="Live.Event.us" tvg-name="[FIFA International Friendly] San Marino vs Bangladesh (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA International Friendly] San Marino vs Bangladesh (WATCHFTY)
+https://lb1.wfty.wtf/secure/knlpJ66fTF0YS_E3AQBJIw/regular/san-marino-bangladesh/1/5477267/1780704143/playlist.m3u8
+#EXTINF:-1 tvg-chno="181" tvg-id="Live.Event.us" tvg-name="[FIFA Women World Cup] Belgium W vs Luxembourg W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women World Cup] Belgium W vs Luxembourg W (FAWA)
+http://193.47.62.59/hls/ULLLQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="182" tvg-id="Live.Event.us" tvg-name="[FIFA Women World Cup] Germany W vs Norway W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women World Cup] Germany W vs Norway W (FAWA)
+http://193.47.62.59/hls/ZFFFZ.m3u8
+#EXTINF:-1 tvg-chno="183" tvg-id="Live.Event.us" tvg-name="[FIFA Women World Cup] Ireland W vs Netherlands W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women World Cup] Ireland W vs Netherlands W (FAWA)
+http://193.47.62.59/hls/ZFFF.m3u8
+#EXTINF:-1 tvg-chno="184" tvg-id="Live.Event.us" tvg-name="[FIFA Women World Cup] Portugal W vs Latvia W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women World Cup] Portugal W vs Latvia W (FAWA)
+http://193.47.62.59/hls/ZFFFZZZ.m3u8
+#EXTINF:-1 tvg-chno="185" tvg-id="Live.Event.us" tvg-name="[FIFA Women World Cup] Spain W vs England W (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women World Cup] Spain W vs England W (FAWA)
+http://193.47.62.59/hls/ZFFFZZZQ.m3u8
+#EXTINF:-1 tvg-chno="186" tvg-id="Live.Event.us" tvg-name="[FIFA Women's World Cup Qualifying - UEFA] Belgium vs Luxembourg (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women's World Cup Qualifying - UEFA] Belgium vs Luxembourg (WATCHFTY)
+https://lb5.wfty.wtf/secure/stTHUnEpEOE-lbszBjRtKA/regular/belgium-luxembourg/1/761236/1780707645/playlist.m3u8
+#EXTINF:-1 tvg-chno="187" tvg-id="Live.Event.us" tvg-name="[FIFA Women's World Cup Qualifying - UEFA] Germany vs Norway (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women's World Cup Qualifying - UEFA] Germany vs Norway (WATCHFTY)
+https://lb4.wfty.wtf/secure/B8BLcUd4a_ZiE9ADtpgKog/regular/germany-norway/3/761242/1780711252/playlist.m3u8
+#EXTINF:-1 tvg-chno="188" tvg-id="Live.Event.us" tvg-name="[FIFA Women's World Cup Qualifying - UEFA] Ireland (W) vs Netherlands (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women's World Cup Qualifying - UEFA] Ireland (W) vs Netherlands (W) (WATCHFTY)
+https://lb1.wfty.wtf/secure/Zhb9xslHEKIRdJZKWdO99Q/regular/republic-of-ireland-netherlands/1/5063092/1780707643/playlist.m3u8
+#EXTINF:-1 tvg-chno="189" tvg-id="Live.Event.us" tvg-name="[FIFA Women's World Cup Qualifying - UEFA] Portugal vs Latvia (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women's World Cup Qualifying - UEFA] Portugal vs Latvia (WATCHFTY)
+https://lb1.wfty.wtf/secure/OahFT4tBS2IxU5FYVJKyVw/regular/portugal-latvia/1/761249/1780711250/playlist.m3u8
+#EXTINF:-1 tvg-chno="190" tvg-id="Live.Event.us" tvg-name="[FIFA Women's World Cup Qualifying - UEFA] Republic of Ireland vs Netherlands (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women's World Cup Qualifying - UEFA] Republic of Ireland vs Netherlands (WATCHFTY)
+https://lb2.wfty.wtf/secure/-WYYt3JtmvlfrzwZh3QKYQ/regular/republic-of-ireland-netherlands/2/761250/1780713031/playlist.m3u8
+#EXTINF:-1 tvg-chno="191" tvg-id="Live.Event.us" tvg-name="[FIFA Women's World Cup Qualifying - UEFA] Spain vs England (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[FIFA Women's World Cup Qualifying - UEFA] Spain vs England (WATCHFTY)
+https://lb3.wfty.wtf/secure/BMVNyrNxy4AjwM3gpr7y5g/regular/spain-england/1/761253/1780711249/playlist.m3u8
+#EXTINF:-1 tvg-chno="192" tvg-id="Live.Event.us" tvg-name="[Fighting] WWE Smackdown (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Fighting] WWE Smackdown (ROXIE)
+https://601.sandhost.qzz.io/wwe.m3u8
+#EXTINF:-1 tvg-chno="193" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Burkina Faso at Russia (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Football] Burkina Faso at Russia (STRMCNTR)
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Finland at Hungary (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Football] Finland at Hungary (STRMCNTR)
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[Football] Republic of Ireland at Canada (STRMCNTR)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Football] Republic of Ireland at Canada (STRMCNTR)
+https://mainstreams.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="196" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Formula 1 2026 - Monaco GP (iSTRMEAST)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Formula 1 2026 - Monaco GP (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/51586/load-playlist
+#EXTINF:-1 tvg-chno="197" tvg-id="Live.Event.us" tvg-name="[Friendly International] Hungary vs Finland (FSPRTS)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Friendly International] Hungary vs Finland (FSPRTS)
+https://cdn7.zohanayaan.com:1686/hls/do83.m3u8?md5=WI0xzOVPvq-EWBVsX6dZuw&expires=1780698062
+#EXTINF:-1 tvg-chno="198" tvg-id="Live.Event.us" tvg-name="[Friendly Match] Azerbaijan vs Malta 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Friendly Match] Azerbaijan vs Malta 2 (FAWA)
+https://pul-tenm.nbs3g.com/live/sd-1-4544901.m3u8?txSecret=9bed019062b8f15fabec33dfeab6a6c1&txTime=6A246022
+#EXTINF:-1 tvg-chno="199" tvg-id="Live.Event.us" tvg-name="[Friendly Match] Hungary vs Finland 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Friendly Match] Hungary vs Finland 2 (FAWA)
+https://pul-tenm.nbs3g.com/live/sd-1-4544897.m3u8?txSecret=ef2a4ad5c72db8c0ef35bfca10c9c793&txTime=6A245D51
+#EXTINF:-1 tvg-chno="200" tvg-id="Live.Event.us" tvg-name="[Friendly Match] Paraguay vs Nicaragua (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Friendly Match] Paraguay vs Nicaragua (FAWA)
+http://193.47.62.59/hls/DVVVZZZ.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="Live.Event.us" tvg-name="[Friendly] Albania U21 vs Slovenia U21 (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Friendly] Albania U21 vs Slovenia U21 (CDNTV)
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-2/playlist.m3u8?token=d6dec81efc787dfec53af84a80e9eb2ea0e71e990e514c2c3d7ce1901a0b8c7c.1780682540.c29d7d3a4bbe53580281eca9ea30a592.5f57291d8f8e4425c5718f9a41bda1cb.f6474980847ff3635a9dd741cfd12aa3&signature=d7623c895dc556f82d134f7cff04b14c2a3bdc9080b0a537c243bf6b0ba220c4
+#EXTINF:-1 tvg-chno="202" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Amistoso: Austria vs Túnez (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Amistoso: Austria vs Túnez (STP)
+https://pecdl1.streameasthd.net:443/global/espn/index.m3u8?token=226357e32011d865aa824514560db070ce6c510c-46-1780735124-1780681124&
+#EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Amistoso: Bulgaria vs Montenegro (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Amistoso: Bulgaria vs Montenegro (STP)
+https://pecdl1.streameasthd.net:443/global/disney1/index.m3u8?token=7b25a40b0d165fed62563f9cfcfb52fee256a3b9-af-1780735123-1780681123&
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Amistoso: Canadá vs Uzbekistán (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Amistoso: Canadá vs Uzbekistán (STP)
+https://pecdl1.streameasthd.net:443/global/tsn1/index.m3u8?token=afdcc815e63b164a792def585a26bd6dc9155c88-70-1780735124-1780681124&
+#EXTINF:-1 tvg-chno="205" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Amistoso: Colombia vs Costa Rica (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Amistoso: Colombia vs Costa Rica (STP)
+https://doc1.streameasthd.net:443/global/caracoltv/index.m3u8?token=0eef4460013e8bc3641603b6d7ac7ec461ed07b1-01-1780735124-1780681124&
+#EXTINF:-1 tvg-chno="206" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Amistoso: Eslovaquia vs Malta (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Amistoso: Eslovaquia vs Malta (STP)
+https://doc1.streameasthd.net:443/global/disney2/index.m3u8?token=e9ebd6429a80ce6090b19dcf5ad52e6586112219-8d-1780735123-1780681123&
+#EXTINF:-1 tvg-chno="207" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Amistoso: Noruega vs Suecia (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Amistoso: Noruega vs Suecia (STP)
+https://pecdl1.streameasthd.net:443/global/disney4/index.m3u8?token=50c9a6f424e0236e55891f1952a8e493637bedf3-dc-1780735123-1780681123&
+#EXTINF:-1 tvg-chno="208" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Amistoso: Turquía vs Macedonia del Norte (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Amistoso: Turquía vs Macedonia del Norte (STP)
+https://pecdl1.streameasthd.net:443/global/disney3/index.m3u8?token=ef6f9b3e5f41d4dc127acdbc0b2ccb87d0f186f3-9c-1780735123-1780681123&
+#EXTINF:-1 tvg-chno="209" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Primera División: Boston River vs Liverpool (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Primera División: Boston River vs Liverpool (STP)
+https://14c51.streameasthd.net:443/global/disney5/index.m3u8?token=fbfea3fb0e0167343aa82da418d23ed1df6c4bba-ea-1780735123-1780681123&
+#EXTINF:-1 tvg-chno="210" tvg-id="Soccer.Dummy.us" tvg-name="[Fútbol] Primera División: Peñarol vs Central Español (STP)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Fútbol] Primera División: Peñarol vs Central Español (STP)
+https://98ca2.streameasthd.net:443/global/disney1/index.m3u8?token=1fbb86c5ec15304182be1421a43ac1311d9ab6f6-9b-1780735124-1780681124&
+#EXTINF:-1 tvg-chno="211" tvg-id="Live.Event.us" tvg-name="[Golf LPGA] Golf LPGA Women Golf Open (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Golf LPGA] Golf LPGA Women Golf Open (FAWA)
+http://193.47.62.50/hls/YOOO.m3u8
+#EXTINF:-1 tvg-chno="212" tvg-id="Golf.Dummy.us" tvg-name="[Golf PGA] Golf PGA The Memorial Tournament (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/10/PGA-Tour-Logo-500x281.png" group-title="Live Events",[Golf PGA] Golf PGA The Memorial Tournament (FAWA)
+http://193.47.62.59/hls/RARARAQQ.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 1 (FAWA)
+http://193.47.62.194/hls/vavavava.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Horse Racing] Horse Racing 2 (FAWA)
+http://193.47.62.194/hls/vavavavaq.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="Live.Event.us" tvg-name="[Inkasso Deildin] Njardvik vs IR Reykjavik (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Inkasso Deildin] Njardvik vs IR Reykjavik (WATCHFTY)
+https://lb1.wfty.wtf/secure/AozYmQRCRAZn38maV_9XxA/regular/njardvik-ir-reykjavik/1/4662054/1780713034/playlist.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Azerbaijan vs Malta (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Azerbaijan vs Malta (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch7/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTg1LCJyYW5kIjoiNDY3MjZlMDg1Y2MyYzE4YyJ9.c8dcdc7c3e35a273f631db569be742ee362a2521acb7c145b66602c38b4e8011
+#EXTINF:-1 tvg-chno="217" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Belarus vs Syria (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Belarus vs Syria (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch6/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g2IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTgyLCJyYW5kIjoiMDM3NzNlYzJjNDU1ZjI5MSJ9.326bf2403d123906e03e47c63c015de9d4290f7b2379a70edf0242605c224d66
+#EXTINF:-1 tvg-chno="218" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Georgia vs Bahrain (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Georgia vs Bahrain (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch7/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTgzLCJyYW5kIjoiM2ZlYjUzYjkxM2IwMmRiYiJ9.453442f71356d4816f8aff40d77f96690421ebacfe14256e9b6349e91c79cafe
+#EXTINF:-1 tvg-chno="219" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Haiti vs Peru (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Haiti vs Peru (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch17/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNyIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU4OCwicmFuZCI6IjQ4YTcxY2EzNDMzNmNjYTYifQ.25d7e2267c79bc056767b4e38a14b80b1c3fa3836fcfe80a54a040d36c861237
+#EXTINF:-1 tvg-chno="220" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Mexico vs Serbia (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Mexico vs Serbia (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch11/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxMSIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU3OCwicmFuZCI6IjE3MTU5NDkxMzM0ODQwMzUifQ.6dd762447dc20819e66d21432408a4dbeecb96b628325a157c19bd1c0f77ab11
+#EXTINF:-1 tvg-chno="221" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Moldova vs Bulgaria (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Moldova vs Bulgaria (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch15/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNSIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU4NCwicmFuZCI6IjQ1ZGYxNTk1ZWIwYzY1MzYifQ.d45f0f758b95abd5bb94ea5d65bfd355a1d4ba136f216a0c231b2649d61ddb73
+#EXTINF:-1 tvg-chno="222" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Paraguay vs Nicaragua (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Paraguay vs Nicaragua (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch18/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxOCIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU4NywicmFuZCI6Ijc5ODE0MWNlMzg4YTdhYjcifQ.0ad778e94f032634a1cb2740cab3d4de608185acfb6721e475ac50486b755843
+#EXTINF:-1 tvg-chno="223" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Puerto Rico vs Saudi Arabia (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Puerto Rico vs Saudi Arabia (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch15/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNSIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU4NywicmFuZCI6IjNhZDA3MzVhMmUxMGI3ODIifQ.10ced08acbfe396eeb17dbe1dceaf2771fc5bd8250dd19f3c153f7cf2270712e
+#EXTINF:-1 tvg-chno="224" tvg-id="Live.Event.us" tvg-name="[International Friendlies] San Marino vs Bangladesh (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] San Marino vs Bangladesh (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch12/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxMiIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU4NSwicmFuZCI6ImQyNmFlZmUwYWM1NDg2ODIifQ.69e6daffb028c6a0cae1717e14b122411e5d1cd021dd73e72cb298810b987d9d
+#EXTINF:-1 tvg-chno="225" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Singapore vs China (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Singapore vs China (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch3/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzIiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTgwLCJyYW5kIjoiNGRhYWJkYmY3NDk2Yzk5NyJ9.a1ab1ffbd09a2872db0529f4b65606b31f33de164a15980da9eefa297cfd9ce4
+#EXTINF:-1 tvg-chno="226" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Slovakia vs Montenegro (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Slovakia vs Montenegro (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch8/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g4IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTg0LCJyYW5kIjoiNDU5YTk0OTA0MjI3ZmI0NiJ9.21cefab01239a13178813562008de5ac519e95259aa01dbfca9492d39b9cd13a
+#EXTINF:-1 tvg-chno="227" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Slovenia U21 vs Albania U21 (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Slovenia U21 vs Albania U21 (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch14/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNCIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU4NiwicmFuZCI6ImViOTU4Yjk1OWE5NDQyYmQifQ.4cad779c6aa3d10044034a0af03396bde285055991705dcd8fa7686caf151026
+#EXTINF:-1 tvg-chno="228" tvg-id="Live.Event.us" tvg-name="[International Friendlies] Thailand vs Kuwait (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendlies] Thailand vs Kuwait (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTgxLCJyYW5kIjoiMjUwYWIwMzQ1MmEwMTgyNCJ9.9c97e128a122e7984b49012354099691a6b0a0692ef42fb5fa376771964c1473
+#EXTINF:-1 tvg-chno="229" tvg-id="Live.Event.us" tvg-name="[International Friendly Games] Azerbaijan vs Malta (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[International Friendly Games] Azerbaijan vs Malta (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/51608/load-playlist
+#EXTINF:-1 tvg-chno="230" tvg-id="Live.Event.us" tvg-name="[Live Event] Baltimore Orioles vs Toronto Blue Jays 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Baltimore Orioles vs Toronto Blue Jays 1 (XYZSTRM)
+https://streamxyz.shop/orioles/index.m3u8
+#EXTINF:-1 tvg-chno="231" tvg-id="Live.Event.us" tvg-name="[Live Event] Baltimore Orioles vs Toronto Blue Jays 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Baltimore Orioles vs Toronto Blue Jays 2 (XYZSTRM)
+https://streamxyz.shop/bluejays/index.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="Live.Event.us" tvg-name="[Live Event] Boston Red Sox vs New York Yankees 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Boston Red Sox vs New York Yankees 1 (XYZSTRM)
+https://streamxyz.shop/redsox/index.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="Live.Event.us" tvg-name="[Live Event] Boston Red Sox vs New York Yankees 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Boston Red Sox vs New York Yankees 2 (XYZSTRM)
+https://streamxyz.shop/yankees/index.m3u8
+#EXTINF:-1 tvg-chno="234" tvg-id="Live.Event.us" tvg-name="[Live Event] Chicago White Sox vs Philadelphia Phillies 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Chicago White Sox vs Philadelphia Phillies 1 (XYZSTRM)
+https://streamxyz.shop/whitesox/index.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="Live.Event.us" tvg-name="[Live Event] Chicago White Sox vs Philadelphia Phillies 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Chicago White Sox vs Philadelphia Phillies 2 (XYZSTRM)
+https://streamxyz.shop/phillies/index.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="Live.Event.us" tvg-name="[Live Event] F1 Monaco Grand Prix vs Live (FSPRTS)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] F1 Monaco Grand Prix vs Live (FSPRTS)
+https://cdn6.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=yU8cD1-os4a3XuR9x9hZ2Q&expires=1780698061
+#EXTINF:-1 tvg-chno="237" tvg-id="Live.Event.us" tvg-name="[Live Event] Motogp Hungarian Grand Prix vs Live (FSPRTS)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Motogp Hungarian Grand Prix vs Live (FSPRTS)
+https://cdn4.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=1wxLDZLS8EpWZ_fJNGPpsA&expires=1780698059
+#EXTINF:-1 tvg-chno="238" tvg-id="Live.Event.us" tvg-name="[Live Event] Pittsburgh Pirates vs Atlanta Braves 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Pittsburgh Pirates vs Atlanta Braves 1 (XYZSTRM)
+https://streamxyz.shop/braves/index.m3u8
+#EXTINF:-1 tvg-chno="239" tvg-id="Live.Event.us" tvg-name="[Live Event] Pittsburgh Pirates vs Atlanta Braves 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Pittsburgh Pirates vs Atlanta Braves 2 (XYZSTRM)
+https://streamxyz.shop/pirates/index.m3u8
+#EXTINF:-1 tvg-chno="240" tvg-id="Live.Event.us" tvg-name="[Live Event] San Francisco Giants vs Chicago Cubs 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] San Francisco Giants vs Chicago Cubs 1 (XYZSTRM)
+https://streamxyz.shop/cubs/index.m3u8
+#EXTINF:-1 tvg-chno="241" tvg-id="Live.Event.us" tvg-name="[Live Event] San Francisco Giants vs Chicago Cubs 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] San Francisco Giants vs Chicago Cubs 2 (XYZSTRM)
+https://streamxyz.shop/giants/index.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-id="Live.Event.us" tvg-name="[Live Event] Seattle Mariners vs Detroit Tigers 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Seattle Mariners vs Detroit Tigers 1 (XYZSTRM)
+https://streamxyz.shop/tigers/index.m3u8
+#EXTINF:-1 tvg-chno="243" tvg-id="Live.Event.us" tvg-name="[Live Event] Seattle Mariners vs Detroit Tigers 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Seattle Mariners vs Detroit Tigers 2 (XYZSTRM)
+https://streamxyz.shop/mariners/index.m3u8
+#EXTINF:-1 tvg-chno="244" tvg-id="Live.Event.us" tvg-name="[Live Event] Tampa Bay Rays vs Miami Marlins 1 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Tampa Bay Rays vs Miami Marlins 1 (XYZSTRM)
+https://streamxyz.shop/marlins/index.m3u8
+#EXTINF:-1 tvg-chno="245" tvg-id="Live.Event.us" tvg-name="[Live Event] Tampa Bay Rays vs Miami Marlins 2 (XYZSTRM)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Tampa Bay Rays vs Miami Marlins 2 (XYZSTRM)
+https://streamxyz.shop/rays/index.m3u8
+#EXTINF:-1 tvg-chno="246" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Chicago Cubs vs San Francisco Giants (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Chicago Cubs vs San Francisco Giants (FAWA)
+http://193.47.62.59/hls/ULLLQQQQQQQ.m3u8
+#EXTINF:-1 tvg-chno="247" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Detroit Tigers vs Seattle Mariners (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Detroit Tigers vs Seattle Mariners (FAWA)
+http://193.47.62.59/hls/DVVVZZZZ.m3u8
+#EXTINF:-1 tvg-chno="248" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Philadelphia Phillies vs Chicago White Sox (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Philadelphia Phillies vs Chicago White Sox (FAWA)
+http://193.47.62.59/hls/DVVVZZZZZ.m3u8
+#EXTINF:-1 tvg-chno="249" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Angels vs Dodgers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Angels vs Dodgers (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=wTM5PCPhbKphcaQspm8Qr1bzwcR-pZ6VMkMIHLmv6fk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj%2F&expires=1780702213/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj/133.m3u8
+#EXTINF:-1 tvg-chno="250" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Astros (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Athletics vs Astros (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=7WvW2ivimgPLplG4sAZ2zO_7vf7oI9q611Tjq1RoeOg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU%2F&expires=1780702210/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF8__eOAS4ona3nPTLH_PcU/127.m3u8
+#EXTINF:-1 tvg-chno="251" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Houston Astros (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Athletics vs Houston Astros (ROXIE)
+https://601.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1 tvg-chno="252" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Athletics vs Houston Astros (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Athletics vs Houston Astros (TVAPP)
+https://tvpass.org/live/mlb08/sd
+#EXTINF:-1 tvg-chno="253" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs Toronto Blue Jays (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Baltimore Orioles vs Toronto Blue Jays (ROXIE)
+https://601.formaturamaxi.com.br/mlb5.m3u8
+#EXTINF:-1 tvg-chno="254" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs Toronto Blue Jays (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Baltimore Orioles vs Toronto Blue Jays (TVAPP)
+https://tvpass.org/live/mlb05/sd
+#EXTINF:-1 tvg-chno="255" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs New York Yankees (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Boston Red Sox vs New York Yankees (ROXIE)
+https://601.shadow-ran.online/mlb4.m3u8
+#EXTINF:-1 tvg-chno="256" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Boston Red Sox vs New York Yankees (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Boston Red Sox vs New York Yankees (TVAPP)
+https://tvpass.org/live/mlb04/sd
+#EXTINF:-1 tvg-chno="257" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Brewers vs Rockies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Brewers vs Rockies (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=6cL8WD2QxtuahqJO5BF4B673quxStJnCxVkCLRP-mMA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U%2F&expires=1780702212/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHCWstBNHwV90PfHdHBhH1U/119.m3u8
+#EXTINF:-1 tvg-chno="258" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs - San Francisco Giants (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Chicago Cubs - San Francisco Giants (EMBEDHD)
+https://cdn14.zohanayaan.com:1686/hls/mchicagocubs.m3u8?md5=Ibq8ioWVIZ2pAaZF4t7Tfw&expires=1780700458
+#EXTINF:-1 tvg-chno="259" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs San Francisco Giants (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Chicago Cubs vs San Francisco Giants (WATCHFTY)
+https://lb5.wfty.wtf/secure/086PAreL5wyJVl2m1-FJrA/delta/live_mlb_cubs-giants-live-streaming-1309551138/1/401815638/1780711652/playlist.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago Cubs vs San Francisco Giants (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Chicago Cubs vs San Francisco Giants (iSTRMEAST)
+https://chatgpt.hereisman.net/playlist/51610/load-playlist
+#EXTINF:-1 tvg-chno="261" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Philadelphia Phillies (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Chicago White Sox vs Philadelphia Phillies (ROXIE)
+https://601.formaturamaxi.com.br/mlb3.m3u8
+#EXTINF:-1 tvg-chno="262" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Chicago White Sox vs Philadelphia Phillies (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Chicago White Sox vs Philadelphia Phillies (TVAPP)
+https://tvpass.org/live/mlb03/sd
+#EXTINF:-1 tvg-chno="263" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs St. Louis Cardinals (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cincinnati Reds vs St. Louis Cardinals (ROXIE)
+https://601.formaturamaxi.com.br/mlb9.m3u8
+#EXTINF:-1 tvg-chno="264" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cincinnati Reds vs St. Louis Cardinals (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cincinnati Reds vs St. Louis Cardinals (TVAPP)
+https://tvpass.org/live/mlb09/sd
+#EXTINF:-1 tvg-chno="265" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Texas Rangers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs Texas Rangers (ROXIE)
+https://601.formaturamaxi.com.br/mlb10.m3u8
+#EXTINF:-1 tvg-chno="266" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Texas Rangers (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs Texas Rangers (TVAPP)
+https://tvpass.org/live/mlb10/sd
+#EXTINF:-1 tvg-chno="267" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Giants vs Cubs (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Giants vs Cubs (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=VX2WT0HBJmhQeqlJRK77P_bX0Omq4VFiv9n7d75VhXw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH%2F&expires=1780702208/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHZ93I_xuFSiN8-RD_9FMH/131.m3u8
+#EXTINF:-1 tvg-chno="268" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Guardians vs Rangers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Guardians vs Rangers (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=5y_4eRd9WkT57N7iLlTwxgg40VJIoy2Jc6igl5zFf1U&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn%2F&expires=1780702211/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGR1oN0jL8cTYEJOIzY0nUn/118.m3u8
+#EXTINF:-1 tvg-chno="269" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Kansas City Royals vs Minnesota Twins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Kansas City Royals vs Minnesota Twins (ROXIE)
+https://601.formaturamaxi.com.br/mlb11.m3u8
+#EXTINF:-1 tvg-chno="270" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Kansas City Royals vs Minnesota Twins (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Kansas City Royals vs Minnesota Twins (TVAPP)
+https://tvpass.org/live/mlb11/sd
+#EXTINF:-1 tvg-chno="271" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Los Angeles Dodgers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Angels vs Los Angeles Dodgers (ROXIE)
+https://601.formaturamaxi.com.br/mlb15.m3u8
+#EXTINF:-1 tvg-chno="272" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Angels vs Los Angeles Dodgers (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Angels vs Los Angeles Dodgers (TVAPP)
+https://tvpass.org/live/mlb15/sd
+#EXTINF:-1 tvg-chno="273" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mariners vs Tigers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Mariners vs Tigers (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=lFHO2NGZ6a0IZF7062lynJugPDXHHGKyNOc2QK_U778&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF%2F&expires=1780702209/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHAQgLZzD41Qfp9-i-sFQbF/122.m3u8
+#EXTINF:-1 tvg-chno="274" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Mets vs Padres (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Mets vs Padres (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=-D-T4M41AnB26sZvJn-jkC4MOUObztbH91ih5qVMXfM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne%2F&expires=1780702212/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHMyUSRQQg3W_cA0TcnRrne/126.m3u8
+#EXTINF:-1 tvg-chno="275" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Colorado Rockies (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Milwaukee Brewers vs Colorado Rockies (ROXIE)
+https://601.formaturamaxi.com.br/mlb12.m3u8
+#EXTINF:-1 tvg-chno="276" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Colorado Rockies (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Milwaukee Brewers vs Colorado Rockies (TVAPP)
+https://tvpass.org/live/mlb12/sd
+#EXTINF:-1 tvg-chno="277" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Nationals vs Diamondbacks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Nationals vs Diamondbacks (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=uhoFzxoospxq9QMzYXeCqHMlPV84lm-jN1c2S4VJtAs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC%2F&expires=1780702212/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGBXflkCKfjRK07h-uFRsfC/134.m3u8
+#EXTINF:-1 tvg-chno="278" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Mets vs San Diego Padres (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Mets vs San Diego Padres (ROXIE)
+https://601.formaturamaxi.com.br/mlb14.m3u8
+#EXTINF:-1 tvg-chno="279" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] New York Mets vs San Diego Padres (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] New York Mets vs San Diego Padres (TVAPP)
+https://tvpass.org/live/mlb14/sd
+#EXTINF:-1 tvg-chno="280" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Orioles vs Jays (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Orioles vs Jays (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=lfuN337E5DOpaQ8-RwUHijw7MtFrWc1-3OFhr-gnC48&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1%2F&expires=1780702209/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGyy0UoRQ5GA75dwhLcsEg1/125.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pirates vs Braves (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Pirates vs Braves (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=7tancZnSc1ElqEGwy1OJ0Nqgt0J_ZasDHwPisx3iO6g&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv%2F&expires=1780702210/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhPK4eaZswKqByclRPxZJv/129.m3u8
+#EXTINF:-1 tvg-chno="282" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pittsburgh Pirates vs Atlanta Braves (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Pittsburgh Pirates vs Atlanta Braves (ROXIE)
+https://601.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Pittsburgh Pirates vs Atlanta Braves (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Pittsburgh Pirates vs Atlanta Braves (TVAPP)
+https://tvpass.org/live/mlb07/sd
+#EXTINF:-1 tvg-chno="284" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Marlins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Rays vs Marlins (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=tjTll4SYMOMTQcTBvPplr18JkxLQr6wLywqo2D4qxd8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa%2F&expires=1780702210/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHZsOlsmHS6VI7_9gCD4qaa/111.m3u8
+#EXTINF:-1 tvg-chno="285" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Red Sox vs Yankees (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Red Sox vs Yankees (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=tVdbvWIhhUD5RHfnayJo-sct1lKd6iccLkxCfnwFbqc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG%2F&expires=1780702209/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFdY_2JwwLMXm_4wld0sOWG/124.m3u8
+#EXTINF:-1 tvg-chno="286" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Reds vs Cardinals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Reds vs Cardinals (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=iWyTW3JftIyzdeoKvJgPsob_e9YYUzV_0LmVUXPsO34&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym%2F&expires=1780702211/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE2MA4quVZp1ibsg6-giqym/132.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Royals vs Twins (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Royals vs Twins (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=lpFEwjXyvK4wi5gR5xJ_0A6U0QfHm6MR91clcAiIA3M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD%2F&expires=1780702211/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhE-kVPYAho_0IjgB4kSm2HD/121.m3u8
+#EXTINF:-1 tvg-chno="288" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Francisco Giants vs Chicago Cubs (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Francisco Giants vs Chicago Cubs (ROXIE)
+https://601.shadow-ran.online/mlb.m3u8
+#EXTINF:-1 tvg-chno="289" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] San Francisco Giants vs Chicago Cubs (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] San Francisco Giants vs Chicago Cubs (TVAPP)
+https://tvpass.org/live/mlb01/sd
+#EXTINF:-1 tvg-chno="290" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Detroit Tigers (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Seattle Mariners vs Detroit Tigers (ROXIE)
+https://601.shadow-ran.online/mlb2.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Seattle Mariners vs Detroit Tigers (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Seattle Mariners vs Detroit Tigers (TVAPP)
+https://tvpass.org/live/mlb02/sd
+#EXTINF:-1 tvg-chno="292" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay Rays vs Miami Marlins (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Tampa Bay Rays vs Miami Marlins (ROXIE)
+https://601.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1 tvg-chno="293" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay Rays vs Miami Marlins (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Tampa Bay Rays vs Miami Marlins (TVAPP)
+https://tvpass.org/live/mlb06/sd
+#EXTINF:-1 tvg-chno="294" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington Nationals vs Arizona Diamondbacks (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Washington Nationals vs Arizona Diamondbacks (ROXIE)
+https://601.formaturamaxi.com.br/mlb13.m3u8
+#EXTINF:-1 tvg-chno="295" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Washington Nationals vs Arizona Diamondbacks (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Washington Nationals vs Arizona Diamondbacks (TVAPP)
+https://tvpass.org/live/mlb13/sd
+#EXTINF:-1 tvg-chno="296" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] White Sox vs Phillies (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] White Sox vs Phillies (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=rSFXuFCocbFQSaQfx13kNfPN8Vs4EUOrrhcPxe_S5Xs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37%2F&expires=1780702208/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFHXyGMsexAg3zeyZCxQh37/114.m3u8
+#EXTINF:-1 tvg-chno="297" tvg-id="Live.Event.us" tvg-name="[MMA Fighting] MMA ONE Championship (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[MMA Fighting] MMA ONE Championship (FAWA)
+http://193.47.62.50/hls/RARARA.m3u8
+#EXTINF:-1 tvg-chno="298" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Athletics vs Houston Astros (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Athletics vs Houston Astros (STRMSGATE)
+https://instreams.pro/US/MLB10/index.m3u8
+#EXTINF:-1 tvg-chno="299" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Baltimore Orioles vs Toronto Blue Jays (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Baltimore Orioles vs Toronto Blue Jays (STRMSGATE)
+https://instreams.pro/US/MLB5/index.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Boston Red Sox vs New York Yankees (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Boston Red Sox vs New York Yankees (STRMSGATE)
+https://instreams.pro/US/MLB4/index.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Chicago White Sox vs Philadelphia Phillies (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Chicago White Sox vs Philadelphia Phillies (STRMSGATE)
+https://instreams.pro/US/MLB2/index.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Cincinnati Reds vs St. Louis Cardinals (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Cincinnati Reds vs St. Louis Cardinals (STRMSGATE)
+https://instreams.pro/US/MLB12/index.m3u8
+#EXTINF:-1 tvg-chno="303" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Cleveland Guardians vs Texas Rangers (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Cleveland Guardians vs Texas Rangers (STRMSGATE)
+https://instreams.pro/US/MLB9/index.m3u8
+#EXTINF:-1 tvg-chno="304" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Kansas City Royals vs Minnesota Twins (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Kansas City Royals vs Minnesota Twins (STRMSGATE)
+https://instreams.pro/US/MLB11/index.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Los Angeles Angels vs Los Angeles Dodgers (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Los Angeles Angels vs Los Angeles Dodgers (STRMSGATE)
+https://instreams.pro/US/MLB15/index.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Milwaukee Brewers vs Colorado Rockies (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Milwaukee Brewers vs Colorado Rockies (STRMSGATE)
+https://instreams.pro/US/MLB8/index.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] New York Mets vs San Diego Padres (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] New York Mets vs San Diego Padres (STRMSGATE)
+https://instreams.pro/US/MLB13/index.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Pittsburgh Pirates vs Atlanta Braves (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Pittsburgh Pirates vs Atlanta Braves (STRMSGATE)
+https://instreams.pro/US/MLB7/index.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] San Francisco Giants vs Chicago Cubs (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] San Francisco Giants vs Chicago Cubs (STRMSGATE)
+https://cdn.cooldest.click/live/pzxtzgyd9s.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Seattle Mariners vs Detroit Tigers (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Seattle Mariners vs Detroit Tigers (STRMSGATE)
+https://instreams.pro/US/MLB3/index.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Tampa Bay Rays vs Miami Marlins (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Tampa Bay Rays vs Miami Marlins (STRMSGATE)
+https://instreams.pro/US/MLB6/index.m3u8
+#EXTINF:-1 tvg-chno="312" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Washington Nationals vs Arizona Diamondbacks (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Washington Nationals vs Arizona Diamondbacks (STRMSGATE)
+https://instreams.pro/US/MLB14/index.m3u8
+#EXTINF:-1 tvg-chno="313" tvg-id="Basketball.Dummy.us" tvg-name="[NBA] Canada vs Ireland Republic (TSPRTK3)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[NBA] Canada vs Ireland Republic (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch16/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNiIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU1NiwicmFuZCI6IjQ1YTgxOTEyMjA3YWJlOTIifQ.0ba5afc7eea9ef4fe5e08f2be9e178fd302f3035cb6e77bc261f8265978fd3de
+#EXTINF:-1 tvg-chno="314" tvg-id="Basketball.Dummy.us" tvg-name="[NBA] Hungary vs Finland (TSPRTK3)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[NBA] Hungary vs Finland (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch13/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxMyIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU1NiwicmFuZCI6IjBhOGRmOGI0MDZkMGQzNDcifQ.ad7f10639cf5d691296de0408c1b7e43e7386c2909f2d865c44e5141e3cd7b1f
+#EXTINF:-1 tvg-chno="315" tvg-id="Basketball.Dummy.us" tvg-name="[NBA] Indonesia vs Oman (TSPRTK3)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[NBA] Indonesia vs Oman (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch5/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g1IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTU0LCJyYW5kIjoiZTAzZDFjMDZjOTMwZmU5NyJ9.c16f7f2523d80fd4829fea38fe40a0274d40012e5cfa6556519da0ffeff03a00
+#EXTINF:-1 tvg-chno="316" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New York Knicks vs San Antonio Spurs (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] New York Knicks vs San Antonio Spurs (ROXIE)
+https://daffodil.shadow-ran.online/nba.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] New York Knicks vs San Antonio Spurs (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] New York Knicks vs San Antonio Spurs (TVAPP)
+https://tvpass.org/live/nba01/sd
+#EXTINF:-1 tvg-chno="318" tvg-id="Basketball.Dummy.us" tvg-name="[NBA] Russia vs Burkina Faso (TSPRTK3)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[NBA] Russia vs Burkina Faso (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch9/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g5IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTU1LCJyYW5kIjoiYmE2NjdkNWFhMmYwZjE1NiJ9.c2eba5f683c9f4d171d402f2651a7b772c431e5e96738c40d314101bb9e9e3ea
+#EXTINF:-1 tvg-chno="319" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] San Antonio Spurs vs New York Knicks (TSPRTK3)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] San Antonio Spurs vs New York Knicks (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch22/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMiIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU5OCwicmFuZCI6ImM0OTlkODE3NjcwZDRkZDUifQ.70ee63fbde7e8cfd62e5f87411897a79566e6566cddd94aea9433aeb350a2d8a
+#EXTINF:-1 tvg-chno="320" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Hurricanes vs Golden Knights (TSPRTK3)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Hurricanes vs Golden Knights (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch8/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g4IiwiaXAiOiIyMDkuNi4xNzkuMTk3IiwiZXhwIjoxNzgwNjgyNTYzLCJyYW5kIjoiYzdlNjAwNTZlNjI2YTcxNSJ9.861632c0efc1ebe94362ab9f91aacb457895e2746ec4911b96f959c33c1f9aa7
+#EXTINF:-1 tvg-chno="321" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Knights vs Hurricanes (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Knights vs Hurricanes (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=beJNS-b0NPlD6H4YMdid-Tadm5rYn2PNJCqalRhM4_M&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l%2F&expires=1780702213/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhF4tv4QUEipWRQWS2zEeu5l/92.m3u8
+#EXTINF:-1 tvg-chno="322" tvg-id="Live.Event.us" tvg-name="[NM Cupen] Varhaug vs Hinna FK (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[NM Cupen] Varhaug vs Hinna FK (WATCHFTY)
+https://lb2.wfty.wtf/secure/Qi1FOV15kOLbHA0hdqSuug/regular/varhaug-hinna-fk/1/4731248/1780705868/playlist.m3u8
+#EXTINF:-1 tvg-chno="323" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] New York Knicks vs San Antonio Spurs (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] New York Knicks vs San Antonio Spurs (STRMSGATE)
+https://instreams.pro/US/NBA1/index.m3u8
+#EXTINF:-1 tvg-chno="324" tvg-id="Racing.Dummy.us" tvg-name="[Racing] ARCA Menards Series - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] ARCA Menards Series - Race (ROXIE)
+https://daffodil.thelistener.pk/fs2.m3u8
+#EXTINF:-1 tvg-chno="325" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Formula 1 - Free Practice (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] Formula 1 - Free Practice (ROXIE)
+https://daffodil.shadow-ran.online/f1.m3u8
+#EXTINF:-1 tvg-chno="326" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Isle of Man TT - Coverage (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] Isle of Man TT - Coverage (ROXIE)
+https://601.shadow-ran.online/tt.m3u8
+#EXTINF:-1 tvg-chno="327" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MotoGP - Coverage (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] MotoGP - Coverage (ROXIE)
+https://601.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-chno="328" tvg-id="Live.Event.us" tvg-name="[Rugby 7s] Rugby SVNS France (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Rugby 7s] Rugby SVNS France (FAWA)
+http://193.47.62.53/hls/KUUUqQ.m3u8
+#EXTINF:-1 tvg-chno="329" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Canada vs Ireland (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Canada vs Ireland (ROXIE)
+https://601.shadow-ran.online/tudnmx.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Hungary vs Finland (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Hungary vs Finland (ROXIE)
+https://daffodil.shadow-ran.online/fsp.m3u8
+#EXTINF:-1 tvg-chno="331" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Moldova vs Bulgaria (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Moldova vs Bulgaria (ROXIE)
+https://daffodil.formaturamaxi.com.br/bulg.m3u8
+#EXTINF:-1 tvg-chno="332" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Paraguay vs Nicaragua (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Paraguay vs Nicaragua (ROXIE)
+https://daffodil.shadow-ran.online/fsp.m3u8
+#EXTINF:-1 tvg-chno="333" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Puerto Rico vs Saudi Arabia (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Puerto Rico vs Saudi Arabia (ROXIE)
+https://daffodil.sandhost.qzz.io/fs2.m3u8
+#EXTINF:-1 tvg-chno="334" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Singapore vs China (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Singapore vs China (ROXIE)
+https://601.shadow-ran.online/cyrus.m3u8
+#EXTINF:-1 tvg-chno="335" tvg-id="Soccer.Dummy.us" tvg-name="[Soccer] Slovakia vs Montenegro (ROXIE)" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Live Events",[Soccer] Slovakia vs Montenegro (ROXIE)
+https://daffodil.thelistener.pk/fubo.m3u8
+#EXTINF:-1 tvg-chno="336" tvg-id="Live.Event.us" tvg-name="[Spain Basketball ACB] Joventut Badalona vs Baskonia (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Spain Basketball ACB] Joventut Badalona vs Baskonia (FAWA)
+http://193.47.62.59/hls/ZFFFZZ.m3u8
+#EXTINF:-1 tvg-chno="337" tvg-id="Live.Event.us" tvg-name="[UEFA Women WC Qualifiers] Belgium (W) vs Luxembourg (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[UEFA Women WC Qualifiers] Belgium (W) vs Luxembourg (W) (WATCHFTY)
+https://lb3.wfty.wtf/secure/pP5qHwugVZ805nEwRFlU6g/regular/belgium-luxembourg/1/4617989/1780707649/playlist.m3u8
+#EXTINF:-1 tvg-chno="338" tvg-id="Live.Event.us" tvg-name="[UEFA Women WC Qualifiers] Denmark (W) vs Sweden (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[UEFA Women WC Qualifiers] Denmark (W) vs Sweden (W) (WATCHFTY)
+https://lb2.wfty.wtf/secure/AEI2gFRSEX_NWcxjo4B0gQ/regular/denmark-sweden/1/4617985/1780704159/playlist.m3u8
+#EXTINF:-1 tvg-chno="339" tvg-id="Live.Event.us" tvg-name="[UEFA Women WC Qualifiers] Germany (W) vs Norway (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[UEFA Women WC Qualifiers] Germany (W) vs Norway (W) (WATCHFTY)
+https://lb3.wfty.wtf/secure/6LbZ3aW97sn34NTOLlP5Gw/regular/germany-norway/3/4617994/1780711266/playlist.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-id="Live.Event.us" tvg-name="[UEFA Women WC Qualifiers] Ireland (W) vs Netherlands (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[UEFA Women WC Qualifiers] Ireland (W) vs Netherlands (W) (WATCHFTY)
+https://lb6.wfty.wtf/secure/gOTBepE3DpSWuXnUmIDStQ/regular/republic-of-ireland-netherlands/1/4617995/1780707648/playlist.m3u8
+#EXTINF:-1 tvg-chno="341" tvg-id="Live.Event.us" tvg-name="[UEFA Women WC Qualifiers] Portugal (W) vs Latvia (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[UEFA Women WC Qualifiers] Portugal (W) vs Latvia (W) (WATCHFTY)
+https://lb2.wfty.wtf/secure/EUz8-XUiz5EzsxSPrf8OHA/regular/portugal-latvia/1/4617980/1780711264/playlist.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-id="Live.Event.us" tvg-name="[UEFA Women WC Qualifiers] Spain (W) vs England (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[UEFA Women WC Qualifiers] Spain (W) vs England (W) (WATCHFTY)
+https://lb3.wfty.wtf/secure/0rE-bV6qMU3T-qGTWeNXXQ/regular/spain-england/1/4617984/1780711261/playlist.m3u8
+#EXTINF:-1 tvg-chno="343" tvg-id="Live.Event.us" tvg-name="[Uruguay Liga AUF] Wanderers vs Danubio (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Uruguay Liga AUF] Wanderers vs Danubio (FAWA)
+http://193.47.62.59/hls/DVVVZZZx.m3u8
+#EXTINF:-1 tvg-chno="344" tvg-id="Live.Event.us" tvg-name="[Volleyball Nations League (W)] Dominican Republic (W) vs Bulgaria (W) (WATCHFTY)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Volleyball Nations League (W)] Dominican Republic (W) vs Bulgaria (W) (WATCHFTY)
+https://lb2.wfty.wtf/secure/VdjM6soerWyijJbP34NwRg/regular/dominican-republic-w-bulgaria-w/1/4668205/1780713033/playlist.m3u8
+#EXTINF:-1 tvg-chno="345" tvg-id="Live.Event.us" tvg-name="[WWE Wrestling] WWE Friday Night Smackdown (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WWE Wrestling] WWE Friday Night Smackdown (FAWA)
+http://193.47.62.44/hls/RGREGREQZ.m3u8
+#EXTINF:-1 tvg-chno="346" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[WWE] WWE vs European Summer Tour (TSPRTK3)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[WWE] WWE vs European Summer Tour (TSPRTK3)
+https://fg1.fgfbg5433dd.site/simpch21/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMSIsImlwIjoiMjA5LjYuMTc5LjE5NyIsImV4cCI6MTc4MDY4MjU1NywicmFuZCI6ImI4NGE4OTgzMzZjMjM5MmEifQ.29df077646a477f8753efe47130ad05d7ac734705b72cde479ba67df07daf936
 # RAKUTEN SAMSUNG PLUTO
 #EXTINF:-1 tvg-id="40d73ba5be775428a377908b02033b4c" tvg-name="Baby Shark TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a037e33c-a084-4a63-b433-b227d0bc2c59.jpeg" tvg-chno="610" group-title="Animazione",Baby Shark TV
 https://rakuten.xer94x.workers.dev/baby-shark-tv/index.m3u8?lang=ENG
@@ -1556,7 +2449,6 @@ https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
 https://rakuten.xer94x.workers.dev/world-poker-tour/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League 24/7" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cc6bb9fa-fbea-40a7-9f1d-ace3c25e9eea.jpeg" tvg-chno="353" group-title="Sport",World Surf League 24/7
 https://rakuten.xer94x.workers.dev/world-surf-league/index.m3u8?lang=ENG
-
 # LG
 
 tvg-chno="48" tvg-id="" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Animazione",BeJoy.Kids
