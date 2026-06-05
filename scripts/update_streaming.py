@@ -24,6 +24,7 @@ RE_TVGID   = re.compile(r'tvg-id="([^"]*)"')
 RE_LOGO    = re.compile(r'tvg-logo="([^"]*)"')
 RE_GROUP   = re.compile(r'group-title="([^"]*)"')
 RE_EXTREM  = re.compile(r'^#EXTREM\s+\[?(https?://[^\]\s]+)\]?', re.IGNORECASE)
+RE_TVGURL  = re.compile(r'url-tvg="([^"]*)"', re.IGNORECASE)
 RE_SAMSUNG = re.compile(r'^IT', re.IGNORECASE)
 RE_ROKU    = re.compile(r'^[0-9a-f]{32}$', re.IGNORECASE)
 RE_JMP2UK  = re.compile(r'https?://jmp2\.uk', re.IGNORECASE)
@@ -235,9 +236,13 @@ def split_streaming_blocks(lines: list):
     blocks = []
     current_name = None
     current_lines = []
+    header_tvgurl = ''
     for raw in lines:
         stripped = raw.strip()
-        if stripped == '#EXTM3U':
+        if stripped.startswith('#EXTM3U'):
+            m = RE_TVGURL.search(stripped)
+            if m:
+                header_tvgurl = m.group(1)
             continue
         if stripped.startswith('#') and not RE_EXTINF.match(stripped):
             tag = stripped.lstrip('#').strip().strip('"')
@@ -254,7 +259,7 @@ def split_streaming_blocks(lines: list):
             current_lines.append(raw)
     if current_name is not None:
         blocks.append((current_name, current_lines))
-    return prefix, blocks
+    return prefix, blocks, header_tvgurl
 
 
 def parse_block_channels(block_lines: list):
@@ -305,7 +310,7 @@ def main():
             print(f'AVVISO: {path.name} non trovato, skip.')
 
     raw_streaming = streaming_path.read_text(encoding='utf-8', errors='replace').splitlines()
-    prefix, blocks = split_streaming_blocks(raw_streaming)
+    prefix, blocks, header_tvgurl = split_streaming_blocks(raw_streaming)
     current_channels = parse_m3u(streaming_path)
     present_ids = {c['tvg_id'] for c in current_channels if c['tvg_id']}
 
@@ -387,9 +392,8 @@ def main():
 
     updated_count = sum(len(normalized_blocks[b]) for b in NORMALIZED_BLOCKS)
 
-    out_lines = ['#EXTM3U']
-    if prefix:
-        out_lines.extend(prefix)
+    extm3u_header = f'#EXTM3U url-tvg="{header_tvgurl}"' if header_tvgurl else '#EXTM3U'
+    out_lines = [extm3u_header]
 
     for block_name in BLOCK_ORDER:
         if block_name in MANAGED_SORT_BLOCKS:
