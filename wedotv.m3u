@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-url="https://wedotv.xer94x.workers.dev/epg.gz"
 #EXTINF:-1 tvg-id="248" tvg-name="Risate Dal Sud - Mud?" tvg-logo="https://cdn-01.watch4.com/01/1750756673_risate-dal-sud-mudo_white_logo.png" group-title="Comedy" tvg-chno="29",Risate Dal Sud - Mud?
 https://wedotv.xer94x.workers.dev/248/index.m3u8
 #EXTINF:-1 tvg-id="233" tvg-name="InFast" tvg-logo="https://cdn-01.watch4.com/01/1771603686_infast-worldwide_white_logo.png" group-title="Documentary" tvg-chno="49",InFast
@@ -101,3 +101,4 @@ https://wedotv.xer94x.workers.dev/398/index.m3u8
 https://wedotv.xer94x.workers.dev/34/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Trailers" tvg-logo="https://cdn-01.watch4.com/01/trailers-it_white_logo.png" group-title="wedotv" tvg-chno="32",Trailers
 https://wedotv.xer94x.workers.dev/52/index.m3u8
+
