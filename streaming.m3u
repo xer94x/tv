@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml"
-
 # DTT
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-name="Rai 1" tvg-logo="https://i.ibb.co/qMcsYXFB/101-rai-1-it.png" group-title="Rai",Rai 1
@@ -1330,7 +1329,7 @@ https://rakuten.xer94x.workers.dev/newsworld-ita/index.m3u8?lang=ITA
 https://jmp2.uk/stvp-IT3200004WU
 #EXTINF:-1 channel-id="IT3400003D6" tvg-id="IT3400003D6" tvg-chno="4559" tvg-name="Sky News International" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky%20News%20International.png" group-title="News",Sky News International
 https://jmp2.uk/stvp-IT3400003D6
-#EXTINF:-1 tvg-id="RakutenReutersNew.it" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" tvg-chno="881" group-title="News",The Reuters 60
+#EXTINF:-1 tvg-id="the-reuters-60" tvg-name="The Reuters 60" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg" tvg-chno="881" group-title="News",The Reuters 60
 https://rakuten.xer94x.workers.dev/the-reuters-60/index.m3u8?lang=DEU
 #EXTINF:-1 channel-id="IT18000033C" tvg-id="IT18000033C" tvg-chno="4565" tvg-name="TV5 Monde Info" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/TV5%20Monde%20Info.png" group-title="News",TV5 Monde Info
 https://jmp2.uk/stvp-IT18000033C
