@@ -35,6 +35,7 @@ BLOCK_ORDER = [
     'SPORT',
     'RADIO ITALIANE',
     'SICILIA',
+    'TGR SICILIA',
     'SVIZZERA',
     'USATV',
     'LIVE EVENTS',
@@ -69,6 +70,7 @@ SOURCE_REBUILT_BLOCKS = {
     'SVIZZERA',
     'USATV',
     'LIVE EVENTS',
+    'TGR SICILIA',
 }
 
 MANAGED_SORT_BLOCKS = NORMALIZED_BLOCKS
@@ -305,6 +307,7 @@ def main():
         'wedotv': base / 'wedotv.m3u',
         'netplus': base / 'netplus.m3u',
         'usatv': base / 'usaTV.m3u',
+        'tgr_sicilia': base / 'tgr_sicilia.m3u',
     }
     if not streaming_path.exists():
         print('ERRORE: streaming.m3u non trovato.', file=sys.stderr)
@@ -426,6 +429,12 @@ def main():
         if ch.get('group', '').strip() == 'Live Events':
             liveevents_channels.append((ch['extinf'], ch['url']))
 
+    # TGR SICILIA: tutti i VOD di tgr_sicilia.m3u, group-title forzato a "TGR Sicilia"
+    tgr_sicilia_channels = []
+    for ch in source_channels.get('tgr_sicilia', []):
+        new_extinf = set_attr(ch['extinf'], RE_GROUP, 'group-title', 'TGR Sicilia')
+        tgr_sicilia_channels.append((new_extinf, ch['url']))
+
     extm3u_header = f'#EXTM3U url-tvg="{header_tvgurl}"' if header_tvgurl else '#EXTM3U'
     out_lines = [extm3u_header]
 
@@ -433,6 +442,7 @@ def main():
         'SVIZZERA': svizzera_channels,
         'USATV': usatv_channels,
         'LIVE EVENTS': liveevents_channels,
+        'TGR SICILIA': tgr_sicilia_channels,
     }
 
     for block_name in BLOCK_ORDER:
@@ -467,6 +477,7 @@ def main():
     print(f'SVIZZERA: {len(svizzera_channels)} canali')
     print(f'USATV: {len(usatv_channels)} canali')
     print(f'LIVE EVENTS: {len(liveevents_channels)} canali')
+    print(f'TGR SICILIA: {len(tgr_sicilia_channels)} VOD')
 
     if updated_count == 0 and len(new_channels) == 0:
         print('Nessuna modifica rilevata: o i canali sono giÃ  allineati, oppure i tvg-id dei blocchi gestiti non trovano corrispondenza nelle playlist sorgenti, oppure le playlist sorgenti non sono presenti/in root.')
