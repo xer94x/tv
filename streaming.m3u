@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz, https://wedotv.xer94x.workers.dev/epg.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz, https://wedotv.xer94x.workers.dev/epg.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml, https://s.id/d9sEPG"
 # DTT
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-name="Rai 1" tvg-logo="https://i.ibb.co/qMcsYXFB/101-rai-1-it.png" group-title="Rai",Rai 1
