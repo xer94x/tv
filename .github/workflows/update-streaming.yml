@@ -2,7 +2,7 @@ name: update-streaming
 
 on:
 schedule:
-    - cron: '*/15 * * * *'   # ogni 15 minuti, 24 ore su 24
+   - cron: '*/15 7-23 * * *'   # ogni 15 min, dalle 07:00 alle 23:45 UTC
   workflow_dispatch:
 
 permissions:
