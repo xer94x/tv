@@ -3,8 +3,6 @@
 # SKY
 #EXTINF:-1 tvg-chno="108" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Uno.png" group-title="SKY",108 UNO
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177632&extension=ts&play_token=aIjqNWL8tP
-#EXTINF:-1 tvg-chno="301" tvg-id="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Uno.png" group-title="SKY",110 CINEMA UNO
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177634&extension=ts&play_token=u1Z9k3YWbJ
 #EXTINF:-1 tvg-chno="111" tvg-id="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Atlantic.png" group-title="SKY",111 ATLANTIC
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177655&extension=ts&play_token=jwmIOwrf4n
 #EXTINF:-1 tvg-chno="113" tvg-id="Sky Investigation" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Investigation.png" group-title="SKY",113 INVESTIGATION
