@@ -113,6 +113,17 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177643&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177635&extension=ts&play_token=73daj2ygUP
 #EXTINF:-1 tvg-chno="311" tvg-id="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Due +24.png" group-title="SKY CINEMA",311 CINEMA STORIES+24
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177639&extension=ts&play_token=HRpKeT46me
+#EXTINF:-1 tvg-chno="312" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Primafila%201.png",SKY STORE INFO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569227&extension=ts&play_token=L0Xl56Xx2u
+#EXTINF:-1 tvg-chno="313" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Primafila%201.png",SKY MIX SERIES INFO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169287&extension=ts&play_token=L0Xl56Xx2u
+#EXTINF:-1 tvg-chno="314" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Netflix.jpg",NETFLIX PREMIERE INFO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169316&extension=ts&play_token=L0Xl56Xx2u
+#EXTINF:-1 tvg-chno="315" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Netflix.jpg",NETFLIX SERIES INFO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169351&extension=ts&play_token=L0Xl56Xx2u
+
+
+
 
 # DAZN SERIE A
 #EXTINF:-1 tvg-chno="214" tvg-id="Zona DAZN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="DAZN SERIE A",ZONA DAZN
