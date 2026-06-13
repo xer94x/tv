@@ -1,6 +1,8 @@
+# https://www.youtube.com/feeds/videos.xml?channel_id= https://www.youtube.com/feeds/videos.xml?playlist_id=
+
 env:
   DEFAULT_SOURCES: |
-    https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|dazn
+    https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
   DEFAULT_MAX_ITEMS: "50"
 
 name: Update YouTube M3U
@@ -11,7 +13,7 @@ on:
       sources:
         description: "Una riga per feed: FEED_URL|GRUPPO"
         required: false
-        default: "https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|dazn"
+        default: "https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn"
         type: string
       max_items:
         description: "Numero massimo di video per feed"
