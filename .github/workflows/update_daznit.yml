@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Generate daznit.m3u
+      - name: Generate daznit.m3u with thumbnails
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -42,21 +42,28 @@ jobs:
           for entry in entries:
               title = entry.get("title", "Senza titolo").replace("\n", " ").strip()
               link = entry.get("link", "").strip()
+
+              thumb = ""
+              media_thumbnail = entry.get("media_thumbnail")
+              if media_thumbnail and isinstance(media_thumbnail, list):
+                  thumb = media_thumbnail[0].get("url", "").strip()
+
               if not link:
                   continue
-              lines.append(f"#EXTINF:-1,{title}")
+
+              if thumb:
+                  lines.append(f'#EXTINF:-1 tvg-logo="{thumb}",{title}')
+              else:
+                  lines.append(f'#EXTINF:-1,{title}')
               lines.append(link)
 
           OUTPUT_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
           PY
-
-      - name: Debug files
-        run: ls -la
 
       - name: Commit updated playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add daznit.m3u
-          git commit -m "Update daznit.m3u" || exit 0
+          git commit -m "Update daznit.m3u with thumbnails" || exit 0
           git push
