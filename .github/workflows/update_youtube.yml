@@ -13,7 +13,7 @@ on:
         description: "Lascia vuoto per usare DEFAULT_MAX_ITEMS"
         required: false
         type: string
-  schedule:
+ schedule:
     - cron: "0 */6 * * *"
 
 env:
