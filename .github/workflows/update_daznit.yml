@@ -1,0 +1,63 @@
+name: Update YouTube M3U
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Generate M3U playlist
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import feedparser
+
+          FEED_URL = "https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg"
+          M3U_PATH = Path("daznit.m3u")
+          TXT_PATH = Path("daznit.txt")
+          MAX_ITEMS = 50
+
+          feed = feedparser.parse(FEED_URL)
+          entries = feed.entries[:MAX_ITEMS]
+
+          m3u_lines = ["#EXTM3U"]
+          txt_lines = []
+
+          for entry in entries:
+              title = entry.get("title", "Senza titolo").replace("\n", " ").strip()
+              link = entry.get("link", "").strip()
+              if not link:
+                  continue
+              m3u_lines.append(f"#EXTINF:-1,{title}")
+              m3u_lines.append(link)
+              txt_lines.append(link)
+
+          M3U_PATH.write_text("\n".join(m3u_lines) + "\n", encoding="utf-8")
+          TXT_PATH.write_text("\n".join(txt_lines) + "\n", encoding="utf-8")
+          PY
+
+      - name: Commit updated playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daznit-latest.m3u daznit-latest.txt
+          git commit -m "Update DAZN Italia playlist" || exit 0
+          git push
