@@ -1,12 +1,5 @@
 # https://www.youtube.com/feeds/videos.xml?channel_id= https://www.youtube.com/feeds/videos.xml?playlist_id=
 
-env:
-  DEFAULT_SOURCES: |
-    https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
-    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
-    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhwNTGicMeHDbMWJyY7XWez-|Mondiali 2006
-  DEFAULT_MAX_ITEMS: "50"
-
 name: Update YouTube M3U
 
 on:
@@ -23,16 +16,19 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
+env:
+  DEFAULT_SOURCES: |
+    https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
+    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
+    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhwNTGicMeHDbMWJyY7XWez-|Mondiali 2006
+  DEFAULT_MAX_ITEMS: "50"
+
 permissions:
   contents: write
 
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
-    env:
-      SOURCES: ${{ inputs.sources || env.DEFAULT_SOURCES }}
-      MAX_ITEMS: ${{ inputs.max_items || env.DEFAULT_MAX_ITEMS }}
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -46,6 +42,9 @@ jobs:
         run: pip install feedparser
 
       - name: Generate youtube.m3u
+        env:
+          SOURCES: ${{ inputs.sources || env.DEFAULT_SOURCES }}
+          MAX_ITEMS: ${{ inputs.max_items || env.DEFAULT_MAX_ITEMS }}
         run: |
           python - <<'PY2'
           from pathlib import Path
@@ -63,37 +62,30 @@ jobs:
 
           lines = ["#EXTM3U"]
           seen_links = set()
-
           normalized = raw_sources.replace("\\n", "\n")
+
           for row in normalized.splitlines():
               row = row.strip()
               if not row or "|" not in row:
                   continue
-
               feed_url, group = row.split("|", 1)
               feed_url = feed_url.strip()
               group = group.strip() or "youtube"
-
               feed = feedparser.parse(feed_url)
               entries = feed.entries[:max_items]
-
               for entry in entries:
                   title = entry.get("title", "Senza titolo").replace("\n", " ").strip()
                   link = entry.get("link", "").strip()
-
                   if not link or link in seen_links:
                       continue
-
                   thumb = ""
                   media_thumbnail = entry.get("media_thumbnail")
                   if media_thumbnail and isinstance(media_thumbnail, list):
                       thumb = media_thumbnail[0].get("url", "").strip()
-
                   if thumb:
                       lines.append(f'#EXTINF:-1 tvg-logo="{thumb}" group-title="{group}",{title}')
                   else:
                       lines.append(f'#EXTINF:-1 group-title="{group}",{title}')
-
                   lines.append(link)
                   seen_links.add(link)
 
