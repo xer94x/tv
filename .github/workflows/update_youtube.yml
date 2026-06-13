@@ -3,6 +3,8 @@
 env:
   DEFAULT_SOURCES: |
     https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
+    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
+    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhwNTGicMeHDbMWJyY7XWez-|Mondiali 2006
   DEFAULT_MAX_ITEMS: "50"
 
 name: Update YouTube M3U
@@ -11,14 +13,12 @@ on:
   workflow_dispatch:
     inputs:
       sources:
-        description: "Una riga per feed: FEED_URL|GRUPPO"
+        description: "Lascia vuoto per usare DEFAULT_SOURCES. Una riga per feed: FEED_URL|GRUPPO"
         required: false
-        default: "https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn"
         type: string
       max_items:
-        description: "Numero massimo di video per feed"
+        description: "Lascia vuoto per usare DEFAULT_MAX_ITEMS"
         required: false
-        default: "50"
         type: string
   schedule:
     - cron: "0 */6 * * *"
@@ -107,4 +107,3 @@ jobs:
           git add youtube.m3u
           git commit -m "Update youtube.m3u" || exit 0
           git push
-
