@@ -43,6 +43,8 @@ env:
     https://www.youtube.com/feeds/videos.xml?channel_id=UCvC4D8onUfXzvjTOM-dBfEA|Marvel
     https://www.youtube.com/feeds/videos.xml?channel_id=UCpLWRKkNwJOOj_NXDobKWUQ|Sony Pictures Italia
     https://www.youtube.com/feeds/videos.xml?channel_id=UCz97F7dMxBNOfGYu3rx8aCw|Sony Pictures
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw|Universal Pictures
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCnQxdwiEfaRCkbIxV873N0g|Universal Pictures Italia
     
 
   DEFAULT_MAX_ITEMS: "50"
