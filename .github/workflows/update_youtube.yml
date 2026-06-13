@@ -62,8 +62,7 @@ jobs:
           lines = ["#EXTM3U"]
           seen_links = set()
 
-          normalized = raw_sources.replace("\n", "
-")
+          normalized = raw_sources.replace("\\n", "\n")
           for row in normalized.splitlines():
               row = row.strip()
               if not row or "|" not in row:
@@ -77,14 +76,13 @@ jobs:
               entries = feed.entries[:max_items]
 
               for entry in entries:
-                  title = entry.get("title", "Senza titolo").replace("
-", " ").strip()
+                  title = entry.get("title", "Senza titolo").replace("\n", " ").strip()
                   link = entry.get("link", "").strip()
 
                   if not link or link in seen_links:
                       continue
 
-                      thumb = ""
+                  thumb = ""
                   media_thumbnail = entry.get("media_thumbnail")
                   if media_thumbnail and isinstance(media_thumbnail, list):
                       thumb = media_thumbnail[0].get("url", "").strip()
@@ -97,9 +95,7 @@ jobs:
                   lines.append(link)
                   seen_links.add(link)
 
-          output_file.write_text("
-".join(lines) + "
-", encoding="utf-8")
+          output_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
           PY2
 
       - name: Commit updated playlist
