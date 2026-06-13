@@ -1,7 +1,6 @@
  # https://www.youtube.com/feeds/videos.xml?channel_id= https://www.youtube.com/feeds/videos.xml?playlist_id=
 
 name: Update YouTube M3U
-
 on:
   workflow_dispatch:
     inputs:
@@ -13,36 +12,30 @@ on:
         description: "Lascia vuoto per usare DEFAULT_MAX_ITEMS"
         required: false
         type: string
- schedule:
-    - cron: "0 */6 * * *"
-
+  schedule:
+    - cron: "*/15 * * * *"
 env:
   DEFAULT_SOURCES: |
     https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
     https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
     https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhwNTGicMeHDbMWJyY7XWez-|Mondiali 2026
     https://www.youtube.com/feeds/videos.xml?channel_id=UCAvNr5DMVncoJnJAotXOjOQ|Sky Sport
-    
-  DEFAULT_MAX_ITEMS: "50"
 
+  DEFAULT_MAX_ITEMS: "50"
 permissions:
   contents: write
-
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install dependencies
         run: pip install feedparser
-
       - name: Generate youtube.m3u
         env:
           SOURCES: ${{ inputs.sources || env.DEFAULT_SOURCES }}
@@ -53,21 +46,16 @@ jobs:
           import os
           import feedparser
           from collections import defaultdict
-
           output_file = Path("youtube.m3u")
           raw_sources = os.getenv("SOURCES", "")
           max_items_raw = os.getenv("MAX_ITEMS", "50")
-
           try:
               max_items = int(max_items_raw)
           except ValueError:
               max_items = 50
-
           seen_links = set()
           groups = defaultdict(list)
-
           normalized = raw_sources.replace("\\n", "\n")
-
           for row in normalized.splitlines():
               row = row.strip()
               if not row or "|" not in row:
@@ -92,16 +80,13 @@ jobs:
                       extinf = f'#EXTINF:-1 group-title="{group}",{title}'
                   groups[group].append((extinf, link))
                   seen_links.add(link)
-
           lines = ["#EXTM3U"]
           for group in sorted(groups.keys(), key=lambda g: g.lower()):
               for extinf, link in groups[group]:
                   lines.append(extinf)
                   lines.append(link)
-
           output_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
           PY2
-
       - name: Commit updated playlist
         run: |
           git config user.name "github-actions[bot]"
