@@ -1,0 +1,102 @@
+name: Update YouTube M3U
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    env:
+      SOURCES: ${{ inputs.sources || 'https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|dazn' }}
+      MAX_ITEMS: ${{ inputs.max_items || '50' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Generate youtube.m3u
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import os
+          import feedparser
+
+          output_file = Path("youtube.m3u")
+          raw_sources = os.getenv("SOURCES", "")
+          max_items_raw = os.getenv("MAX_ITEMS", "50")
+
+          try:
+              max_items = int(max_items_raw)
+          except ValueError:
+              max_items = 50
+
+          lines = ["#EXTM3U"]
+          seen_links = set()
+
+          normalized = raw_sources.replace("\\n", "\n")
+          for row in normalized.splitlines():
+              row = row.strip()
+              if not row or "|" not in row:
+                  continue
+
+              feed_url, group = row.split("|", 1)
+              feed_url = feed_url.strip()
+              group = group.strip() or "youtube"
+
+              feed = feedparser.parse(feed_url)
+              entries = feed.entries[:max_items]
+
+              for entry in entries:
+                  title = entry.get("title", "Senza titolo").replace("\n", " ").strip()
+                  link = entry.get("link", "").strip()
+
+                  if not link or link in seen_links:
+                      continue
+
+                  thumb = ""
+                  media_thumbnail = entry.get("media_thumbnail")
+                  if media_thumbnail and isinstance(media_thumbnail, list):
+                      thumb = media_thumbnail[0].get("url", "").strip()
+
+                  if thumb:
+                      lines.append(f'#EXTINF:-1 tvg-logo="{thumb}" group-title="{group}",{title}')
+                  else:
+                      lines.append(f'#EXTINF:-1 group-title="{group}",{title}')
+
+                  lines.append(link)
+                  seen_links.add(link)
+
+          output_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
+          PY
+
+      - name: Commit updated playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add youtube.m3u
+          git commit -m "Update youtube.m3u" || exit 0
+          git push
+
+on:
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "Una riga per feed: FEED_URL|GRUPPO"
+        required: false
+        default: "https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|dazn"
+        type: string
+      max_items:
+        description: "Numero massimo di video per feed"
+        required: false
+        default: "50"
+        type: string
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
