@@ -41,7 +41,8 @@ env:
     https://www.youtube.com/feeds/videos.xml?channel_id=UCF6y68V96phFE4BJPIlAu0g|Disney Plus Italia
     https://www.youtube.com/feeds/videos.xml?channel_id=UClssoj08grgttJtZhsbuGRw|Marvel Italia
     https://www.youtube.com/feeds/videos.xml?channel_id=UCvC4D8onUfXzvjTOM-dBfEA|Marvel
-    
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCpLWRKkNwJOOj_NXDobKWUQ|Sony Pictures Italia
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCz97F7dMxBNOfGYu3rx8aCw|Sony Pictures
     
 
   DEFAULT_MAX_ITEMS: "50"
