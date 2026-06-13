@@ -21,6 +21,8 @@ env:
     https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
     https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
     https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhwNTGicMeHDbMWJyY7XWez-|Mondiali 2026
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCAvNr5DMVncoJnJAotXOjOQ|Sky Sport
+    
   DEFAULT_MAX_ITEMS: "50"
 
 permissions:
