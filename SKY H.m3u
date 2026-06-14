@@ -121,6 +121,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169287&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169316&extension=ts&play_token=L0Xl56Xx2u
 #EXTINF:-1 tvg-chno="315" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Netflix.jpg" group-title="SKY CINEMA",NETFLIX SERIES INFO
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169351&extension=ts&play_token=L0Xl56Xx2u
+#EXTINF:-1 tvg-chno="316" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/HBO_Max.png" group-title="SKY CINEMA",HBO MAX INFO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569127&extension=ts&play_token=L0Xl56Xx2u
+#EXTINF:-1 tvg-chno="317" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="SKY CINEMA",PRIME VIDEO SERIE INFO
+http://192.142.24.158:80/live/play/VWtodGVuSndLM0Y2V2k5TlEyUTFTekp2T0dwcVNWQlJTRko1VW5kTWFqVXJUbUkzWVVRNGNtVXdUVDA9/569181
 
 
 
