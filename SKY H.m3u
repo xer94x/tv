@@ -127,9 +127,9 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569127&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569181&extension=ts&play_token=L0Xl56Xx2u
 #EXTINF:-1 tvg-chno="318" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Hulu.png" group-title="SKY CINEMA",HULU
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569109&extension=ts&play_token=L0Xl56Xx2u
-#EXTINF:-1 tvg-chno="319" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/appletv%2B.jpg" group-title="SKY CINEMA",APPLE TV+ SERIES
+#EXTINF:-1 tvg-chno="319" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Apple_TV%2B.png" group-title="SKY CINEMA",APPLE TV+ SERIES
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569192&extension=ts&play_token=L0Xl56Xx2u
-#EXTINF:-1 tvg-chno="320" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Paramount%2B.png" group-title="SKY CINEMA",PARAMOUNT+
+#EXTINF:-1 tvg-chno="320" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Paramount_Plus.png" group-title="SKY CINEMA",PARAMOUNT+
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569159&extension=ts&play_token=L0Xl56Xx2u
 
 # DAZN SERIE A
