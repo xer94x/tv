@@ -91,8 +91,6 @@ https://rakuten.xer94x.workers.dev/hard-knocks-fighting-championship/index.m3u8?
 https://rakuten.xer94x.workers.dev/glory-kickboxing/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="ITBD29000015E" tvg-name="World Poker Tour" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/da1d097d-5c12-4fda-ab2e-db4119c17087.jpeg" tvg-chno="342" group-title="Sport",World Poker Tour
 https://rakuten.xer94x.workers.dev/world-poker-tour/index.m3u8?lang=ENG
-#EXTINF:-1 tvg-id="ITBA2200010O1" tvg-name="Sport Italia" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/92786494-7218-4eff-b1b4-a33be915cd58-sport-italia-1633528365.png" tvg-chno="347" group-title="Sport",Sport Italia
-https://rakuten.xer94x.workers.dev/sport-italia/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="world-surf-league" tvg-name="World Surf League 24/7" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cc6bb9fa-fbea-40a7-9f1d-ace3c25e9eea.jpeg" tvg-chno="353" group-title="Sport",World Surf League 24/7
 https://rakuten.xer94x.workers.dev/world-surf-league/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="43cf05708aedb8418dbdb286e28c4c1b" tvg-name="Sports Illustrated TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a05b6f57-bc84-4d9e-8296-6a69acc14f42.jpeg" tvg-chno="355" group-title="Sport",Sports Illustrated TV
@@ -141,7 +139,7 @@ https://rakuten.xer94x.workers.dev/daystar-eng/index.m3u8?lang=ENG
 https://rakuten.xer94x.workers.dev/gusto-tv-new/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="IT500011RG" tvg-name="Gambero Rosso" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0e951713-d5d2-43ca-ac4b-eb6c503f4a68.jpeg" tvg-chno="485" group-title="Cucina",Gambero Rosso
 https://rakuten.xer94x.workers.dev/gambero-rosso/index.m3u8?lang=ITA
-#EXTINF:-1 tvg-id="metal-rocks" tvg-name="Metal.Rocks" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg" tvg-chno="537" group-title="Musica",Metal.Rocks
+#EXTINF:-1 tvg-id="IT3300004VU" tvg-name="Metal.Rocks" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg" tvg-chno="537" group-title="Musica",Metal.Rocks
 https://rakuten.xer94x.workers.dev/metal-rocks/index.m3u8?lang=ZXX
 #EXTINF:-1 tvg-id="40" tvg-name="Qwest TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg" tvg-chno="538" group-title="Musica",Qwest TV
 https://rakuten.xer94x.workers.dev/qwest-tv/index.m3u8?lang=ENG
