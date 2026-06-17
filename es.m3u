@@ -57,7 +57,7 @@ https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 tvg-chno="1014" tvg-id="Raiscuola.it" tvg-logo="https://picserve.netplus.ch/channels/raiscuola.png" group-title="INTERNAZIONALE",Rai Scuola
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 
-#EXTINF:-1 tvg-chno="1015" tvg-id="Dmax.it" tvg-logo="https://picserve.netplus.ch/channels/dmaxitalia.png" group-title="INTERNAZIONALE",DMAX Italia
+#EXTINF:-1 tvg-chno="1015" tvg-id="DMAX.it" tvg-logo="https://picserve.netplus.ch/channels/dmaxitalia.png" group-title="INTERNAZIONALE",DMAX Italia
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 
 #EXTINF:-1 tvg-chno="1016" tvg-id="Canaleit.it" tvg-logo="https://picserve.netplus.ch/channels/canaleit.png" group-title="INTERNAZIONALE",CANALE Italia
