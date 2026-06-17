@@ -42,10 +42,10 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-chno="1009" tvg-id="NOVE.it" tvg-logo="https://picserve.netplus.ch/channels/nove.png" group-title="INTERNAZIONALE",NOVE
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 
-#EXTINF:-1 tvg-chno="1010" tvg-id="Raisport1.it" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png" group-title="INTERNAZIONALE",Rai Sport
+#EXTINF:-1 tvg-chno="1010" tvg-id="Raisport.it" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png" group-title="INTERNAZIONALE",Rai Sport
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:-1 tvg-chno="1011" tvg-id="Rainews24.it" tvg-logo="https://picserve.netplus.ch/channels/rainews.png" group-title="INTERNAZIONALE",Rai News 24
+#EXTINF:-1 tvg-chno="1011" tvg-id="Rainews.it" tvg-logo="https://picserve.netplus.ch/channels/rainews.png" group-title="INTERNAZIONALE",Rai News 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 
 #EXTINF:-1 tvg-chno="1012" tvg-id="Raigulp.it" tvg-logo="https://picserve.netplus.ch/channels/raigulp.png" group-title="INTERNAZIONALE",Rai Gulp
