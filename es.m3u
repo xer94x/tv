@@ -15,11 +15,59 @@ https://topcalcio24.xer94x.workers.dev/index.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Antenna%20Sicilia.jpg" group-title="Sicilia",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 
-#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://iptv-epg.org/logos/Italy/MilanTV.it.png" group-title="Sport",MILAN TV
-https://skysport.xer94x.workers.dev/milan/index.m3u8
+#EXTINF:-1 tvg-chno="1001" tvg-id="Rai1.it" tvg-logo="https://picserve.netplus.ch/channels/rai1.png" group-title="INTERNAZIONALE",Rai 1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-chno="1001" tvg-id="RSILA1.it" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="INTERNAZIONALE",RSI La1
+#EXTINF:-1 tvg-chno="1002" tvg-id="Rai2.it" tvg-logo="https://picserve.netplus.ch/channels/rai2.png" group-title="INTERNAZIONALE",Rai 2
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+
+#EXTINF:-1 tvg-chno="1003" tvg-id="Rai3.it" tvg-logo="https://picserve.netplus.ch/channels/rai3.png" group-title="INTERNAZIONALE",Rai 3
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+
+#EXTINF:-1 tvg-chno="1004" tvg-id="rete4.it" tvg-logo="https://picserve.netplus.ch/channels/rete4.png" group-title="INTERNAZIONALE",Rete 4
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+
+#EXTINF:-1 tvg-chno="1005" tvg-id="canale5.it" tvg-logo="https://picserve.netplus.ch/channels/canale5.png" group-title="INTERNAZIONALE",canale 5
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+
+#EXTINF:-1 tvg-chno="1006" tvg-id="italia1.it" tvg-logo="https://picserve.netplus.ch/channels/italia1.png" group-title="INTERNAZIONALE",Italia 1
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+
+#EXTINF:-1 tvg-chno="1007" tvg-id="la7.it" tvg-logo="https://picserve.netplus.ch/channels/la7.png" group-title="INTERNAZIONALE",LA7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+
+#EXTINF:-1 tvg-chno="1008" tvg-id="la7cinema.it" tvg-logo="https://picserve.netplus.ch/channels/la7d.png" group-title="INTERNAZIONALE",LA7 CINEMA
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+
+#EXTINF:-1 tvg-chno="1009" tvg-id="nove.it" tvg-logo="https://picserve.netplus.ch/channels/nove.png" group-title="INTERNAZIONALE",NOVE
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+
+#EXTINF:-1 tvg-chno="1010" tvg-id="Raisport1.it" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png" group-title="INTERNAZIONALE",Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 tvg-chno="1011" tvg-id="Rainews24.it" tvg-logo="https://picserve.netplus.ch/channels/rainews.png" group-title="INTERNAZIONALE",Rai News 24
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+
+#EXTINF:-1 tvg-chno="1001" tvg-id="raigulp.it" tvg-logo="https://picserve.netplus.ch/channels/raigulp.png" group-title="INTERNAZIONALE",Rai Gulp
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+
+#EXTINF:-1 tvg-chno="1012" tvg-id="raistoria.it" tvg-logo="https://picserve.netplus.ch/channels/raistoria.png" group-title="INTERNAZIONALE",Rai Storia
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+
+#EXTINF:-1 tvg-chno="1013" tvg-id="raiscuola.it" tvg-logo="https://picserve.netplus.ch/channels/raiscuola.png" group-title="INTERNAZIONALE",Rai Scuola
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+
+#EXTINF:-1 tvg-chno="1014" tvg-id="dmax.it" tvg-logo="https://picserve.netplus.ch/channels/dmaxitalia.png" group-title="INTERNAZIONALE",DMAX Italia
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+
+#EXTINF:-1 tvg-chno="1015" tvg-id="canaleit.it" tvg-logo="https://picserve.netplus.ch/channels/canaleit.png" group-title="INTERNAZIONALE",CANALE Italia
+https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
+
+#EXTINF:-1 tvg-chno="1016" tvg-id="VideoItalia.it" tvg-logo="https://picserve.netplus.ch/channels/videoitalia.png" group-title="INTERNAZIONALE",VIDEO ITALIA
+https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
+
+#EXTINF:-1 tvg-chno="1017" tvg-id="RSILA1.it" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="INTERNAZIONALE",RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-chno="1002" tvg-id="RSILA2.it" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="INTERNAZIONALE",RSI La2
+#EXTINF:-1 tvg-chno="1018" tvg-id="RSILA2.it" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="INTERNAZIONALE",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
