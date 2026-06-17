@@ -36,7 +36,7 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-chno="1007" tvg-id="La7.it" tvg-logo="https://picserve.netplus.ch/channels/la7.png" group-title="INTERNAZIONALE",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
-#EXTINF:-1 tvg-chno="1008" tvg-id="La7cinema.it" tvg-logo="https://picserve.netplus.ch/channels/la7d.png" group-title="INTERNAZIONALE",LA7 CINEMA
+#EXTINF:-1 tvg-chno="1008" tvg-id="La7D.it" tvg-logo="https://picserve.netplus.ch/channels/la7d.png" group-title="INTERNAZIONALE",LA7 CINEMA
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
 #EXTINF:-1 tvg-chno="1009" tvg-id="NOVE.it" tvg-logo="https://picserve.netplus.ch/channels/nove.png" group-title="INTERNAZIONALE",NOVE
