@@ -71,9 +71,9 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177966&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167390&extension=ts
 #EXTINF:-1 tvg-chno="214" tvg-id="Zona DAZN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="SKY SPORT",214 ZONA DAZN
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158736&extension=ts
-#EXTINF:-1 tvg-id="Milan TV" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="Sport",230 MILAN TV
+#EXTINF:-1 tvg-id="Milan TV" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="SKY SPORT",230 MILAN TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177755&extension=ts
-#EXTINF:-1 tvg-id="Inter TV" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="Sport",232 INTER TV
+#EXTINF:-1 tvg-id="Inter TV" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="SKY SPORT",232 INTER TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167355&extension=ts
 #EXTINF:-1 tvg-chno="235" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - CACCIA e Pesca.png" group-title="SKY SPORT",235 CACCIA TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177676&extension=ts
