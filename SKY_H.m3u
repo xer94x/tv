@@ -139,8 +139,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569159&e
 # DAZN SERIE A
 #EXTINF:-1 tvg-chno="214" tvg-id="Zona DAZN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="DAZN SERIE A",ZONA DAZN
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158736&extension=ts
-#EXTINF:-1 tvg-chno="239" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="DAZN SERIE A",DAZN DIRETTA GOL SERIE A
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883850&extension=ts
 #EXTINF:-1 tvg-chno="215" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 1.png" group-title="DAZN SERIE A",DAZN SERIE A 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158714&extension=ts
 #EXTINF:-1 tvg-chno="216" tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 2.png" group-title="DAZN SERIE A",DAZN SERIE A 2
@@ -181,9 +179,11 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158731&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158732&extension=ts
 #EXTINF:-1 tvg-chno="233" tvg-id="DAZN 20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 20.png" group-title="DAZN SERIE A",DAZN SERIE A 20
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158733&extension=ts
+#EXTINF:-1 tvg-chno="239" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="DAZN SERIE A",DAZN DIRETTA GOL SERIE A
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883850&extension=ts
 
 # DAZN EVENTI
-#EXTINF:-1 tvg-chno="240" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="DAZN SERIE B",DAZN DIRETTA GOL SERIE B
+#EXTINF:-1 tvg-chno="240" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="DAZN EVENTI",DAZN DIRETTA GOL SERIE B
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883847&extension=ts
 #EXTINF:-1 tvg-chno="261" tvg-id="DAZN 21" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2021.png" group-title="DAZN EVENTI",DAZN 21
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158802&extension=ts
