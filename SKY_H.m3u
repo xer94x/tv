@@ -203,7 +203,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158808&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158809&extension=ts
 #EXTINF:-1 tvg-chno="269" tvg-id="DAZN 29" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2029.png" group-title="DAZN EVENTI",DAZN 29
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158810&extension=ts
-#EXTINF:-1 tvg-chno="270" tvg-id="DAZN 30" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2030.png" group-title="DAZN SERIE B",DAZN 30
+#EXTINF:-1 tvg-chno="270" tvg-id="DAZN 30" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2030.png" group-title="DAZN EVENTI",DAZN 30
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158811&extension=ts
 #EXTINF:-1 tvg-chno="271" tvg-id="DAZN 31" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2031.png" group-title="DAZN EVENTI",DAZN 31
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158812&extension=ts
