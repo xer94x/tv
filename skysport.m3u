@@ -42,6 +42,9 @@ https://skysport.xer94x.workers.dev/golf/index.m3u8
 #EXTINF:-1 tvg-id="SkySportMix" tvg-name="SKY SPORT MIX" tvg-chno="13" tvg-logo="https://i.ibb.co/cXYSBfRP/211-sky-sport-mix-it.png" group-title="Sky Sport",SKY SPORT MIX
 https://skysport.xer94x.workers.dev/mix/index.m3u8
 
+#EXTINF:-1 tvg-chno="13" tvg-id="Sky Sport Legend" tvg-name="Sky Sports Legend" tvg-logo="https://i.ibb.co/r2qWYmqj/212-sky-sport-legend-it.png" group-title="Sky Sport",SKY SPORT LEGEND
+https://skysport.xer94x.workers.dev/legend/index.m3u8
+
 
 
 
