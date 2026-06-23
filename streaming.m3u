@@ -186,6 +186,8 @@ https://skysport.xer94x.workers.dev/motogp/index.m3u8
 https://skysport.xer94x.workers.dev/golf/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Mix" tvg-chno="211" tvg-name="Sky Sport Mix" tvg-logo="https://i.ibb.co/cXYSBfRP/211-sky-sport-mix-it.png" group-title="Sky",Sky Sport Mix
 https://skysport.xer94x.workers.dev/mix/index.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="Sky Sport Legend" tvg-name="Sky Sports Legend" tvg-logo="https://i.ibb.co/r2qWYmqj/212-sky-sport-legend-it.png" group-title="Sky",Sky Sports Legend
+https://skysport.xer94x.workers.dev/legend/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="Sky",EUROSPORT 1
 https://skysport.xer94x.workers.dev/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="Sky",EUROSPORT 2
@@ -198,7 +200,7 @@ https://topcalcio24.xer94x.workers.dev/index.m3u8
 #EXTINF:-1 tvg-id="Milan TV" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="Sport",Milan TV
 https://skysport.xer94x.workers.dev/milan/index.m3u8
 #EXTINF:-1 tvg-id="Inter TV" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="Sport",Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+https://skysport.xer94x.workers.dev/inter/index.m3u8
 #EXTINF:-1 tvg-id="IT3100001FT" tvg-chno="233" tvg-name="Inter TV 2" tvg-logo="https://i.ibb.co/qYkxLj4b/471-inter-tv-it.png" group-title="Sport",Inter TV 24/7
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-chno="234" tvg-name="Juventus Play" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/juventus_play.png" group-title="Sport",Juventus Play
