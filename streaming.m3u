@@ -153,7 +153,7 @@ https://rtv.xer94x.workers.dev/sport
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSI LA2" tvg-chno="102" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="Nazionali",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="Super!" tvg-logo="https://i.ibb.co/TDgnwjQP/047-super-it.png" group-title="Animazione",Super!
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!" tvg-name="Super!" tvg-logo="https://i.ibb.co/TDgnwjQP/047-super-it.png" group-title="Animazione",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="MAN-GA" tvg-logo="https://i.ibb.co/bMSDZDfk/manga.png" group-title="Animazione",MAN-GA
 https://streamcdnn2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
