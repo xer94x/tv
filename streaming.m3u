@@ -153,6 +153,12 @@ https://rtv.xer94x.workers.dev/sport
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSI LA2" tvg-chno="102" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="Nazionali",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="Super!" tvg-logo="https://i.ibb.co/TDgnwjQP/047-super-it.png" group-title="Animazione",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="MAN-GA" tvg-logo="https://i.ibb.co/bMSDZDfk/manga.png" group-title="Animazione",MAN-GA
+https://streamcdnn2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
+#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Animazione",BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 
 # SKY
 
@@ -3358,12 +3364,6 @@ https://rakuten.xer94x.workers.dev/world-poker-tour/index.m3u8?lang=ENG
 https://rakuten.xer94x.workers.dev/world-surf-league/index.m3u8?lang=ENG
 # LG
 
-#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Animazione",BeJoy.Kids
-https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="Super!.it" tvg-name="Super!" tvg-logo="https://i.ibb.co/TDgnwjQP/047-super-it.png" group-title="Animazione",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="MAN-GA" tvg-logo="https://i.ibb.co/bMSDZDfk/manga.png" group-title="Animazione",MAN-GA
-https://streamcdnn2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/TAYO%2B.jpg" group-title="Animazione",TAYO+
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=tayo%2B&channel_id=newid_251&mpf=c74b6d7b-39af1962-15822b5c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=4b807018-efd96888-b187ba80-98a9f224&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-name="NatureVision" tvg-logo="https://image.xumo.com/v1/channels/channel/99992424/600x200.png?type=white_cropped" group-title="Documentari",NatureVision
