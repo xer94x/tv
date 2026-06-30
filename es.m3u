@@ -12,6 +12,9 @@ https://topcalcio24.xer94x.workers.dev/index.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Antenna%20Sicilia.jpg" group-title="Sicilia",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 
+#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="27" tvg-name="Rai 4K" tvg-logo="https://i.ibb.co/kVyLpjxV/rai4k.png" group-title="Rai",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="1001" tvg-id="Rai1.it" tvg-logo="https://picserve.netplus.ch/channels/rai1.png" group-title="INTERNAZIONALE",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
