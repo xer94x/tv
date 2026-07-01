@@ -31,6 +31,8 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/pl
 https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550054286.jpg", FM ITALIA
 https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550054286.jpg", Radio Marte
+https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1553347761.jpg", Radio Manila
 http://stream15.top-ix.org:80/radiomanila
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403559758.png", RADIO MI PIACI
@@ -79,8 +81,6 @@ http://streamingp.shoutcast.com/JamendoLounge?lang=*
 http://streaming.radiodancefloor.it:80/dancefloor.mp3
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1554860311.jpg", Club Music Radio - POP &amp; DANCE
 http://cmr-hosting.com:8020/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/6/1550054286.jpg", Radio Marte
-https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/9294.jpg", Radio Torino - http://www.radiotorinofm.it
 http://stream15.top-ix.org:80/radiotorino
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1554860311.jpg", Club Music Radio - LOVE SONG
@@ -105,10 +105,6 @@ http://eu1.fastcast4u.com:10942
 http://eu9.fastcast4u.com:5068/1
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/4/1560950924.jpg", RADIO ONDA LIBERA
 http://212.7.194.63:9064/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/9524.jpg", Radio Evangelo Italia
-http://onair15.xdevel.com:8088/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1550733662.jpg", VIVAFM
-http://stream2.vivafm.it:8002/stream
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/1/1554860311.jpg", Club Music Radio - 70&apos;s 80&apos;s 90&apos;s
 http://cmr-hosting.com:8030/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1444958024.jpg", Funky Corner Radio
@@ -123,3 +119,5 @@ http://uk2.streamingpulse.com:8010/stream/1/
 http://54.37.84.199:8002/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/8620.jpg", RADIO MARIA EL SALVADOR
 http://dreamsiteradiocp2.com:8086/stream/1/
+#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/9524.jpg", Radio Evangelo Italia
+http://onair15.xdevel.com:8088/stream/1/
