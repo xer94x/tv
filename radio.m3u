@@ -1,5 +1,6 @@
 #EXTM3U
-#PLAYLIST:Online radio: ITALIAN Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Radio%20Italia%20TV.png" group-title="ITALIAN Radio", Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/123618.jpg" group-title="ITALIAN Radio", VCR | Venice Classic Radio Auditorium - 128 kbit/s
 http://uk2.streamingpulse.com:8010/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/8620.jpg" group-title="ITALIAN Radio", Radio Maria Italia - 128 kbit/s
