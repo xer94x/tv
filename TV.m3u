@@ -188,7 +188,7 @@ https://skysport.xer94x.workers.dev/dazn/index.m3u8
 #EXTINF:-1 tvg-chno="200" tvg-id="SkySport24.it" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="",200 Sky Sport 24
 https://skysport.xer94x.workers.dev/24/index.m3u8
 
-#EXTINF:-1 tvg-chno="201" tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="",201 Sky Sport UNO
+#EXTINF:-1 tvg-chno="201" tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="",201 Sky Sport Uno
 https://skysport.xer94x.workers.dev/uno/index.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-id="SkySportCalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://i.ibb.co/xSzDbc4t/202-sky-sport-calcio-it.png" group-title="",202 Sky Sport Calcio
