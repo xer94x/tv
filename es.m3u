@@ -63,8 +63,23 @@ https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:-1 tvg-chno="1017" tvg-id="VideoItalia.it" tvg-logo="https://picserve.netplus.ch/channels/videoitalia.png" group-title="INTERNAZIONALE",VIDEO ITALIA
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
 
-#EXTINF:-1 tvg-chno="1018" tvg-id="RSILA1.it" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="INTERNAZIONALE",RSI La1
+#EXTINF:-1 tvg-chno="1018" tvg-id="RTS1.ch" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="INTERNAZIONALE",RTS 1 FHD
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+
+#EXTINF:-1 tvg-chno="1019" tvg-id="RTS2.ch" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" group-title="INTERNAZIONALE",RTS 2 FHD
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
+#EXTINF:-1 tvg-chno="1020" tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" group-title="INTERNAZIONALE",SRF1 FHD
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+
+#EXTINF:-1 tvg-chno="1021" tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" group-title="INTERNAZIONALE",SRF2 FHD
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+
+#EXTINF:-1 tvg-chno="1022" tvg-id="SRFinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" group-title="INTERNAZIONALE",SRF info HD
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+
+#EXTINF:-1 tvg-chno="1023" tvg-id="RSILA1.it" tvg-name="RSI La1" tvg-logo="https://picserve.netplus.ch/channels/rsila1.png" group-title="INTERNAZIONALE",RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
-#EXTINF:-1 tvg-chno="1019" tvg-id="RSILA2.it" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="INTERNAZIONALE",RSI La2
+#EXTINF:-1 tvg-chno="1024" tvg-id="RSILA2.it" tvg-name="RSI La2" tvg-logo="https://picserve.netplus.ch/channels/rsila2.png" group-title="INTERNAZIONALE",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
