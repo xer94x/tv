@@ -103,7 +103,7 @@ https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-name="Travel TV" tvg-logo="https://yt3.googleusercontent.com/F2Pd6YEZY0MNObE5EJNvnmcPhVrVffcSBdUy6PECgGoYK3rmTYo1UxmGMizMufX4QirHqfP6=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",Travel TV
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-name="Donna TV" tvg-logo="https://i.ibb.co/YFrMm2Zy/166-donna-tv-it.png" group-title="Nazionali",Donna TV
+#EXTINF:-1 tvg-id="Donna TV" tvg-chno="50" tvg-name="Donna TV" tvg-logo="https://i.ibb.co/YFrMm2Zy/166-donna-tv-it.png" group-title="Nazionali",Donna TV
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Alma TV" tvg-chno="52" tvg-name="Alma TV" tvg-logo="https://www.tvdream.net/img/alma-tv.png" group-title="Nazionali",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
@@ -199,7 +199,7 @@ https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
 https://teleclubitalia.iostream.it/tci1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsYSwtS3sXC0V7BX2jgsMKpuFT-J5Vv5zSpA&s" group-title="Sport",Citta' Celeste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
-#EXTINF:-1 tvg-chno="236" tvg-name="Lazio Style" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/02/lazio_style.jpg" group-title="Sport",Lazio Style
+#EXTINF:-1 tvg-chno="236" tvg-id="Lazio Style Channel" tvg-name="Lazio Style" tvg-logo="https://sportitalia.s3.eu-west-par.io.cloud.ovh.net/wp-content/uploads/2024/02/lazio_style.jpg" group-title="Sport",Lazio Style
 https://edge-003.streamup.eu/origin/laziostyle_abr/origin/laziostyle_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Sportitalia" tvg-chno="66" tvg-name="Sportitalia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Sportitalia.png" group-title="Sport",Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
