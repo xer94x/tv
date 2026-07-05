@@ -146,24 +146,6 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="49" tvg-id="" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="",49 Virgin Radio TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-id="" tvg-name="Rai Italia Australia" tvg-logo="https://www.freeshot.live/upload/source/RaiItalia-logo.png" group-title="",50 Rai Italia Australia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-
-#EXTINF:-1 tvg-chno="51" tvg-id="" tvg-name="RAI Italia SudAfrica" tvg-logo="https://www.freeshot.live/upload/source/RaiItalia-logo.png" group-title="",51 RAI Italia SudAfrica
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-
-#EXTINF:-1 tvg-chno="52" tvg-id="" tvg-name="Rai Italia SudAmerica" tvg-logo="https://www.freeshot.live/upload/source/RaiItalia-logo.png" group-title="",52 Rai Italia SudAmerica
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-
-#EXTINF:-1 tvg-chno="53" tvg-id="" tvg-name="Mediaset Italia" tvg-logo="https://i.ibb.co/RpNCZMxM/Mediaset-Italia-TV-channel-1-1.png" group-title="",53 Mediaset Italia
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-
-#EXTINF:-1 tvg-chno="54" tvg-id="La7.it" tvg-name="La7 Italia" tvg-logo="https://i.ibb.co/zy1ywT5/107-la7-it.png" group-title="",54 La7 Italia
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-
-#EXTINF:-1 tvg-chno="55" tvg-id="RaiPremium.it" tvg-name="Rai World Premium" tvg-logo="https://i.ibb.co/VWthYJvQ/015-rai-premium-it.png" group-title="",55 Rai World Premium
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-
 #EXTINF:-1 tvg-chno="56" tvg-id="" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="",56 GF Regia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 
