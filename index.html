@@ -439,6 +439,10 @@
       </div>
       <div class="playlist-controls">
         <div class="row">
+          <input type="text" id="m3uUrl" placeholder="URL playlist M3U…">
+          <button id="loadUrlBtn">Carica</button>
+        </div>
+        <div class="row">
           <button class="file-btn" style="flex:1">
             File locale…
             <input type="file" id="m3uFile" accept=".m3u,.m3u8,text/plain">
@@ -497,6 +501,8 @@
     groups: document.getElementById('groups'),
     search: document.getElementById('search'),
     m3uFile: document.getElementById('m3uFile'),
+    m3uUrl: document.getElementById('m3uUrl'),
+    loadUrlBtn: document.getElementById('loadUrlBtn'),
     playlistHint: document.getElementById('playlistHint'),
     nowPlaying: document.getElementById('nowPlaying'),
     liveTag: document.getElementById('liveTag'),
@@ -1208,6 +1214,12 @@
     const file = e.target.files[0];
     if (file) loadFromFile(file);
   });
+  function loadUrlFromInput(){
+    const url = els.m3uUrl.value.trim();
+    if (url) loadFromUrl(url);
+  }
+  els.loadUrlBtn.addEventListener('click', loadUrlFromInput);
+  els.m3uUrl.addEventListener('keydown', e => { if (e.key === 'Enter') loadUrlFromInput(); });
   els.search.addEventListener('input', () => renderChannels(els.search.value));
   els.menuBtn.addEventListener('click', () => els.sidebar.classList.toggle('open'));
 
