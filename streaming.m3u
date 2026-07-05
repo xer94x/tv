@@ -127,18 +127,6 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="UniNettuno University TV" tvg-chno="75" tvg-name="UniNettuno Univ. TV" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Nazionali",UniNettuno Univ. TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai 1" tvg-chno="77" tvg-name="Rai Italia Australia" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_Italia.png?raw=true" group-title="Rai",Rai Italia Australia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:-1 tvg-id="Rai 1" tvg-chno="78" tvg-name="Rai Italia SudAfrica " tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_Italia.png?raw=true" group-title="Rai",Rai Italia SudAfrica
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 tvg-id="Rai 1" tvg-chno="79" tvg-name="Rai Italia SudAmerica" tvg-logo="https://github.com/xer94x/tv/blob/main/loghi/Rai_Italia.png?raw=true" group-title="Rai",Rai Italia SudAmerica
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:-1 tvg-id="Mediaset Italia - Australia e Asia" tvg-chno="80" tvg-name="Mediaset Italia" tvg-logo="https://i.ibb.co/RpNCZMxM/Mediaset-Italia-TV-channel-1-1.png" group-title="Mediaset",Mediaset Italia
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-name="La7 Italia" tvg-logo="https://i.ibb.co/zy1ywT5/107-la7-it.png" group-title="Nazionali",La7 Italia
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-name="Rai World Premium" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Rai_World_Premium.png" group-title="Rai",Rai World Premium
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="GF VIP Regia 1" tvg-chno="83" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="Mediaset",GF Regia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="GF VIP Regia 2" tvg-chno="84" tvg-name="GF Regia 2" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="Mediaset",GF Regia 2
@@ -153,12 +141,6 @@ https://rtv.xer94x.workers.dev/sport
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSI LA2" tvg-chno="102" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="Nazionali",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:-1 tvg-chno="47" tvg-id="Super!" tvg-name="Super!" tvg-logo="https://i.ibb.co/TDgnwjQP/047-super-it.png" group-title="Animazione",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="MAN-GA" tvg-logo="https://i.ibb.co/bMSDZDfk/manga.png" group-title="Animazione",MAN-GA
-https://streamcdnn2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
-#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Animazione",BeJoy.Kids
-https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 
 # SKY
 
@@ -646,6 +628,12 @@ https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/core_radio.jpg" group-title="Radio",Core Radio
 http://194.58.97.117:8000/coreradio
+#EXTINF:-1 tvg-chno="47" tvg-id="Super!" tvg-name="Super!" tvg-logo="https://i.ibb.co/TDgnwjQP/047-super-it.png" group-title="Animazione",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="MAN-GA" tvg-logo="https://i.ibb.co/bMSDZDfk/manga.png" group-title="Animazione",MAN-GA
+https://streamcdnn2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
+#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" group-title="Animazione",BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 
 # SICILIA
 
