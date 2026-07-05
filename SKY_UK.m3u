@@ -1,4 +1,4 @@
-#EXTM3U https://iptv-epg.org/files/epg-gb.xml
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-gb.xml"
 
 # ENTERTAINMENT
 
