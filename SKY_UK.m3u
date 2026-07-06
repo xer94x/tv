@@ -155,7 +155,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823773&e
 #EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Quest%20Red.png" tvg-chno="149" group-title="ENTERTAINMENT",Quest Red
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170574&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5ACTION.png" tvg-chno="150" group-title="ENTERTAINMENT",5 ACTION
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5Action.png" tvg-chno="150" group-title="ENTERTAINMENT",5 ACTION
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823786&extension=ts&play_token=zkWSwGVzl5
 
 #EXTINF:-1 tvg-id="SkyMix.uk" tvg-name="Sky Mix" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Mix.png" tvg-chno="151" group-title="ENTERTAINMENT",Sky Mix
