@@ -383,7 +383,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169117&
 #EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Drama.png" tvg-chno="310" group-title="CINEMA",Sky Cinema Drama
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169120&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="Sky Cinema Sci Fi & Horror" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Sci%20Fi%20&%20Horror.png" tvg-chno="311" group-title="CINEMA",Sky Cinema Sci Fi & Horror
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="Sky Cinema Sci Fi & Horror" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Sci-fi_Horror.png" tvg-chno="311" group-title="CINEMA",Sky Cinema Sci Fi & Horror
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169121&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="Movies24.uk" tvg-name="Movies 24" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Movies%2024.png" tvg-chno="312" group-title="CINEMA",Movies 24
