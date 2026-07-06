@@ -11,23 +11,8 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=394413&e
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1%20London.png" tvg-chno="103" group-title="ENTERTAINMENT",ITV1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=394403&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UTV.ie" tvg-name="UTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/UTV%20Ireland.png" tvg-chno="103" group-title="ENTERTAINMENT",UTV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168974&extension=ts&play_token=L0Xl56Xx2u
-
-#EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="STV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/STV.png" tvg-chno="103" group-title="ENTERTAINMENT",STV WEST
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168967&extension=ts&play_token=L0Xl56Xx2u
-
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/STV.png" tvg-chno="103" group-title="ENTERTAINMENT",STV EAST
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168965&extension=ts&play_token=L0Xl56Xx2u
-
-#EXTINF:-1 tvg-id="STVNorth.uk" tvg-name="STV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/STV.png" tvg-chno="103" group-title="ENTERTAINMENT",STV NORTH
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168966&extension=ts&play_token=kZ2S38HEoU
-
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Channel%204.png" tvg-chno="104" group-title="ENTERTAINMENT",Channel 4
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823719&extension=ts&play_token=L0Xl56Xx2u
-
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/S4C.png" tvg-chno="104" group-title="ENTERTAINMENT",S4C
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833952&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Channel%205.png" tvg-chno="105" group-title="ENTERTAINMENT",Channel 5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823718&extension=ts&play_token=L0Xl56Xx2u
@@ -257,6 +242,9 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833957&e
 #EXTINF:-1 tvg-id="RTENews.ie" tvg-name="RTÉ News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20News.png" tvg-chno="517" group-title="IRELAND",RTÉ News
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833951&extension=ts&play_token=L0Xl56Xx2u
 
+#EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="RTÉ KIDSjr" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20KIDSjr.png" tvg-chno="621" group-title="IRELAND",RTÉ jr
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833944&extension=ts&play_token=L0Xl56Xx2u
+
 #EXTINF:-1 tvg-id="RTEOne+1.ie" tvg-name="RTÉ One +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20One%20+1.png" tvg-chno="201" group-title="IRELAND",RTÉ One +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833967&extension=ts&play_token=bPQefO05EC
 
@@ -269,6 +257,21 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=8339618&
 
 
 # +1 CHANNELS
+
+#EXTINF:-1 tvg-id="UTV.ie" tvg-name="UTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/UTV%20Ireland.png" tvg-chno="103" group-title="ENTERTAINMENT",UTV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168974&extension=ts&play_token=L0Xl56Xx2u
+
+#EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="STV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/STV.png" tvg-chno="103" group-title="ENTERTAINMENT",STV WEST
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168967&extension=ts&play_token=L0Xl56Xx2u
+
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/STV.png" tvg-chno="103" group-title="ENTERTAINMENT",STV EAST
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168965&extension=ts&play_token=L0Xl56Xx2u
+
+#EXTINF:-1 tvg-id="STVNorth.uk" tvg-name="STV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/STV.png" tvg-chno="103" group-title="ENTERTAINMENT",STV NORTH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168966&extension=ts&play_token=kZ2S38HEoU
+
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/S4C.png" tvg-chno="104" group-title="ENTERTAINMENT",S4C
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833952&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="ITV1London+1.uk" tvg-name="ITV1 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1London%20%2B1.png" tvg-chno="203" group-title="+1 CHANNELS",ITV1 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168948&extension=ts&play_token=L0Xl56Xx2u
