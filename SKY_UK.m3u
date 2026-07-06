@@ -122,13 +122,13 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168973&
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/4seven.png" tvg-chno="137" group-title="ENTERTAINMENT",4 seven
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823715&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="Crime+Investigation.uk" tvg-name="Crime + Investigation" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Crime%20+%20Investigation.png" tvg-chno="139" group-title="ENTERTAINMENT",Crime + Investigation
+#EXTINF:-1 tvg-id="Crime+Investigation.uk" tvg-name="Crime + Investigation" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Crime%2BInvestigation.png" tvg-chno="139" group-title="ENTERTAINMENT",Crime + Investigation
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172119&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Quest.png" tvg-chno="140" group-title="ENTERTAINMENT",Quest
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170572&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA" tvg-logo="hhttps://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5%20USA.png" tvg-chno="141" group-title="ENTERTAINMENT",5 USA
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5%20USA.png" tvg-chno="141" group-title="ENTERTAINMENT",5 USA
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823784&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Really.png" tvg-chno="142" group-title="ENTERTAINMENT",Really
@@ -155,7 +155,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823773&e
 #EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Quest%20Red.png" tvg-chno="149" group-title="ENTERTAINMENT",Quest Red
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170574&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5ACTION.png" tvg-chno="150" group-title="ENTERTAINMENT",5ACTION
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5ACTION" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5ACTION.png" tvg-chno="150" group-title="ENTERTAINMENT",5 ACTION
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823786&extension=ts&play_token=zkWSwGVzl5
 
 #EXTINF:-1 tvg-id="SkyMix.uk" tvg-name="Sky Mix" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Mix.png" tvg-chno="151" group-title="ENTERTAINMENT",Sky Mix
@@ -164,7 +164,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170610&
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/E!%20Entertainment.png" tvg-chno="152" group-title="ENTERTAINMENT",E! Entertainment
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170627&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5SELECT" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5%20SELECT.png" tvg-chno="153" group-title="ENTERTAINMENT",5 SELECT
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5SELECT" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5SELECT.png" tvg-chno="153" group-title="ENTERTAINMENT",5 SELECT
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823785&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Investigation%20Discovery.png" tvg-chno="154" group-title="ENTERTAINMENT",Investigation Discovery
@@ -216,9 +216,9 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172143&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170614&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That's%20TV.png" tvg-chno="171" group-title="ENTERTAINMENT",That's TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823770&extension=ts&play_token=L0Xl56Xx2u
+https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That%60s%20TV.png
 
-#EXTINF:-1 tvg-id="ThatsTV2.uk" tvg-name="That's TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That's%20TV.png" tvg-chno="172" group-title="ENTERTAINMENT",That's TV 2
+#EXTINF:-1 tvg-id="ThatsTV2.uk" tvg-name="That's TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That%60s%20TV2.png" tvg-chno="172" group-title="ENTERTAINMENT",That's TV 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823769&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/PBS%20America.png" tvg-chno="173" group-title="ENTERTAINMENT",PBS America
@@ -312,7 +312,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168960&
 #EXTINF:-1 tvg-id="More4+1.uk" tvg-name="More4 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/More4%20+1.png" tvg-chno="236" group-title="+1 CHANNELS",More4 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168960&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="Crime+Investigation+1.uk" tvg-name="Crime + Investigation +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Crime%20+%20Investigation%20+1.png" tvg-chno="239" group-title="+1 CHANNELS",Crime + Investigation +1
+#EXTINF:-1 tvg-id="Crime+Investigation+1.uk" tvg-name="Crime + Investigation +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Crime%20%2B%20Investigation%20%2B1.png" tvg-chno="239" group-title="+1 CHANNELS",Crime + Investigation +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172119&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="Quest+1.uk" tvg-name="Quest +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Quest%20+1.png" tvg-chno="240" group-title="+1 CHANNELS",Quest +1
