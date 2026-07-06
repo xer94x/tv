@@ -8,10 +8,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=394415&e
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20Two.png" tvg-chno="102" group-title="ENTERTAINMENT",BBC Two
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=394413&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1.png" tvg-chno="103" group-title="ENTERTAINMENT",ITV1
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1%20London.png" tvg-chno="103" group-title="ENTERTAINMENT",ITV1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=394403&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UTV.ie" tvg-name="UTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/UTV.png" tvg-chno="103" group-title="ENTERTAINMENT",UTV
+#EXTINF:-1 tvg-id="UTV.ie" tvg-name="UTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/UTV.jpg" tvg-chno="103" group-title="ENTERTAINMENT",UTV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168974&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="STVCentral.uk" tvg-name="STV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/STV.png" tvg-chno="103" group-title="ENTERTAINMENT",STV WEST
@@ -29,7 +29,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823719&e
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/S4C.png" tvg-chno="104" group-title="ENTERTAINMENT",S4C
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833952&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5.png" tvg-chno="105" group-title="ENTERTAINMENT",5
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Channel%205.png" tvg-chno="105" group-title="ENTERTAINMENT",Channel 5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823718&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="SkyOne.uk" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20One.png" tvg-chno="106" group-title="ENTERTAINMENT",Sky One
@@ -41,13 +41,13 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169128&
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Atlantic.png" tvg-chno="108" group-title="ENTERTAINMENT",Sky Atlantic
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169126&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UAndAlibi.uk" tvg-name="U&Alibi" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Alibi.png" tvg-chno="109" group-title="ENTERTAINMENT",U&Alibi
+#EXTINF:-1 tvg-id="UAndAlibi.uk" tvg-name="U&Alibi" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BAlibi.png" tvg-chno="109" group-title="ENTERTAINMENT",U&Alibi
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823716&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UAndGold.uk" tvg-name="U&Gold" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Gold.png" tvg-chno="110" group-title="ENTERTAINMENT",U&Gold
+#EXTINF:-1 tvg-id="UAndGold.uk" tvg-name="U&Gold" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BGold.png" tvg-chno="110" group-title="ENTERTAINMENT",U&Gold
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170567&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="U&Dave" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Dave.png" tvg-chno="111" group-title="ENTERTAINMENT",U&Dave
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="U&Dave" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BDave.png" tvg-chno="111" group-title="ENTERTAINMENT",U&Dave
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170569&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Comedy%20Central.png" tvg-chno="112" group-title="ENTERTAINMENT",Comedy Central
@@ -107,7 +107,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170583&
 #EXTINF:-1 tvg-id="ITVQuiz.uk" tvg-name="ITV Quiz" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV%20Quiz.png" tvg-chno="131" group-title="ENTERTAINMENT",ITV Quiz
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=394395&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandW.uk" tvg-name="U&W" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&W.png" tvg-chno="132" group-title="ENTERTAINMENT",U&W
+#EXTINF:-1 tvg-id="UandW.uk" tvg-name="U&W" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BW.png" tvg-chno="132" group-title="ENTERTAINMENT",U&W
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170591&extension=ts&play_token=oGmizrHQSl
 
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TLC.png" tvg-chno="133" group-title="ENTERTAINMENT",TLC
@@ -134,7 +134,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823784&e
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Really.png" tvg-chno="142" group-title="ENTERTAINMENT",Really
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170590&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U&Drama" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Drama.png" tvg-chno="143" group-title="ENTERTAINMENT",U&Drama
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="U&Drama" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BDrama.png" tvg-chno="143" group-title="ENTERTAINMENT",U&Drama
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170587&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Food%20Network.png" tvg-chno="144" group-title="ENTERTAINMENT",Food Network
@@ -164,13 +164,13 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170610&
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/E!%20Entertainment.png" tvg-chno="152" group-title="ENTERTAINMENT",E! Entertainment
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170627&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5SELECT" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5SELECT.png" tvg-chno="153" group-title="ENTERTAINMENT",5SELECT
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5SELECT" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5SELECT.png" tvg-chno="153" group-title="ENTERTAINMENT",5 SELECT
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823785&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Investigation%20Discovery.png" tvg-chno="154" group-title="ENTERTAINMENT",Investigation Discovery
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172118&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Yesterday.png" tvg-chno="155" group-title="ENTERTAINMENT",U&Yesterday
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="U&Yesterday" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BYesterday.png" tvg-chno="155" group-title="ENTERTAINMENT",U&Yesterday
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170592&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Blaze.png" tvg-chno="156" group-title="ENTERTAINMENT",Blaze
@@ -254,33 +254,38 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833958&e
 #EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-name="Virgin Media Four" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Virgin%20Media%20Four.png" tvg-chno="107" group-title="IRELAND",Virgin Media Four
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833957&extension=ts&play_token=L0Xl56Xx2u
 
-# +1 CHANNELS
+#EXTINF:-1 tvg-id="RTENews.ie" tvg-name="RTÉ News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20News.png" tvg-chno="517" group-title="IRELAND",RTÉ News
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833951&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="RTEOne+1.ie" tvg-name="RTÉ One +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20One%20+1.png" tvg-chno="201" group-title="+1 CHANNELS",RTÉ One +1
+#EXTINF:-1 tvg-id="RTEOne+1.ie" tvg-name="RTÉ One +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20One%20+1.png" tvg-chno="201" group-title="IRELAND",RTÉ One +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833967&extension=ts&play_token=bPQefO05EC
 
-#EXTINF:-1 tvg-id="RTE2+1.ie" tvg-name="RTÉ2 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%892%20+1.png" tvg-chno="202" group-title="+1 CHANNELS",RTÉ2 +1
+#EXTINF:-1 tvg-id="RTE2+1.ie" tvg-name="RTÉ2 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%892%20+1.png" tvg-chno="202" group-title="IRELAND",RTÉ2 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833964&extension=ts&play_token=vSscpI5pjO
+
+#EXTINF:-1 tvg-id="VirginOne+1.ie" tvg-name="Virgin Media One +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Virgin%20Media%20One%20+1.png" tvg-chno="203" group-title="IRELAND",Virgin Media One +1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=8339618&extension=ts&play_token=L0Xl56Xx2u
+
+
+
+# +1 CHANNELS
 
 #EXTINF:-1 tvg-id="ITV1London+1.uk" tvg-name="ITV1 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1%20+1.png" tvg-chno="203" group-title="+1 CHANNELS",ITV1 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168948&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="VirginOne+1.ie" tvg-name="Virgin Media One +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Virgin%20Media%20One%20+1.png" tvg-chno="203" group-title="+1 CHANNELS",Virgin Media One +1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=8339618&extension=ts&play_token=L0Xl56Xx2u
-
 #EXTINF:-1 tvg-id="Channel4+1.uk" tvg-name="Channel 4 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Channel%204%20+1.png" tvg-chno="204" group-title="+1 CHANNELS",Channel 4 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168954&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="Channel5+1.uk" tvg-name="5 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5%20+1.png" tvg-chno="205" group-title="+1 CHANNELS",5 +1
+#EXTINF:-1 tvg-id="Channel5+1.uk" tvg-name="5 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5%20+1.png" tvg-chno="205" group-title="+1 CHANNELS",Channel 5 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168956&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UAndAlibi+1.uk" tvg-name="U&Alibi +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Alibi%20+1.png" tvg-chno="209" group-title="+1 CHANNELS",U&Alibi +1
+#EXTINF:-1 tvg-id="UAndAlibi+1.uk" tvg-name="U&Alibi +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BAlibi%20+1.png" tvg-chno="209" group-title="+1 CHANNELS",U&Alibi +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168964&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UAndGold+1.uk" tvg-name="U&Gold +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Gold%20+1.png" tvg-chno="210" group-title="+1 CHANNELS",U&Gold +1
+#EXTINF:-1 tvg-id="UAndGold+1.uk" tvg-name="U&Gold +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BGold%20+1.png" tvg-chno="210" group-title="+1 CHANNELS",U&Gold +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170568&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandDavejavu.uk" tvg-name="U&Dave Ja Vu +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Dave%20Ja%20Vu%20+1.png" tvg-chno="211" group-title="+1 CHANNELS",U&Dave Ja Vu +1
+#EXTINF:-1 tvg-id="UandDavejavu.uk" tvg-name="U&Dave Ja Vu +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BDave%20ja%20vu.png" tvg-chno="211" group-title="+1 CHANNELS",U&Dave Ja Vu +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170570&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="ITV2+1.uk" tvg-name="ITV2 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV2%20+1.png" tvg-chno="218" group-title="+1 CHANNELS",ITV2 +1
@@ -316,7 +321,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170573&
 #EXTINF:-1 tvg-id="5USA+1.uk" tvg-name="5USA +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5USA%20+1.png" tvg-chno="241" group-title="+1 CHANNELS",5 USA +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823783&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandDrama+1.uk" tvg-name="U&Drama +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Drama%20+1.png" tvg-chno="243" group-title="+1 CHANNELS",U&Drama +1
+#EXTINF:-1 tvg-id="UandDrama+1.uk" tvg-name="U&Drama +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BDrama%20+1.png" tvg-chno="243" group-title="+1 CHANNELS",U&Drama +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170588&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="FoodNetwork+1.uk" tvg-name="Food Network +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Food%20Network%20+1.png" tvg-chno="244" group-title="+1 CHANNELS",Food Network +1
@@ -328,7 +333,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170605&
 #EXTINF:-1 tvg-id="QuestRed+1.uk" tvg-name="Quest Red +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Quest%20Red%20+1.png" tvg-chno="249" group-title="+1 CHANNELS",Quest Red +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170575&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandYesterday+1.uk" tvg-name="U&Yesterday +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Yesterday%20+1.png" tvg-chno="255" group-title="+1 CHANNELS",U&Yesterday +1
+#EXTINF:-1 tvg-id="UandYesterday+1.uk" tvg-name="U&Yesterday +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BYesterday%20+1.png" tvg-chno="255" group-title="+1 CHANNELS",U&Yesterday +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170593&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo+1.uk" tvg-name="Discovery Turbo +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Discovery%20Turbo%20+1.png" tvg-chno="258" group-title="+1 CHANNELS",Discovery Turbo +1
@@ -343,7 +348,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172113&
 #EXTINF:-1 tvg-id="AnimalPlanet+1.uk" tvg-name="Animal Planet +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Animal%20Planet%20+1.png" tvg-chno="262" group-title="+1 CHANNELS",Animal Planet +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172126&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="UandEden+1.uk" tvg-name="U&Eden +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U&Eden%20+1.png" tvg-chno="266" group-title="+1 CHANNELS",U&Eden +1
+#EXTINF:-1 tvg-id="UandEden+1.uk" tvg-name="U&Eden +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BEden%20+1.png" tvg-chno="266" group-title="+1 CHANNELS",U&Eden +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170566&extension=ts&play_token=GxFTOFWYff
 
 #EXTINF:-1 tvg-id="DiscoveryScience+1.uk" tvg-name="Discovery Science +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Discovery%20Science%20+1.png" tvg-chno="267" group-title="+1 CHANNELS",Discovery Science +1
