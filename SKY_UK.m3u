@@ -528,16 +528,16 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1174213&
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20News.png" tvg-chno="501" group-title="NEWS",Sky News
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169079&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="Bloomberg Television" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Bloomberg%20Television.png" tvg-chno="502" group-title="NEWS",Bloomberg Television
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="Bloomberg Television" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Bloomberg.png" tvg-chno="502" group-title="NEWS",Bloomberg Television
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169084&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="BBCNewsChannel.uk" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20News.png" tvg-chno="503" group-title="NEWS",BBC News
+#EXTINF:-1 tvg-id="BBCNewsChannel.uk" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20News%20Channel.png" tvg-chno="503" group-title="NEWS",BBC News
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169077&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20Parliament.png" tvg-chno="504" group-title="NEWS",BBC Parliament
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169078&extension=ts&play_token=3Ayiyfjp3Y
 
-#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/CNBC%20Europe.png" tvg-chno="505" group-title="NEWS",CNBC Europe
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC Europe" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/CNBC.png" tvg-chno="505" group-title="NEWS",CNBC Europe
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169083&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/CNN.png" tvg-chno="506" group-title="NEWS",CNN
@@ -552,7 +552,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823739&e
 #EXTINF:-1 tvg-id="NDTVWorld.uk" tvg-name="NDTV World" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/NDTV%20World.png" tvg-chno="509" group-title="NEWS",NDTV World
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823725&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="France24.uk" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/France%2024%20English.png" tvg-chno="510" group-title="NEWS",France 24 English
+#EXTINF:-1 tvg-id="France24.uk" tvg-name="France 24 English" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/France%2024.png" tvg-chno="510" group-title="NEWS",France 24 English
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823737&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="Al Jazeera English" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Al%20Jazeera%20English.png" tvg-chno="511" group-title="NEWS",Al Jazeera English
@@ -576,10 +576,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=828034&e
 #EXTINF:-1 tvg-id="TVCNews.uk" tvg-name="TVC News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TVC%20News.png" tvg-chno="520" group-title="NEWS",TVC News
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823732&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GodChannel.uk" tvg-name="GOD Channel" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GOD%20Channel.png" tvg-chno="580" group-title="NEWS",GOD Channel
+#EXTINF:-1 tvg-id="GodChannel.uk" tvg-name="GOD Channel" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/God%20Channel.png" tvg-chno="580" group-title="NEWS",GOD Channel
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170622&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="DAYSTAR.uk" tvg-name="Daystar" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Daystar.png" tvg-chno="583" group-title="NEWS",Daystar
+#EXTINF:-1 tvg-id="DAYSTAR.uk" tvg-name="Daystar" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/DAYSTAR.png" tvg-chno="583" group-title="NEWS",Daystar
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170599&extension=ts&play_token=E0zHHCUfji
 
 #EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-name="Faith World TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Faith%20World%20TV.png" tvg-chno="588" group-title="NEWS",Faith World TV
@@ -626,10 +626,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823763&e
 #EXTINF:-1 tvg-id="NickJr+1.uk" tvg-name="Nick Jr. +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Nick%20Jr.%20+1.png" tvg-chno="619" group-title="ANIMATION",Nick Jr. +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823760&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="RTÉ KIDSjr" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20KIDSjr.png" tvg-chno="621" group-title="ANIMATION",RTÉ jr
+#EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="RTÉ KIDSjr" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/RT%C3%89%20jr.png" tvg-chno="621" group-title="ANIMATION",RTÉ jr
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=833944&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BabyTV.png" tvg-chno="623" group-title="ANIMATION",BabyTV
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Baby%20TV.png" tvg-chno="623" group-title="ANIMATION",Baby TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823750&extension=ts&play_token=L0Xl56Xx2u
 
 # SHOPPING
@@ -646,13 +646,13 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170596&
 #EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC Style" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/QVC%20Style.png" tvg-chno="664" group-title="SHOPPING",QVC Style
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170598&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="Gemporia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Gemporia.png" tvg-chno="665" group-title="SHOPPING",Gemporia
+#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="Gemporia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Gems%20TV.png" tvg-chno="665" group-title="SHOPPING",Gemporia
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170607&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="HighStreetTV1.uk" tvg-name="High Street TV 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/High%20Street%20TV%201.png" tvg-chno="666" group-title="SHOPPING",High Street TV 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170615&extension=ts&play_token=qAPz66ffTa
 
-#EXTINF:-1 tvg-id="HighStreetTV2.uk" tvg-name="High Street TV 2 +½" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/High%20Street%20TV%202%20+%C2%BD.png" tvg-chno="667" group-title="SHOPPING",High Street TV 2 +½
+#EXTINF:-1 tvg-id="HighStreetTV2.uk" tvg-name="High Street TV 2 +½" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/High%20Street%20TV%201.png" tvg-chno="667" group-title="SHOPPING",High Street TV 2 +½
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170616&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="IdealWorld.uk" tvg-name="Ideal World" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Ideal%20World.png" tvg-chno="668" group-title="SHOPPING",Ideal World
@@ -670,15 +670,15 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170597&
 #EXTINF:-1 tvg-id="TVWarehouse.uk" tvg-name="TV Warehouse" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TV%20Warehouse.png" tvg-chno="673" group-title="SHOPPING",TV Warehouse
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170609&extension=ts&play_token=P9xn1q4263
 
-#EXTINF:-1 tvg-id="Cruise1st.tv.uk" tvg-name="Cruise1st.TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Cruise1st.TV.png" tvg-chno="675" group-title="SHOPPING",Cruise1st.TV
+#EXTINF:-1 tvg-id="Cruise1st.tv.uk" tvg-name="Cruise1st.TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Cruise1st.tv.png" tvg-chno="675" group-title="SHOPPING",Cruise1st.TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169075&extension=ts&play_token=L0Xl56Xx2u
 
 # INTERNATIONAL
 
-#EXTINF:-1 tvg-id="SONYTV.uk" tvg-name="Sony Entertainment TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sony%20Entertainment%20TV.png" tvg-chno="703" group-title="INTERNATIONAL",Sony Entertainment TV
+#EXTINF:-1 tvg-id="SONYTV.uk" tvg-name="Sony Entertainment TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/SONY%20TV.png" tvg-chno="703" group-title="INTERNATIONAL",Sony Entertainment TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169110&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="SONYMAX.uk" tvg-name="Sony MAX" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sony%20MAX.png" tvg-chno="714" group-title="INTERNATIONAL",Sony MAX
+#EXTINF:-1 tvg-id="SONYMAX.uk" tvg-name="Sony MAX" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/SONY%20MAX.png" tvg-chno="714" group-title="INTERNATIONAL",Sony MAX
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169111&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="GEONews.uk" tvg-name="GEO News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GEO%20News.png" tvg-chno="734" group-title="INTERNATIONAL",GEO News
@@ -690,7 +690,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=828032&e
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Eman%20Channel.png" tvg-chno="747" group-title="INTERNATIONAL",Eman Channel
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170623&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EmB54Qk4In8FzGBiKsAdJgBUiFEA0okL9CsRd6VV7BmBQMEQldJeD6gPiQMlsnTXOfJhBhN9RQ=s900-c-k-c0x00ffffff-no-rj" tvg-chno="754" group-title="INTERNATIONAL",DUNYA NEWS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EmB54Qk4In8FzGBiKsAdJgBUiFEA0okL9CsRd6VV7BmBQMEQldJeD6gPiQMlsnTXOfJhBhN9RQ=s900-c-k-c0x00ffffff-no-rj" tvg-chno="754" group-title="INTERNATIONAL",Dunya News
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=828033&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-name="Sky News Arabia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20News%20Arabia.png" tvg-chno="788" group-title="INTERNATIONAL",Sky News Arabia
