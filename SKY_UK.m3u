@@ -270,13 +270,13 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=8339618&
 
 # +1 CHANNELS
 
-#EXTINF:-1 tvg-id="ITV1London+1.uk" tvg-name="ITV1 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1%20+1.png" tvg-chno="203" group-title="+1 CHANNELS",ITV1 +1
+#EXTINF:-1 tvg-id="ITV1London+1.uk" tvg-name="ITV1 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1London%20%2B1.png" tvg-chno="203" group-title="+1 CHANNELS",ITV1 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168948&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="Channel4+1.uk" tvg-name="Channel 4 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Channel%204%20+1.png" tvg-chno="204" group-title="+1 CHANNELS",Channel 4 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168954&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="Channel5+1.uk" tvg-name="5 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/5%20+1.png" tvg-chno="205" group-title="+1 CHANNELS",Channel 5 +1
+#EXTINF:-1 tvg-id="Channel5+1.uk" tvg-name="5 +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Channel%205%20%2B1.png" tvg-chno="205" group-title="+1 CHANNELS",Channel 5 +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168956&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="UAndAlibi+1.uk" tvg-name="U&Alibi +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BAlibi%20+1.png" tvg-chno="209" group-title="+1 CHANNELS",U&Alibi +1
