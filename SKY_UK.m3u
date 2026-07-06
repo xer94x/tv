@@ -448,7 +448,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1312002&
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Football.png" tvg-chno="403" group-title="SPORT",Sky Sports Football
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1311997&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports+.png" tvg-chno="404" group-title="SPORT",Sky Sports+
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20%2B.png" tvg-chno="404" group-title="SPORT",Sky Sports+
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1311994&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Cricket.png" tvg-chno="405" group-title="SPORT",Sky Sports Cricket
@@ -496,7 +496,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1312729&
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Premier%20Sports%202.png" tvg-chno="420" group-title="SPORT",Premier Sports 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1312730&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFCTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/LFCTV.png" tvg-chno="423" group-title="SPORT",LFCTV
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFCTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/LFC%20TV.png" tvg-chno="423" group-title="SPORT",LFC TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1312823&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="Racing TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Racing%20TV.png" tvg-chno="424" group-title="SPORT",Racing TV
@@ -514,7 +514,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1312822&
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mECavVNoh2tn4Lku7JyVIN_RnW4-s2z5rEXWo41MVHmGjqUuJChPB0L2JYbHDZg5YL21OcId=s900-c-k-c0x00ffffff-no-rj" tvg-chno="437" group-title="SPORT",UFC
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1312821&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-logo=https://www.tuttowrestling.com/wp-content/uploads/2020/03/WWE-2.png" tvg-chno="438" group-title="SPORT",WWE
+#EXTINF:-1 tvg-logo="https://www.tuttowrestling.com/wp-content/uploads/2020/03/WWE-2.png" tvg-chno="438" group-title="SPORT",WWE
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1312820&extension=ts&play_token=eMspqslOrY
 
 #EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-name="TNT Sports Ultimate" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TNT%20Sports%20Ultimate.png" tvg-chno="493" group-title="SPORT",TNT Sports Ultimate
