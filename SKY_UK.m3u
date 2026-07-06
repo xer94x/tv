@@ -215,7 +215,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172143&
 #EXTINF:-1 tvg-id="TogetherTV.uk" tvg-name="Together TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Together%20TV.png" tvg-chno="170" group-title="ENTERTAINMENT",Together TV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1170614&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That's%20TV.png" tvg-chno="171" group-title="ENTERTAINMENT",That's TV
+#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That%60s%20TV.png" tvg-chno="171" group-title="ENTERTAINMENT",That's TV
 https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That%60s%20TV.png
 
 #EXTINF:-1 tvg-id="ThatsTV2.uk" tvg-name="That's TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/That%60s%20TV2.png" tvg-chno="172" group-title="ENTERTAINMENT",That's TV 2
