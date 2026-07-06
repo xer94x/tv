@@ -359,10 +359,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1172115&
 #EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Premiere.png" tvg-chno="301" group-title="CINEMA",Sky Cinema Premiere
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169114&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema 2026 Recap" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%202026%20Recap.png" tvg-chno="302" group-title="CINEMA",Sky Cinema Select
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema 2026 Recap" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Select.png" tvg-chno="302" group-title="CINEMA",Sky Cinema Select
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169115&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Minions" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Minions.png" tvg-chno="303" group-title="CINEMA",Sky Cinema Hits
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Minions" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Hits.png" tvg-chno="303" group-title="CINEMA",Sky Cinema Hits
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169122&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Family.png" tvg-chno="304" group-title="CINEMA",Sky Cinema Family
@@ -404,22 +404,22 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823772&e
 #EXTINF:-1 tvg-id="LegendXtra+1.uk" tvg-name="Legend Xtra +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Legend%20Xtra%20+1.png" tvg-chno="317" group-title="CINEMA",Legend Xtra +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823771&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GREAT!action.uk" tvg-name="Great! Action" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Great!%20Action.png" tvg-chno="318" group-title="CINEMA",Great! Action
+#EXTINF:-1 tvg-id="GREAT!action.uk" tvg-name="Great! Action" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GREAT!%20action.png" tvg-chno="318" group-title="CINEMA",Great! Action
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823777&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GREAT!action+1.uk" tvg-name="Great! Action +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Great!%20Action%20+1.png" tvg-chno="319" group-title="CINEMA",Great! Action +1
+#EXTINF:-1 tvg-id="GREAT!action+1.uk" tvg-name="Great! Action +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GREAT!%20action%20%2B1.png" tvg-chno="319" group-title="CINEMA",Great! Action +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823776&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GREAT!mystery.uk" tvg-name="Great! Mystery" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Great!%20Mystery.png" tvg-chno="320" group-title="CINEMA",Great! Mystery
+#EXTINF:-1 tvg-id="GREAT!mystery.uk" tvg-name="Great! Mystery" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GREAT!%20mystery.png" tvg-chno="320" group-title="CINEMA",Great! Mystery
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823781&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GREAT!mystery+1.uk" tvg-name="Great! Mystery +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Great!%20Mystery%20+1.png" tvg-chno="321" group-title="CINEMA",Great! Mystery +1
+#EXTINF:-1 tvg-id="GREAT!mystery+1.uk" tvg-name="Great! Mystery +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GREAT!%20mystery%20%2B1.png" tvg-chno="321" group-title="CINEMA",Great! Mystery +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823778&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GREAT!romance.uk" tvg-name="Great! Romance" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Great!%20Romance.png" tvg-chno="322" group-title="CINEMA",Great! Romance
+#EXTINF:-1 tvg-id="GREAT!romance.uk" tvg-name="Great! Romance" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GREAT!%20romance.png" tvg-chno="322" group-title="CINEMA",Great! Romance
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823775&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-id="GREAT!romance+1.uk" tvg-name="Great! Romance +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Great!%20Romance%20+1.png" tvg-chno="323" group-title="CINEMA",Great! Romance +1
+#EXTINF:-1 tvg-id="GREAT!romance+1.uk" tvg-name="Great! Romance +1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/GREAT!%20romance%20%2B1.png" tvg-chno="323" group-title="CINEMA",Great! Romance +1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=823774&extension=ts&play_token=L0Xl56Xx2u
 
 #EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-name="Talking Pictures TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Talking%20Pictures%20TV.png" tvg-chno="324" group-title="CINEMA",Talking Pictures TV
