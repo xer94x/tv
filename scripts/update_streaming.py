@@ -5,7 +5,8 @@ Aggiorna streaming.m3u dalle fonti samsung.m3u, roku_all.m3u, plutotv.m3u, rakut
 
 Regole:
 - Blocchi con gruppi normalizzati e ordinamento: RAKUTEN SAMSUNG PLUTO, WEDOTV, ROKU, PLEX, TUBI, REWARDEDTV, VIZIO.
-- Blocchi pass-through con gruppi originali: DTT, SKY, SPORT, RADIO ITALIANE, SICILIA, FREELIVESPORTS.
+- Blocchi pass-through con gruppi originali: DTT, SKY, SPORT, RADIO ITALIANE, SICILIA, FREELIVESPORTS, UKTV.
+- UKTV: blocco aggiornato manualmente, non viene mai ricostruito dallo script (pass-through puro).
 - Samsung/Roku/Rakuten/WedoTV: aggiornano completamente EXTINF e URL sui canali esistenti; per Samsung resta la logica speciale dei loghi jmp2.uk.
 - Pluto: aggiorna solo l'URL sui canali esistenti, mantenendo EXTINF intatto, salvo normalizzazione group-title nei blocchi gestiti.
 - Samsung con URL jmp2.uk: il logo viene ricostruito come
@@ -36,9 +37,10 @@ BLOCK_ORDER = [
     'RADIO ITALIANE',
     'SICILIA',
     'TGR SICILIA',
-    'SVIZZERA',
+    'UKTV',
     'USATV',
     'LIVE EVENTS',
+    'SVIZZERA',
     'RAKUTEN SAMSUNG PLUTO',
     'LG',
     'WEDOTV',
