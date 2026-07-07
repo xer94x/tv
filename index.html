@@ -1038,6 +1038,19 @@
     if (watchdogTimer){ clearTimeout(watchdogTimer); watchdogTimer = null; }
   }
 
+  // Link YouTube: non sono stream HLS, non ha senso nemmeno provare hls.js
+  // o il player nativo — si apre direttamente il link in un'altra scheda.
+  const YOUTUBE_HOSTS = ['youtube.com', 'www.youtube.com', 'm.youtube.com', 'youtu.be', 'music.youtube.com'];
+
+  function isYoutubeUrl(url){
+    try{
+      const hostname = new URL(url, location.href).hostname.toLowerCase();
+      return YOUTUBE_HOSTS.includes(hostname);
+    }catch(e){
+      return false;
+    }
+  }
+
   function playChannel(ch){
     activeChannel = ch;
     renderChannels(els.search.value);
@@ -1045,12 +1058,25 @@
     els.nowPlaying.classList.remove('dim');
     els.placeholder.style.display = 'none';
     els.overlay.classList.remove('show');
-    els.statusPill.textContent = 'CONNESSIONE…';
     els.liveTag.classList.remove('on');
     retryCount = 0;
     fallbackUsed = false;
     currentEngine = null;
     useProxy = false;
+
+    if (isYoutubeUrl(ch.url)){
+      if (hls){ hls.destroy(); hls = null; }
+      clearWatchdog();
+      els.video.removeAttribute('src');
+      els.video.load();
+      els.statusPill.textContent = 'APERTURA IN NUOVA SCHEDA…';
+      showOverlay('Link YouTube rilevato.\nApertura in un\'altra scheda…');
+      window.open(ch.url, '_blank', 'noopener');
+      if (window.innerWidth <= 760) els.sidebar.classList.remove('open');
+      return;
+    }
+
+    els.statusPill.textContent = 'CONNESSIONE…';
     startStream(ch.url);
     if (window.innerWidth <= 760) els.sidebar.classList.remove('open');
   }
@@ -1179,7 +1205,35 @@
     handleStreamError(label);
   }
 
+  // Estensioni "da pagina web" (non stream diretto): se il link del canale
+  // termina con una di queste, non ha senso continuare a riprovare con i
+  // player HLS all'infinito — dopo aver provato entrambi i motori disponibili
+  // (hls.js e nativo) conviene aprire il link in un'altra scheda, perché
+  // probabilmente è una pagina che genera/reindirizza allo stream vero.
+  const WEBPAGE_EXTENSIONS = ['jsp','jspx','cfm','do','action','shtml','xhtml','pl','cgi','php','html','htm','asp','aspx'];
+
+  function hasWebpageExtension(url){
+    try{
+      const pathname = new URL(url, location.href).pathname;
+      const match = pathname.match(/\.([a-z0-9]+)$/i);
+      if (!match) return false;
+      return WEBPAGE_EXTENSIONS.includes(match[1].toLowerCase());
+    }catch(e){
+      return false;
+    }
+  }
+
   function handleStreamError(label){
+    // A questo punto attemptFallback ha già esaurito le opzioni disponibili
+    // (motore alternativo già tentato, o nessun motore alternativo esiste
+    // su questo browser): sono stati provati tutti i lettori HLS possibili.
+    if (activeChannel && hasWebpageExtension(activeChannel.url)){
+      clearWatchdog();
+      showOverlay('Lo stream non è riproducibile direttamente in questa pagina.\nApertura del link in un\'altra scheda…');
+      els.statusPill.textContent = 'APERTURA IN NUOVA SCHEDA…';
+      window.open(activeChannel.url, '_blank', 'noopener');
+      return;
+    }
     scheduleRestart(label);
   }
 
