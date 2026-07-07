@@ -259,7 +259,7 @@ https://ippicabetflag-live.morescreens.com/IPPICA_1_002/304p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHyqoggapx3Ck9b_N1KfmovckBmjpnMmCbQ&s" group-title="Sport",Ippica Web TV 3
 https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 
-# RADIO ITALIANE
+# RADIO
 
 #EXTINF:-1 tvg-chno="61" tvg-name="Radio24 (Il Sole24Ore)" tvg-logo="https://i.imgur.com/NTqrdWW.png" group-title="Radio",Radio24 (Il Sole24Ore)
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
@@ -581,7 +581,7 @@ https://vstream-cdn.ch/hls/radio3i_720p/index.m3u8
 https://live.radiocapri.it/memfs/8ea0b12f-3624-4a80-8079-3d26747ae55b.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZR2FN73x3H.png" group-title="Radio",RadioGemini
 https://hap10.ipstream.it/gemini/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio Italia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aVNKHjppaeaRsoGRjWbHk6jkr7RG5bvdBw&s" group-title="Radio",RadioItalia5 Tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aVNKHjppaeaRsoGRjWbHk6jkr7RG5bvdBw&s" group-title="Radio",RadioItalia5 Tv
 https://str34.fluid.stream/RadioItalia5/livestream/chunklist_w1709721328.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/169/radio-latina-italy.f4fce27c.png" group-title="Radio",RadioLatina
 https://media.velcom.it:8081/radiolatinatv/tracks-v1/index.fmp4.m3u8
