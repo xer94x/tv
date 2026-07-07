@@ -831,7 +831,6 @@ https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29681605.mp
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29678907.mp4/playlist.m3u8?auth=daEd0ccacd0cpa9dUd8dgcXdVbBa7cgcIdl-bQlbcM-c0-CltutHp&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",11 giugno 2026 - ore 19:30
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29673506.mp4/playlist.m3u8?auth=daEb4anbNbrcOctcZdOdSarcFcDdgb1cqaN-bQkX2x-c0-GjuvAFu&aifp=V001
-
 # UKTV
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-chno="101" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20One.png" group-title="ukTV",BBC One
