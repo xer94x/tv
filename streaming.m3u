@@ -831,6 +831,120 @@ https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29681605.mp
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29678907.mp4/playlist.m3u8?auth=daEd0ccacd0cpa9dUd8dgcXdVbBa7cgcIdl-bQlbcM-c0-CltutHp&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",11 giugno 2026 - ore 19:30
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29673506.mp4/playlist.m3u8?auth=daEb4anbNbrcOctcZdOdSarcFcDdgb1cqaN-bQkX2x-c0-GjuvAFu&aifp=V001
+
+# UKTV
+
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-chno="101" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20One.png" group-title="ukTV",BBC One
+https://uktv.xer94x.workers.dev/bbc-one-uk/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-chno="102" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20Two.png" group-title="ukTV",BBC Two
+https://uktv.xer94x.workers.dev/bbc-two-uk/index.m3u8
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-chno="103" tvg-name="ITV1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV1%20London.png" group-title="ukTV",ITV1
+https://uktv.xer94x.workers.dev/itv1-uk/index.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-chno="104" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/S4C.png" group-title="ukTV",S4C
+https://uktv.xer94x.workers.dev/s4c-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-chno="106" tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Showcase.png" group-title="ukTV",Sky Showcase
+https://uktv.xer94x.workers.dev/sky-showcase/index.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-chno="108" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Atlantic.png" group-title="ukTV",Sky Atlantic
+https://uktv.xer94x.workers.dev/sky-atlantic-uk/index.m3u8
+#EXTINF:-1 tvg-id="UAndGold.uk" tvg-chno="110" tvg-name="U&Gold" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BGold.png" group-title="ukTV",U&Gold
+https://uktv.xer94x.workers.dev/gold-uk/index.m3u8
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-chno="111" tvg-name="U&Dave" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BDave.png" group-title="ukTV",U&Dave
+https://uktv.xer94x.workers.dev/udave-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-chno="113" tvg-name="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Comedy.png" group-title="ukTV",Sky Comedy
+https://uktv.xer94x.workers.dev/sky-comedy-uk/index.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-chno="115" tvg-name="BBC Three" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBCThree.png" group-title="ukTV",BBC Three
+https://uktv.xer94x.workers.dev/bbc-three-uk/index.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-chno="118" tvg-name="ITV2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV2.png" group-title="ukTV",ITV2
+https://uktv.xer94x.workers.dev/itv2-uk/index.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-chno="119" tvg-name="ITV3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV3.png" group-title="ukTV",ITV3
+https://uktv.xer94x.workers.dev/itv3-uk/index.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-chno="120" tvg-name="ITV4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/ITV4.png" group-title="ukTV",ITV4
+https://uktv.xer94x.workers.dev/itv4-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-chno="121" tvg-name="Sky Crime" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Crime.png" group-title="ukTV",Sky Crime
+https://uktv.xer94x.workers.dev/sky-crime-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-chno="122" tvg-name="Sky Arts" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Arts.png" group-title="ukTV",Sky Arts
+https://uktv.xer94x.workers.dev/sky-arts-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-chno="123" tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/SkyHistory.png" group-title="ukTV",Sky History
+https://uktv.xer94x.workers.dev/sky-history-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-chno="301" tvg-name="Sky Cinema Premiere" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Premiere.png" group-title="ukTV",Sky Cinema Premiere
+https://uktv.xer94x.workers.dev/sky-cinema-premiere-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-chno="302" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Select.png" group-title="ukTV",Sky Cinema Select
+https://uktv.xer94x.workers.dev/sky-cinema-select-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-chno="303" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Hits.png" group-title="ukTV",Sky Cinema Hits
+https://uktv.xer94x.workers.dev/sky-cinema-hits-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-chno="304" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Family.png" group-title="ukTV",Sky Cinema Family
+https://uktv.xer94x.workers.dev/sky-cinema-family-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-chno="306" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Action.png" group-title="ukTV",Sky Cinema Action
+https://uktv.xer94x.workers.dev/sky-cinema-action-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-chno="307" tvg-name="Sky Cinema Greats" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Greats.png" group-title="ukTV",Sky Cinema Greats
+https://uktv.xer94x.workers.dev/sky-cinema-greats-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-chno="308" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Comedy.png" group-title="ukTV",Sky Cinema Comedy
+https://uktv.xer94x.workers.dev/sky-cinema-comedy-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-chno="309" tvg-name="Sky Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Thriller.png" group-title="ukTV",Sky Cinema Thriller
+https://uktv.xer94x.workers.dev/sky-cinema-thriller-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-chno="310" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Drama.png" group-title="ukTV",Sky Cinema Drama
+https://uktv.xer94x.workers.dev/sky-cinema-drama-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-chno="311" tvg-name="Sky Cinema Sci Fi & Horror" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Cinema%20Sci-fi_Horror.png" group-title="ukTV",Sky Cinema Sci Fi & Horror
+https://uktv.xer94x.workers.dev/sky-cinema-sci-fi-horror-uk/index.m3u8
+#EXTINF:-1 tvg-id="Film4.uk" tvg-chno="313" tvg-name="Film4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Film4.png" group-title="ukTV",Film4
+https://uktv.xer94x.workers.dev/film4-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-chno="401" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Main%20Event.png" group-title="ukTV",Sky Sports Main Event
+https://uktv.xer94x.workers.dev/sky-sports-main-event-live-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-chno="402" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Premier%20League.png" group-title="ukTV",Sky Sports Premier League
+https://uktv.xer94x.workers.dev/sky-sports-premier-league-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-chno="403" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Football.png" group-title="ukTV",Sky Sports Football
+https://uktv.xer94x.workers.dev/sky-sports-football-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-chno="404" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20%2B.png" group-title="ukTV",Sky Sports+
+https://uktv.xer94x.workers.dev/sky-sports-plus-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-chno="405" tvg-name="Sky Sports Cricket" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Cricket.png" group-title="ukTV",Sky Sports Cricket
+https://uktv.xer94x.workers.dev/sky-sports-cricket-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-chno="406" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Golf.png" group-title="ukTV",Sky Sports Golf
+https://uktv.xer94x.workers.dev/sky-sports-golf-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-chno="407" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20F1.png" group-title="ukTV",Sky Sports F1
+https://uktv.xer94x.workers.dev/sky-sports-f1-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-chno="408" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Tennis.png" group-title="ukTV",Sky Sports Tennis
+https://uktv.xer94x.workers.dev/sky-sports-tennis-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-chno="409" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20News.png" group-title="ukTV",Sky Sports News
+https://uktv.xer94x.workers.dev/sky-sports-news-uk/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-chno="410" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TNT%20Sports%201.png" group-title="ukTV",TNT Sports 1
+https://uktv.xer94x.workers.dev/tnt-sports-1-uk/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-chno="411" tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TNT%20Sports%202.png" group-title="ukTV",TNT Sports 2
+https://uktv.xer94x.workers.dev/tnt-sports-2-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-chno="412" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Action.png" group-title="ukTV",Sky Sports Action
+https://uktv.xer94x.workers.dev/sky-sports-action-uk/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-chno="413" tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TNT%20Sports%203.png" group-title="ukTV",TNT Sports 3
+https://uktv.xer94x.workers.dev/tnt-sports-3-uk/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-chno="414" tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/TNT%20Sports%204.png" group-title="ukTV",TNT Sports 4
+https://uktv.xer94x.workers.dev/tnt-sports-4-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-chno="415" tvg-name="Sky Sports Racing" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Racing.png" group-title="ukTV",Sky Sports Racing
+https://uktv.xer94x.workers.dev/sky-sports-racing-uk/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-chno="416" tvg-name="Sky Sports Mix" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Sports%20Mix.png" group-title="ukTV",Sky Sports Mix
+https://uktv.xer94x.workers.dev/sky-sports-mix-uk/index.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-chno="418" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/MUTV.png" group-title="ukTV",MUTV
+https://uktv.xer94x.workers.dev/mutv-uk/index.m3u8
+#EXTINF:-1 tvg-id="PremierSports1.ie" tvg-chno="419" tvg-name="Premier Sports 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Premier%20Sports%201.png" group-title="ukTV",Premier Sports 1
+https://uktv.xer94x.workers.dev/premier-sports-1-uk/index.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ie" tvg-chno="420" tvg-name="Premier Sports 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Premier%20Sports%202.png" group-title="ukTV",Premier Sports 2
+https://uktv.xer94x.workers.dev/premier-sports-2-uk/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-chno="421" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="ukTV",Eurosport 1
+https://uktv.xer94x.workers.dev/eurosport-1-uk/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-chno="422" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="ukTV",Eurosport 2
+https://uktv.xer94x.workers.dev/eurosport-2-uk/index.m3u8
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-chno="423" tvg-name="LFC TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/LFC%20TV.png" group-title="ukTV",LFC TV
+https://uktv.xer94x.workers.dev/lfctv-uk/index.m3u8
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-chno="424" tvg-name="Racing TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Racing%20TV.png" group-title="ukTV",Racing TV
+https://uktv.xer94x.workers.dev/racing-tv-uk/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1.uk" tvg-chno="430" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/beinsports1.png" group-title="ukTV",beIN Sports 1
+https://uktv.xer94x.workers.dev/bein-sports-1-uk/index.m3u8
+#EXTINF:-1 tvg-id="beINSports2.uk" tvg-chno="431" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/beinsports2.png" group-title="ukTV",beIN Sports 2
+https://uktv.xer94x.workers.dev/bein-sports-2-uk/index.m3u8
+#EXTINF:-1 tvg-id="LaLigaTV.uk" tvg-chno="435" tvg-name="La Liga TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/LaLiga%20TV.png" group-title="ukTV",La Liga TV
+https://uktv.xer94x.workers.dev/la-liga-tv-uk/index.m3u8
+#EXTINF:-1 tvg-id="RallyTV" tvg-chno="500" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Rally.TV.png" group-title="ukTV",Rally TV
+https://uktv.xer94x.workers.dev/rally-tv/index.m3u8
+
+
 # USATV
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="usaTV",A&E TV
 http://206.212.244.63/1/index.m3u8
