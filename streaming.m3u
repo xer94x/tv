@@ -425,7 +425,7 @@ https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 https://tv.radiobussola.it/hls/rb24/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-crc-tv-cover.jpg" group-title="Radio",Radio CRC
 https://flash2.xdevel.com/crctv/crctv/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio Italia TV" tvg-logo="https://www.tvdream.net/img/radio-calima-tv-cover.jpg" group-title="Radio",Radio Calima Tv
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-calima-tv-cover.jpg" group-title="Radio",Radio Calima Tv
 https://585b674743bbb.streamlock.net/calimafm/calimafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/carinatv-cover.jpg" group-title="Radio",Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
