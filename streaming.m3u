@@ -834,7 +834,6 @@ https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29673506.mp
 
 # UKTV
 
-#EXTM3U
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-chno="101" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20One.png" group-title="ukTV",BBC One
 https://uktv.xer94x.workers.dev/bbc-one-uk/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-chno="102" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/BBC%20Two.png" group-title="ukTV",BBC Two
