@@ -154,6 +154,10 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport 24" tvg-chno="200" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
 https://skysport.xer94x.workers.dev/24/index.m3u8
+#EXTINF:-1 tvg-id="RSI LA1" tvg-chno="101" tvg-name="RSI La1" tvg-logo="https://i.ibb.co/tTmYH1qK/RSI-La-1.png" group-title="Sky",RSI La1
+https://juventusonair.com/channels/rsila1.php
+#EXTINF:-1 tvg-id="RSI LA2" tvg-chno="102" tvg-name="RSI La2" tvg-logo="https://i.ibb.co/hx4d5d7Z/RSI-La-2.png" group-title="Sky",RSI La2
+https://juventusonair.com/channels/rsila2z.php
 #EXTINF:-1 tvg-id="Zona DAZN" tvg-chno="199" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
 https://skysport.xer94x.workers.dev/dazn/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Uno" tvg-chno="201" tvg-name="Sky Sport UNO" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="Sky",Sky Sport Uno
@@ -174,10 +178,10 @@ https://skysport.xer94x.workers.dev/f1/index.m3u8
 https://skysport.xer94x.workers.dev/motogp/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Golf" tvg-chno="209" tvg-name="Sky Sports Golf" tvg-logo="https://i.ibb.co/HvC5fbK/209-sky-sport-golf-it.png" group-title="Sky",Sky Sports Golf
 https://skysport.xer94x.workers.dev/golf/index.m3u8
-#EXTINF:-1 tvg-id="Sky Sport Mix" tvg-chno="211" tvg-name="Sky Sport Mix" tvg-logo="https://i.ibb.co/cXYSBfRP/211-sky-sport-mix-it.png" group-title="Sky",Sky Sport Mix
-https://skysport.xer94x.workers.dev/mix/index.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="Sky Sport Legend" tvg-name="Sky Sports Legend" tvg-logo="https://i.ibb.co/r2qWYmqj/212-sky-sport-legend-it.png" group-title="Sky",Sky Sports Legend
 https://skysport.xer94x.workers.dev/legend/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Mix" tvg-chno="211" tvg-name="Sky Sport Mix" tvg-logo="https://i.ibb.co/cXYSBfRP/211-sky-sport-mix-it.png" group-title="Sky",Sky Sport Mix
+https://skysport.xer94x.workers.dev/mix/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="Sky",EUROSPORT 1
 https://skysport.xer94x.workers.dev/eurosport1/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="Sky",EUROSPORT 2
@@ -217,7 +221,7 @@ https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3
 https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BIKE Channel" tvg-chno="69" tvg-name="BIKE Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXVWgQFLQLlEctRiePgjfqZsdP_GPD2Y6Yw&s" group-title="Sport",BIKE Channel
 https://edge-001.streamup.eu/origin/bike_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHOgM_K2K-hKrWc6CN2sgu3b2JTp9p53YtA&s" group-title="Sport",TMW  Radio Tv (Tutto Mercato Web)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHOgM_K2K-hKrWc6CN2sgu3b2JTp9p53YtA&s" group-title="Sport",Tutto Mercato Web
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis" tvg-chno="51" tvg-name="SuperTennis" tvg-logo="https://i.ibb.co/GfjYBG2s/224-super-tennis-it.png" group-title="Sport",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
