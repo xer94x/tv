@@ -3,12 +3,15 @@
 # DTT
 
 #EXTINF:-1 tvg-chno="1" tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.ibb.co/qMcsYXFB/101-rai-1-it.png" group-title="",1 Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://i.ibb.co/zHZXx5Hw/102-rai-2-it.png" group-title="",2 Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.ibb.co/cqKGmMb/103-rai-3-it.png" group-title="",3 Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://i.ibb.co/jk3Fb0W0/104-rete4-it.png" group-title="",4 Rete 4
@@ -27,6 +30,7 @@ https://jmp2.uk/stvp-ITBD1500002NL
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.ibb.co/gFLmgvx3/010-rai-4-it.png" group-title="",10 Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://i.ibb.co/21d8kNv4/011-iris-it.png" group-title="",11 Iris
@@ -36,12 +40,15 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://i.ibb.co/Lh9fVBsy/013-rai-5-it.png" group-title="",13 Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-chno="14" tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://i.ibb.co/CsTvnR4J/014-rai-movie-it.png" group-title="",14 Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-chno="15" tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.ibb.co/VWthYJvQ/015-rai-premium-it.png" group-title="",15 Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-chno="16" tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://i.ibb.co/4Z0L375W/175-italia2-it.png" group-title="",16 Italia 2
@@ -57,6 +64,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="RAISport.it" tvg-name="Rai Sport" tvg-logo="https://i.ibb.co/23VcZNvF/021-rai-sport-it.png" group-title="",21 Rai Sport
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-chno="22" tvg-id="Focus.it" tvg-name="Focus" tvg-logo="https://i.ibb.co/chy2kgvM/033-focus-it.png" group-title="",22 Focus
@@ -66,12 +74,14 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 
 #EXTINF:-1 tvg-chno="24" tvg-id="RaiNews.it" tvg-name="Rai News 24" tvg-logo="https://i.ibb.co/nM1MwpzQ/024-rai-news-24-it.png" group-title="",24 Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 
 #EXTINF:-1 tvg-chno="25" tvg-id="TgCom24.it" tvg-name="TgCom 24" tvg-logo="https://i.ibb.co/4wsbVkC2/025-tgcom24-it.png" group-title="",25 TgCom 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://i.ibb.co/zTz3R1qL/026-rai-scuola-it.png" group-title="",26 Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 
 #EXTINF:-1 tvg-chno="27" tvg-id="Mediaset27Twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://i.ibb.co/hJXr29MC/158-twenty-seven-it.png" group-title="",27 Twentyseven
@@ -93,9 +103,11 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="41" tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://i.ibb.co/k2jVpQj7/042-rai-gulp-it.png" group-title="",41 Rai Gulp
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-chno="42" tvg-id="RaiYoyo.it" tvg-name="Rai YoYo" tvg-logo="https://i.ibb.co/bctKkZ8/043-rai-yoyo-it.png" group-title="",42 Rai YoYo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-chno="45" tvg-id="" tvg-name="Radio 105 TV" tvg-logo="https://i.ibb.co/p6HfFcZB/Radio-105-logo.jpg" group-title="",45 Radio 105 TV
@@ -105,6 +117,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-id="" tvg-name="Rai Radio 2" tvg-logo="https://i.ibb.co/0y0rcT5H/602-rai-radio-2-it.png" group-title="",47 Rai Radio 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 
 #EXTINF:-1 tvg-chno="48" tvg-id="RadioMonteCarlo.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://i.ibb.co/x8sqhS7g/716-radio-monte-carlo-it.png" group-title="",48 Radio Montecarlo TV
