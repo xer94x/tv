@@ -359,7 +359,7 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 https://media2021.rtvweb.com/promovideo_web/promoradiotv/chunklist_w1439546252.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-punto-zero-tv-cover.jpg" group-title="Radio",Punto Radio TV
 https://w1.mediastreaming.it/puntoradio/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lafeltrinelli.it/images/0889853876020_0_0_536_0_75.jpg" group-title="Radio",R 101 ( Radio 101 )
+#EXTINF:-1 tvg-id="R101 TV" tvg-logo="https://www.lafeltrinelli.it/images/0889853876020_0_0_536_0_75.jpg" group-title="Radio",R 101
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-digiesse-tv-cover.jpg" group-title="Radio",R. Digiesse (Radio D.G.S.)
 https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
@@ -395,7 +395,7 @@ https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2l
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Radio",RTR99
 https://5e73cf528f404.streamlock.net/RTR99TV/livestream/chunklist_w2019426144.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-fhgyFyuAQyIS5DiiRA0TxE3PyHYm3WsEDwBc-5YNY41_x61evtVp_y2ew8cnUa8053JfG5m=s900-c-k-c0x00ffffff-no-rj" group-title="Radio",Radio 105
+#EXTINF:-1 tvg-id="Radio 105" tvg-logo="https://yt3.googleusercontent.com/-fhgyFyuAQyIS5DiiRA0TxE3PyHYm3WsEDwBc-5YNY41_x61evtVp_y2ew8cnUa8053JfG5m=s900-c-k-c0x00ffffff-no-rj" group-title="Radio",Radio 105
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/radio-4-you-cover.jpg" group-title="Radio",Radio 4 You Tv
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
