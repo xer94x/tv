@@ -98,7 +98,7 @@ GROUP_MAP = {
     'Film': {'horror e paranormale', 'notti di...', 'dark comedy', 'movies', 'romance'},
     'Intrattenimento': {
         'reality show', 'auction', 'biography', 'game show', 'law',
-        'paranormal', 'entertainment', 'wedotv'
+        'paranormal', 'entertainment', 'wedotv', 'novitÃ  su pluto tv'
     },
     'Musica': {'music', 'musica e ambient'},
     'News': {'news e mondo', 'bus./financial', 'weather'},
@@ -107,7 +107,6 @@ GROUP_MAP = {
         'series', 'telenovela', 'serie tv'
     },
     'Sport': {'motori e sport', 'auto & motorsports', 'sports', 'calcio'},
-    'Nuovi': {'novitÃ  su pluto tv'},
 }
 
 SOURCE_BLOCK = {
