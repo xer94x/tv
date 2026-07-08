@@ -17,8 +17,8 @@
     --line:      #2a3341;
     --text:      #e9ebee;
     --text-dim:  #8b95a5;
-    --amber:     #f0a83c;
-    --amber-dim: #7a5a2a;
+    --amber:     #4fb8c4;
+    --amber-dim: #2a5257;
     --cyan:      #4fb8c4;
     --red-live:  #e6483f;
     --mono: 'IBM Plex Mono', ui-monospace, monospace;
@@ -165,10 +165,10 @@
   button:focus-visible{outline:2px solid var(--amber); outline-offset:1px;}
   button.primary{
     background:var(--amber);
-    color:#1a1206;
+    color:#08292c;
     border-color:var(--amber);
   }
-  button.primary:hover{background:#f5b859; color:#1a1206;}
+  button.primary:hover{background:#6bc9d3; color:#08292c;}
   .file-btn{position:relative; overflow:hidden;}
   .file-btn input[type=file]{
     position:absolute; inset:0; opacity:0; cursor:pointer;
@@ -210,7 +210,7 @@
     background:var(--panel-2);
     border-left-color:var(--amber);
   }
-  .channel.active .ch-name{color:var(--amber);}
+  .channel.active .ch-name{color:#f0a83c;}
   .ch-logo{
     width:26px; height:26px;
     border-radius:4px;
@@ -398,7 +398,7 @@
     font-family:var(--mono);
     font-size:12.5px;
     font-weight:600;
-    color:var(--amber);
+    color:#f0a83c;
   }
   .epg-modal-head span{overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
   .epg-modal-head button{padding:4px 8px; font-size:12px; flex-shrink:0;}
@@ -414,7 +414,7 @@
     transition:border-color .12s, color .12s, background .12s;
   }
   .epg-day-tab:hover{border-color:var(--amber); color:var(--amber);}
-  .epg-day-tab.active{background:var(--amber); color:#1a1206; border-color:var(--amber);}
+  .epg-day-tab.active{background:var(--amber); color:#08292c; border-color:var(--amber);}
   .epg-modal-body{overflow-y:auto; flex:1; scroll-behavior:smooth;}
   .epg-row{
     display:flex; gap:12px;
@@ -439,7 +439,7 @@
       </div>
       <div class="playlist-controls">
         <div class="row">
-          <input type="text" id="m3uUrl" placeholder="URL playlist M3U…">
+          <input type="text" id="m3uUrl" placeholder="URL playlist M3U o stream diretto…">
           <button id="loadUrlBtn">Carica</button>
         </div>
         <div class="row">
@@ -984,15 +984,45 @@
 
   // ── Caricamento playlist ─────────────────────────────────────────
   async function loadFromUrl(url){
-    setHint('Caricamento playlist…');
+    setHint('Caricamento…');
     try{
       const res = await fetch(url, { cache: 'no-store' });
       if (!res.ok) throw new Error('HTTP ' + res.status);
       const text = await res.text();
-      applyPlaylist(text, url);
+      if (isM3UPlaylist(text)){
+        applyPlaylist(text, url);
+      } else {
+        // Non è una playlist M3U (niente #EXTM3U/#EXTINF): trattalo come
+        // uno stream diretto e mandalo subito al player.
+        playDirectStream(url);
+      }
     }catch(err){
-      setHint('Errore caricamento: ' + err.message);
+      // Il fetch può fallire per CORS anche se lo stream è perfettamente
+      // riproducibile dal player video (hls.js/nativo gestiscono CORS in
+      // modo diverso da fetch) — in tal caso proviamo comunque a
+      // riprodurlo direttamente invece di segnalare solo un errore.
+      setHint('Impossibile leggere l\'URL come playlist — provo come stream diretto…');
+      playDirectStream(url);
     }
+  }
+
+  function isM3UPlaylist(text){
+    const trimmed = text.trim();
+    return /^#EXTM3U/i.test(trimmed) || /#EXTINF/i.test(trimmed);
+  }
+
+  function playDirectStream(url){
+    setHint('Riproduzione stream diretto: ' + url);
+    // Canale "volante": non fa parte di nessuna playlist caricata, quindi
+    // non compare nella lista laterale né viene evidenziato lì.
+    const ch = {
+      name: 'Stream diretto',
+      logo: '',
+      group: '',
+      tvgId: '',
+      url,
+    };
+    playChannel(ch);
   }
 
   function loadFromFile(file){
