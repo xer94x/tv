@@ -11,7 +11,7 @@ Regole:
 - Pluto: aggiorna solo l'URL sui canali esistenti, mantenendo EXTINF intatto, salvo normalizzazione group-title nei blocchi gestiti.
 - Samsung con URL jmp2.uk: il logo viene ricostruito come
   https://raw.githubusercontent.com/xer94x/tv/main/loghi/<NomeCanaleSamsung>.png
-- Nuovi canali: nel blocco corretto; se il gruppo non Ã¨ mappabile, vanno in "Nuovi".
+- Nuovi canali: nel blocco corretto; se il gruppo non è mappabile, vanno in "Nuovi".
 """
 
 import re
@@ -98,7 +98,7 @@ GROUP_MAP = {
     'Film': {'horror e paranormale', 'notti di...', 'dark comedy', 'movies', 'romance'},
     'Intrattenimento': {
         'reality show', 'auction', 'biography', 'game show', 'law',
-        'paranormal', 'entertainment', 'wedotv', 'novitÃ  su pluto tv'
+        'paranormal', 'entertainment', 'wedotv', 'novità su pluto tv'
     },
     'Musica': {'music', 'musica e ambient'},
     'News': {'news e mondo', 'bus./financial', 'weather'},
