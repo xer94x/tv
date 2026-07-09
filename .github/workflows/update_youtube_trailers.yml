@@ -111,4 +111,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add youtube_trailers.m3u
           git commit -m "Update youtube_trailers.m3u" || exit 0
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push fallito, retry $i..."
+            sleep $((RANDOM % 10 + 1))
+          done
