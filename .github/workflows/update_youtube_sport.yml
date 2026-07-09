@@ -1,0 +1,101 @@
+# https://www.youtube.com/feeds/videos.xml?channel_id= https://www.youtube.com/feeds/videos.xml?playlist_id=
+
+name: Update YouTube Sport M3U
+on:
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "Lascia vuoto per usare DEFAULT_SOURCES. Una riga per feed: FEED_URL|GRUPPO"
+        required: false
+        type: string
+      max_items:
+        description: "Lascia vuoto per usare DEFAULT_MAX_ITEMS"
+        required: false
+        type: string
+  schedule:
+    - cron: "*/15 * * * *"
+env:
+  DEFAULT_SOURCES: |
+    https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
+    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
+    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhwNTGicMeHDbMWJyY7XWez-|Mondiali 2026 Dazn
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCKUzdt2sELyxd6mz-bAx3bA|Mondiali 2026 Rai
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCAvNr5DMVncoJnJAotXOjOQ|Sky Sport
+    https://www.youtube.com/feeds/videos.xml?channel_id=UC7bfeZHiUlQO32O32qlMZXg|Sky Sport Tennis
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCMQ7Gx6v-pQy_gsRoMJYzOA|Sky Sport F!
+    https://www.youtube.com/feeds/videos.xml?channel_id=UCGlmF5tM5DeT5Dl1BQVItYg|Sky Sport MotoGP
+    
+
+  DEFAULT_MAX_ITEMS: "50"
+permissions:
+  contents: write
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install feedparser
+      - name: Generate youtube_sport.m3u
+        env:
+          SOURCES: ${{ inputs.sources || env.DEFAULT_SOURCES }}
+          MAX_ITEMS: ${{ inputs.max_items || env.DEFAULT_MAX_ITEMS }}
+        run: |
+          python - <<'PY2'
+          from pathlib import Path
+          import os
+          import feedparser
+          from collections import defaultdict
+          output_file = Path("youtube_sport.m3u")
+          raw_sources = os.getenv("SOURCES", "")
+          max_items_raw = os.getenv("MAX_ITEMS", "50")
+          try:
+              max_items = int(max_items_raw)
+          except ValueError:
+              max_items = 50
+          seen_links = set()
+          groups = defaultdict(list)
+          normalized = raw_sources.replace("\\n", "\n")
+          for row in normalized.splitlines():
+              row = row.strip()
+              if not row or "|" not in row:
+                  continue
+              feed_url, group = row.split("|", 1)
+              feed_url = feed_url.strip()
+              group = group.strip() or "youtube"
+              feed = feedparser.parse(feed_url)
+              entries = feed.entries[:max_items]
+              for entry in entries:
+                  title = entry.get("title", "Senza titolo").replace("\n", " ").strip()
+                  link = entry.get("link", "").strip()
+                  if not link or link in seen_links:
+                      continue
+                  thumb = ""
+                  media_thumbnail = entry.get("media_thumbnail")
+                  if media_thumbnail and isinstance(media_thumbnail, list):
+                      thumb = media_thumbnail[0].get("url", "").strip()
+                  if thumb:
+                      extinf = f'#EXTINF:-1 tvg-logo="{thumb}" group-title="{group}",{title}'
+                  else:
+                      extinf = f'#EXTINF:-1 group-title="{group}",{title}'
+                  groups[group].append((extinf, link))
+                  seen_links.add(link)
+          lines = ["#EXTM3U"]
+          for group in sorted(groups.keys(), key=lambda g: g.lower()):
+              for extinf, link in groups[group]:
+                  lines.append(extinf)
+                  lines.append(link)
+          output_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
+          PY2
+      - name: Commit updated playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add youtube_sport.m3u
+          git commit -m "Update youtube_sport.m3u" || exit 0
+          git push
