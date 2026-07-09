@@ -18,7 +18,7 @@ env:
   DEFAULT_SOURCES: |
     https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
     https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
-    https://www.youtube.com/feeds/videos.xml?playlist_id=PLb_Qew9DujkgZg0TszlrO6JNADNYoIibZ|Mondiali 2026 Dazn
+    https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhwNTGicMeHDbMWJyY7XWez-|Mondiali 2026 Dazn
     https://www.youtube.com/feeds/videos.xml?channel_id=UCKUzdt2sELyxd6mz-bAx3bA|Mondiali 2026 Rai
     https://www.youtube.com/feeds/videos.xml?channel_id=UCAvNr5DMVncoJnJAotXOjOQ|Sky Sport
     https://www.youtube.com/feeds/videos.xml?channel_id=UC7bfeZHiUlQO32O32qlMZXg|Sky Sport Tennis
@@ -98,4 +98,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add youtube_sport.m3u
           git commit -m "Update youtube_sport.m3u" || exit 0
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push fallito, retry $i..."
+            sleep $((RANDOM % 10 + 1))
+          done
