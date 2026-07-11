@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Q0_vw0HgSTk/hqdefault.jpg" group-title="Dazn",L'ultimo #ArgentinaSvizzera è finito così 🔙 Messi dipinge, Di María decide ⚽
+https://www.youtube.com/shorts/Q0_vw0HgSTk
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/qI1Ydq8Ov_I/hqdefault.jpg" group-title="Dazn",Manca pochissimo a #NorvegiaInghilterra ⏰
 https://www.youtube.com/shorts/qI1Ydq8Ov_I
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/6FJkztYVsPI/hqdefault.jpg" group-title="Dazn",Il popolo argentino vuole festeggiare 🇦🇷Entusiasmo alle stelle alla fontana del 𝑩𝒂𝒏𝒅𝒆𝒓𝒂𝒛𝒐 ⛲️
@@ -27,8 +29,6 @@ https://www.youtube.com/watch?v=DZBFbi9ZxlQ
 https://www.youtube.com/shorts/C7IH9D0b5ho
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/6hq1mpg0i6w/hqdefault.jpg" group-title="Dazn",Messi e Lautaro 𝐶𝐴𝑅𝐼𝐶𝐻𝐼 💪La rifinitura dell’Argentina in vista della Svizzera 🇦🇷
 https://www.youtube.com/shorts/6hq1mpg0i6w
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-sfqMhapyiw/hqdefault.jpg" group-title="Dazn",Qual è il centravanti 𝐏𝐈𝐔' 𝐅𝐎𝐑𝐓𝐄❓⚽👀
-https://www.youtube.com/shorts/-sfqMhapyiw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/ZJO05256O2U/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna - Belgio 2-1: Highlights Estesi | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=ZJO05256O2U
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/4l_qlv_phEE/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna - Belgio 2-1: Highlights | Mondiali di Calcio FIFA 2026
@@ -179,6 +179,12 @@ https://www.youtube.com/watch?v=IYy7znHgNjs
 https://www.youtube.com/watch?v=6cAjfeO59_I
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/c-62NM1u9ZU/hqdefault.jpg" group-title="Sky Sport MotoGP",Moto2, GP di Germania: gli highlights delle qualifiche del Sachsenring
 https://www.youtube.com/watch?v=c-62NM1u9ZU
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mTs0r5iPajw/hqdefault.jpg" group-title="Sky Sport Tennis",Noskova-Muchova: gli EXTENDED HIGHLIGHTS della finale | WIMBLEDON
+https://www.youtube.com/watch?v=mTs0r5iPajw
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/kNq4-qWzjEQ/hqdefault.jpg" group-title="Sky Sport Tennis",Le lacrime di Karolina Muchova, sconfitta in tre set da Noskova in finale a Wimbledon 😔
+https://www.youtube.com/shorts/kNq4-qWzjEQ
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/dLPx6Lyk67I/hqdefault.jpg" group-title="Sky Sport Tennis",La dedica di Linda Noskova alla mamma scomparsa due anni fa e il ringraziamento ai tifosi 🩷
+https://www.youtube.com/shorts/dLPx6Lyk67I
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FpqDnvK1jrA/hqdefault.jpg" group-title="Sky Sport Tennis",SINNER-ZVEREV: la finale di Wimbledon domenica 12 luglio alle 17:00 su Sky Sport
 https://www.youtube.com/watch?v=FpqDnvK1jrA
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/ClN5eHXYqgs/hqdefault.jpg" group-title="Sky Sport Tennis",Noskova viene premiata dalla Principessa Kate dopo la vittoria a Wimbledon!
@@ -203,9 +209,3 @@ https://www.youtube.com/shorts/vTTs_XT7-x0
 https://www.youtube.com/watch?v=gYcfK68MTao
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/79HYcMHFMm0/hqdefault.jpg" group-title="Sky Sport Tennis",Le parole di Alexander Zverev in conferenza stampa dopo la vittoria in semifinale contro Arthur Fery
 https://www.youtube.com/watch?v=79HYcMHFMm0
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/X0h6STST5n0/hqdefault.jpg" group-title="Sky Sport Tennis",Il commento di Boris Becker sulla vittoria di Sinner contro Djokovic | Wimbledon
-https://www.youtube.com/watch?v=X0h6STST5n0
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Y2fKvrrrI1w/hqdefault.jpg" group-title="Sky Sport Tennis",Le parole di Jannik Sinner dopo la vittoria in semifinale contro Novak Djokovic | Wimbledon
-https://www.youtube.com/watch?v=Y2fKvrrrI1w
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/M3BGXuSpfcE/hqdefault.jpg" group-title="Sky Sport Tennis",La standing ovation del Centre Court per Novak Djokovic
-https://www.youtube.com/shorts/M3BGXuSpfcE
