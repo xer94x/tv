@@ -838,21 +838,26 @@
       return { ok: urls.length, total: urls.length, cached: true };
     }
 
-    const results = await Promise.all(urls.map(fetchEpgSource));
+    // Ogni sorgente viene unita alla mappa e mostrata non appena è pronta,
+    // invece di aspettare che tutte le sorgenti abbiano finito il fetch:
+    // così i pulsanti EPG (e i programmi "in onda ora") compaiono uno alla
+    // volta man mano che arrivano, senza bloccare tutto fino all'ultima.
     const merged = new Map();
+    epgMap = merged;
     let ok = 0;
-    for (const map of results){
-      if (!map) continue;
+
+    await Promise.all(urls.map(url => fetchEpgSource(url).then(map => {
+      if (!map) return;
       ok++;
       for (const [chId, progs] of map){
         if (!merged.has(chId)) merged.set(chId, []);
         merged.get(chId).push(...progs);
+        merged.get(chId).sort((a, b) => a.start - b.start);
       }
-    }
-    for (const progs of merged.values()) progs.sort((a, b) => a.start - b.start);
-    epgMap = merged;
+      renderChannels(els.search.value); // aggiorna subito i pulsanti EPG di questa sorgente
+    })));
+
     if (ok > 0) await writeEpgCache(urlsKey, merged);
-    renderChannels(els.search.value); // aggiorna anche i pulsanti EPG mostrati
     return { ok, total: urls.length };
   }
 
@@ -1346,3 +1351,4 @@
 </script>
 </body>
 </html>
+
