@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Es9fidkXHAU/hqdefault.jpg" group-title="Dazn",Noi come Keyne 🔊🫶
+https://www.youtube.com/shorts/Es9fidkXHAU
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ElszpuScZkg/hqdefault.jpg" group-title="Dazn",Amorim punta in alto per la sua avventura al Milan 🔴⚫️
 https://www.youtube.com/shorts/ElszpuScZkg
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ivAVJWMjZrY/hqdefault.jpg" group-title="Dazn",Magic Messi 🪄
@@ -27,8 +29,6 @@ https://www.youtube.com/shorts/VCxgBTPx26o
 https://www.youtube.com/shorts/JC3XSQ3wQcY
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/BbD4ap3xz3I/hqdefault.jpg" group-title="Dazn",⚽️ Insieme ad Eleonora Incardona facciamo il tifo per il Team Share The Meal
 https://www.youtube.com/shorts/BbD4ap3xz3I
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JmxKiqZVlWk/hqdefault.jpg" group-title="Dazn",Atlanta, la città della Coca-Cola e molto altro | Daily - Diario Mondiale | DAZN
-https://www.youtube.com/watch?v=JmxKiqZVlWk
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8vICXV_lFow/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Argentina - Svizzera 3-1 (dts): Highlights Estesi | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=8vICXV_lFow
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hzb3T0Gyyl8/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Argentina - Svizzera 3-1 (dts): Highlights | Mondiali di Calcio FIFA 2026
@@ -89,6 +89,10 @@ https://www.youtube.com/watch?v=oj76Mualwrw
 https://www.youtube.com/watch?v=LP56M0-ztMU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/S3BIUMT-iLs/hqdefault.jpg" group-title="Serie A",POKER giallorosso: Roma-Fiorentina 4-0 | Serie A Enilive | DAZN Highlights
 https://www.youtube.com/watch?v=S3BIUMT-iLs
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/y16uby2Z8Cg/hqdefault.jpg" group-title="Sky Sport",Milan, sessione di autografi per Camarda
+https://www.youtube.com/shorts/y16uby2Z8Cg
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JPhyNta2Yn4/hqdefault.jpg" group-title="Sky Sport",Milan, l'arrivo in elicottero di Cardinale a Milanello
+https://www.youtube.com/shorts/JPhyNta2Yn4
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/ZoOEviWQlI4/hqdefault.jpg" group-title="Sky Sport",Juventus, l'arrivo dei giocatori per l'inizio del ritiro
 https://www.youtube.com/shorts/ZoOEviWQlI4
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Xo7d3vvbmG8/hqdefault.jpg" group-title="Sky Sport",Como, l'arrivo di Liberali per le visite mediche
@@ -115,10 +119,6 @@ https://www.youtube.com/watch?v=Gz4YOfRGRC8
 https://www.youtube.com/watch?v=XjIJVojWAuo
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xR4uOGG1VJQ/hqdefault.jpg" group-title="Sky Sport",Haaland, come lo può fermare l'Inghilterra? L'analisi tattica
 https://www.youtube.com/shorts/xR4uOGG1VJQ
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/z2G8WBA9Eqc/hqdefault.jpg" group-title="Sky Sport",Norvegia-Inghilterra, come si ferma Haaland? L'analisi con Luca Mastrorilli
-https://www.youtube.com/watch?v=z2G8WBA9Eqc
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/bD-InKibLs8/hqdefault.jpg" group-title="Sky Sport",Merino ancora in gol con la Spagna: il motivo della sua speciale esultanza
-https://www.youtube.com/watch?v=bD-InKibLs8
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_JBGQNov138/hqdefault.jpg" group-title="Sky Sport F1",F1, 'Numeri da GP', Matteo Bobbi analizza il Gran Premio di Gran Bretagna
 https://www.youtube.com/watch?v=_JBGQNov138
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/j3e0K6QOLn0/hqdefault.jpg" group-title="Sky Sport F1",🤙 Andrea Kimi Antonelli sarà il nuovo testimonial Sky insieme ad Alex Del Piero #SkyWhatsNext
@@ -179,6 +179,8 @@ https://www.youtube.com/watch?v=GZB7_pTIUDM
 https://www.youtube.com/watch?v=ZBWSxppmLaE
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/AtrME6Oc5B8/hqdefault.jpg" group-title="Sky Sport MotoGP",MotoGP, Raul Fernandez terzo nel GP di Germania: l'intervista al pilota Trackhouse post Sachsenring
 https://www.youtube.com/watch?v=AtrME6Oc5B8
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gxwUKTD7zyY/hqdefault.jpg" group-title="Sky Sport Tennis",Sonego-Schwaerzler: gli highlights | ATP 250 Gstaad
+https://www.youtube.com/watch?v=gxwUKTD7zyY
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-ooYPFnM9sg/hqdefault.jpg" group-title="Sky Sport Tennis",Sinner-Zverev: gli highlights | Wimbledon
 https://www.youtube.com/watch?v=-ooYPFnM9sg
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YnEysPHl7Es/hqdefault.jpg" group-title="Sky Sport Tennis",Le parole di Jannik Sinner a Sky Sport dopo il secondo successo consecutivo a Wimbledon
@@ -207,5 +209,3 @@ https://www.youtube.com/shorts/BRt2mU5Ed7E
 https://www.youtube.com/watch?v=FO9p5tEmxSU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_KBCjkyMZag/hqdefault.jpg" group-title="Sky Sport Tennis",SINNER trionfa a Wimbledon: l'ultimo game integrale della finale contro Zverev
 https://www.youtube.com/watch?v=_KBCjkyMZag
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/iFDw3jvJ-MI/hqdefault.jpg" group-title="Sky Sport Tennis",Il TIE-BREAK integrale del 2° set tra Sinner e Zverev | Finale Wimbledon
-https://www.youtube.com/watch?v=iFDw3jvJ-MI
