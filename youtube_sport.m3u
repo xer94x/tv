@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wqbQgmv8Rgw/hqdefault.jpg" group-title="Dazn",La Spagna prepara il percorso verso la finale 🇪🇸🏆
+https://www.youtube.com/shorts/wqbQgmv8Rgw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FisFtLrSpQk/hqdefault.jpg" group-title="Dazn",Sabato finirà l’epoca Deschamps 🇫🇷
 https://www.youtube.com/shorts/FisFtLrSpQk
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Aydlkib4NS4/hqdefault.jpg" group-title="Dazn",Ma quanto ne sa Sabino Curcio 👀
@@ -27,8 +29,6 @@ https://www.youtube.com/shorts/azlZu4I3vrs
 https://www.youtube.com/shorts/YK8q9Eiu_Nc
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/s8aRHITEGCM/hqdefault.jpg" group-title="Dazn",𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢 𝗟𝗘𝗢 𝗠𝗘𝗦𝗦𝗜 ♾️✨
 https://www.youtube.com/shorts/s8aRHITEGCM
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/QSDtwbDCDW8/hqdefault.jpg" group-title="Dazn",Enzo Fernandez ❤️ Messi ✨
-https://www.youtube.com/shorts/QSDtwbDCDW8
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3TlxX2PTUDs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights Estesi | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=3TlxX2PTUDs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/WGVcCpJElNs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights | Mondiali di Calcio FIFA 2026
@@ -119,7 +119,7 @@ https://www.youtube.com/shorts/ZoOEviWQlI4
 https://www.youtube.com/shorts/Xo7d3vvbmG8
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JO1fndutQxc/hqdefault.jpg" group-title="Sky Sport",Maldini, le parole sul futuro da dirigente e su Guardiola del 2018 (Buffa incontra Maldini)
 https://www.youtube.com/shorts/JO1fndutQxc
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Luaovg1Kdqc/hqdefault.jpg" group-title="Sky Sport F1",Leclerc a Sky dal Belgio, a Spa: "Se la Ferrari non vince il titolo F1 spero lo faccia Antonelli"
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Luaovg1Kdqc/hqdefault.jpg" group-title="Sky Sport F1",Leclerc a Sky: "Se la Ferrari non vince il titolo F1 spero lo faccia Antonelli. Mi rivedo in lui"
 https://www.youtube.com/watch?v=Luaovg1Kdqc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/q98GKZeTyMo/hqdefault.jpg" group-title="Sky Sport F1",Antonelli, Leclerc, Verstappen in conferenza in Belgio verso il GP F1 a Spa: le parole dei piloti
 https://www.youtube.com/watch?v=q98GKZeTyMo
@@ -179,6 +179,8 @@ https://www.youtube.com/watch?v=dV24nvN2ul4
 https://www.youtube.com/watch?v=2qQ-meit6V0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/GZB7_pTIUDM/hqdefault.jpg" group-title="Sky Sport MotoGP",MotoGP, Marc Marquez vince il GP di Germania al Sachsenring: l'intervista al pilota Ducati
 https://www.youtube.com/watch?v=GZB7_pTIUDM
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/o8krfo-_boU/hqdefault.jpg" group-title="Sky Sport Tennis",Merida-Droguet: gli highlights | ATP 250 Umag
+https://www.youtube.com/watch?v=o8krfo-_boU
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/VuPYjMVm8b4/hqdefault.jpg" group-title="Sky Sport Tennis",Rublev-Pellegrino: gli highlights | ATP 250 Bastad
 https://www.youtube.com/watch?v=VuPYjMVm8b4
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/KuscjGUfP_g/hqdefault.jpg" group-title="Sky Sport Tennis",Kym-Tsitsipas: gli highlights | ATP 250 Gstaad
@@ -207,5 +209,3 @@ https://www.youtube.com/watch?v=zsE26J-AvvQ
 https://www.youtube.com/watch?v=c75KQ1ubsWo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/iYnW_eRT_yQ/hqdefault.jpg" group-title="Sky Sport Tennis",Jannik Sinner in videochiamata con papà Hanspeter alla vigilia del torneo di Wimbledon ✨
 https://www.youtube.com/shorts/iYnW_eRT_yQ
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NDn69eoizx4/hqdefault.jpg" group-title="Sky Sport Tennis",Sonego-Collignon: gli highlights | ATP 250 Gstaad
-https://www.youtube.com/watch?v=NDn69eoizx4
