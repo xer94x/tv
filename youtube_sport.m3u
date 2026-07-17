@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/G3E3JeG4Xp0/hqdefault.jpg" group-title="Dazn",#Spalletti manda un messaggio a #Vlahovic in conferenza stampa 🗣️
+https://www.youtube.com/shorts/G3E3JeG4Xp0
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_efXu8qUQsI/hqdefault.jpg" group-title="Dazn",Come si vive il CALCIO da STRADA in USA? | Daily, diario Mondiale | DAZN
+https://www.youtube.com/watch?v=_efXu8qUQsI
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/x_m2cO6C_pA/hqdefault.jpg" group-title="Dazn",Bellingham: 𝒔𝒄𝒊𝒏𝒕𝒊𝒍𝒍𝒆 con Paredes! 🧨😳 Spunta il 𝗹𝗮𝗯𝗶𝗮𝗹𝗲 Jude-Messi: "Es fútbol, Leo!" 🗣️
 https://www.youtube.com/shorts/x_m2cO6C_pA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/I_z6FBBSDFw/hqdefault.jpg" group-title="Dazn",Turchia o Portogallo❓ Ogni Mondiale regala sorprese, ma anche delusioni: stavolta Yildiz e CR7 🤯
@@ -25,10 +29,6 @@ https://www.youtube.com/shorts/RycBrfA_j9M
 https://www.youtube.com/shorts/wqbQgmv8Rgw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FisFtLrSpQk/hqdefault.jpg" group-title="Dazn",Sabato finirà l’epoca Deschamps 🇫🇷
 https://www.youtube.com/shorts/FisFtLrSpQk
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Aydlkib4NS4/hqdefault.jpg" group-title="Dazn",Ma quanto ne sa Sabino Curcio 👀
-https://www.youtube.com/shorts/Aydlkib4NS4
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/RheXsl9y9QA/hqdefault.jpg" group-title="Dazn",Lautaro era 𝐶𝐸𝑅𝑇𝑂 di fare gol contro l’Inghilterra 🤩🇦🇷
-https://www.youtube.com/shorts/RheXsl9y9QA
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3TlxX2PTUDs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights Estesi | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=3TlxX2PTUDs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/WGVcCpJElNs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights | Mondiali di Calcio FIFA 2026
@@ -119,6 +119,8 @@ https://www.youtube.com/shorts/ZoOEviWQlI4
 https://www.youtube.com/shorts/Xo7d3vvbmG8
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JO1fndutQxc/hqdefault.jpg" group-title="Sky Sport",Maldini, le parole sul futuro da dirigente e su Guardiola del 2018 (Buffa incontra Maldini)
 https://www.youtube.com/shorts/JO1fndutQxc
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5R00GT03EJ0/hqdefault.jpg" group-title="Sky Sport F1",F1, gli highlights di FP1 e FP2 del GP del Belgio, nel venerdì di Spa
+https://www.youtube.com/watch?v=5R00GT03EJ0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SiJ0murbfZo/hqdefault.jpg" group-title="Sky Sport F1",F1, GP del Belgio: l'incidente di Pierre Gasly nelle FP3 a Spa
 https://www.youtube.com/watch?v=SiJ0murbfZo
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/2zJNhj0YYos/hqdefault.jpg" group-title="Sky Sport F1",F1, incidente a Spa nelle qualifiche del GP del Belgio della F3
@@ -147,8 +149,6 @@ https://www.youtube.com/shorts/vkH0cSpHOBE
 https://www.youtube.com/shorts/pZJI5KkEtKQ
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/9g-zUGnwAMQ/hqdefault.jpg" group-title="Sky Sport F1",F1, a Silverstone Leclerc torna a vincere, problemi per Antonelli. Commenti e analisi
 https://www.youtube.com/watch?v=9g-zUGnwAMQ
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/D5z19-9KA30/hqdefault.jpg" group-title="Sky Sport F1",Festa Ferrari a Ferrari dopo la vittoria di Leclerc: F1, Notebook con Camicioli e Bobbi
-https://www.youtube.com/watch?v=D5z19-9KA30
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ACIweLyee-4/hqdefault.jpg" group-title="Sky Sport MotoGP",Bezzecchi e Bagnaia nominati "Ambasciatori Diplomazia dello Sport": le parole di Domenicali e Rivola
 https://www.youtube.com/watch?v=ACIweLyee-4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Us8AXwu1srg/hqdefault.jpg" group-title="Sky Sport MotoGP",Pecco Bagnaia nominato "Ambasciatori della Diplomazia dello Sport": l'intervista a Sky Sport
