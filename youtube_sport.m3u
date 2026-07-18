@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/K56P2-PqbgE/hqdefault.jpg" group-title="Dazn",🔴 COPA MUNDIAL LIVE,  il nostro aperitivo Mondiale | Fifa World Cup | DAZN
+https://www.youtube.com/watch?v=K56P2-PqbgE
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/w-qOpMW9avo/hqdefault.jpg" group-title="Dazn",Gli highlights di Bologna-Arminia Bielefeld 0-4 ❌ #Bologna #Partita #DAZN
+https://www.youtube.com/shorts/w-qOpMW9avo
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/g92_HFq-ENA/hqdefault.jpg" group-title="Dazn",ENZO-LAUTARO e doppio assist MESSI: tutte le emozioni da bordocampo | Anteprima BordoCam | DAZN
+https://www.youtube.com/watch?v=g92_HFq-ENA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mApQT6T7EXA/hqdefault.jpg" group-title="Dazn",Vi portiamo nella casa dei Dolphins prima di Francia-Inghilterra | Daily, diario Mondiale | DAZN
 https://www.youtube.com/watch?v=mApQT6T7EXA
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hZET1wgloj8/hqdefault.jpg" group-title="Dazn",⚽️ Insieme a Pardo, facciamo il tifo per il Team Share The Meal, per un mondo a #FameZero. 💙
@@ -23,12 +29,6 @@ https://www.youtube.com/shorts/G3E3JeG4Xp0
 https://www.youtube.com/watch?v=_efXu8qUQsI
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/x_m2cO6C_pA/hqdefault.jpg" group-title="Dazn",Bellingham: 𝒔𝒄𝒊𝒏𝒕𝒊𝒍𝒍𝒆 con Paredes! 🧨😳 Spunta il 𝗹𝗮𝗯𝗶𝗮𝗹𝗲 Jude-Messi: "Es fútbol, Leo!" 🗣️
 https://www.youtube.com/shorts/x_m2cO6C_pA
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/I_z6FBBSDFw/hqdefault.jpg" group-title="Dazn",Turchia o Portogallo❓ Ogni Mondiale regala sorprese, ma anche delusioni: stavolta Yildiz e CR7 🤯
-https://www.youtube.com/shorts/I_z6FBBSDFw
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/l3-n3p9R_G0/hqdefault.jpg" group-title="Dazn",La reazione di Vinčić quando scopre che sarà l'arbitro della finale del Mondiale 🥹🇸🇮
-https://www.youtube.com/shorts/l3-n3p9R_G0
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NjDY1NRg0cs/hqdefault.jpg" group-title="Dazn",Spence nel mirino 🔎🏴󠁧󠁢󠁥󠁮󠁧󠁿 Può essere l'esterno giusto per l'Inter ❓⚫🔵
-https://www.youtube.com/shorts/NjDY1NRg0cs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3TlxX2PTUDs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights Estesi | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=3TlxX2PTUDs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/WGVcCpJElNs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights | Mondiali di Calcio FIFA 2026
@@ -89,6 +89,8 @@ https://www.youtube.com/watch?v=oj76Mualwrw
 https://www.youtube.com/watch?v=LP56M0-ztMU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/S3BIUMT-iLs/hqdefault.jpg" group-title="Serie A",POKER giallorosso: Roma-Fiorentina 4-0 | Serie A Enilive | DAZN Highlights
 https://www.youtube.com/watch?v=S3BIUMT-iLs
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/bKIkA9uqdGY/hqdefault.jpg" group-title="Sky Sport",Rugby, Australia-Italia 57-10: gli highlights | Nations Championship
+https://www.youtube.com/watch?v=bKIkA9uqdGY
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mjbuv7czN1g/hqdefault.jpg" group-title="Sky Sport",Napoli, si lavora in vista dell'Arezzo: le news da Dimaro
 https://www.youtube.com/watch?v=mjbuv7czN1g
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/AuDpivN1FGk/hqdefault.jpg" group-title="Sky Sport",Fiorentina, Oulai sta per partire per l'Italia: nelle prossime ore visite mediche e firma
@@ -117,8 +119,8 @@ https://www.youtube.com/watch?v=N7awvt9C5vI
 https://www.youtube.com/watch?v=C1do9V6HaHQ
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/488Rd55v3aA/hqdefault.jpg" group-title="Sky Sport",Milan, l'arrivo di Gonçalo Ramos a Milanello
 https://www.youtube.com/shorts/488Rd55v3aA
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1qEeTAX5RCo/hqdefault.jpg" group-title="Sky Sport",Fiorentina, Atta si presenta così: tra idoli e i motivi che lo hanno portato a scegliere la Viola
-https://www.youtube.com/shorts/1qEeTAX5RCo
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/RQutBBlaL0A/hqdefault.jpg" group-title="Sky Sport F1",F1, Spa, 'push it to the limit': con Kimi Antonelli a caccia del giro perfetto
+https://www.youtube.com/watch?v=RQutBBlaL0A
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wiIgPuoq_3g/hqdefault.jpg" group-title="Sky Sport F1",Lewis Hamilton contro il muro con la sua Ferrari nelle FP3 della F1 a Spa, nel GP del Belgio
 https://www.youtube.com/shorts/wiIgPuoq_3g
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PaSVwGhJzfw/hqdefault.jpg" group-title="Sky Sport F1",F1, Lewis Hamilton a muro: l'incidente del pilota Ferrari nelle FP3 del GP del Belgio a Spa
@@ -147,8 +149,6 @@ https://www.youtube.com/watch?v=x1xovJKjIAU
 https://www.youtube.com/watch?v=_JBGQNov138
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/j3e0K6QOLn0/hqdefault.jpg" group-title="Sky Sport F1",🤙 Andrea Kimi Antonelli sarà il nuovo testimonial Sky insieme ad Alex Del Piero #SkyWhatsNext
 https://www.youtube.com/shorts/j3e0K6QOLn0
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/THJ9FdQralc/hqdefault.jpg" group-title="Sky Sport F1",Vi portiamo nella cabina della telecronaca della vittoria di Leclerc a Silverstone | F1
-https://www.youtube.com/shorts/THJ9FdQralc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ACIweLyee-4/hqdefault.jpg" group-title="Sky Sport MotoGP",Bezzecchi e Bagnaia nominati "Ambasciatori Diplomazia dello Sport": le parole di Domenicali e Rivola
 https://www.youtube.com/watch?v=ACIweLyee-4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Us8AXwu1srg/hqdefault.jpg" group-title="Sky Sport MotoGP",Pecco Bagnaia nominato "Ambasciatori della Diplomazia dello Sport": l'intervista a Sky Sport
@@ -179,6 +179,10 @@ https://www.youtube.com/watch?v=dV24nvN2ul4
 https://www.youtube.com/watch?v=2qQ-meit6V0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/GZB7_pTIUDM/hqdefault.jpg" group-title="Sky Sport MotoGP",MotoGP, Marc Marquez vince il GP di Germania al Sachsenring: l'intervista al pilota Ducati
 https://www.youtube.com/watch?v=GZB7_pTIUDM
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/AgZRXSyH97k/hqdefault.jpg" group-title="Sky Sport Tennis",Shevchenko-Tsitsipas: gli highlights | ATP 250 Gstaad
+https://www.youtube.com/watch?v=AgZRXSyH97k
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/qydXYXozfF8/hqdefault.jpg" group-title="Sky Sport Tennis",Darderi-Vallejo: gli highlights | ATP 250 Bastad
+https://www.youtube.com/watch?v=qydXYXozfF8
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jGdDSwlpdsQ/hqdefault.jpg" group-title="Sky Sport Tennis",Collignon-J. M. Cerundolo: gli highlights | ATP 250 Gstaad
 https://www.youtube.com/watch?v=jGdDSwlpdsQ
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ieZCZdraqc0/hqdefault.jpg" group-title="Sky Sport Tennis",Dzumhur-Molcan: gli highlights | ATP 250 Umago
@@ -205,7 +209,3 @@ https://www.youtube.com/watch?v=Ixpgye2PDyU
 https://www.youtube.com/watch?v=G1Ms7oTLmIg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/dwZ0GI2zGOs/hqdefault.jpg" group-title="Sky Sport Tennis",Flavia Pennetta e Fabio Fognini da Milano Marittima: "Che emozione la vittoria di Sinner"
 https://www.youtube.com/watch?v=dwZ0GI2zGOs
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-rw9MOZuAY0/hqdefault.jpg" group-title="Sky Sport Tennis",Dzumhur-Arnaldi: gli highlights | ATP 250 Umag
-https://www.youtube.com/watch?v=-rw9MOZuAY0
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/ZxpZC7diXvQ/hqdefault.jpg" group-title="Sky Sport Tennis",de Jong-Baez: gli highlights | ATP 250 Bastad
-https://www.youtube.com/watch?v=ZxpZC7diXvQ
