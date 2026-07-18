@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/UfpVfd3V6n0/hqdefault.jpg" group-title="Dazn",#SpagnaArgentina sarà l’ultima del Dibu? 😲🧤#fifaworldcup #DAZN
+https://www.youtube.com/shorts/UfpVfd3V6n0
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ATPFijutXcE/hqdefault.jpg" group-title="Dazn",Che storia quella di #Messi e #Yamal 🇪🇸🇦🇷 #SpagnaArgentina #FIFAWorldCup #DAZN
 https://www.youtube.com/shorts/ATPFijutXcE
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3hMHBBTLNUc/hqdefault.jpg" group-title="Dazn",Arrivati alla finale, diamo i premi a tutto ciò che abbiamo visto in questo Mondiale 🔝🏆#DAZN
@@ -27,8 +29,6 @@ https://www.youtube.com/watch?v=4NASZpFyPDY
 https://www.youtube.com/shorts/KQq0wkAZcGg
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/i0h9I85fEqs/hqdefault.jpg" group-title="Dazn",Pensa essere un tifoso dell’Albiceleste in questi Mondiali 🇦🇷🧉
 https://www.youtube.com/shorts/i0h9I85fEqs
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/VbjkzcxOqqc/hqdefault.jpg" group-title="Dazn",Allarme a New York 🚨
-https://www.youtube.com/shorts/VbjkzcxOqqc
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3TlxX2PTUDs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights Estesi | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=3TlxX2PTUDs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/WGVcCpJElNs/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Inghilterra - Argentina 1-2: Highlights | Mondiali di Calcio FIFA 2026
@@ -119,6 +119,10 @@ https://www.youtube.com/watch?v=C1do9V6HaHQ
 https://www.youtube.com/shorts/488Rd55v3aA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1qEeTAX5RCo/hqdefault.jpg" group-title="Sky Sport",Fiorentina, Atta si presenta così: tra idoli e i motivi che lo hanno portato a scegliere la Viola
 https://www.youtube.com/shorts/1qEeTAX5RCo
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wiIgPuoq_3g/hqdefault.jpg" group-title="Sky Sport F1",Lewis Hamilton contro il muro con la sua Ferrari nelle FP3 della F1 a Spa, nel GP del Belgio
+https://www.youtube.com/shorts/wiIgPuoq_3g
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PaSVwGhJzfw/hqdefault.jpg" group-title="Sky Sport F1",F1, Lewis Hamilton a muro: l'incidente del pilota Ferrari nelle FP3 del GP del Belgio a Spa
+https://www.youtube.com/watch?v=PaSVwGhJzfw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/vHdpPnMLveI/hqdefault.jpg" group-title="Sky Sport F1",WRC Estonia, gli highlights del venerdì
 https://www.youtube.com/watch?v=vHdpPnMLveI
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/17MGSag_gKQ/hqdefault.jpg" group-title="Sky Sport F1",F1, GP del Belgio: intervista a Stefano Domenicali a Spa
@@ -145,10 +149,6 @@ https://www.youtube.com/watch?v=_JBGQNov138
 https://www.youtube.com/shorts/j3e0K6QOLn0
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/THJ9FdQralc/hqdefault.jpg" group-title="Sky Sport F1",Vi portiamo nella cabina della telecronaca della vittoria di Leclerc a Silverstone | F1
 https://www.youtube.com/shorts/THJ9FdQralc
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/lrw4Jp6eQr0/hqdefault.jpg" group-title="Sky Sport F1","Il problema sembra essere stato il wheel shield": l'intervista di Kimi Antonelli post Silverstone
-https://www.youtube.com/shorts/lrw4Jp6eQr0
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/vkH0cSpHOBE/hqdefault.jpg" group-title="Sky Sport F1","Lavorato per portare la Ferrari lassù": l'intervista a Lewis Hamilton dopo il podio a Silverstone
-https://www.youtube.com/shorts/vkH0cSpHOBE
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ACIweLyee-4/hqdefault.jpg" group-title="Sky Sport MotoGP",Bezzecchi e Bagnaia nominati "Ambasciatori Diplomazia dello Sport": le parole di Domenicali e Rivola
 https://www.youtube.com/watch?v=ACIweLyee-4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Us8AXwu1srg/hqdefault.jpg" group-title="Sky Sport MotoGP",Pecco Bagnaia nominato "Ambasciatori della Diplomazia dello Sport": l'intervista a Sky Sport
