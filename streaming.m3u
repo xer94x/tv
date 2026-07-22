@@ -146,10 +146,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 https://rtv.xer94x.workers.dev
 #EXTINF:-1 tvg-chno="551" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="Nazionali",San Marino RTV SPORT
 https://rtv.xer94x.workers.dev/sport
-#EXTINF:-1 tvg-id="RSI LA1" tvg-chno="101" tvg-name="RSI La1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20RSI%20LA%201.png" group-title="Nazionali",RSI La1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSI LA2" tvg-chno="102" tvg-name="RSI La2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20RSI%20LA%202.png" group-title="Nazionali",RSI La2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 
 # SKY
 
