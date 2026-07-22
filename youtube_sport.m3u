@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/brGqm7mH_Fo/hqdefault.jpg" group-title="Dazn",Da Alajbegovic a LOPES CABRAL: la Top 10 GOL dell'ultimo Mondiale ⚽ | FIFAWorldCup | DAZN
+https://www.youtube.com/watch?v=brGqm7mH_Fo
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/O3fb5KHObnc/hqdefault.jpg" group-title="Dazn",I migliori gol dell’ultimo Mondiale ⚽ #FIFAWorldCup #DAZN
+https://www.youtube.com/shorts/O3fb5KHObnc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/iyRenwT2jgQ/hqdefault.jpg" group-title="Dazn",L’Italia travolge l’Olanda in 82 minuti, 3-0 🏐 | Volleyball Nations League | DAZN
 https://www.youtube.com/shorts/iyRenwT2jgQ
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/vTIuTBfJSiQ/hqdefault.jpg" group-title="Dazn",Quello di #Ochoa è stato un viaggio bellissimo 🇲🇽 🫂#FIFAWorldCup #DAZN
@@ -25,10 +29,6 @@ https://www.youtube.com/shorts/xHzNG4cV4Xc
 https://www.youtube.com/watch?v=hjPA2KYiPck
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NaYRxTvOdJY/hqdefault.jpg" group-title="Dazn",Organizzazione, idee, talento 👏Tutti in piedi per la Spagna 🇪🇸
 https://www.youtube.com/shorts/NaYRxTvOdJY
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gKJRAKYl0bM/hqdefault.jpg" group-title="Dazn",Le ROI KYLIAN MBAPPÉ: TUTTI i GOL ai MONDIALI | FIFA World Cup | DAZN
-https://www.youtube.com/watch?v=gKJRAKYl0bM
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/9I6mNhQbTIM/hqdefault.jpg" group-title="Dazn",Madame e Monsieur... ecco a voi 𝑲𝒚𝒍𝒊𝒂𝒏 𝑴𝒃𝒂𝒑𝒑𝒆 ⭐️Tutti i gol del capocannoniere del Mondiale ⚽️🏆
-https://www.youtube.com/shorts/9I6mNhQbTIM
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wRDA1-4zvC8/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna campione del mondo | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=wRDA1-4zvC8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-z3JQk3lSmc/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna - Argentina 1-0 (dts): Highlights Estesi | Mondiali di Calcio FIFA 2026
@@ -179,6 +179,8 @@ https://www.youtube.com/watch?v=dV24nvN2ul4
 https://www.youtube.com/watch?v=2qQ-meit6V0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/GZB7_pTIUDM/hqdefault.jpg" group-title="Sky Sport MotoGP",MotoGP, Marc Marquez vince il GP di Germania al Sachsenring: l'intervista al pilota Ducati
 https://www.youtube.com/watch?v=GZB7_pTIUDM
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/Fq2oqpItP5M/hqdefault.jpg" group-title="Sky Sport Tennis",Gaston-Droguet: gli highlights | ATP 250 Estoril
+https://www.youtube.com/watch?v=Fq2oqpItP5M
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/J6GCRFAU9jY/hqdefault.jpg" group-title="Sky Sport Tennis",Halys-Vacherot: gli highlights | ATP 250 Kitzbuhel
 https://www.youtube.com/watch?v=J6GCRFAU9jY
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/miYdxOgRn2U/hqdefault.jpg" group-title="Sky Sport Tennis",van de Zandschulp-Faria: gli highlights | ATP 250 Estoril
@@ -207,5 +209,3 @@ https://www.youtube.com/watch?v=GjbKchZWyd8
 https://www.youtube.com/watch?v=5NyeSe78Ukw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zGU1zax9Ys0/hqdefault.jpg" group-title="Sky Sport Tennis",Schwaerzler-Rodionov: gli highlights | ATP 250 Kitzbuhel
 https://www.youtube.com/watch?v=zGU1zax9Ys0
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/11T2LWBEVr0/hqdefault.jpg" group-title="Sky Sport Tennis",Torres-Basilashvili: gli highlights | ATP 250 Estoril
-https://www.youtube.com/watch?v=11T2LWBEVr0
