@@ -13,9 +13,9 @@ https://rakuten.xer94x.workers.dev/romance-rakuten-tv/index.m3u8?lang=ITA
 https://rakuten.xer94x.workers.dev/asian-cinema-rakuten-tv/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="IT260000131" tvg-name="Fantascienza - Rakuten TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b6d4155c-164d-4902-92ae-21c0264a3d67.jpeg" tvg-chno="6" group-title="Film",Fantascienza - Rakuten TV
 https://rakuten.xer94x.workers.dev/sci-fi-rakuten-tv/index.m3u8?lang=ITA
-#EXTINF:-1 tvg-id="ITBA3300024IU" tvg-name="Bizzarro Movies" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6c774539-7fb6-4d11-a5cb-a897b8d9b877.jpeg" tvg-chno="38" group-title="Film",Bizzarro Movies
-https://rakuten.xer94x.workers.dev/bizzarro-movies/index.m3u8?lang=ITA
-#EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="Cinema Italiano" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/662afff7-08c3-43b4-8a1f-3bcfaba777a0.jpeg" tvg-chno="39" group-title="Film",Cinema Italiano
+#EXTINF:-1 tvg-id="shark-zone-old-bizzarro-movies" tvg-name="Shark Zone" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6fb946db-1173-4280-924a-df3b8e6ebfe7.jpeg" tvg-chno="38" group-title="Film",Shark Zone
+https://rakuten.xer94x.workers.dev/shark-zone-old-bizzarro-movies/index.m3u8?lang=ITA
+#EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="Cinema Italiano" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/efffb613-30b5-4304-88b7-a3bd57b2aaa3.jpeg" tvg-chno="39" group-title="Film",Cinema Italiano
 https://rakuten.xer94x.workers.dev/cinema-italiano/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="ITBB20000072M" tvg-name="Cine Peplum" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/452c5681-b854-4751-a34e-6c71a148df25.jpeg" tvg-chno="50" group-title="Film",Cine Peplum
 https://rakuten.xer94x.workers.dev/cine-western-e-peplum/index.m3u8?lang=ITA
@@ -105,8 +105,6 @@ https://rakuten.xer94x.workers.dev/automoto/index.m3u8?lang=ITA
 https://rakuten.xer94x.workers.dev/golf-tv/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="IT38000070T" tvg-name="Red Bull TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ad9f8b07-f695-4447-8c5b-6ccdfa96fba4.jpeg" tvg-chno="369" group-title="Sport",Red Bull TV
 https://rakuten.xer94x.workers.dev/red-bull-tv-en/index.m3u8?lang=ENG
-#EXTINF:-1 tvg-id="11" tvg-name="MOTORVISION.TV" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/028dfef7-da27-4e8d-abfe-756e672a883b.png" tvg-chno="370" group-title="Sport",MOTORVISION.TV
-https://rakuten.xer94x.workers.dev/motorvision-tv/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="IT800002CE" tvg-name="Motoretrò" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/378d216f-0401-485e-b847-52bcc0ee4355.jpeg" tvg-chno="371" group-title="Sport",Motoretrò
 https://rakuten.xer94x.workers.dev/motoretro/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="IT20000053A" tvg-name="Tennis+" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg" tvg-chno="372" group-title="Sport",Tennis+
@@ -177,7 +175,7 @@ https://rakuten.xer94x.workers.dev/baby-shark-tv/index.m3u8?lang=ENG
 https://rakuten.xer94x.workers.dev/car-city-adventures-it/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="ITBD3200007SZ" tvg-name="Bernard L'Orso" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fedcdd27-a453-410e-b04c-e531e481fdbe.jpeg" tvg-chno="625" group-title="Animazione",Bernard L'Orso
 https://rakuten.xer94x.workers.dev/planeta-junior-ita/index.m3u8?lang=ITA
-#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-name="Pingu" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2f3db495-660f-48f8-805c-2bd5f35ee8c4.jpeg" tvg-chno="631" group-title="Animazione",Pingu
+#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-name="Pingu" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a4496bea-f38c-44b1-a2c5-200edacc331b.jpeg" tvg-chno="631" group-title="Animazione",Pingu
 https://rakuten.xer94x.workers.dev/pingu-rakuten-tv/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="IT3900003FE" tvg-name="Hell's Kitchen" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/69e6167f-9e80-4921-9499-059465564135.jpeg" tvg-chno="680" group-title="Cucina",Hell's Kitchen
 https://rakuten.xer94x.workers.dev/hell-s-kitchen-it-itv/index.m3u8?lang=ITA
