@@ -32,34 +32,34 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove" tvg-name="NOVE" tvg-logo="https://i.ibb.co/jPZ8bzRP/009-nove-it.png" group-title="",9 NOVE
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Antenna%20Sicilia.jpg" group-title="",10 Antenna Sicilia
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Antenna%20Sicilia.jpg" group-title="",10 Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Telecolor.png" group-title="",11 Telecolor
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Telecolor.png" group-title="",11 Telecolor
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/TGS.png" group-title="",12 TGS
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/TGS.png" group-title="",12 TGS
 https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="",13 TGR
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="",13 TGR
 https://tgrsicilia.xer94x.workers.dev/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Regione%20Sicilia.jpg" group-title="",14 Video Regione
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Regione%20Sicilia.jpg" group-title="",14 Video Regione
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Top Calcio 24" tvg-chno="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="",15 TOP CALCIO 24
+#EXTINF:-1 tvg-chno="15" tvg-id="Top Calcio 24" tvg-chno="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="",15 TOP CALCIO 24
 https://topcalcio24.xer94x.workers.dev/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Tele%20One.png" group-title="",16 Tele One
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Tele%20One.png" group-title="",16 Tele One
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Mediterraneo.png" group-title="",17 Video Mediterraneo
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Mediterraneo.png" group-title="",17 Video Mediterraneo
 https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/reitv.jpg" group-title="",18 Rei Tv
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/reitv.jpg" group-title="",18 Rei Tv
 https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/RTP.jpg" group-title="",19 RTP
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/RTP.jpg" group-title="",19 RTP
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-id="20" tvg-name="Mediaset 20" tvg-logo="https://i.ibb.co/CyXz7KG/20.png" group-title="",20 Mediaset 20
