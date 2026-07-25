@@ -90,11 +90,20 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="TwentySeven" tvg-name="27 Twentyseven" tvg-logo="https://i.ibb.co/hJXr29MC/158-twenty-seven-it.png" group-title="",27 Twentyseven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-chno="28" tvg-id="TV2000" tvg-name="TV 2000" tvg-logo="https://i.ibb.co/rGT01MYQ/tv2000.webp" group-title="",28 TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Gambero Rosso" tvg-name="Gambero Rosso" tvg-logo="https://i.ibb.co/BV0Xvcg6/133-gambero-rosso-it.png" group-title="",29 Gambero Rosso
+https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
+
 #EXTINF:-1 tvg-chno="30" tvg-id="La 5" tvg-name="La 5" tvg-logo="https://i.ibb.co/zhCBwNnx/012-la5-it.png" group-title="",30 La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="Real Time" tvg-name="Real Time" tvg-logo="https://i.ibb.co/3mJW8zXZ/031-real-time-it.png" group-title="",31 Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="QVC" tvg-name="QVC" tvg-logo="https://i.ibb.co/DPbWK3qY/qvc.webp" group-title="",32 QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.ibb.co/tMnYd6sM/food-network.webp" group-title="",33 Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
@@ -195,10 +204,19 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="GF Un'ora fa" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="",67 GF Un'ora fa
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-id="San Marino RTV" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="",68 San Marino RTV
+#EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="Senato TV" tvg-logo="https://i.ibb.co/Fq3ywXcB/512-senato-tv-it.png" group-title="",68 Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-id="" tvg-name="Camera dei Deputati" tvg-logo="https://i.ibb.co/qM2gdxwS/511-camera-dei-deputati-it.png" group-title="",69 Camera dei Deputati
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="UniNettuno Univ. TV" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="",70 UniNettuno Univ. TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-id="San Marino RTV" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="",71 San Marino RTV
 https://rtv.xer94x.workers.dev
 
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="",69 San Marino RTV SPORT
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="",72 San Marino RTV SPORT
 https://rtv.xer94x.workers.dev/sport
 
 
@@ -339,26 +357,6 @@ https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="241" tvg-id="EQUtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHyqoggapx3Ck9b_N1KfmovckBmjpnMmCbQ&s" group-title="",241 EQU TV
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master1024.m3u8
-
-# NAZIONALI
-
-#EXTINF:-1 tvg-chno="300" tvg-id="TV2000" tvg-name="TV 2000" tvg-logo="https://i.ibb.co/rGT01MYQ/tv2000.webp" group-title="",300 TV 2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-
-#EXTINF:-1 tvg-chno="301" tvg-id="QVC" tvg-name="QVC" tvg-logo="https://i.ibb.co/DPbWK3qY/qvc.webp" group-title="",301 QVC
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-
-#EXTINF:-1 tvg-chno="302" tvg-id="Gambero Rosso" tvg-name="Gambero Rosso" tvg-logo="https://i.ibb.co/BV0Xvcg6/133-gambero-rosso-it.png" group-title="",302 Gambero Rosso
-https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
-
-#EXTINF:-1 tvg-chno="303" tvg-id="" tvg-name="Senato TV" tvg-logo="https://i.ibb.co/Fq3ywXcB/512-senato-tv-it.png" group-title="",303 Senato TV
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="304" tvg-id="" tvg-name="Camera dei Deputati" tvg-logo="https://i.ibb.co/qM2gdxwS/511-camera-dei-deputati-it.png" group-title="",304 Camera dei Deputati
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="305" tvg-id="" tvg-name="UniNettuno Univ. TV" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="",305 UniNettuno Univ. TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
 # RADIO 700
 
