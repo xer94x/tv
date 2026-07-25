@@ -5,3 +5,6 @@ https://skysport.xer94x.workers.dev/eurosport1/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="Sport",EUROSPORT 2
 https://skysport.xer94x.workers.dev/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Top Calcio 24" tvg-chno="25" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
+https://topcalcio24.xer94x.workers.dev/index.m3u8
