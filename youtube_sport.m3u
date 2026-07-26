@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5DHZeH34rPM/hqdefault.jpg" group-title="Dazn",PRENGA ci prova ma ad avere la meglio è AJ | Joshua VS Prenga | DAZN Highlights | DAZN
+https://www.youtube.com/watch?v=5DHZeH34rPM
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Ufatq6hKKds/hqdefault.jpg" group-title="Dazn",L’Italia di 𝑩𝑹𝑶𝑵𝒁𝑶 🥉🇮🇹Battuta la Cina per 3️⃣ set a 1️⃣ nella finale per il 3º posto👏
+https://www.youtube.com/shorts/Ufatq6hKKds
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/OO37JEwHy1o/hqdefault.jpg" group-title="Dazn",La vittoria di 𝑱𝒐𝒔𝒉𝒖𝒂, la delusione di 𝑷𝒓𝒆𝒏𝒈𝒂 🥹Un abbraccio potentissimo 🫂
 https://www.youtube.com/shorts/OO37JEwHy1o
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JZtzO6-yUvM/hqdefault.jpg" group-title="Dazn",Tutta la carica di di 𝑴𝑨𝑻𝑻𝑰𝑨 𝑭𝑨𝑹𝑨𝑶𝑵𝑰 🙌 L’emozione dopo la vittoria contro Jean Ralph Mambongo 🫂
@@ -25,10 +29,6 @@ https://www.youtube.com/shorts/8Z44wkAU_aU
 https://www.youtube.com/watch?v=ltZQLHK9rGA
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zVn0iTYNdMk/hqdefault.jpg" group-title="Dazn",Prima GIOIA per ATTA, il QPR cala il TRIS: QPR-Fiorentina 3-2 | Amichevoli | DAZN Highlights
 https://www.youtube.com/watch?v=zVn0iTYNdMk
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-1uxfYEZPuE/hqdefault.jpg" group-title="Dazn",Sconfitta per la Fiorentina di Fabio Grosso ⚜️❌ Il QPR cala il TRIS ⚽️#QPRFiorentina #DAZN
-https://www.youtube.com/shorts/-1uxfYEZPuE
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pCl0vXUnauQ/hqdefault.jpg" group-title="Dazn",𝘿𝙖𝙡𝙡𝙞𝙣𝙜𝙖 + 𝙍𝙤𝙬𝙚 ⚽⚽ Il Bologna ne fa due all'Iraklis Salonicco di Mazzarri ✅ #BolognaIraklis #DAZN
-https://www.youtube.com/shorts/pCl0vXUnauQ
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wRDA1-4zvC8/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna campione del mondo | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=wRDA1-4zvC8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-z3JQk3lSmc/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna - Argentina 1-0 (dts): Highlights Estesi | Mondiali di Calcio FIFA 2026
@@ -119,6 +119,20 @@ https://www.youtube.com/shorts/kxwKRA1zOYE
 https://www.youtube.com/watch?v=4dqFY1cU5Vc
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/bPzEvguPxwA/hqdefault.jpg" group-title="Sky Sport",Lukaku-Napoli, il punto dell'agente Pastorello: "Romelu non è un numero 2'"
 https://www.youtube.com/watch?v=bPzEvguPxwA
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5Oo0GR0o7CU/hqdefault.jpg" group-title="Sky Sport F1",F1, GP d'Ungheria: ritiro per Valtteri Bottas
+https://www.youtube.com/watch?v=5Oo0GR0o7CU
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/i345aTd99N4/hqdefault.jpg" group-title="Sky Sport F1",Problemi per la Cadillac di Bottas in pit-lane
+https://www.youtube.com/shorts/i345aTd99N4
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SI6orxtvD-E/hqdefault.jpg" group-title="Sky Sport F1",F1, GP d'Ungheria: sorpasso spettacolare di Max Verstappen su Lewis Hamilton
+https://www.youtube.com/watch?v=SI6orxtvD-E
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/w8XVL4wai88/hqdefault.jpg" group-title="Sky Sport F1",F1, GP d'Ungheria: Il replay della partenza con Russell che rimane piantato al via
+https://www.youtube.com/watch?v=w8XVL4wai88
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/0YzAtClFBZ4/hqdefault.jpg" group-title="Sky Sport F1",La partenza del GP d'Ungheria
+https://www.youtube.com/shorts/0YzAtClFBZ4
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/4meKC1pV01w/hqdefault.jpg" group-title="Sky Sport F1",F1, GP d'Ungheria: la partenza della gara con Piastri che conquista la prima posizione
+https://www.youtube.com/watch?v=4meKC1pV01w
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/GBmcOMamHqc/hqdefault.jpg" group-title="Sky Sport F1",F1, Kimi Antonelli verso il GP d'Ungheria: "Si va all'attacco usando la testa"
+https://www.youtube.com/watch?v=GBmcOMamHqc
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/Jq-Y1FsVro8/hqdefault.jpg" group-title="Sky Sport F1",Lewis Hamilton penalizzato per impeding
 https://www.youtube.com/shorts/Jq-Y1FsVro8
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_GwUEX3Cuac/hqdefault.jpg" group-title="Sky Sport F1",Lewis Hamilton si posiziona davanti al cartello sbagliato
@@ -135,20 +149,6 @@ https://www.youtube.com/watch?v=Rq8frIYOxT0
 https://www.youtube.com/watch?v=8dSnOuvJBAM
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/sgypmdOmscg/hqdefault.jpg" group-title="Sky Sport F1",F1, Hamilton dopo le qualifiche in Ungheria: il pilota Ferrari è stato penalizzato di 3 posizioni
 https://www.youtube.com/watch?v=sgypmdOmscg
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CB2SKFssPtM/hqdefault.jpg" group-title="Sky Sport F1",F1, Ferrari può vincere in Ungheria? Il commento del team di Sky Sport F1
-https://www.youtube.com/watch?v=CB2SKFssPtM
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fP81Ec6BEaw/hqdefault.jpg" group-title="Sky Sport F1",F1, GP Ungheria, Russell 7° nelle qualifiche: il commento del pilota Mercedes
-https://www.youtube.com/watch?v=fP81Ec6BEaw
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tJwRe70FI-s/hqdefault.jpg" group-title="Sky Sport F1",F1, GP Ungheria: l'analisi di Toto Wolff dopo le complicate qualifiche della Mercedes a Budapest
-https://www.youtube.com/watch?v=tJwRe70FI-s
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JxlHbhvNFQ8/hqdefault.jpg" group-title="Sky Sport F1",F1, Kimi Antonelli rispetta la bandiera gialla nelle qualifiche del GP d'Ungheria? L'analisi
-https://www.youtube.com/watch?v=JxlHbhvNFQ8
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/c-nq-i1lX9g/hqdefault.jpg" group-title="Sky Sport F1",F1, Kimi Antonelli dopo qualifiche del GP Ungheria: l'analisi del pilota Mercedes
-https://www.youtube.com/watch?v=c-nq-i1lX9g
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/kc87aOmx3-M/hqdefault.jpg" group-title="Sky Sport F1",F1, GP Ungheria: Vasseur analizza le qualifiche della Ferrari a Budapest
-https://www.youtube.com/watch?v=kc87aOmx3-M
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ADy40lAA3pY/hqdefault.jpg" group-title="Sky Sport F1",F1, GP d'Ungheria: gli highlights delle qualifiche a Budapest
-https://www.youtube.com/watch?v=ADy40lAA3pY
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PAaUlVc38qM/hqdefault.jpg" group-title="Sky Sport MotoGP",Moto Junior - Fim World Championship - Magny Cours
 https://www.youtube.com/watch?v=PAaUlVc38qM
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ACIweLyee-4/hqdefault.jpg" group-title="Sky Sport MotoGP",Bezzecchi e Bagnaia nominati "Ambasciatori Diplomazia dello Sport": le parole di Domenicali e Rivola
