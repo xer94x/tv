@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/yL4gL8N3feo/hqdefault.jpg" group-title="Dazn",Claudio Ranieri vuole rilanciare l'Italia 🔥🇮🇹
+https://www.youtube.com/shorts/yL4gL8N3feo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/9kewv1ZgPzc/hqdefault.jpg" group-title="Dazn",Tutto il dispiacere di Mancini per l'addio alla panchina dell'Italia di tre anni fa 🇮🇹
 https://www.youtube.com/shorts/9kewv1ZgPzc
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/OGJi6XJR1PQ/hqdefault.jpg" group-title="Dazn",𝗦𝗮𝗻𝗸𝗵𝗼𝘂𝗻 𝗗𝗶𝗮𝘄𝗮𝗿𝗮 è un nuovo giocatore del Milan 🚨✅
@@ -27,8 +29,6 @@ https://www.youtube.com/shorts/dBZH67_XlwY
 https://www.youtube.com/shorts/m_w__cE_TB8
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/kdUwvVl57aE/hqdefault.jpg" group-title="Dazn",Finisce 1️⃣-0️⃣ l’amichevole tra Cagliari e Modena 👀🔴🔵 Decisiva all’86° la zampata di 𝐊𝐈𝐍𝐆𝐒𝐓𝐎𝐍𝐄! 🇿🇲
 https://www.youtube.com/shorts/kdUwvVl57aE
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oMHbpm6brlM/hqdefault.jpg" group-title="Dazn",Promessa mantenuta ✌️Cu-cu #Cucurella si tatua la faccia di De la Fuente 😎# DAZN
-https://www.youtube.com/shorts/oMHbpm6brlM
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wRDA1-4zvC8/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna campione del mondo | Mondiali di Calcio FIFA 2026
 https://www.youtube.com/watch?v=wRDA1-4zvC8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-z3JQk3lSmc/hqdefault.jpg" group-title="Mondiali 2026 Dazn",Spagna - Argentina 1-0 (dts): Highlights Estesi | Mondiali di Calcio FIFA 2026
@@ -89,6 +89,8 @@ https://www.youtube.com/watch?v=oj76Mualwrw
 https://www.youtube.com/watch?v=LP56M0-ztMU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/S3BIUMT-iLs/hqdefault.jpg" group-title="Serie A",POKER giallorosso: Roma-Fiorentina 4-0 | Serie A Enilive | DAZN Highlights
 https://www.youtube.com/watch?v=S3BIUMT-iLs
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gSClH2GSXnQ/hqdefault.jpg" group-title="Sky Sport",Presentazione di Mancini e Ranieri, il commento del Direttore di Sky Sport Federico Ferri
+https://www.youtube.com/watch?v=gSClH2GSXnQ
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/UFDW_W-fmgQ/hqdefault.jpg" group-title="Sky Sport",Roberto Mancini ha parlato degli obiettivi futuri della sua Nazionale #SkySport
 https://www.youtube.com/shorts/UFDW_W-fmgQ
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/Kt2EV1DJLjU/hqdefault.jpg" group-title="Sky Sport",Le parole di Roberto Mancini sul suo addio alla Nazionale nel 2023
@@ -117,8 +119,6 @@ https://www.youtube.com/shorts/_OUFYnzzy6Q
 https://www.youtube.com/shorts/BNujTBt4vvE
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/0aWGqQ5PilM/hqdefault.jpg" group-title="Sky Sport",Parma, gli obiettivi del secondo anno di Cuesta
 https://www.youtube.com/shorts/0aWGqQ5PilM
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nOvxJHzCgCM/hqdefault.jpg" group-title="Sky Sport",Castro, l'arrivo a Roma dell'ex attaccante del Bologna
-https://www.youtube.com/shorts/nOvxJHzCgCM
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tRFPsCAzxno/hqdefault.jpg" group-title="Sky Sport F1",F1 in Ungheria, commenti e analisi dopo la vittoria di Norris
 https://www.youtube.com/watch?v=tRFPsCAzxno
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oy5xepdlhdU/hqdefault.jpg" group-title="Sky Sport F1",F1, Kimi Antonelli in vacanza da padrone: c'è un vero rivale per il titolo?
@@ -179,7 +179,13 @@ https://www.youtube.com/watch?v=cNsKozi3Fmo
 https://www.youtube.com/watch?v=dV24nvN2ul4
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/2qQ-meit6V0/hqdefault.jpg" group-title="Sky Sport MotoGP",MotoGP, Fabio Di Giannantonio cade nel GP di Germania: l'intervista del pilota VR46 al Sachsenring
 https://www.youtube.com/watch?v=2qQ-meit6V0
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ExkbXkez1gQ/hqdefault.jpg" group-title="Sky Sport Tennis",Rovescio meraviglioso di Musetti
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PzKfPkA2DYU/hqdefault.jpg" group-title="Sky Sport Tennis",De Minaur batte Tsitsipas: sfiderà Cruz Hewitt!
+https://www.youtube.com/shorts/PzKfPkA2DYU
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/dSUFypvbmZI/hqdefault.jpg" group-title="Sky Sport Tennis",Musetti-Vukic: gli highlights | ATP 500 Washington
+https://www.youtube.com/watch?v=dSUFypvbmZI
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/u-89aeD-Thg/hqdefault.jpg" group-title="Sky Sport Tennis",De Minaur-Tsitsipas: gli highlights | ATP 500 Washington
+https://www.youtube.com/watch?v=u-89aeD-Thg
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ExkbXkez1gQ/hqdefault.jpg" group-title="Sky Sport Tennis",Rovescio meraviglioso di Musetti dal suo successo contro Vukic a Washington
 https://www.youtube.com/shorts/ExkbXkez1gQ
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Yfp3zG3zd1Q/hqdefault.jpg" group-title="Sky Sport Tennis",Alcaraz è pronto a tornare nel Tour: il nuovo video dello spagnolo in allenamento
 https://www.youtube.com/shorts/Yfp3zG3zd1Q
@@ -203,9 +209,3 @@ https://www.youtube.com/watch?v=GDR954MFtNk
 https://www.youtube.com/watch?v=eJrsuAlacQ8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/I0efdSAQa44/hqdefault.jpg" group-title="Sky Sport Tennis",Mannarino-Tien: gli highlights | ATP 500 Washington
 https://www.youtube.com/watch?v=I0efdSAQa44
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/4HFG_SZqfCU/hqdefault.jpg" group-title="Sky Sport Tennis",Jodar-Fils: gli highlights | ATP 500 Washington
-https://www.youtube.com/watch?v=4HFG_SZqfCU
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/cCo_ZhH90ig/hqdefault.jpg" group-title="Sky Sport Tennis",Esordio super positivo per Rafa Jodar a Washington: superato in due set Arthur Fils
-https://www.youtube.com/shorts/cCo_ZhH90ig
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mS-6x0YAId0/hqdefault.jpg" group-title="Sky Sport Tennis",Paul-Majchrzak: gli highlights | ATP 500 Washington
-https://www.youtube.com/watch?v=mS-6x0YAId0
