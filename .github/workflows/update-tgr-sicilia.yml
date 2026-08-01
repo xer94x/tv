@@ -1,10 +1,14 @@
 name: Update TGR Sicilia Playlist
 
-# aggiornato: 2026-04-14
+# aggiornato: 2026-08-01
 on:
   schedule:
     - cron: '*/15 7-23 * * *'   # ogni 15 min, dalle 07:00 alle 23:45 UTC
   workflow_dispatch:
+
+concurrency:
+  group: update-tgr-sicilia
+  cancel-in-progress: false
 
 jobs:
   update-tgr:
@@ -36,6 +40,7 @@ jobs:
           if [ -f tgr_sicilia.m3u ]; then
             git add tgr_sicilia.m3u
             git diff --cached --quiet || git commit -m "📺 Aggiorna VOD TGR Sicilia - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           else
             echo "ℹ️  tgr_sicilia.m3u non trovato, nessun commit."
