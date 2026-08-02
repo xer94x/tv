@@ -842,8 +842,6 @@ https://uktv.xer94x.workers.dev/bbc-two-uk/index.m3u8
 https://uktv.xer94x.workers.dev/itv1-uk/index.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" tvg-chno="104" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/S4C.png" group-title="ukTV",S4C
 https://uktv.xer94x.workers.dev/s4c-uk/index.m3u8
-#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-chno="106" tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Showcase.png" group-title="ukTV",Sky Showcase
-https://uktv.xer94x.workers.dev/sky-showcase/index.m3u8
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-chno="108" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Sky%20Atlantic.png" group-title="ukTV",Sky Atlantic
 https://uktv.xer94x.workers.dev/sky-atlantic-uk/index.m3u8
 #EXTINF:-1 tvg-id="UAndGold.uk" tvg-chno="110" tvg-name="U&Gold" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/U%26amp%3BGold.png" group-title="ukTV",U&Gold
@@ -936,8 +934,6 @@ https://uktv.xer94x.workers.dev/lfctv-uk/index.m3u8
 https://uktv.xer94x.workers.dev/racing-tv-uk/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.uk" tvg-chno="430" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/beinsports1.png" group-title="ukTV",beIN Sports 1
 https://uktv.xer94x.workers.dev/bein-sports-1-uk/index.m3u8
-#EXTINF:-1 tvg-id="beINSports2.uk" tvg-chno="431" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/beinsports2.png" group-title="ukTV",beIN Sports 2
-https://uktv.xer94x.workers.dev/bein-sports-2-uk/index.m3u8
 #EXTINF:-1 tvg-id="LaLigaTV.uk" tvg-chno="435" tvg-name="La Liga TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/LaLiga%20TV.png" group-title="ukTV",La Liga TV
 https://uktv.xer94x.workers.dev/la-liga-tv-uk/index.m3u8
 #EXTINF:-1 tvg-id="RallyTV" tvg-chno="500" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/uk_logos/Rally.TV.png" group-title="ukTV",Rally TV
