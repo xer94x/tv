@@ -1,7 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Top Calcio 24" tvg-chno="25" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
-https://topcalcio24.xer94x.workers.dev/index.m3u8
-
-#EXTINF:-1 channel-id="ITBA2200008IM" tvg-id="ITBA2200008IM" tvg-chno="26" tvg-name="Radio Italia Live" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Radio%20Italia%20Live.png" group-title="",Radio Italia Live
+#EXTINF:-1 channel-id="ITBA2200008IM" tvg-id="ITBA2200008IM" tvg-chno="25" tvg-name="Radio Italia Live" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Radio%20Italia%20Live.png" group-title="",Radio Italia Live
 https://jmp2.uk/stvp-ITBA2200008IM
