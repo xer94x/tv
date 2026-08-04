@@ -1,4 +1,33 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Antenna%20Sicilia.jpg" group-title="",Antenna Sicilia
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Telecolor.png" group-title="",Telecolor
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/TGS.png" group-title="",TGS
+https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="",TGR
+https://tgrsicilia.xer94x.workers.dev/stream.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Regione%20Sicilia.jpg" group-title="",Video Regione
+https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Top Calcio 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="",TOP CALCIO 24
+https://topcalcio24.xer94x.workers.dev/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Tele%20One.png" group-title="",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Mediterraneo.png" group-title="",Video Mediterraneo
+https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/reitv.jpg" group-title="",Rei Tv
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/RTP.jpg" group-title="",RTP
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 
