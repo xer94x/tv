@@ -801,7 +801,6 @@ https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29901243.mp
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29897243.mp4/playlist.m3u8?auth=daEctbLaIaMabclchbmdFbqasdvbIdVdDcX-bQuRxW-c0-JkyuvEv&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",11 luglio 2026 - ore 14:00
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29895061.mp4/playlist.m3u8?auth=daEa5blaSd9cwaBaGc4cpbQdadBcBdxb_cG-bQuKOF-c0-HksuvHo&aifp=V001
-
 # USATV
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="usaTV",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
