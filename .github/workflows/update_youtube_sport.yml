@@ -18,7 +18,6 @@ env:
   DEFAULT_SOURCES: |
     https://www.youtube.com/feeds/videos.xml?channel_id=UC7N8IuYFhU8Hs1ruCTsXTbg|Dazn
     https://www.youtube.com/feeds/videos.xml?playlist_id=PLHiPhEWe5bhzQosdrw37oU0s95W2w0qZb|Serie A
-    https://www.youtube.com/feeds/videos.xml?playlist_id=PLb_Qew9DujkgZg0TszlrO6JNADNYoIibZ|Mondiali 2026 Dazn
     https://www.youtube.com/feeds/videos.xml?channel_id=UCAvNr5DMVncoJnJAotXOjOQ|Sky Sport
     https://www.youtube.com/feeds/videos.xml?channel_id=UC7bfeZHiUlQO32O32qlMZXg|Sky Sport Tennis
     https://www.youtube.com/feeds/videos.xml?channel_id=UCMQ7Gx6v-pQy_gsRoMJYzOA|Sky Sport F1
