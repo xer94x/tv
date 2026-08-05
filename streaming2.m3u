@@ -2838,3 +2838,40 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wtv
 #EXTINF:-1 tvg-name="WTXL" tvg-logo="https://i.ibb.co/pjLfrt7B/tablo.png" group-title="News",WTXL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wtxl-tablo/playlist.m3u8
 
+# SKY
+
+#EXTINF:-1 tvg-id="Sky Sport 24" tvg-chno="200" tvg-name="Sky Sport 24" tvg-logo="https://i.ibb.co/KjsLXQpw/200-sky-sport-24-it.png" group-title="Sky",Sky Sport 24
+https://skysport.xer94x.workers.dev/24/index.m3u8
+#EXTINF:-1 tvg-id="RSI LA1" tvg-chno="101" tvg-name="RSI La1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20RSI%20LA%201.png" group-title="Sky",RSI La1
+https://juventusonair.com/channels/rsila1.php
+#EXTINF:-1 tvg-id="RSI LA2" tvg-chno="102" tvg-name="RSI La2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20RSI%20LA%202.png" group-title="Sky",RSI La2
+https://juventusonair.com/channels/rsila2z.php
+#EXTINF:-1 tvg-id="Zona DAZN" tvg-chno="199" tvg-name="DAZN 1" tvg-logo="https://i.ibb.co/hSnQ5q2/dazn1.png" group-title="Sky",DAZN 1
+https://skysport.xer94x.workers.dev/dazn/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-chno="201" tvg-name="Sky Sport UNO" tvg-logo="https://i.ibb.co/TdjtqJx/201-sky-sport-uno-it.png" group-title="Sky",Sky Sport Uno
+https://skysport.xer94x.workers.dev/uno/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-chno="202" tvg-name="Sky Sport Calcio" tvg-logo="https://i.ibb.co/xSzDbc4t/202-sky-sport-calcio-it.png" group-title="Sky",Sky Sport Calcio
+https://skysport.xer94x.workers.dev/calcio/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-chno="203" tvg-name="Sky Sport Tennis" tvg-logo="https://i.ibb.co/p6zyRkvR/203-sky-sport-tennis-it.png" group-title="Sky",Sky Sport Tennis
+https://skysport.xer94x.workers.dev/tennis/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-chno="204" tvg-name="Sky Sport Arena" tvg-logo="https://i.ibb.co/whBhzVtn/204-sky-sport-arena-it.png" group-title="Sky",Sky Sport Arena
+https://skysport.xer94x.workers.dev/arena/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Basket" tvg-chno="205" tvg-name="Sky Sport Basket" tvg-logo="https://i.ibb.co/Y4y64nZ9/Sky-Sport-Basket-Logo-2025.jpg" group-title="Sky",Sky Sport Basket
+https://skysport.xer94x.workers.dev/basket/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Max" tvg-chno="206" tvg-name="Sky Sport MAX" tvg-logo="https://i.ibb.co/nqjx0yw5/206-sky-sport-max-it.png" group-title="Sky",Sky Sport MAX
+https://skysport.xer94x.workers.dev/max/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-chno="207" tvg-name="Sky Sport F1" tvg-logo="https://i.ibb.co/20tDZcbD/207-sky-sport-f1-it.png" group-title="Sky",Sky Sport F1
+https://skysport.xer94x.workers.dev/f1/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-chno="208" tvg-name="Sky Sport MotoGP" tvg-logo="https://i.ibb.co/LXTpB4ms/208-sky-sport-motogp-it.png" group-title="Sky",Sky Sport MotoGP
+https://skysport.xer94x.workers.dev/motogp/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-chno="209" tvg-name="Sky Sports Golf" tvg-logo="https://i.ibb.co/HvC5fbK/209-sky-sport-golf-it.png" group-title="Sky",Sky Sports Golf
+https://skysport.xer94x.workers.dev/golf/index.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="Sky Sport Legend" tvg-name="Sky Sports Legend" tvg-logo="https://i.ibb.co/r2qWYmqj/212-sky-sport-legend-it.png" group-title="Sky",Sky Sports Legend
+https://skysport.xer94x.workers.dev/legend/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Mix" tvg-chno="211" tvg-name="Sky Sport Mix" tvg-logo="https://i.ibb.co/cXYSBfRP/211-sky-sport-mix-it.png" group-title="Sky",Sky Sport Mix
+https://skysport.xer94x.workers.dev/mix/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="EUROSPORT 1" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="Sky",EUROSPORT 1
+https://skysport.xer94x.workers.dev/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="Sky",EUROSPORT 2
+https://skysport.xer94x.workers.dev/eurosport2/index.m3u8
+
