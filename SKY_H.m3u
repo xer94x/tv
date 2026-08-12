@@ -49,10 +49,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177699&e
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177700&extension=ts
 #EXTINF:-1 tvg-chno="209" tvg-id="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Golf.png" group-title="SKY SPORT",209 SPORT GOLF
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=240463&extension=ts
-#EXTINF:-1 tvg-chno="210" tvg-id="Sky Sport Mix" tvg-logo="https://i.ibb.co/cXYSBfRP/211-sky-sport-mix-it.png" group-title="SKY SPORT",210 SKY SPORT MIX
-https://skysport.xer94x.workers.dev/mix/index.m3u8
-#EXTINF:-1 tvg-chno="210" tvg-id="Sky Sport Legend" tvg-name="Sky Sports Legend" tvg-logo="https://i.ibb.co/r2qWYmqj/212-sky-sport-legend-it.png" group-title="SKY SPORT",211 SKY SPORT LEGEND
-https://skysport.xer94x.workers.dev/legend/index.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="SKY SPORT",213 PRIME VIDEO 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167390&extension=ts
 #EXTINF:-1 tvg-chno="214" tvg-id="Zona DAZN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="SKY SPORT",214 ZONA DAZN
