@@ -483,7 +483,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=704711&e
 #EXTINF:-1 tvg-chno="260" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE B
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883847&extension=ts
 
-#EXTINF:-1 tvg-chno="261" tvg-id="DAZN 21" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2021.png" group-title=",DAZN 21
+#EXTINF:-1 tvg-chno="261" tvg-id="DAZN 21" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2021.png" group-title="",DAZN 21
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158802&extension=ts
 
 #EXTINF:-1 tvg-chno="262" tvg-id="DAZN 22" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2022.png" group-title="",DAZN 22
