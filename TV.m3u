@@ -219,6 +219,47 @@ https://rtv.xer94x.workers.dev
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj" group-title="",San Marino RTV SPORT
 https://rtv.xer94x.workers.dev/sport
 
+# SKY
+
+#EXTINF:-1 tvg-chno="108" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Uno.png" group-title="",SKY UNO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177632&extension=ts&play_token=aIjqNWL8tP
+
+#EXTINF:-1 tvg-chno="111" tvg-id="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Atlantic.png" group-title="",SKY ATLANTIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177655&extension=ts&play_token=jwmIOwrf4n
+
+#EXTINF:-1 tvg-chno="112" tvg-id="Sky Serie" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Serie.png" group-title="",SKY SERIE
+http://abidtech.online:80/live/017860067933469/P4YX744JL4BH/900934.ts
+
+#EXTINF:-1 tvg-chno="113" tvg-id="Sky Investigation" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Investigation.png" group-title="",SKY INVESTIGATION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177958&extension=ts
+
+#EXTINF:-1 tvg-chno="115" tvg-id="Sky Crime" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Crime.png" group-title="",SKY CRIME
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177666&extension=ts
+
+#EXTINF:-1 tvg-chno="116" tvg-id="History" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - History.png" group-title="",SKY HISTORY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177679&extension=ts
+
+#EXTINF:-1 tvg-chno="117" tvg-id="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Documentaries.png" group-title="",SKY DOCUMENTARIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167294&extension=ts
+
+#EXTINF:-1 tvg-chno="119" tvg-id="Sky Nature" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Nature.png" group-title="",SKY NATURE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167296&extension=ts
+
+#EXTINF:-1 tvg-chno="120" tvg-id="Sky Arte" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Arte.png" group-title="",SKY ARTE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177658&extension=ts
+
+#EXTINF:-1 tvg-chno="129" tvg-id="Comedy Central" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Comedy Central.png" group-title="",COMEDY CENTRAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177620&extension=ts
+
+#EXTINF:-1 tvg-chno="131" tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - MTV.png" group-title="",MTV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177622&extension=ts
+
+#EXTINF:-1 tvg-chno="198" tvg-id="RSI LA1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 1.png" group-title="",RSI LA1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177591&extension=ts&play_token=aIjqNWL8tP
+
+#EXTINF:-1 tvg-chno="199" tvg-id="RSI LA2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 2.png" group-title="",RSI LA2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177592&extension=ts&play_token=aIjqNWL8tP
+
 # SPORT
 
 #EXTINF:-1 tvg-chno="214" tvg-id="SuperTennis" tvg-name="SuperTennis" tvg-logo="https://i.ibb.co/GfjYBG2s/224-super-tennis-it.png" group-title="",SuperTennis
@@ -256,12 +297,6 @@ https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
 
 #EXTINF:-1 tvg-chno="227" tvg-logo="https://yt3.googleusercontent.com/K5o7wbZ_AjYs32sOoOk_zcGcms9swnuOhWwXQzSeWxdQx2RXLaoGezXmDgYfPTGG7vdgs3fTNg=s900-c-k-c0x00ffffff-no-rj" group-title="",Radio Tutto Napoli
 https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8?FLID=1
-
-#EXTINF:-1 tvg-chno="228" tvg-logo="https://www.tvdream.net/img/radio-crc-tv-cover.jpg" group-title="",Radio C.R.C.
-https://rst2.saiuzwebnetwork.it:8081/crc/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-chno="229" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZKv0yRME0Sri2-YtC7IidN5lyTjvS3-hZg&s" group-title="",TeleClubItalia
-https://teleclubitalia.iostream.it/tci1080.m3u8
 
 #EXTINF:-1 tvg-chno="230" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsYSwtS3sXC0V7BX2jgsMKpuFT-J5Vv5zSpA&s" group-title="",Citta' Celeste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
