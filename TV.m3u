@@ -254,12 +254,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177620&e
 #EXTINF:-1 tvg-chno="131" tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - MTV.png" group-title="",MTV
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177622&extension=ts
 
-#EXTINF:-1 tvg-chno="198" tvg-id="RSI LA1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 1.png" group-title="",RSI LA1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177591&extension=ts&play_token=aIjqNWL8tP
-
-#EXTINF:-1 tvg-chno="199" tvg-id="RSI LA2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 2.png" group-title="",RSI LA2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177592&extension=ts&play_token=aIjqNWL8tP
-
 # SPORT
 
 #EXTINF:-1 tvg-chno="150" tvg-id="Top Calcio 24" tvg-name="TOP CALCIO 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="",TOP CALCIO 24
@@ -338,6 +332,12 @@ https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master1024.m3u8
 
 # SKY SPORT
+
+#EXTINF:-1 tvg-chno="198" tvg-id="RSI LA1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 1.png" group-title="",RSI LA1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177591&extension=ts&play_token=aIjqNWL8tP
+
+#EXTINF:-1 tvg-chno="199" tvg-id="RSI LA2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 2.png" group-title="",RSI LA2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177592&extension=ts&play_token=aIjqNWL8tP
 
 #EXTINF:-1 tvg-chno="200" tvg-id="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport24.png" group-title="",SKY SPORT 24
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177690&extension=ts
