@@ -33,10 +33,16 @@ https://rakuten.xer94x.workers.dev/crime-rakuten-tv/index.m3u8?lang=ITA
 https://rakuten.xer94x.workers.dev/alarm-for-cobra-rakuten-tv/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="c423f0f050355a6fb8bcf7644af61852" tvg-name="FilmRise Sci-Fi" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2571a4fa-c9b2-48db-bfef-ece8f3846316.jpeg" tvg-chno="106" group-title="Serie TV",FilmRise Sci-Fi
 https://rakuten.xer94x.workers.dev/filmrise-sci-fi-it/index.m3u8?lang=ITA
+#EXTINF:-1 tvg-id="sony-one-bewitched-ita" tvg-name="Vita da Strega" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/031b6938-4ae9-4854-b5f8-c959485d3692.jpeg" tvg-chno="109" group-title="Serie TV",Vita da Strega
+https://rakuten.xer94x.workers.dev/sony-one-bewitched-ita/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="ITBD3200006F0" tvg-name="Relic Hunter" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e6683d7e-bc96-4026-a0f6-0ada0c3fd437.jpeg" tvg-chno="110" group-title="Serie TV",Relic Hunter
 https://rakuten.xer94x.workers.dev/filmrise-relic-hunter-ita/index.m3u8?lang=ITA
+#EXTINF:-1 tvg-id="sony-one-faves-it" tvg-name="Sony One | Gli Imperdibili" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/51af3b2e-245f-443f-8e46-a3c8d7f7735c.jpeg" tvg-chno="111" group-title="Serie TV",Sony One | Gli Imperdibili
+https://rakuten.xer94x.workers.dev/sony-one-faves-it/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="ITBD3200003HL" tvg-name="Andromeda" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4c88804c-d4c1-49c9-84a9-18d6dea605c0.jpeg" tvg-chno="112" group-title="Serie TV",Andromeda
 https://rakuten.xer94x.workers.dev/andromeda-it/index.m3u8?lang=ITA
+#EXTINF:-1 tvg-id="sony-one-comedy-tv-ita" tvg-name="Sony One | Serie da Ridere" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6616e662-fdf1-44d1-9654-02c41856d6ee.jpeg" tvg-chno="115" group-title="Serie TV",Sony One | Serie da Ridere
+https://rakuten.xer94x.workers.dev/sony-one-comedy-tv-ita/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="IT4600001JQ" tvg-name="Soap Latino" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/15930f31-2830-4840-827b-ba41f5e0f82b.jpeg" tvg-chno="118" group-title="Serie TV",Soap Latino
 https://rakuten.xer94x.workers.dev/soap-latino-it/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="IT3600007QQ" tvg-name="Soap Turco" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bb446d9d-6ff4-447c-a7e7-a3793b090756.jpeg" tvg-chno="119" group-title="Serie TV",Soap Turco
@@ -75,6 +81,8 @@ https://rakuten.xer94x.workers.dev/jukin-fail-army-new/index.m3u8?lang=ENG
 https://rakuten.xer94x.workers.dev/top-barca-eng/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="ITBD1000002HF" tvg-name="FIFA+" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/55d93065-d22a-4fe2-9ed5-961ac23cae81.png" tvg-chno="328" group-title="Sport",FIFA+
 https://rakuten.xer94x.workers.dev/fifa-plus-it-new/index.m3u8?lang=ITA
+#EXTINF:-1 tvg-id="man-city-24-7" tvg-name="Man City 24/7" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/c5d1f735-c11e-4272-a1b4-9f9ae0f81496.jpeg" tvg-chno="330" group-title="Sport",Man City 24/7
+https://rakuten.xer94x.workers.dev/man-city-24-7/index.m3u8?lang=ENG
 #EXTINF:-1 tvg-id="IT3100001FT" tvg-name="INTER 24/7" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140a6ce2-d2d9-4d5c-ae6e-55249b647730.jpeg" tvg-chno="333" group-title="Sport",INTER 24/7
 https://rakuten.xer94x.workers.dev/inter-24-7-ita/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="juventus-play" tvg-name="Juventus Play" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0a5304d3-8cac-40a1-9807-5e86d97717d0.jpeg" tvg-chno="334" group-title="Sport",Juventus Play
@@ -213,3 +221,4 @@ https://rakuten.xer94x.workers.dev/cgtn/index.m3u8?lang=ENG
 https://rakuten.xer94x.workers.dev/newsworld-ita/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="ITBD1100002WX" tvg-name="France 24 FAST English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg" tvg-chno="910" group-title="News",France 24 FAST English
 https://rakuten.xer94x.workers.dev/france-24-en/index.m3u8?lang=ENG
+
