@@ -695,6 +695,8 @@ https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 # TGR SICILIA
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",Ultima Puntata
 https://tgrsicilia.xer94x.workers.dev/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",17 agosto 2026 - ore 14:00
+https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30142113.mp4/playlist.m3u8?auth=daEcHdrbYdpbta7bfcwa4asdrcya3a9c2aq-bQGWJE-c0-DmyvrHs&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",16 agosto 2026 - ore 19:30
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30137879.mp4/playlist.m3u8?auth=daEdKdwcDcFbTbfbzc1dSdTaec9b8cgcdcu-bQGGv0-c0-GmtwAGo&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",16 agosto 2026 - ore 14:00
@@ -793,8 +795,6 @@ https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29989473.mp
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29986677.mp4/playlist.m3u8?auth=daEcYdWdMcxcxcedcchajbAcZdbbPbTdQdi-bQy14x-c0-AmzxzGq&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",24 luglio 2026 - ore 19:30
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29982219.mp4/playlist.m3u8?auth=daEaJcTagdsaxb8ccaEb7bedYatahb4bKdh-bQyPDB-c0-FlwuxHv&aifp=V001
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg" group-title="TGR Sicilia",23 luglio 2026 - ore 14:00
-https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/29979497.mp4/playlist.m3u8?auth=daEaNbXbxd2c2aaalaKdUbocCb1cJdLbucd-bQyIZe-c0-JkAvuHr&aifp=V001
 # USATV
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="usaTV",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
