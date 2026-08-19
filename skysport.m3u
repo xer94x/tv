@@ -2,20 +2,7 @@
 
 #EXTINF:-1 tvg-chno="10" tvg-id="ZONADAZN.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="SKY SPORT",DAZN 1
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548300
-#EXTINF:-1 tvg-chno="11" tvg-id="SkySport251.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 251.png" group-title="SKY SPORT",SKY SPORT 1
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/461358
-#EXTINF:-1 tvg-chno="12" tvg-id="SkySport252.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 252.png" group-title="SKY SPORT",SKY SPORT 2
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/461355
-#EXTINF:-1 tvg-chno="13" tvg-id="SkySport253.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 253.png" group-title="SKY SPORT",SKY SPORT 3
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/461352
-#EXTINF:-1 tvg-chno="14" tvg-id="SkySport254.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 254.png" group-title="SKY SPORT",SKY SPORT 4
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/461350
-#EXTINF:-1 tvg-chno="15" tvg-id="SkySport255.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 255.png" group-title="SKY SPORT",SKY SPORT 5
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/461347
-#EXTINF:-1 tvg-chno="16" tvg-id="SkySport256.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 256.png" group-title="SKY SPORT",SKY SPORT 6
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/461344
-#EXTINF:-1 tvg-chno="17" tvg-id="SkySport257.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 257.png" group-title="SKY SPORT",SKY SPORT 7
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/461342
+
 #EXTINF:-1 tvg-chno="18" tvg-id="SkySport24.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport24.png" group-title="SKY SPORT",SKY SPORT 24
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/272481
 #EXTINF:-1 tvg-chno="19" tvg-id="Top Calcio 24"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
