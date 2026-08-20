@@ -106,7 +106,7 @@ GROUP_MAP = {
         'serie tv: sci-fi', 'serie tv sci-fi', 'sci-fi', 'sci fi', 'scifi', 'serie', 'serie classiche', 'tv & entertainment',
         'series', 'telenovela', 'serie tv'
     },
-    'Sport': {'motori e sport', 'auto & motorsports', 'sports', 'calcio'},
+    'Sport': {'motori e sport', 'auto & motorsports', 'sports', 'calcio', 'pro wrestling', 'card games', '3X3 basketball'},
 }
 
 SOURCE_BLOCK = {
