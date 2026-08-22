@@ -6,7 +6,7 @@ http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548300
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548109
 #EXTINF:-1 tvg-chno="12" tvg-id="SkySportCalcio.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Calcio.png" group-title="SKY SPORT",SKY SPORT CALCIO
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/650231
-
+#EXTINF:-1 tvg-chno="18" tvg-id="SkySport24.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport24.png" group-title="SKY SPORT",SKY SPORT 24
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548093
 #EXTINF:-1 tvg-chno="19" tvg-id="Top Calcio 24"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eZiFWD-2blpQp96f7HOvM7qBviaptF_Wgg&s" group-title="Sport",TOP CALCIO 24
 https://topcalcio24.xer94x.workers.dev/index.m3u8
