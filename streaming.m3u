@@ -4362,8 +4362,6 @@ https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
 #EXTINF:-1 tvg-id="canalalphaju.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Canal Alpha JU HD
 https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
-#EXTINF:-1 tvg-id="canalalphane.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Canal Alpha NE HD
-https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
 #EXTINF:-1 tvg-id="canalbfr.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbfr.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Canal B fr
 https://viamotionhsi.netplus.ch/live/eds/canalbfr/browser-HLS8/canalbfr.m3u8
 #EXTINF:-1 tvg-id="tmc.fr" tvg-logo="https://picserve.netplus.ch/channels/tmc.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",TMC HD 720p
@@ -4460,17 +4458,19 @@ https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
 https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 #EXTINF:-1 tvg-id="tvm3.ch" tvg-logo="https://picserve.netplus.ch/channels/tvm3.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",tvm3 HD
 https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
-#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" tvg-country="FR" tvg-language="French" group-title="Svizzera", 8Mont-Blanc HD
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" tvg-country="FR" tvg-language="French" group-title="Svizzera",8Mont-Blanc HD
 https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
 #EXTINF:-1 tvg-id="valtv.ch" tvg-logo="https://picserve.netplus.ch/channels/valtv.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Val TV HD
 https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
+#EXTINF:-1 tvg-id="canalalphane.ch" tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" tvg-country="CH" tvg-language="French" group-title="Svizzera",Canal Alpha NE HD
+https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf1.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",SRF1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-logo="https://picserve.netplus.ch/channels/srf2.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",SRF2 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-id="SRFinfo.ch" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png" tvg-country="CH" tvg-language="German" group-title="Svizzera",SRF info HD 720p
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-id="daserstehd.de" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", ARD1 Das Erste HD
+#EXTINF:-1 tvg-id="daserstehd.de" tvg-logo="https://picserve.netplus.ch/channels/daserstehd.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ARD1 Das Erste HD
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1 tvg-id="zdf.de" tvg-logo="https://picserve.netplus.ch/channels/zdf.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",ZDF HD 720p
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
@@ -4486,11 +4486,11 @@ https://viamotionhsi.netplus.ch/live/eds/pro7/browser-HLS8/pro7.m3u8
 https://viamotionhsi.netplus.ch/live/eds/sateins/browser-HLS8/sateins.m3u8
 #EXTINF:-1 tvg-id="vox.de" tvg-logo="https://picserve.netplus.ch/channels/vox.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",VOX HD
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
-#EXTINF:-1 tvg-id="kabel1.de" tvg-logo="https://picserve.netplus.ch/channels/kabel1.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", Kabel1 HD
+#EXTINF:-1 tvg-id="kabel1.de" tvg-logo="https://picserve.netplus.ch/channels/kabel1.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",Kabel1 HD
 https://viamotionhsi.netplus.ch/live/eds/kabeleins/browser-HLS8/kabeleins.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://picserve.netplus.ch/channels/3sat.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", 3sat HD
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://picserve.netplus.ch/channels/3sat.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",3sat HD
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-id="swr.de" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png" tvg-country="DE" tvg-language="German" group-title="Svizzera", SWR HD
+#EXTINF:-1 tvg-id="swr.de" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",SWR HD
 https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
 #EXTINF:-1 tvg-id="superrtl.de" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png" tvg-country="DE" tvg-language="German" group-title="Svizzera",RTL SUPER HD
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
