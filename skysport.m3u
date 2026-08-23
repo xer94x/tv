@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="10" tvg-id="ZONADAZN.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="SKY SPORT",DAZN 1
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548300
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649320
 #EXTINF:-1 tvg-chno="12" tvg-id="SkySportCalcio.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Calcio.png" group-title="SKY SPORT",SKY SPORT CALCIO
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/650231
 #EXTINF:-1 tvg-chno="11" tvg-id="SkySportUno.it" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Uno.png" group-title="SKY SPORT",SKY SPORT UNO
