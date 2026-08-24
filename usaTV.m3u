@@ -230,7 +230,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/fox-news-live
 #EXTVLCOPT:http-origin=https://usnewson.com/watch/fox-news-live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://p10.usnlive.com/stream/foxnews.m3u8
+https://p8.usnlive.com/stream/foxnews.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66879_dark_360w_270h.png" group-title="TV",Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/apexstreams3.php?id=756
@@ -386,7 +386,7 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/msnbc-live
 #EXTVLCOPT:http-origin=https://usnewson.com/watch/msnbc-live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://p9.usnlive.com/stream/msnbc.m3u8
+https://p11.usnlive.com/stream/msnbc.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="TV",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
