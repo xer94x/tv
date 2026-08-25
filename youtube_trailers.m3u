@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=NMgMdVtsPQc
 https://www.youtube.com/watch?v=Z88GrSqu30s
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CcyZQgJVGj4/hqdefault.jpg" group-title="Apple Italia",Una scelta impossibile: tour guidato della nuova famiglia iPhone | Apple
 https://www.youtube.com/watch?v=CcyZQgJVGj4
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fIKFnzIcfcA/hqdefault.jpg" group-title="Apple TV",Brothers — Official Trailer | Apple TV
+https://www.youtube.com/watch?v=fIKFnzIcfcA
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SvD7c54nabo/hqdefault.jpg" group-title="Apple TV",Even Rebecca has her moments. #TedLasso
 https://www.youtube.com/shorts/SvD7c54nabo
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FZ1BlLVp_Nk/hqdefault.jpg" group-title="Apple TV",Ted Lasso and Susan Boyle, making believers out of everyone. #TedLasso — Now Streaming
@@ -57,8 +59,6 @@ https://www.youtube.com/shorts/isJwZRJMERI
 https://www.youtube.com/shorts/88qQdJm9Odk
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Aj9Icr0SwIQ/hqdefault.jpg" group-title="Apple TV",The future is under construction. #Silo — New Episode Now Streaming
 https://www.youtube.com/shorts/Aj9Icr0SwIQ
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/F3_c_M230ag/hqdefault.jpg" group-title="Apple TV",Now there's a familiar face. #TedLasso — Now Streaming
-https://www.youtube.com/shorts/F3_c_M230ag
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zNyZ6OlMbh0/hqdefault.jpg" group-title="Disney Plus",The Simpsons: Yellow Mirror | Exclusive Episode on Disney+ | Trailer
 https://www.youtube.com/watch?v=zNyZ6OlMbh0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SK1xmHRnnao/hqdefault.jpg" group-title="Disney Plus",It’s been over a decade, but you know you’re still going to sing the whole thing.
@@ -119,6 +119,8 @@ https://www.youtube.com/watch?v=9-uaYRlG310
 https://www.youtube.com/shorts/svl1s69KyyI
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ya8LbYoYHYw/hqdefault.jpg" group-title="Disney Plus Italia",FX's The Shards | Ora in esclusiva | Disney+ Italia
 https://www.youtube.com/shorts/ya8LbYoYHYw
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mp4oIx2gQQ4/hqdefault.jpg" group-title="HBO Max",Hacks | Deborah Vance and Friends | HBO Max
+https://www.youtube.com/watch?v=mp4oIx2gQQ4
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FAI94X53iJM/hqdefault.jpg" group-title="HBO Max",Give or take a few years. #ConanOBrienMustGo
 https://www.youtube.com/shorts/FAI94X53iJM
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/myuTAH-CS5Q/hqdefault.jpg" group-title="HBO Max","Oh God, we got Coach Taylor”
@@ -147,8 +149,6 @@ https://www.youtube.com/shorts/yaqU8BHoFJc
 https://www.youtube.com/watch?v=4ZUgp8TvaOY
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tF3uuQ-jbTU/hqdefault.jpg" group-title="HBO Max",DC Studios Showcase Official Podcast | Comic Writers Jeremy Adams & Morgan Hampton | HBO Max
 https://www.youtube.com/watch?v=tF3uuQ-jbTU
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jzxa9QBw5Xk/hqdefault.jpg" group-title="HBO Max",Brian Posehn on How a Dream Multiverse Turns Into Chaos
-https://www.youtube.com/shorts/jzxa9QBw5Xk
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-WV386Nx6T0/hqdefault.jpg" group-title="HBO Max Italia",Che chic guardare tutto questo su HBO Max 😇
 https://www.youtube.com/shorts/-WV386Nx6T0
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/I03fo0UCkUo/hqdefault.jpg" group-title="HBO Max Italia","Ciao a tutti, spero abbiate trascorso delle buone vacanze…" 💥 #Euphoria
@@ -299,10 +299,10 @@ https://www.youtube.com/shorts/bPKMwd8tUfw
 https://www.youtube.com/watch?v=2hAN2-4zr0k
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/AiULOO2AZIM/hqdefault.jpg" group-title="Netflix Italia",C'è un prima e un dopo QUESTA SCENA
 https://www.youtube.com/shorts/AiULOO2AZIM
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jUMG2p8uNVI/hqdefault.jpg" group-title="Paramount Italia",Diarra From Detroit | Trailer S2 ITA - Paramount+
+https://www.youtube.com/watch?v=jUMG2p8uNVI
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pZ-BLlHZs3U/hqdefault.jpg" group-title="Paramount Italia",MobLand | Ti presentiamo i personaggi di MobLand - Paramount+
 https://www.youtube.com/shorts/pZ-BLlHZs3U
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/dRVU89MatiI/hqdefault.jpg" group-title="Paramount Italia",MobLand | Ti presentiamo i personaggi di MobLand - Paramount+
-https://www.youtube.com/shorts/dRVU89MatiI
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/36OEhev1nn0/hqdefault.jpg" group-title="Paramount Italia",Lioness | Rientro traumatico - Paramount+
 https://www.youtube.com/shorts/36OEhev1nn0
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/roxf_fkdAM8/hqdefault.jpg" group-title="Paramount Italia",MobLand | Le citazioni migliori - Paramount+
@@ -419,6 +419,8 @@ https://www.youtube.com/shorts/_K-tDyTaXxA
 https://www.youtube.com/shorts/9GMiuJMgaMA
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Xtr-oPCp2GQ/hqdefault.jpg" group-title="Prime Video",The Grand Tour | Official Trailer | Prime Video
 https://www.youtube.com/watch?v=Xtr-oPCp2GQ
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/k-XZxREeDlM/hqdefault.jpg" group-title="Prime Video Italia",Nessuno lo fa come Mercedes Ron 🔥🔥🔥
+https://www.youtube.com/shorts/k-XZxREeDlM
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gV7DXOtP9WU/hqdefault.jpg" group-title="Prime Video Italia",La tua prossima Ossessione | Prime Video
 https://www.youtube.com/watch?v=gV7DXOtP9WU
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/m92H4k2zsjY/hqdefault.jpg" group-title="Prime Video Italia",Spiaggia troppo HOT | The Last Sunrise
@@ -447,8 +449,6 @@ https://www.youtube.com/shorts/g6Zz8Rw8ri8
 https://www.youtube.com/watch?v=5LgeV3DafK4
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/or92GRbYdEY/hqdefault.jpg" group-title="Prime Video Italia",Ci sono persone da cui vale sempre la pena tornare ❤️
 https://www.youtube.com/shorts/or92GRbYdEY
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/KOfW0L7Ei-o/hqdefault.jpg" group-title="Prime Video Italia",Shhh… Reacher sta lavorando 🤫💥
-https://www.youtube.com/watch?v=KOfW0L7Ei-o
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/lb-haH8xTwE/hqdefault.jpg" group-title="Sony Pictures",𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil
 https://www.youtube.com/shorts/lb-haH8xTwE
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/l0pTZqZWs-c/hqdefault.jpg" group-title="Sony Pictures",GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel
