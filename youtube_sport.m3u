@@ -59,6 +59,8 @@ https://www.youtube.com/watch?v=31iKEt3cxUs
 https://www.youtube.com/watch?v=yh7XrNt1YQA
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hv_r92uLQI4/hqdefault.jpg" group-title="Serie A",ESPOSITO + MINA per la salvezza: Cagliari-Torino 2-1 | Serie A Enilive | DAZN Highlights
 https://www.youtube.com/watch?v=hv_r92uLQI4
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/MiZbFqbxpFw/hqdefault.jpg" group-title="Sky Sport",Sabah Baku-Hapoel Be'er Sheva 5-2: i gol | Champions League
+https://www.youtube.com/watch?v=MiZbFqbxpFw
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/evoyryY5SHE/hqdefault.jpg" group-title="Sky Sport",Eurovolley, le parole di Velasco e Stella Nervini dopo la vittoria dell'Italia contro la Slovacchia
 https://www.youtube.com/watch?v=evoyryY5SHE
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YAKcmeGJC5M/hqdefault.jpg" group-title="Sky Sport",Italvolley, l'Italia vince ancora! Battuta anche la Slovacchia agli Europei
@@ -87,8 +89,6 @@ https://www.youtube.com/shorts/ZpUQTi0BstE
 https://www.youtube.com/shorts/LVKhn89qpno
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/4q92vz_zTno/hqdefault.jpg" group-title="Sky Sport",Leao mai così vicino all'addio: Aston Villa in trattativa con il Milan | Calciomercato
 https://www.youtube.com/watch?v=4q92vz_zTno
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YUG5Wlj-Ako/hqdefault.jpg" group-title="Sky Sport",Serie C, la gol collection di lunedì 24 agosto
-https://www.youtube.com/watch?v=YUG5Wlj-Ako
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/I209zxQZImk/hqdefault.jpg" group-title="Sky Sport F1",Kimi Antonelli compie 20 anni: nel giorno del suo compleanno l'approfondimento su Sky
 https://www.youtube.com/watch?v=I209zxQZImk
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/XvgkFGcNaoE/hqdefault.jpg" group-title="Sky Sport F1",Antonelli, buon compleanno! Il suo rapporto con Bezzechi e Rossi dal documentario Sky Discover Kimi
@@ -149,6 +149,14 @@ https://www.youtube.com/watch?v=S-0XcPGqdbc
 https://www.youtube.com/watch?v=eC--PGOYe7U
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/WFUvv12vzhg/hqdefault.jpg" group-title="Sky Sport MotoGP",MotoGP, M. Marquez 7° nel GP di Gran Bretagna: l'intervista di Sky al pilota Ducati a Silverstone
 https://www.youtube.com/watch?v=WFUvv12vzhg
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gHwyVHTwbKI/hqdefault.jpg" group-title="Sky Sport Tennis",Vavassori/Errani-Rublev/Andreeva: gli highlights | US Open
+https://www.youtube.com/watch?v=gHwyVHTwbKI
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/p2ALenxc2ZI/hqdefault.jpg" group-title="Sky Sport Tennis",Cobolli/Bencic-Zverev/Townsend: gli highlights | US Open
+https://www.youtube.com/watch?v=p2ALenxc2ZI
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/D0H38YaUsv8/hqdefault.jpg" group-title="Sky Sport Tennis",Errani e Vavassori sconfitti da Andreeva e Rublev al primo turno agli US Open
+https://www.youtube.com/shorts/D0H38YaUsv8
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/D-5r0v-qzj0/hqdefault.jpg" group-title="Sky Sport Tennis",Il ritorno di Alcaraz in campo di Serena Williams a New York nel doppio misto!
+https://www.youtube.com/shorts/D-5r0v-qzj0
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ESTGTW_qFko/hqdefault.jpg" group-title="Sky Sport Tennis",Monfils-show allo US Open: il francese regala spettacolo anche in doppio misto!
 https://www.youtube.com/shorts/ESTGTW_qFko
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JbFqxBKL0K0/hqdefault.jpg" group-title="Sky Sport Tennis",Novak Djokovic si è inventato questo nel suo match in coppia con Sabalenka agli US Open 👏
@@ -171,11 +179,3 @@ https://www.youtube.com/watch?v=Q8MvlLJfv8Q
 https://www.youtube.com/shorts/egZm8K9kUoE
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/Zxy4Eub3STs/hqdefault.jpg" group-title="Sky Sport Tennis",Fils conquista il primo set della finale di Cincinnati contro Tiafoe vincendo punti come questo!
 https://www.youtube.com/shorts/Zxy4Eub3STs
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xrAEn-L6FRY/hqdefault.jpg" group-title="Sky Sport Tennis",Avvio di finale formidabile di Fils!
-https://www.youtube.com/shorts/xrAEn-L6FRY
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/G8TPq8aYdfY/hqdefault.jpg" group-title="Sky Sport Tennis",Nakashima-Tiafoe: gli highlights | ATP 1000 Cincinnati
-https://www.youtube.com/watch?v=G8TPq8aYdfY
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CbG7OTZFR64/hqdefault.jpg" group-title="Sky Sport Tennis",Fils elimina Cobolli e vola in finale a Cincinnati!
-https://www.youtube.com/shorts/CbG7OTZFR64
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/0Fr15mZI-Yk/hqdefault.jpg" group-title="Sky Sport Tennis",Cobolli-Fils: gli highlights | ATP 1000 Cincinnati
-https://www.youtube.com/watch?v=0Fr15mZI-Yk
