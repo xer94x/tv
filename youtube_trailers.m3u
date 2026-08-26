@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=NMgMdVtsPQc
 https://www.youtube.com/watch?v=Z88GrSqu30s
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CcyZQgJVGj4/hqdefault.jpg" group-title="Apple Italia",Una scelta impossibile: tour guidato della nuova famiglia iPhone | Apple
 https://www.youtube.com/watch?v=CcyZQgJVGj4
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/T6fXf4PmVVc/hqdefault.jpg" group-title="Apple TV",12 12 12 — Date Announcement | Apple TV
+https://www.youtube.com/watch?v=T6fXf4PmVVc
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/ls2B-aW8YMg/hqdefault.jpg" group-title="Apple TV",You're doing amazing, Keeley. A new episode of #TedLasso — Now Streaming
 https://www.youtube.com/shorts/ls2B-aW8YMg
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oCb_LjfDwg8/hqdefault.jpg" group-title="Apple TV",Silo — Planning the Future | Full Episode 8 Scenes | Apple TV
@@ -57,8 +59,6 @@ https://www.youtube.com/shorts/0JBiYWH85ac
 https://www.youtube.com/shorts/-icLUbtdOkg
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/EqlWSf-7RXo/hqdefault.jpg" group-title="Apple TV",Nobody's doing commentary like Jill Scott and Rebecca Lowe #TedLasso — New Episode Now Streaming
 https://www.youtube.com/shorts/EqlWSf-7RXo
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pWSAuZNWNZk/hqdefault.jpg" group-title="Apple TV",Winning, losing, and everything in between. The Dynasty: #UConnHuskies — Now Streaming on Apple TV
-https://www.youtube.com/shorts/pWSAuZNWNZk
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fQtm9crnj5I/hqdefault.jpg" group-title="Disney Plus",Not lapis. Not turquoise. Cerulean.
 https://www.youtube.com/shorts/fQtm9crnj5I
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zNyZ6OlMbh0/hqdefault.jpg" group-title="Disney Plus",The Simpsons: Yellow Mirror | Exclusive Episode on Disney+ | Trailer
@@ -119,6 +119,10 @@ https://www.youtube.com/watch?v=Sy67AnqIhpw
 https://www.youtube.com/watch?v=9-uaYRlG310
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/svl1s69KyyI/hqdefault.jpg" group-title="Disney Plus Italia",FX's The Shards | Ora in esclusiva | Disney+ Italia
 https://www.youtube.com/shorts/svl1s69KyyI
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SjXfPmpYBaM/hqdefault.jpg" group-title="HBO Max",How DOES one keep track of all the DCU characters?
+https://www.youtube.com/shorts/SjXfPmpYBaM
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/vb1devVJz80/hqdefault.jpg" group-title="HBO Max",My kind of manifestation. #ConanOBrienMustGo
+https://www.youtube.com/shorts/vb1devVJz80
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/w3NsMyDNfLE/hqdefault.jpg" group-title="HBO Max",Alexa Demie Talks Hair and Makeup | Euphoria Season 3 | HBO Max
 https://www.youtube.com/watch?v=w3NsMyDNfLE
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/caJ-8Z9UDFQ/hqdefault.jpg" group-title="HBO Max",The Official Hard Knocks Podcast: Training Camp with Seattle Seahawks | Episode 4 | HBO Max
@@ -145,10 +149,6 @@ https://www.youtube.com/watch?v=BJlBAm_7eiQ
 https://www.youtube.com/watch?v=Bg3enKwDmD4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/eMjid_GmKHU/hqdefault.jpg" group-title="HBO Max",Some nice workplace benefits. #Lanterns
 https://www.youtube.com/shorts/eMjid_GmKHU
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/0uCNWAu_nCE/hqdefault.jpg" group-title="HBO Max",A little interpretive dance from #JasonRitter to capture the mood. #Lanterns
-https://www.youtube.com/shorts/0uCNWAu_nCE
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/V10N_ST7X9E/hqdefault.jpg" group-title="HBO Max",They were too stunned to speak. #ConanOBrienMustGo
-https://www.youtube.com/shorts/V10N_ST7X9E
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/sdi3OH0P91g/hqdefault.jpg" group-title="HBO Max Italia",Cime tempestose in 13 secondi: #CimeTempestose #Friends
 https://www.youtube.com/shorts/sdi3OH0P91g
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/skKznu36ZOw/hqdefault.jpg" group-title="HBO Max Italia",Noi siamo ancora qui. 🥲💔 #TheOC
@@ -239,6 +239,10 @@ https://www.youtube.com/watch?v=--BYVtRqBFI
 https://www.youtube.com/shorts/i5HRsjeUg1U
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xLUIoS0_CTs/hqdefault.jpg" group-title="Marvel Italia",Avengers: Doomsday | Special Look
 https://www.youtube.com/shorts/xLUIoS0_CTs
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zd3qXH9qN70/hqdefault.jpg" group-title="Netflix",Possible Love | Official Trailer | Netflix
+https://www.youtube.com/watch?v=zd3qXH9qN70
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hbU1zLAwj3w/hqdefault.jpg" group-title="Netflix",THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH
+https://www.youtube.com/watch?v=hbU1zLAwj3w
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/kGVuOT6h11c/hqdefault.jpg" group-title="Netflix",Wonka's The Golden Ticket | Official Trailer | Netflix
 https://www.youtube.com/watch?v=kGVuOT6h11c
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8KKx_f_V3Z4/hqdefault.jpg" group-title="Netflix",The Kevin Langue Show and Kevin Langue 2 come to Netflix on September 5th
@@ -265,10 +269,6 @@ https://www.youtube.com/watch?v=Ld4PMbghy78
 https://www.youtube.com/watch?v=CWbZBIrEfqI
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5Z8oBbmkgXo/hqdefault.jpg" group-title="Netflix",LEGO ONE PIECE | Official Trailer | Netflix
 https://www.youtube.com/watch?v=5Z8oBbmkgXo
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SyeHKMfswHk/hqdefault.jpg" group-title="Netflix",Cyberpunk: Edgerunners 2 | Official Teaser #3 | Netflix
-https://www.youtube.com/watch?v=SyeHKMfswHk
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3oCx6HcYz9k/hqdefault.jpg" group-title="Netflix",Blue Eye Samurai: Season 2 | Official Teaser | Netflix
-https://www.youtube.com/watch?v=3oCx6HcYz9k
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/a8D5KQR01yg/hqdefault.jpg" group-title="Netflix Italia",Era un piano quasi perfetto...
 https://www.youtube.com/shorts/a8D5KQR01yg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hubZeJ251tw/hqdefault.jpg" group-title="Netflix Italia",Stranger Things: Storie dal 1985 | Trailer ufficiale - Stagione 2 | Netflix Italia
@@ -359,6 +359,8 @@ https://www.youtube.com/shorts/vq0sMP5DJXE
 https://www.youtube.com/watch?v=bfCgu83suHs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/s54DsF0YkD4/hqdefault.jpg" group-title="Paramount Pictures",Something cute is coming to the big screen. 🦖 😍 Don't miss Rhubarb in #PAWPatrolMovie on FRIDAY.
 https://www.youtube.com/shorts/s54DsF0YkD4
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YJnIKpGa9Dw/hqdefault.jpg" group-title="Paramount Plus",Just a little #KyleChandler appreciation 🫶 #FridayNightLights
+https://www.youtube.com/shorts/YJnIKpGa9Dw
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xOxC3eu-Ua0/hqdefault.jpg" group-title="Paramount Plus",Colin From Accounts | How Did Their Relationship Start?! | Paramount+
 https://www.youtube.com/watch?v=xOxC3eu-Ua0
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PnpGi4F-8sA/hqdefault.jpg" group-title="Paramount Plus",We remember this episode like it was yesterday 🥹 #iCarly
@@ -387,8 +389,6 @@ https://www.youtube.com/shorts/KS1HAfGWx3A
 https://www.youtube.com/watch?v=li8tsJElpUc
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FNsg27I6eg0/hqdefault.jpg" group-title="Paramount Plus",There's nothing quite like #TheHangover
 https://www.youtube.com/shorts/FNsg27I6eg0
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/LoYFzkYx56w/hqdefault.jpg" group-title="Paramount Plus",Puppets IN SPAAACE! Jim Henson's Creature Shop transformed the cast of #StrangeNewWorlds into felt!
-https://www.youtube.com/shorts/LoYFzkYx56w
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YkM5hGN5yP0/hqdefault.jpg" group-title="Prime Video",A cheeky spin on snog marry avoid for the petrolheads ⚙️ #amazonshitcarshow #TheGrandTour
 https://www.youtube.com/shorts/YkM5hGN5yP0
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mgQAAvitNN4/hqdefault.jpg" group-title="Prime Video",The Love Hypothesis | Official Trailer
@@ -449,6 +449,10 @@ https://www.youtube.com/shorts/jPCiFvkALH4
 https://www.youtube.com/shorts/u70jZ2MxOec
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/cjIUFR1WP3o/hqdefault.jpg" group-title="Prime Video Italia",Niente panico... NIENTE PANICO! 😫
 https://www.youtube.com/shorts/cjIUFR1WP3o
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tTVxDivSfaU/hqdefault.jpg" group-title="Sony Pictures",The showstopping, whimsical performer, true icon: Tim Curry.
+https://www.youtube.com/shorts/tTVxDivSfaU
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/MfHEZw7Xw_c/hqdefault.jpg" group-title="Sony Pictures",THE SOCIAL RECKONING – New Trailer (4K)
+https://www.youtube.com/watch?v=MfHEZw7Xw_c
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/lb-haH8xTwE/hqdefault.jpg" group-title="Sony Pictures",𝚃𝚑𝚒𝚗𝚐𝚜 𝚊𝚛𝚎 𝚐𝚎𝚝𝚝𝚒𝚗𝚐 𝚠𝚘𝚛𝚜𝚎… #ResidentEvil
 https://www.youtube.com/shorts/lb-haH8xTwE
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/l0pTZqZWs-c/hqdefault.jpg" group-title="Sony Pictures",GHOST SOLDIER - Official Trailer | (4K) Starring Jim Caviezel
@@ -475,10 +479,6 @@ https://www.youtube.com/shorts/IvZUvxJMG1k
 https://www.youtube.com/watch?v=74nF-FWAS6M
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gXjurDkYnEM/hqdefault.jpg" group-title="Sony Pictures",INSIDIOUS: OUT OF THE FURTHER - Final Trailer (4K)
 https://www.youtube.com/watch?v=gXjurDkYnEM
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1zip1rNaNYs/hqdefault.jpg" group-title="Sony Pictures",RAMAYANA - Official Trailer
-https://www.youtube.com/watch?v=1zip1rNaNYs
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zhApeaHMvfs/hqdefault.jpg" group-title="Sony Pictures",JUMANJI: OPEN WORLD - Official Trailer (4K)
-https://www.youtube.com/watch?v=zhApeaHMvfs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/clzVqcuZ4yc/hqdefault.jpg" group-title="Sony Pictures Italia",Spider-Man workout routine. Per un back to gym da supereroe. #SpiderManBrandNewDay è al cinema.
 https://www.youtube.com/shorts/clzVqcuZ4yc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/9BaG29QzQYw/hqdefault.jpg" group-title="Sony Pictures Italia",Resident Evil | Dal 17 settembre al cinema | Spot City 15"
