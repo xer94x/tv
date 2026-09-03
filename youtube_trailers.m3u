@@ -29,6 +29,10 @@ https://www.youtube.com/watch?v=NMgMdVtsPQc
 https://www.youtube.com/watch?v=Z88GrSqu30s
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CcyZQgJVGj4/hqdefault.jpg" group-title="Apple Italia",Una scelta impossibile: tour guidato della nuova famiglia iPhone | Apple
 https://www.youtube.com/watch?v=CcyZQgJVGj4
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pOiC6ugrCR0/hqdefault.jpg" group-title="Apple TV",Silo — Farewell, Bernard | Behind The Scenes | Apple TV
+https://www.youtube.com/watch?v=pOiC6ugrCR0
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/y5bIXjHgobg/hqdefault.jpg" group-title="Apple TV",Monza Race | Circuits in Focus — Featuring Nico Rosberg and Emelia Hartford | F1 on Apple TV
+https://www.youtube.com/watch?v=y5bIXjHgobg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pom767sDzG0/hqdefault.jpg" group-title="Apple TV",Here they come. #Mayday premieres tomorrow on Apple TV.
 https://www.youtube.com/shorts/pom767sDzG0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/Sr3YfPQcC4A/hqdefault.jpg" group-title="Apple TV",See the truth. #Silo — Season Finale Friday
@@ -55,10 +59,6 @@ https://www.youtube.com/shorts/hs-Z-7k39dc
 https://www.youtube.com/watch?v=YkMqVtn-hTo
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/g_gTW2qIs-w/hqdefault.jpg" group-title="Apple TV",Some memories are worth holding onto. #LastSeen — September 9
 https://www.youtube.com/shorts/g_gTW2qIs-w
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/X4-IAAPm32Q/hqdefault.jpg" group-title="Apple TV",Meet the Lady Greyhounds newest central defender: Niamh. #TedLasso
-https://www.youtube.com/shorts/X4-IAAPm32Q
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gMzhQAlGyaY/hqdefault.jpg" group-title="Apple TV",One of them is in touch with their feelings. #Mayday — September 4
-https://www.youtube.com/shorts/gMzhQAlGyaY
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8mBKDsSUQuU/hqdefault.jpg" group-title="Disney Plus",New on Disney+ | September 2026
 https://www.youtube.com/watch?v=8mBKDsSUQuU
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fQtm9crnj5I/hqdefault.jpg" group-title="Disney Plus",Not lapis. Not turquoise. Cerulean.
@@ -119,13 +119,17 @@ https://www.youtube.com/shorts/_jqNcRAcMrk
 https://www.youtube.com/shorts/4eVXms-LHmc
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PRl003DyvOM/hqdefault.jpg" group-title="Disney Plus Italia",Hulu su Disney+ | Disney+ Italia
 https://www.youtube.com/watch?v=PRl003DyvOM
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/IjLg0X59fMA/hqdefault.jpg" group-title="HBO Max",Band of Brothers: Legacy Trailer | HBO Max
+https://www.youtube.com/watch?v=IjLg0X59fMA
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/rbLyjarG_bU/hqdefault.jpg" group-title="HBO Max",Supergirl | Official American Sign Language Trailer | HBO Max
+https://www.youtube.com/watch?v=rbLyjarG_bU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/OJA9iAdSXno/hqdefault.jpg" group-title="HBO Max",Amsterdam really has it all. #ConanOBrienMustGo
 https://www.youtube.com/shorts/OJA9iAdSXno
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/idza9FLuVXo/hqdefault.jpg" group-title="HBO Max",The gift that keeps on giving. #Lanterns
 https://www.youtube.com/shorts/idza9FLuVXo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/aY7UFOUSiXw/hqdefault.jpg" group-title="HBO Max",The Official Hard Knocks Podcast: Training Camp with Seattle Seahawks | Episode 5 | HBO Max
 https://www.youtube.com/watch?v=aY7UFOUSiXw
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wH9y36kfhlc/hqdefault.jpg" group-title="HBO Max",Lanterns recruiter approved. #Lanterns #AaronPierre #KyleChandler #JohnStewart #HalJordan #DC
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wH9y36kfhlc/hqdefault.jpg" group-title="HBO Max",Lanterns recruiter approved. #Lanterns
 https://www.youtube.com/shorts/wH9y36kfhlc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/arGW5pBE8B4/hqdefault.jpg" group-title="HBO Max",Stuart Fails to Save the Universe | Get to Know | HBO Max
 https://www.youtube.com/watch?v=arGW5pBE8B4
@@ -145,10 +149,6 @@ https://www.youtube.com/watch?v=MOSsrycA4vM
 https://www.youtube.com/watch?v=VkxDzRS37JE
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xpZTc4bClK8/hqdefault.jpg" group-title="HBO Max",One of them remained. #Lanterns #JohnStewart #AaronPierre #Manhunters
 https://www.youtube.com/shorts/xpZTc4bClK8
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/w2ib4d3ZFD0/hqdefault.jpg" group-title="HBO Max",Hearing your message loud and clear, Raj. #StuartFailsToSaveTheUniverse
-https://www.youtube.com/shorts/w2ib4d3ZFD0
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/BPy0uTl4CWM/hqdefault.jpg" group-title="HBO Max",“But I just want to know, how are we gonna do flying?"
-https://www.youtube.com/shorts/BPy0uTl4CWM
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Ea6MGhHScEk/hqdefault.jpg" group-title="HBO Max Italia",HARRY POTTER E LA PIETRA FILOSOFALE | TEASER TRAILER | HBO Max
 https://www.youtube.com/watch?v=Ea6MGhHScEk
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/TvIq7gKM0Mo/hqdefault.jpg" group-title="HBO Max Italia",Durati meno del previsto. 😇 #QuelMostroDiSuocera #JaneFonda
@@ -209,6 +209,8 @@ https://www.youtube.com/watch?v=-J-3gWSjI-c
 https://www.youtube.com/watch?v=v3q-x5B0GEg
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/etHM3e6uzT0/hqdefault.jpg" group-title="Marvel",The Wonderful Worlds of the MCU
 https://www.youtube.com/shorts/etHM3e6uzT0
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pwyA2Pa9wIg/hqdefault.jpg" group-title="Marvel Italia",5 anni dalla battaglia finale per i Dieci Anelli.
+https://www.youtube.com/shorts/pwyA2Pa9wIg
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_LWKV51qKGQ/hqdefault.jpg" group-title="Marvel Italia",Rivivi le emozioni del primo "...Uniti".
 https://www.youtube.com/shorts/_LWKV51qKGQ
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xymtoK9MmwY/hqdefault.jpg" group-title="Marvel Italia",Rivivi le emozioni di 7 anni fa con Avengers Endgame: Extra, in arrivo al cinema dal 24 Settembre.
@@ -237,8 +239,6 @@ https://www.youtube.com/watch?v=XAy5q4NMw0I
 https://www.youtube.com/shorts/QW1UivOXAcA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/9vtFiSW4UzE/hqdefault.jpg" group-title="Marvel Italia",Robert Downey Jr., Chris Evans e Hayley Atwell uniti sul palco del #D23 per #AvengersDoomsday.
 https://www.youtube.com/shorts/9vtFiSW4UzE
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/IZ8afzobtUY/hqdefault.jpg" group-title="Marvel Italia",Lui è Doom. Un primo sguardo ad #AvengersDoomsday dal 16 Dicembre al cinema.
-https://www.youtube.com/shorts/IZ8afzobtUY
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/yLeja7kWgmU/hqdefault.jpg" group-title="Netflix",The Final Problem | Official Trailer | Netflix
 https://www.youtube.com/watch?v=yLeja7kWgmU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/ODIk9yGmpQI/hqdefault.jpg" group-title="Netflix",Not a Stranger | Official Trailer | Netflix
@@ -299,6 +299,10 @@ https://www.youtube.com/watch?v=KMlc7W_385Q
 https://www.youtube.com/shorts/a8D5KQR01yg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hubZeJ251tw/hqdefault.jpg" group-title="Netflix Italia",Stranger Things: Storie dal 1985 | Trailer ufficiale - Stagione 2 | Netflix Italia
 https://www.youtube.com/watch?v=hubZeJ251tw
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oILuXVrw510/hqdefault.jpg" group-title="Paramount Italia",MobLand | Best Moments - Paramount+
+https://www.youtube.com/shorts/oILuXVrw510
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_pAfMGTeGuE/hqdefault.jpg" group-title="Paramount Italia",Marshals Stagione 2 | Trailer Ufficale ITA - Paramount+
+https://www.youtube.com/watch?v=_pAfMGTeGuE
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/DCeeCiP9NdI/hqdefault.jpg" group-title="Paramount Italia",Twin Peaks | Torniamo a casa - Paramount+
 https://www.youtube.com/shorts/DCeeCiP9NdI
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gRG7N-TRoRM/hqdefault.jpg" group-title="Paramount Italia",Scontro tra Thunderman | La super intelligenza - Paramount+
@@ -325,10 +329,8 @@ https://www.youtube.com/shorts/rhrLs5CXDSs
 https://www.youtube.com/shorts/bWq0SdF4EDg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xBk-1MupS8o/hqdefault.jpg" group-title="Paramount Italia",Scream 7 | La scena del corridoio - Paramount+
 https://www.youtube.com/shorts/xBk-1MupS8o
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zuqJRzPN0Ww/hqdefault.jpg" group-title="Paramount Italia",MobLand | Harry e Jan - Paramount+
-https://www.youtube.com/shorts/zuqJRzPN0Ww
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/74dGtnskYAo/hqdefault.jpg" group-title="Paramount Italia",Dalliance | Il primo incontro - Paramount+
-https://www.youtube.com/shorts/74dGtnskYAo
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/u_OrSzkfol8/hqdefault.jpg" group-title="Paramount Pictures",Julia Stiles has what it takes in Save the Last Dance (2001) 🪩
+https://www.youtube.com/shorts/u_OrSzkfol8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/UfEyiE-MYSI/hqdefault.jpg" group-title="Paramount Pictures",A legacy of courage and a commitment to change. Get tix to see #ByAnyMeansMovie - in theatres friday
 https://www.youtube.com/shorts/UfEyiE-MYSI
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YX8CxGf1ezU/hqdefault.jpg" group-title="Paramount Pictures",By Any Means | Real Life Hero Featurette (2026 Movie) – Yahya Abdul-Mateen II, Giancarlo Esposito
@@ -357,8 +359,10 @@ https://www.youtube.com/shorts/5ws_YUs6Sh0
 https://www.youtube.com/shorts/4mkbWKRgt_I
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YnO5KjuN6VE/hqdefault.jpg" group-title="Paramount Pictures",Forever an icon. Dolly Parton lit up our hearts in everything she did.🤍🕊️
 https://www.youtube.com/shorts/YnO5KjuN6VE
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mmnrm8MQUmA/hqdefault.jpg" group-title="Paramount Pictures",Kyle Chandler plays FBI agent Patrick Denham in The Wolf of Wall Street (2013). #TheWolfofWallStreet
-https://www.youtube.com/shorts/mmnrm8MQUmA
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/6nmi4cZnSaY/hqdefault.jpg" group-title="Paramount Plus",Back like we never left. #ScaryMovie
+https://www.youtube.com/shorts/6nmi4cZnSaY
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/DDYpHrokrCE/hqdefault.jpg" group-title="Paramount Plus",Lioness | Russian Honeypot Bust (S3, E5) | Paramount+
+https://www.youtube.com/watch?v=DDYpHrokrCE
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/35l2UNaD7AY/hqdefault.jpg" group-title="Paramount Plus",This is not how he expected his night to go 😬 #Lioness
 https://www.youtube.com/shorts/35l2UNaD7AY
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nIPCdBxRVm8/hqdefault.jpg" group-title="Paramount Plus",B*tch 🤝 Blessed #MySuperSweetSixteen
@@ -385,10 +389,10 @@ https://www.youtube.com/shorts/6k_Qi_iExT4
 https://www.youtube.com/watch?v=9TJwxwZ1t9Q
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jrzXmI0fhZE/hqdefault.jpg" group-title="Paramount Plus",MobLand | "Jigsaw Puzzle" (S1, E2) | Full Episode (TV-MA) | Paramount+
 https://www.youtube.com/watch?v=jrzXmI0fhZE
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nPpYEq8fz-8/hqdefault.jpg" group-title="Paramount Plus",MobLand | Series Premiere Full Episode (TVMA) | Tom Hardy, Pierce Brosnan, Helen Mirren | Paramount+
-https://www.youtube.com/watch?v=nPpYEq8fz-8
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/yqgNNaljAao/hqdefault.jpg" group-title="Paramount Plus",This is why it's important to have your own bathroom. #Lioness
-https://www.youtube.com/shorts/yqgNNaljAao
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ApDv_8oIArg/hqdefault.jpg" group-title="Prime Video",Every friend group has someone emotionally attached to everything... The Grand Tour out tomorrow.
+https://www.youtube.com/shorts/ApDv_8oIArg
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/q8E6wUpjtoY/hqdefault.jpg" group-title="Prime Video",Maxton Hall | Official Teaser | Prime Video
+https://www.youtube.com/watch?v=q8E6wUpjtoY
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tFbpNK2ODOw/hqdefault.jpg" group-title="Prime Video",Thomas has discovered denim👖 The new season of The Grand Tour is out tomorrow 👀
 https://www.youtube.com/shorts/tFbpNK2ODOw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fy_G-beT72s/hqdefault.jpg" group-title="Prime Video",James has the helmet, let's see if he has the win. The Grand Tour is out on Friday ‼️🙏
@@ -415,10 +419,6 @@ https://www.youtube.com/shorts/Yia-pUpORz0
 https://www.youtube.com/shorts/t-cz4rN07zQ
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/DcJPzZH_E_Y/hqdefault.jpg" group-title="Prime Video",The Grand Tour | What's in Francis' boot?
 https://www.youtube.com/watch?v=DcJPzZH_E_Y
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/GdniwEufTgE/hqdefault.jpg" group-title="Prime Video",Does speed really matter?
-https://www.youtube.com/shorts/GdniwEufTgE
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/161jWtfDos4/hqdefault.jpg" group-title="Prime Video",The Grand Tour | James, Francis and Thomas deliver their verdicts 👀
-https://www.youtube.com/watch?v=161jWtfDos4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/58szhCvw1ZU/hqdefault.jpg" group-title="Prime Video Italia",MAXTON HALL | TEASER TRAILER UFFICIALE
 https://www.youtube.com/watch?v=58szhCvw1ZU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/OerpoJ5t8fI/hqdefault.jpg" group-title="Prime Video Italia",Tutte le volte in cui Elle ha superato sé stessa | Elle | Prime Video
@@ -539,6 +539,8 @@ https://www.youtube.com/shorts/byX-UXf1MWg
 https://www.youtube.com/watch?v=NiHSfCrNAng
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/JOAHWnsIAWg/hqdefault.jpg" group-title="Universal Pictures",My Universal Story: Bridget Rafferty | One Night Only
 https://www.youtube.com/watch?v=JOAHWnsIAWg
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/XGpkYhKfjgI/hqdefault.jpg" group-title="Universal Pictures Italia",Sean Sexton per L'Isola Dei Ricordi
+https://www.youtube.com/shorts/XGpkYhKfjgI
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gGsH6RlZ4yc/hqdefault.jpg" group-title="Universal Pictures Italia",One Night Only - Quando Tutto è Possibile | al cinema
 https://www.youtube.com/shorts/gGsH6RlZ4yc
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/bjf67bLXD74/hqdefault.jpg" group-title="Universal Pictures Italia",Ragione e Sentimento | Dal 22 ottobre al cinema
@@ -567,8 +569,10 @@ https://www.youtube.com/shorts/HNmtfVhTVZQ
 https://www.youtube.com/shorts/aTdVADNwi4s
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/AXAb_EfJHZw/hqdefault.jpg" group-title="Universal Pictures Italia",One Night Only – Quando Tutto è Possibile | Al cinema
 https://www.youtube.com/shorts/AXAb_EfJHZw
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/qpmD_TjL4NY/hqdefault.jpg" group-title="Universal Pictures Italia",One Night Only – Quando Tutto è Possibile | Dal 26 agosto al cinema
-https://www.youtube.com/shorts/qpmD_TjL4NY
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/prbzzLkD2Ro/hqdefault.jpg" group-title="Warner Bros",The countdown is almost over! #PracticalMagic2
+https://www.youtube.com/shorts/prbzzLkD2Ro
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/V2HpBJrPKzw/hqdefault.jpg" group-title="Warner Bros",Some things only your sister can cure. 💜 #PracticalMagic2
+https://www.youtube.com/shorts/V2HpBJrPKzw
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/08M1NTemKSU/hqdefault.jpg" group-title="Warner Bros",Grab your umbrella and fly to the theater! ☂️ #PracticalMagic2
 https://www.youtube.com/shorts/08M1NTemKSU
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/u2JoMvkNe4w/hqdefault.jpg" group-title="Warner Bros",Some call it chemistry, we call it magic. ✨ #PracticalMagic2
@@ -593,12 +597,10 @@ https://www.youtube.com/shorts/E2aYktBr5KI
 https://www.youtube.com/shorts/8EvbH638oqY
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/QvHdrH9IjTw/hqdefault.jpg" group-title="Warner Bros",Tag your coven to bring to theater to see #PracticalMagic2 - only in theaters September 10.
 https://www.youtube.com/shorts/QvHdrH9IjTw
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/40QiEMZL3zg/hqdefault.jpg" group-title="Warner Bros",It’s all under control. John Goodman is President Compson. DIGGER – only in theaters October 2.
-https://www.youtube.com/shorts/40QiEMZL3zg
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/lm6HrF-xul0/hqdefault.jpg" group-title="Warner Bros",Just gonna leave this here…#PracticalMagic2
-https://www.youtube.com/shorts/lm6HrF-xul0
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ep8wo-rHzY0/hqdefault.jpg" group-title="Warner Bros",Is there a spell to make Mercury retrograde easier? 🫠 #PracticalMagic2
-https://www.youtube.com/shorts/ep8wo-rHzY0
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nK0IBAw6zUI/hqdefault.jpg" group-title="Warrner Bros Italia",Nessuna magia è più forte della sorellanza. ❤️ Amori & incantesimi 2, dal 10 settembre al cinema!
+https://www.youtube.com/shorts/nK0IBAw6zUI
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/LJ2xRM0TWkg/hqdefault.jpg" group-title="Warrner Bros Italia",Conoscete le sorelle Owens? Amori & incantesimi 2, dal 10 settembre al cinema.
+https://www.youtube.com/watch?v=LJ2xRM0TWkg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8efPxk012HE/hqdefault.jpg" group-title="Warrner Bros Italia",La magia è in ogni momento. ✨ Amori & incantesimi 2 arriva al cinema tra UNA SETTIMANA!
 https://www.youtube.com/shorts/8efPxk012HE
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FU-67IF82QQ/hqdefault.jpg" group-title="Warrner Bros Italia",La magia è nell’aria: Amori & incantesimi 2 arriva al cinema il 10 settembre. #AmoriEIncantesimi2
@@ -625,7 +627,3 @@ https://www.youtube.com/watch?v=nZNF3Oi63Gg
 https://www.youtube.com/watch?v=Sk0yMQ4JUDo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/q6pLRxbcYp0/hqdefault.jpg" group-title="Warrner Bros Italia",Nulla potrà fermare le sorelle Owens. Amori & incantesimi 2, dal 10 settembre al cinema.
 https://www.youtube.com/watch?v=q6pLRxbcYp0
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/BwPdNB8lGng/hqdefault.jpg" group-title="Warrner Bros Italia",La magia è qui! Amori & incantesimi 2, dal 10 settembre al cinema.
-https://www.youtube.com/watch?v=BwPdNB8lGng
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PgRZEUNCnGk/hqdefault.jpg" group-title="Warrner Bros Italia",Le sorelle Owens stanno tornando! Amori & incantesimi 2, dal 10 settembre al cinema.
-https://www.youtube.com/watch?v=PgRZEUNCnGk
