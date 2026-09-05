@@ -89,6 +89,8 @@ https://www.youtube.com/shorts/XYu22GwGX0w
 https://www.youtube.com/shorts/vw_2Xxs1__M
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Xpai4Nujz0Q/hqdefault.jpg" group-title="Disney Plus",Camp Rock | Liamani Segura, Maria Canals-Barrera
 https://www.youtube.com/watch?v=Xpai4Nujz0Q
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/QNZV85s4aLo/hqdefault.jpg" group-title="Disney Plus Italia",FX's The Shards | Ora in esclusiva | Disney+ Italia
+https://www.youtube.com/shorts/QNZV85s4aLo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/q9dTGlhJttI/hqdefault.jpg" group-title="Disney Plus Italia",Furious | Rinnovata per una stagione 2 | Disney+ Italia
 https://www.youtube.com/shorts/q9dTGlhJttI
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wiPwu7miL6k/hqdefault.jpg" group-title="Disney Plus Italia",FX's Alien: Pianeta Terra | Stagione 2 ora in produzione | Disney+ Italia
@@ -117,8 +119,6 @@ https://www.youtube.com/shorts/LW1XL0hrAeU
 https://www.youtube.com/shorts/h3a-KIvlvVA
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/2PBVW4JpqUk/hqdefault.jpg" group-title="Disney Plus Italia",Le storie Hulu ti fanno...😱
 https://www.youtube.com/shorts/2PBVW4JpqUk
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_jqNcRAcMrk/hqdefault.jpg" group-title="Disney Plus Italia",Hulu 🤝 #DisneyPlus
-https://www.youtube.com/shorts/_jqNcRAcMrk
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/BwNxKkRaYAw/hqdefault.jpg" group-title="HBO Max",All day and all night. #ConanOBrienMustGo
 https://www.youtube.com/shorts/BwNxKkRaYAw
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/DwwinDrVMgk/hqdefault.jpg" group-title="HBO Max",Aaron Pierre and Taking on the John Stewart Mantle
@@ -269,6 +269,8 @@ https://www.youtube.com/watch?v=eokBqEFiVHs
 https://www.youtube.com/watch?v=M9NWvGZViCg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/T5CAazkJx-I/hqdefault.jpg" group-title="Netflix",Love is Blind: Netherlands | Official Teaser | Netflix
 https://www.youtube.com/watch?v=T5CAazkJx-I
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/O30KIQV9rWA/hqdefault.jpg" group-title="Netflix Italia",Schumacher '94: la nascita di una leggenda | Trailer ufficiale | Netflix Italia
+https://www.youtube.com/watch?v=O30KIQV9rWA
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/DLHltuKDjpM/hqdefault.jpg" group-title="Netflix Italia",IL PASSATO di Zenzy 😧
 https://www.youtube.com/shorts/DLHltuKDjpM
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/UZpPvmV3t9Q/hqdefault.jpg" group-title="Netflix Italia",Chi scolpirà il busto migliore?!
@@ -297,8 +299,6 @@ https://www.youtube.com/shorts/okCT8sQq8DU
 https://www.youtube.com/watch?v=y3ibWxDiFmk
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/DAxJi6TkKxQ/hqdefault.jpg" group-title="Netflix Italia",SHREK IS BACK 💚
 https://www.youtube.com/shorts/DAxJi6TkKxQ
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/KMlc7W_385Q/hqdefault.jpg" group-title="Netflix Italia",Maschi Veri 2 | Trailer ufficiale | Netflix Italia
-https://www.youtube.com/watch?v=KMlc7W_385Q
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FeY5rihABDs/hqdefault.jpg" group-title="Paramount Italia",Lioness | Preparazione di gruppo - Paramount+
 https://www.youtube.com/shorts/FeY5rihABDs
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oILuXVrw510/hqdefault.jpg" group-title="Paramount Italia",MobLand | Best Moments - Paramount+
@@ -389,6 +389,10 @@ https://www.youtube.com/watch?v=yaCHj96d1PA
 https://www.youtube.com/shorts/OIfNn3Lvf0U
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/B8DiAJJgXNA/hqdefault.jpg" group-title="Paramount Plus",Somewhere between the beach and bad decisions... #JerseyShore
 https://www.youtube.com/shorts/B8DiAJJgXNA
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hWQ50kdw2qA/hqdefault.jpg" group-title="Prime Video",The louder the better tbh 🔊
+https://www.youtube.com/shorts/hWQ50kdw2qA
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nt0Udnh8So0/hqdefault.jpg" group-title="Prime Video",The Grand Tour out now
+https://www.youtube.com/shorts/nt0Udnh8So0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/cgB5q2McYQA/hqdefault.jpg" group-title="Prime Video",The Grand Tour is OUT NOW
 https://www.youtube.com/shorts/cgB5q2McYQA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/q9Wb9dpCFYE/hqdefault.jpg" group-title="Prime Video",Meet the roads new unreliable hero…
@@ -415,10 +419,8 @@ https://www.youtube.com/shorts/fy_G-beT72s
 https://www.youtube.com/watch?v=n-GwKQ_eOgQ
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/bXL6YhaY9mc/hqdefault.jpg" group-title="Prime Video",You+Me - Against the World | Coming September 18th
 https://www.youtube.com/shorts/bXL6YhaY9mc
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/dKgTyq2-4w0/hqdefault.jpg" group-title="Prime Video",Kill Jackie | Official Trailer
-https://www.youtube.com/watch?v=dKgTyq2-4w0
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SIqQi0U7Ky0/hqdefault.jpg" group-title="Prime Video",talk about a literal act of god #fleabag #phoebewallerbridge #andrewscott #primevideo
-https://www.youtube.com/shorts/SIqQi0U7Ky0
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/HNpY2xvGCLk/hqdefault.jpg" group-title="Prime Video Italia",Nuova arma sbloccata: il tuo stesso braccio 💪​
+https://www.youtube.com/shorts/HNpY2xvGCLk
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/7d9n5_0s3vg/hqdefault.jpg" group-title="Prime Video Italia",Basta un asciugamano | Marfil Gli Opposti
 https://www.youtube.com/watch?v=7d9n5_0s3vg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/lTBwCyJwIi0/hqdefault.jpg" group-title="Prime Video Italia",Un vero detective analizza tutto... persino la fisica. 🙃🕵 #SherlockHolmes
@@ -447,8 +449,6 @@ https://www.youtube.com/shorts/g8p9JWef5lg
 https://www.youtube.com/shorts/pwMgIg3RwYo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/yknRCyh3K1Q/hqdefault.jpg" group-title="Prime Video Italia",Roast in Peace 2 | Trailer Ufficiale | Prime Video
 https://www.youtube.com/watch?v=yknRCyh3K1Q
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/TBj2PM-CFLQ/hqdefault.jpg" group-title="Prime Video Italia",Ti piacerebbe conoscere il tuo artista preferito? 😏🎤
-https://www.youtube.com/shorts/TBj2PM-CFLQ
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/2znSbIEyfic/hqdefault.jpg" group-title="Sony Pictures",Resident Evil x Reddit. Zach Cregger hosted the first ever live in-person Reddit AMA. #ResidentEvil
 https://www.youtube.com/shorts/2znSbIEyfic
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/Se-WUyOWHWY/hqdefault.jpg" group-title="Sony Pictures",A legacy we’ll never forget.  We love you Dolly. 🤍
@@ -539,6 +539,8 @@ https://www.youtube.com/watch?v=ZBNulDSZbPw
 https://www.youtube.com/shorts/byX-UXf1MWg
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NiHSfCrNAng/hqdefault.jpg" group-title="Universal Pictures",My Universal Story: Ofelia Chavez | One Night Only
 https://www.youtube.com/watch?v=NiHSfCrNAng
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/BZNSGKJgkMc/hqdefault.jpg" group-title="Universal Pictures Italia",L'Isola Dei Ricordi | dal 24 settembre al cinema
+https://www.youtube.com/shorts/BZNSGKJgkMc
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_hzrcmciYco/hqdefault.jpg" group-title="Universal Pictures Italia",One Night Only - Quando Tutto è Possibile | al cinema
 https://www.youtube.com/shorts/_hzrcmciYco
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/XGpkYhKfjgI/hqdefault.jpg" group-title="Universal Pictures Italia",Sean Sexton per L'Isola Dei Ricordi
@@ -567,8 +569,6 @@ https://www.youtube.com/shorts/g7jGYVyvcEk
 https://www.youtube.com/watch?v=nLe9TswGnks
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/HNmtfVhTVZQ/hqdefault.jpg" group-title="Universal Pictures Italia",One Night Only – Quando Tutto è Possibile | Al cinema
 https://www.youtube.com/shorts/HNmtfVhTVZQ
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/aTdVADNwi4s/hqdefault.jpg" group-title="Universal Pictures Italia",One Night Only – Quando Tutto è Possibile | Al cinema
-https://www.youtube.com/shorts/aTdVADNwi4s
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/U_yRzBFgoEA/hqdefault.jpg" group-title="Warner Bros",Practical Magic 2 is a love letter to girlhood. 💜#PracticalMagic2
 https://www.youtube.com/shorts/U_yRzBFgoEA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/aXFbS7OhsHA/hqdefault.jpg" group-title="Warner Bros",The man with the facts. Riz Ahmed is Dr. Ganesh. DIGGER – only in theaters October 2.
