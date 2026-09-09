@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tujIk0ZGtkk/hqdefault.jpg" group-title="Apple Italia",È arrivato il nuovo iPhone 18 Pro
+https://www.youtube.com/watch?v=tujIk0ZGtkk
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5TtFqucvUhg/hqdefault.jpg" group-title="Apple Italia",Ti presentiamo il nuovo iPhone Duo
+https://www.youtube.com/watch?v=5TtFqucvUhg
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Aft6sKLs-mE/hqdefault.jpg" group-title="Apple Italia",World Surf League x Apple: così Apple Watch ha cambiato il surf professionistico
 https://www.youtube.com/watch?v=Aft6sKLs-mE
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jtePkCPyBB4/hqdefault.jpg" group-title="Apple Italia",Privacy su iPhone: Safari aiuta a bloccare i tracker
@@ -25,10 +29,6 @@ https://www.youtube.com/shorts/UNkirdxbBN4
 https://www.youtube.com/shorts/9-ZZ3qdrosw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NMgMdVtsPQc/hqdefault.jpg" group-title="Apple Italia",Accessibilità | Non sono eccezionale | Apple
 https://www.youtube.com/watch?v=NMgMdVtsPQc
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/Z88GrSqu30s/hqdefault.jpg" group-title="Apple Italia",iPhone 17 Pro | Chip A19 Pro | Prestazioni Estreme | Apple
-https://www.youtube.com/watch?v=Z88GrSqu30s
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/XMrj0xzreJw/hqdefault.jpg" group-title="Apple Italia",iPhone 17 Pro o iPhone Air?
-https://www.youtube.com/shorts/XMrj0xzreJw
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1_M5mIsriNc/hqdefault.jpg" group-title="Apple TV",The call that changed everything. #LastSeen
 https://www.youtube.com/shorts/1_M5mIsriNc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/QYULd9Uq2-U/hqdefault.jpg" group-title="Apple TV",Monza Race Recap | The POV with Christina Roki and Calum Nicholas | F1 on Apple TV
@@ -359,10 +359,10 @@ https://www.youtube.com/watch?v=U6sbm1OaJb8
 https://www.youtube.com/shorts/lI7H4pQekYM
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/aTB60HDdfYM/hqdefault.jpg" group-title="Paramount Pictures",Heart of the Beast | Bond Featurette (2026 Movie) - Brad Pitt
 https://www.youtube.com/watch?v=aTB60HDdfYM
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_Sk8zacqVd0/hqdefault.jpg" group-title="Paramount Plus",A killer binge awaits. 🩸 #Dexter
+https://www.youtube.com/shorts/_Sk8zacqVd0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/c-kuyXddfEw/hqdefault.jpg" group-title="Paramount Plus",Star Trek: Strange New Worlds | Pike Has Cosmic Amnesia (S4, E7) | Paramount+
 https://www.youtube.com/watch?v=c-kuyXddfEw
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NAoy02WBSzs/hqdefault.jpg" group-title="Paramount Plus",A killer binge awaits. 🩸 #Dexter
-https://www.youtube.com/shorts/NAoy02WBSzs
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/2VcvVcK0a70/hqdefault.jpg" group-title="Paramount Plus",Team Moms: Baseball | Official Trailer | Paramount+
 https://www.youtube.com/watch?v=2VcvVcK0a70
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Aftz9StRVCQ/hqdefault.jpg" group-title="Paramount Plus",When “we'll make it work” becomes the game plan. #TheLongestYard
@@ -569,6 +569,8 @@ https://www.youtube.com/shorts/bjf67bLXD74
 https://www.youtube.com/shorts/RVlb7XXQHxY
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/OCBqEn2cyZk/hqdefault.jpg" group-title="Universal Pictures Italia",L'Isola dei Ricordi | dal 24 settembre al cinema
 https://www.youtube.com/shorts/OCBqEn2cyZk
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/f29RMV4ZGA8/hqdefault.jpg" group-title="Warner Bros",Just another great reason to get your tickets for #PracticalMagic2
+https://www.youtube.com/shorts/f29RMV4ZGA8
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NDK81p2SxC0/hqdefault.jpg" group-title="Warner Bros",Did someone say #PracticalMagic2 is in theaters TOMORROW?!
 https://www.youtube.com/shorts/NDK81p2SxC0
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NlsE1Vhmsts/hqdefault.jpg" group-title="Warner Bros",Tickets? ✅ Coven? ✅  #PracticalMagic2
@@ -597,8 +599,6 @@ https://www.youtube.com/shorts/vlpg5WAg12U
 https://www.youtube.com/shorts/t5MpkTaNiC8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1tVwec-A_XI/hqdefault.jpg" group-title="Warner Bros",The reviews are in: audiences are under the spell of Practical Magic 2. 🔮✨ #PracticalMagic2
 https://www.youtube.com/shorts/1tVwec-A_XI
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/DCb9geKr-7E/hqdefault.jpg" group-title="Warner Bros",The Owens family is waiting to welcome you home! #PracticalMagic2
-https://www.youtube.com/shorts/DCb9geKr-7E
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/FfDLpa4fyOQ/hqdefault.jpg" group-title="Warrner Bros Italia",Amori & incantesimi 2 - Anteprima Italiana
 https://www.youtube.com/watch?v=FfDLpa4fyOQ
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/D6uG0z-rhkg/hqdefault.jpg" group-title="Warrner Bros Italia",DIGGER | Trailer Finale Ufficiale
