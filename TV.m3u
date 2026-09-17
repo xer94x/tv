@@ -225,40 +225,46 @@ https://rtv.xer94x.workers.dev/sport
 # SKY
 
 #EXTINF:-1 tvg-chno="108" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Uno.png" group-title="",SKY UNO
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553768
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/23408
 
 #EXTINF:-1 tvg-chno="109" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Uno.png" group-title="",SKY UNO PLUS
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/676632
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/677475
 
 #EXTINF:-1 tvg-chno="111" tvg-id="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Atlantic.png" group-title="",SKY ATLANTIC
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553772
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/23407
 
 #EXTINF:-1 tvg-chno="112" tvg-id="Sky Serie" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Serie.png" group-title="",SKY SERIE
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553770
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/272162
 
 #EXTINF:-1 tvg-chno="113" tvg-id="Sky Investigation" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Investigation.png" group-title="",SKY INVESTIGATION
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553809
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/272165
+
+#EXTINF:-1 tvg-chno="114" tvg-id="Sky Collection" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Collection.png" group-title="",SKY COLLECTION
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/669760
 
 #EXTINF:-1 tvg-chno="115" tvg-id="Sky Crime" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Crime.png" group-title="",SKY CRIME
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553767
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/383313
 
 #EXTINF:-1 tvg-chno="116" tvg-id="History" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - History.png" group-title="",SKY HISTORY
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553853
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/111080
 
 #EXTINF:-1 tvg-chno="117" tvg-id="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Documentaries.png" group-title="",SKY DOCUMENTARIES
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553801
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/272159
+
+#EXTINF:-1 tvg-chno="118" tvg-id="Sky Adventure" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Adventure.png" group-title="",SKY ADVENTURE
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/647870
 
 #EXTINF:-1 tvg-chno="119" tvg-id="Sky Nature" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Nature.png" group-title="",SKY NATURE
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553793
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/272156
 
 #EXTINF:-1 tvg-chno="120" tvg-id="Sky Arte" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Arte.png" group-title="",SKY ARTE
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553815
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/26085
 
 #EXTINF:-1 tvg-chno="129" tvg-id="Comedy Central" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Comedy Central.png" group-title="",COMEDY CENTRAL
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/111061
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/12175
 
 #EXTINF:-1 tvg-chno="131" tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - MTV.png" group-title="",MTV
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553882
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/26078
 
 # SPORT
 
