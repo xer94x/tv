@@ -225,37 +225,40 @@ https://rtv.xer94x.workers.dev/sport
 # SKY
 
 #EXTINF:-1 tvg-chno="108" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Uno.png" group-title="",SKY UNO
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177632&extension=ts&play_token=aIjqNWL8tP
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553768
+
+#EXTINF:-1 tvg-chno="109" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Uno.png" group-title="",SKY UNO PLUS
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/676632
 
 #EXTINF:-1 tvg-chno="111" tvg-id="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Atlantic.png" group-title="",SKY ATLANTIC
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177655&extension=ts&play_token=jwmIOwrf4n
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553772
 
 #EXTINF:-1 tvg-chno="112" tvg-id="Sky Serie" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Serie.png" group-title="",SKY SERIE
-http://abidtech.online:80/live/017860067933469/P4YX744JL4BH/900934.ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553770
 
 #EXTINF:-1 tvg-chno="113" tvg-id="Sky Investigation" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Investigation.png" group-title="",SKY INVESTIGATION
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177958&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553809
 
 #EXTINF:-1 tvg-chno="115" tvg-id="Sky Crime" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Crime.png" group-title="",SKY CRIME
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177666&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553767
 
 #EXTINF:-1 tvg-chno="116" tvg-id="History" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - History.png" group-title="",SKY HISTORY
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177679&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553853
 
 #EXTINF:-1 tvg-chno="117" tvg-id="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Documentaries.png" group-title="",SKY DOCUMENTARIES
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167294&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553801
 
 #EXTINF:-1 tvg-chno="119" tvg-id="Sky Nature" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Nature.png" group-title="",SKY NATURE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167296&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553793
 
 #EXTINF:-1 tvg-chno="120" tvg-id="Sky Arte" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Arte.png" group-title="",SKY ARTE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177658&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553815
 
 #EXTINF:-1 tvg-chno="129" tvg-id="Comedy Central" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Comedy Central.png" group-title="",COMEDY CENTRAL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177620&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/111061
 
 #EXTINF:-1 tvg-chno="131" tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - MTV.png" group-title="",MTV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177622&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553882
 
 # SPORT
 
@@ -337,156 +340,186 @@ https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master1024.m3u8
 # SKY SPORT
 
 #EXTINF:-1 tvg-chno="198" tvg-id="RSI LA1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 1.png" group-title="",RSI LA1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177591&extension=ts&play_token=aIjqNWL8tP
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/402564
 
 #EXTINF:-1 tvg-chno="199" tvg-id="RSI LA2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - RSI LA 2.png" group-title="",RSI LA2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177592&extension=ts&play_token=aIjqNWL8tP
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/402561	
 
 #EXTINF:-1 tvg-chno="200" tvg-id="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport24.png" group-title="",SKY SPORT 24
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177690&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548093
 
 #EXTINF:-1 tvg-chno="201" tvg-id="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Uno.png" group-title="",SKY SPORT UNO
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177687&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548109
 
 #EXTINF:-1 tvg-chno="202" tvg-id="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Calcio.png" group-title="",SKY SPORT CALCIO
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177694&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/650231
 
 #EXTINF:-1 tvg-chno="203" tvg-id="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Tennis.png" group-title="",SKY SPORT TENNIS
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167174&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548097
 
 #EXTINF:-1 tvg-chno="204" tvg-id="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Arena.png" group-title="",SKY SPORT ARENA
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177696&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548113
 
 #EXTINF:-1 tvg-chno="205" tvg-id="Sky Sport Basket" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport NBA.png" group-title="",SKY SPORT NBA
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177701&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548105
 
 #EXTINF:-1 tvg-chno="206" tvg-id="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Max.png" group-title="",SKY SPORT MAX
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177697&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548125
 
 #EXTINF:-1 tvg-chno="207" tvg-id="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport F1.png" group-title="",SKY SPORT F1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177699&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548101
 
 #EXTINF:-1 tvg-chno="208" tvg-id="Sky Sport MotoGP" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport MotoGP.png" group-title="",SKY SPORT MOTOGP
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177700&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548117
 
 #EXTINF:-1 tvg-chno="209" tvg-id="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Golf.png" group-title="",SKY SPORT GOLF
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=240463&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548121
 
-#EXTINF:-1 tvg-chno="210" tvg-id="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="",EUROSPORT 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177964&extension=ts
+#EXTINF:-1 tvg-chno="210" tvg-id="Sky Sport Legend" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Legend.png" group-title="",SKY SPORT LEGEND
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/647883
 
-#EXTINF:-1 tvg-chno="211" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="",EUROSPORT 2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177966&extension=ts
+#EXTINF:-1 tvg-chno="211" tvg-id="Sky Sport Mix" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport Mix.png" group-title="",SKY SPORT MIX
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/647887
 
-#EXTINF:-1 tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167390&extension=ts
+#EXTINF:-1 tvg-chno="212" tvg-id="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport1.png" group-title="",EUROSPORT 1
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548216
 
-#EXTINF:-1 tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167389&extension=ts
+#EXTINF:-1 tvg-chno="213" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/eurosport2.png" group-title="",EUROSPORT 2
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548215
 
 #EXTINF:-1 tvg-chno="214" tvg-id="Zona DAZN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="",DAZN 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158736&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/712864
 
-#EXTINF:-1 tvg-chno="215" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 1.png" group-title="",DAZN SERIE A 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158714&extension=ts
+#EXTINF:-1 tvg-chno="215" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 1.png" group-title="",DAZN EVENTI 1
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649422
 
-#EXTINF:-1 tvg-chno="216" tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 2.png" group-title="",DAZN SERIE A 2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158715&extension=ts
+#EXTINF:-1 tvg-chno="216" tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 2.png" group-title="",DAZN EVENTI 2
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649421
 
-#EXTINF:-1 tvg-chno="217" tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 3.png" group-title="",DAZN SERIE A 3
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158716&extension=ts
+#EXTINF:-1 tvg-chno="217" tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 3.png" group-title="",DAZN EVENTI 3
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649420
 
-#EXTINF:-1 tvg-chno="218" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 4.png" group-title="",DAZN SERIE A 4
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158717&extension=ts
+#EXTINF:-1 tvg-chno="218" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 4.png" group-title="",DAZN EVENTI 4
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649419
 
-#EXTINF:-1 tvg-chno="219" tvg-id="DAZN 5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 5.png" group-title="",DAZN SERIE A 5
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158718&extension=ts
+#EXTINF:-1 tvg-chno="219" tvg-id="DAZN 5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 5.png" group-title="",DAZN EVENTI 5
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649418
 
-#EXTINF:-1 tvg-chno="220" tvg-id="DAZN 6" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 6.png" group-title="",DAZN SERIE A 6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158719&extension=ts
+#EXTINF:-1 tvg-chno="220" tvg-id="DAZN 6" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 6.png" group-title="",DAZN EVENTI 6
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649417
 
-#EXTINF:-1 tvg-chno="221" tvg-id="DAZN 7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 7.png" group-title="",DAZN SERIE A 7
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158720&extension=ts
+#EXTINF:-1 tvg-chno="221" tvg-id="DAZN 7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 7.png" group-title="",DAZN EVENTI 7
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649416
 
-#EXTINF:-1 tvg-chno="222" tvg-id="DAZN 8" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 8.png" group-title="",DAZN SERIE A 8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158721&extension=ts
+#EXTINF:-1 tvg-chno="222" tvg-id="DAZN 8" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 8.png" group-title="",DAZN EVENTI 8
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649415
 
-#EXTINF:-1 tvg-chno="223" tvg-id="DAZN 9" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 9.png" group-title="",DAZN SERIE A 9
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158722&extension=ts
+#EXTINF:-1 tvg-chno="223" tvg-id="DAZN 9" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 9.png" group-title="",DAZN EVENTI 9
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649414
 
-#EXTINF:-1 tvg-chno="224" tvg-id="DAZN 10" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 10.png" group-title="",DAZN SERIE A 10
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158723&extension=ts
+#EXTINF:-1 tvg-chno="224" tvg-id="DAZN 10" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 10.png" group-title="",DAZN EVENTI 10
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649413
 
-#EXTINF:-1 tvg-chno="225" tvg-id="DAZN 11" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 11.png" group-title="",DAZN SERIE A 11
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158724&extension=ts
+#EXTINF:-1 tvg-chno="225" tvg-id="DAZN 11" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 11.png" group-title="",DAZN EVENTI 11
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649412
 
-#EXTINF:-1 tvg-chno="226" tvg-id="DAZN 12" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 12.png" group-title="",DAZN SERIE A 12
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158725&extension=ts
+#EXTINF:-1 tvg-chno="226" tvg-id="DAZN 12" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 12.png" group-title="",DAZN EVENTI 12
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649411
 
-#EXTINF:-1 tvg-chno="227" tvg-id="DAZN 13" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 13.png" group-title="",DAZN SERIE A 13
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158726&extension=ts
+#EXTINF:-1 tvg-chno="227" tvg-id="DAZN 13" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 13.png" group-title="",DAZN EVENTI 13
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649410
 
-#EXTINF:-1 tvg-chno="228" tvg-id="DAZN 14" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 14.png" group-title="",DAZN SERIE A 14
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158727&extension=ts
+#EXTINF:-1 tvg-chno="228" tvg-id="DAZN 14" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 14.png" group-title="",DAZN EVENTI 14
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649409
 
-#EXTINF:-1 tvg-chno="229" tvg-id="DAZN 15" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 15.png" group-title="",DAZN SERIE A 15
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158728&extension=ts
+#EXTINF:-1 tvg-chno="229" tvg-id="DAZN 15" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 15.png" group-title="",DAZN EVENTI 15
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649408
 
-#EXTINF:-1 tvg-chno="230" tvg-id="DAZN 16" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 16.png" group-title="",DAZN SERIE A 16
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158729&extension=ts
+#EXTINF:-1 tvg-chno="230" tvg-id="DAZN 16" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 16.png" group-title="",DAZN EVENTI 16
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649407
 
-#EXTINF:-1 tvg-chno="231" tvg-id="DAZN 17" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 17.png" group-title="A",DAZN SERIE A 17
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158730&extension=ts
+#EXTINF:-1 tvg-chno="231" tvg-id="DAZN 17" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 17.png" group-title="A",DAZN EVENTI 17
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649406
 
-#EXTINF:-1 tvg-chno="232" tvg-id="DAZN 18" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 18.png" group-title="",DAZN SERIE A 18
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158731&extension=ts
+#EXTINF:-1 tvg-chno="232" tvg-id="DAZN 18" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 18.png" group-title="",DAZN EVENTI 18
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649405
 
-#EXTINF:-1 tvg-chno="232" tvg-id="DAZN 19" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 19.png" group-title="",DAZN SERIE A 19
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158732&extension=ts
+#EXTINF:-1 tvg-chno="232" tvg-id="DAZN 19" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 19.png" group-title="",DAZN EVENTI 19
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649404
 
-#EXTINF:-1 tvg-chno="233" tvg-id="DAZN 20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 20.png" group-title="",DAZN SERIE A 20
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158733&extension=ts
+#EXTINF:-1 tvg-chno="233" tvg-id="DAZN 20" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 20.png" group-title="",DAZN EVENTI 20
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649403
 
-#EXTINF:-1 tvg-chno="234" tvg-id="Milan TV" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="",MILAN TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177755&extension=ts
+#EXTINF:-1 tvg-chno="234" tvg-id="DAZN 21" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2021.png" group-title="",DAZN 21
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649402
 
-#EXTINF:-1 tvg-chno="235" tvg-id="Inter TV" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="",INTER TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167355&extension=ts
+#EXTINF:-1 tvg-chno="235" tvg-id="DAZN 22" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2022.png" group-title="",DAZN 22
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649401
 
-#EXTINF:-1 tvg-chno="236" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - CACCIA e Pesca.png" group-title="",CACCIA TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177676&extension=ts
+#EXTINF:-1 tvg-chno="236" tvg-id="DAZN 23" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2023.png" group-title="",DAZN 23
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649400
 
-#EXTINF:-1 tvg-chno="237" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/pesca.png" group-title="",PESCA TV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177674&extension=ts
+#EXTINF:-1 tvg-chno="237" tvg-id="DAZN 24" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2024.png" group-title="",DAZN 24
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649399
 
-#EXTINF:-1 tvg-chno="250" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png" group-title="",DAZN DIRETTA GOL SERIE A
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883850&extension=ts
+#EXTINF:-1 tvg-chno="238" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2025.png" group-title="",DAZN 25
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/649398
+
+#EXTINF:-1 tvg-chno="239" tvg-id="Milan TV" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="",MILAN TV
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/390025
+
+#EXTINF:-1 tvg-chno="240" tvg-id="Inter TV" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="",INTER TV
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/8736
+
+#EXTINF:-1 tvg-chno="241" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - CACCIA e Pesca.png" group-title="",CACCIA TV
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553844
+
+#EXTINF:-1 tvg-chno="242" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/pesca.png" group-title="",PESCA TV
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553842
+
+#EXTINF:-1 tvg-chno="243" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 1
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/279936
+
+#EXTINF:-1 tvg-chno="244" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 2
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/608405
 
 #EXTINF:-1 tvg-chno="251" tvg-id="Sky Sport 251" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 251.png" group-title="",SKY CALCIO 251
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177769&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/94280
 
 #EXTINF:-1 tvg-chno="252" tvg-id="Sky Sport 252" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 252.png" group-title="",SKY CALCIO 252
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177770&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548168
 
 #EXTINF:-1 tvg-chno="253" tvg-id="Sky Sport 253" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 253.png" group-title="",SKY CALCIO 253
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177771&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548164
 
 #EXTINF:-1 tvg-chno="254" tvg-id="Sky Sport 254" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 254.png" group-title="",SKY CALCIO 254
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177772&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548160
 
 #EXTINF:-1 tvg-chno="255" tvg-id="Sky Sport 255" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 255.png" group-title="",SKY CALCIO 255
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177773&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548156
 
 #EXTINF:-1 tvg-chno="256" tvg-id="Sky Sport 256" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 256.png" group-title="",SKY CALCIO 256
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177774&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548152
 
 #EXTINF:-1 tvg-chno="257" tvg-id="Sky Sport 257" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 257.png" group-title="",SKY CALCIO 257
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=704711&extension=ts
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548148
 
-#EXTINF:-1 tvg-chno="260" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE B
+#EXTINF:-1 tvg-chno="258" tvg-id="Sky Sport 257" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 257.png" group-title="",SKY CALCIO 258
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548148
+
+#EXTINF:-1 tvg-chno="259" tvg-id="Sky Sport 257" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 257.png" group-title="",SKY CALCIO 259
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548140
+
+#EXTINF:-1 tvg-chno="260" tvg-id="Sky Sport 257" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 257.png" group-title="",SKY CALCIO 260
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548136
+
+#EXTINF:-1 tvg-chno="261" tvg-id="Sky Sport 257" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 257.png" group-title="",SKY CALCIO 261
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548132
+
+#EXTINF:-1 tvg-chno="262" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE B
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883847&extension=ts
 
-#EXTINF:-1 tvg-chno="261" tvg-id="DAZN 21" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2021.png" group-title="",DAZN 21
+#EXTINF:-1 tvg-chno="262" tvg-id="DAZN 21" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2021.png" group-title="",DAZN 21
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158802&extension=ts
 
 #EXTINF:-1 tvg-chno="262" tvg-id="DAZN 22" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2022.png" group-title="",DAZN 22
@@ -549,37 +582,37 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158821&
 # SKY CINEMA
 
 #EXTINF:-1 tvg-chno="301" tvg-id="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Uno.png" group-title="",SKY CINEMA UNO
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177634&extension=ts&play_token=u1Z9k3YWbJ
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344356
 
 #EXTINF:-1 tvg-chno="302" tvg-id="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Due.png" group-title="",SKY CINEMA STORIES
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177637&extension=ts&play_token=eDAJbBTvdl
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344346
 
 #EXTINF:-1 tvg-chno="303" tvg-id="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Collection.png" group-title="",SKY CINEMA COLLECTION
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177646&extension=ts&play_token=QKodD9lkpq
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344333
 
 #EXTINF:-1 tvg-chno="304" tvg-id="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Family.png" group-title="",SKY CINEMA FAMILY
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177644&extension=ts&play_token=YlG9oVQDQn
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344318
 
 #EXTINF:-1 tvg-chno="305" tvg-id="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Action.png" group-title="",SKY CINEMA ACTION
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177641&extension=ts&play_token=xKawCJ4wlY
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344338
 
 #EXTINF:-1 tvg-chno="306" tvg-id="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Suspense.png" group-title="",SKY CINEMA SUSPENSE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177659&extension=ts&play_token=ulJgIrFgAY
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344308
 
 #EXTINF:-1 tvg-chno="307" tvg-id="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Romance.png" group-title="",SKY CINEMA ROMANCE
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177651&extension=ts&play_token=cWmUMWO2US
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344313
 
 #EXTINF:-1 tvg-chno="308" tvg-id="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Drama.png" group-title="",SKY CINEMA DRAMA
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177653&extension=ts&play_token=XnwIPPTq4C
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344323
 
 #EXTINF:-1 tvg-chno="309" tvg-id="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Comedy.png" group-title="",SKY CINEMA COMEDY
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177643&extension=ts&play_token=fACdibUti2
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344328
 
 #EXTINF:-1 tvg-chno="310" tvg-id="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Uno +24.png" group-title="",SKY CINEMA UNO+24
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177635&extension=ts&play_token=73daj2ygUP
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344350
 
 #EXTINF:-1 tvg-chno="311" tvg-id="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Cinema Due +24.png" group-title="",SKY CINEMA STORIES+24
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177639&extension=ts&play_token=HRpKeT46me
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/344342
 
 # RADIO 700
 
