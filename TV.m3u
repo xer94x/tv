@@ -227,7 +227,7 @@ https://rtv.xer94x.workers.dev/sport
 #EXTINF:-1 tvg-chno="108" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Uno.png" group-title="",SKY UNO
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/23408
 
-#EXTINF:-1 tvg-chno="109" tvg-id="Sky Uno" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Sky%20Uno%20%2B.png" group-title="",SKY UNO PLUS
+#EXTINF:-1 tvg-chno="109" tvg-id="Sky Uno +" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Sky%20Uno%20%2B.png" group-title="",SKY UNO PLUS
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/677475
 
 #EXTINF:-1 tvg-chno="111" tvg-id="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Atlantic.png" group-title="",SKY ATLANTIC
