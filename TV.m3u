@@ -405,13 +405,13 @@ http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/542056
 #EXTINF:-1 tvg-chno="217" tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 3.png" group-title="",DAZN SERIE A 3
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/542053
 
-#EXTINF:-1 tvg-chno="217" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 4.png" group-title="",DAZN SERIE A 4
+#EXTINF:-1 tvg-chno="218" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 4.png" group-title="",DAZN SERIE A 4
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/608308
 
-#EXTINF:-1 tvg-chno="218" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 1
+#EXTINF:-1 tvg-chno="219" tvg-id="DAZN 5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 1
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/279936
 
-#EXTINF:-1 tvg-chno="219" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 2
+#EXTINF:-1 tvg-chno="220" tvg-id="DAZN 6" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SPORTSBAR 2
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/608405
 
 #EXTINF:-1 tvg-chno="221" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%201.png" group-title="",DAZN WEB 1
@@ -489,13 +489,13 @@ http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/630571
 #EXTINF:-1 tvg-chno="245" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2025.png" group-title="",DAZN WEB 25
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/630573
 
-#EXTINF:-1 tvg-chno="248" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE A
+#EXTINF:-1 tvg-chno="248" tvg-id="DAZN 26" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE A
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/542050
 
-#EXTINF:-1 tvg-chno="249" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE B
+#EXTINF:-1 tvg-chno="249" tvg-id="DAZN 27" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE B
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/542047
 
-#EXTINF:-1 tvg-chno="250" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL EUROPA LEAGUE
+#EXTINF:-1 tvg-chno="250" tvg-id="DAZN 28" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL EUROPA LEAGUE
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/542044
 
 #EXTINF:-1 tvg-chno="251" tvg-id="Sky Sport 251" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 251.png" group-title="",SKY CALCIO 251
