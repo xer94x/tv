@@ -489,6 +489,12 @@ http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/630571
 #EXTINF:-1 tvg-chno="245" tvg-id="DAZN 25" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2025.png" group-title="",DAZN WEB 25
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/630573
 
+#EXTINF:-1 tvg-chno="246" tvg-id="Milan TV" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="",MILAN TV
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/390025
+
+#EXTINF:-1 tvg-chno="247" tvg-id="Inter TV" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="",INTER TV
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/8736
+
 #EXTINF:-1 tvg-chno="248" tvg-id="DAZN 26" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png" group-title="",DAZN DIRETTA GOL SERIE A
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/542050
 
@@ -528,16 +534,43 @@ http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548140
 #EXTINF:-1 tvg-chno="260" tvg-id="Sky Sport 260" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Sky Sport 260.png" group-title="",SKY CALCIO 260
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/548136
 
-#EXTINF:-1 tvg-chno="261" tvg-id="Milan TV" tvg-name="MILAN TV" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Milan_TV.png" group-title="",MILAN TV
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/390025
+#EXTINF:-1 tvg-chno="261" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%201.png" group-title="",DAZN SERIE B 1
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543883
 
-#EXTINF:-1 tvg-chno="262" tvg-id="Inter TV" tvg-chno="232" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/160px-Inter_TV.png" group-title="",INTER TV
-http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/8736
+#EXTINF:-1 tvg-chno="262" tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%202.png" group-title="",DAZN SERIE B 2
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543882
 
-#EXTINF:-1 tvg-chno="263" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - CACCIA e Pesca.png" group-title="",CACCIA TV
+#EXTINF:-1 tvg-chno="263" tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%203.png" group-title="",DAZN SERIE B 3
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543881
+
+#EXTINF:-1 tvg-chno="264" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%204.png" group-title="",DAZN SERIE B 4
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543880
+
+#EXTINF:-1 tvg-chno="265" tvg-id="DAZN 5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%205.png" group-title="",DAZN SERIE B 5
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543879
+
+#EXTINF:-1 tvg-chno="266" tvg-id="DAZN 6" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%206.png" group-title="",DAZN SERIE B 6
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543878
+
+#EXTINF:-1 tvg-chno="267" tvg-id="DAZN 7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%207.png" group-title="",DAZN SERIE B 7
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543877
+
+#EXTINF:-1 tvg-chno="268" tvg-id="DAZN 8" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%208.png" group-title="",DAZN SERIE B 8
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543876
+
+#EXTINF:-1 tvg-chno="269" tvg-id="DAZN 9" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%209.png" group-title="",DAZN SERIE B 9
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543875
+
+#EXTINF:-1 tvg-chno="270" tvg-id="DAZN 10" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2010.png" group-title="",DAZN SERIE B 10
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543874
+
+#EXTINF:-1 tvg-chno="271" tvg-id="DAZN 11" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%2011.png" group-title="",DAZN SERIE B 11
+http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/543873
+
+#EXTINF:-1 tvg-chno="272" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - CACCIA e Pesca.png" group-title="",CACCIA TV
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553844
 
-#EXTINF:-1 tvg-chno="264" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/pesca.png" group-title="",PESCA TV
+#EXTINF:-1 tvg-chno="273" tvg-id="Pesca" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/pesca.png" group-title="",PESCA TV
 http://galaxyhouse.prvtsone.com:80/zDupT3PO4G/F1eY9Ipsni/553842
 
 # SKY CINEMA
