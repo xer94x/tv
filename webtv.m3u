@@ -174,7 +174,7 @@ https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
 #EXTINF:-1 tvg-id="telebielingue.ch",Tele Bielingue HD
 https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
-#EXTINF:-1 tvg-id="tv24.ch",tv24 HD
+#EXTINF:-1 tvg-id="tv24.ch" tvg-logo="https://picserve.netplus.ch/channels/tv24.png" tvg-country="CH" tvg-language="german" group-title="CH generalist",3+ ADRENALIN HD CH.de
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
 #EXTINF:-1 tvg-id="bluezoomde.ch" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png",blue zoom D HD
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
@@ -731,3 +731,5 @@ https://viamotionhsi.netplus.ch/live/eds/cctvnews/browser-HLS8/cctvnews.m3u8
 https://viamotionhsi.netplus.ch/live/eds/ert3/browser-HLS8/ert3.m3u8
 #EXTINF:-1 tvg-id="canalsur.es" tvg-logo="https://picserve.netplus.ch/channels/andaluciatelevision.png" tvg-country="ES" tvg-language="Spanish" group-title="ES generalist",Canal Sur Andalucia TV
 https://viamotionhsi.netplus.ch/live/eds/andaluciatelevision/browser-HLS8/andaluciatelevision.m3u8
+#EXTINF:-1 tvg-id="qs24tv.ch" tvg-logo="https://www.qs24.tv/images/Logo-Gesundheitskompas-weiss-9000.png" tvg-country="CH" tvg-language="german" group-title="CH health",QS24.TV HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/126101/126101_264_live.m3u8
