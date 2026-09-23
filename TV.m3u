@@ -222,10 +222,10 @@ https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="Mediaset Italia - Europa e Africa" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - Europa e Africa
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="73" tvg-id="GF VIP Regia 1" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="A",GF Regia 1
+#EXTINF:-1 tvg-chno="73" tvg-id="GF VIP Regia 1" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Regia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="74" tvg-id="GF VIP Regia 2" tvg-name="GF Regia 2" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="A",GF Regia 2
+#EXTINF:-1 tvg-chno="74" tvg-id="GF VIP Regia 2" tvg-name="GF Regia 2" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Regia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-chno="75" tvg-id="GF VIP Un'ora Fa" tvg-name="GF Un'ora fa" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Un'ora fa
