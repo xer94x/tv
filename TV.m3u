@@ -192,58 +192,61 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="Rai Radio 2 Visual" tvg-name="Rai Radio 2" tvg-logo="https://i.ibb.co/0y0rcT5H/602-rai-radio-2-it.png",Rai Radio 2
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="63" tvg-id="Radio Monte Carlo TV" tvg-name="Radio Montecarlo TV" tvg-logo="https://i.ibb.co/x8sqhS7g/716-radio-monte-carlo-it.png",Radio Montecarlo TV
+#EXTINF:-1 tvg-id="Rai 1" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-chno="63",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-id="Radio Monte Carlo TV" tvg-name="Radio Montecarlo TV" tvg-logo="https://i.ibb.co/x8sqhS7g/716-radio-monte-carlo-it.png",Radio Montecarlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="64" tvg-id="Virgin Radio TV" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png",Virgin Radio TV
+#EXTINF:-1 tvg-chno="65" tvg-id="Virgin Radio TV" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png",Virgin Radio TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-id="Rai Italia Asia e Australia" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Asia e Australia
+#EXTINF:-1 tvg-chno="66" tvg-id="Rai Italia Asia e Australia" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Asia e Australia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-id="Rai Italia Europa e Africa" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Europa e Africa
+#EXTINF:-1 tvg-chno="67" tvg-id="Rai Italia Europa e Africa" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Europa e Africa
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-id="Rai Italia Nord America" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Nord America
+#EXTINF:-1 tvg-chno="68" tvg-id="Rai Italia Nord America" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Nord America
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-id="Rai Italia Sud America" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Sud America
+#EXTINF:-1 tvg-chno="69" tvg-id="Rai Italia Sud America" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Sud America
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Rai World Premium" tvg-logo="https://i.imgur.com/q1EHOhz.png",Rai World Premium
+#EXTINF:-1 tvg-chno="70" tvg-id="Rai World Premium" tvg-logo="https://i.imgur.com/q1EHOhz.png",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Mediaset Italia - America" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - America
+#EXTINF:-1 tvg-chno="71" tvg-id="Mediaset Italia - America" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - America
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-id="Mediaset Italia - Australia e Asia" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - Australia e Asia
+#EXTINF:-1 tvg-chno="72" tvg-id="Mediaset Italia - Australia e Asia" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - Australia e Asia
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-id="Mediaset Italia - Europa e Africa" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - Europa e Africa
+#EXTINF:-1 tvg-chno="73" tvg-id="Mediaset Italia - Europa e Africa" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - Europa e Africa
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="73" tvg-id="GF VIP Regia 1" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Regia 1
+#EXTINF:-1 tvg-chno="74" tvg-id="GF VIP Regia 1" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Regia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="74" tvg-id="GF VIP Regia 2" tvg-name="GF Regia 2" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Regia 2
+#EXTINF:-1 tvg-chno="75" tvg-id="GF VIP Regia 2" tvg-name="GF Regia 2" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Regia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="75" tvg-id="GF VIP Un'ora Fa" tvg-name="GF Un'ora fa" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Un'ora fa
+#EXTINF:-1 tvg-chno="76" tvg-id="GF VIP Un'ora Fa" tvg-name="GF Un'ora fa" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png",GF Un'ora fa
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="76" tvg-id="Senato TV" tvg-name="Senato TV" tvg-logo="https://i.ibb.co/Fq3ywXcB/512-senato-tv-it.png",Senato TV
+#EXTINF:-1 tvg-chno="77" tvg-id="Senato TV" tvg-name="Senato TV" tvg-logo="https://i.ibb.co/Fq3ywXcB/512-senato-tv-it.png",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="77" tvg-id="Camera dei deputati" tvg-name="Camera dei Deputati" tvg-logo="https://i.ibb.co/qM2gdxwS/511-camera-dei-deputati-it.png",Camera dei Deputati
+#EXTINF:-1 tvg-chno="78" tvg-id="Camera dei deputati" tvg-name="Camera dei Deputati" tvg-logo="https://i.ibb.co/qM2gdxwS/511-camera-dei-deputati-it.png",Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="78" tvg-id="UniNettuno University TV" tvg-name="UniNettuno Univ. TV" tvg-logo="https://i.imgur.com/BOGMeio.png",UniNettuno Univ. TV
+#EXTINF:-1 tvg-chno="79" tvg-id="UniNettuno University TV" tvg-name="UniNettuno Univ. TV" tvg-logo="https://i.imgur.com/BOGMeio.png",UniNettuno Univ. TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="79" tvg-id="San Marino RTV" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj",San Marino RTV
+#EXTINF:-1 tvg-chno="80" tvg-id="San Marino RTV" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj",San Marino RTV
 https://rtv.xer94x.workers.dev
 
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj",San Marino RTV SPORT
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://yt3.googleusercontent.com/krgBlwLspE9dXZ4kH77o_gf-RL5oTu7eJytPj8YIgQehGjKY5Ut-EXUhUvv20V4zXbx5l6bA=s900-c-k-c0x00ffffff-no-rj",San Marino RTV SPORT
 https://rtv.xer94x.workers.dev/sport
 
 # SKY
