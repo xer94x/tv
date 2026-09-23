@@ -204,7 +204,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="Rai Italia Europa e Africa" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="A",Rai Italia Europa e Africa
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-id="Rai Italia Nord America" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title=A"",Rai Italia Nord America
+#EXTINF:-1 tvg-chno="67" tvg-id="Rai Italia Nord America" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="A",Rai Italia Nord America
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-id="Rai Italia Sud America" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="A",Rai Italia Sud America
