@@ -198,28 +198,28 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="Virgin Radio TV" tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="",Virgin Radio TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-chno="65" tvg-id="Rai Italia Asia e Australia" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Asia e Australia
+#EXTINF:-1 tvg-chno="65" tvg-id="Rai Italia Asia e Australia" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="",Rai Italia Asia e Australia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-id="Rai Italia Europa e Africa" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Europa e Africa
+#EXTINF:-1 tvg-chno="66" tvg-id="Rai Italia Europa e Africa" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="",Rai Italia Europa e Africa
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="67" tvg-id="Rai Italia Nord America" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Nord America
+#EXTINF:-1 tvg-chno="67" tvg-id="Rai Italia Nord America" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="",Rai Italia Nord America
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
 
-#EXTINF:-1 tvg-chno="68" tvg-id="Rai Italia Sud America" tvg-logo="https://i.imgur.com/riXPOTh.png",Rai Italia Sud America
+#EXTINF:-1 tvg-chno="68" tvg-id="Rai Italia Sud America" tvg-logo="https://i.imgur.com/riXPOTh.png" group-title="",Rai Italia Sud America
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Rai World Premium" tvg-logo="https://i.imgur.com/q1EHOhz.png",Rai World Premium
+#EXTINF:-1 tvg-chno="69" tvg-id="Rai World Premium" tvg-logo="https://i.imgur.com/q1EHOhz.png" group-title="",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Mediaset Italia - America" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - America
+#EXTINF:-1 tvg-chno="70" tvg-id="Mediaset Italia - America" tvg-logo="https://i.imgur.com/oh8ihqr.png" group-title="",Mediaset Italia - America
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 
-#EXTINF:-1 tvg-chno="71" tvg-id="Mediaset Italia - Australia e Asia" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - Australia e Asia
+#EXTINF:-1 tvg-chno="71" tvg-id="Mediaset Italia - Australia e Asia" tvg-logo="https://i.imgur.com/oh8ihqr.png" group-title="",Mediaset Italia - Australia e Asia
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 
-#EXTINF:-1 tvg-chno="72" tvg-id="Mediaset Italia - Europa e Africa" tvg-logo="https://i.imgur.com/oh8ihqr.png",Mediaset Italia - Europa e Africa
+#EXTINF:-1 tvg-chno="72" tvg-id="Mediaset Italia - Europa e Africa" tvg-logo="https://i.imgur.com/oh8ihqr.png" group-title="",Mediaset Italia - Europa e Africa
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 
 #EXTINF:-1 tvg-chno="73" tvg-id="GF VIP Regia 1" tvg-name="GF Regia 1" tvg-logo="https://i.ibb.co/4w42J5K5/Grande-Fratello-logo-1.png" group-title="",GF Regia 1
