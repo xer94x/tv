@@ -209,6 +209,8 @@ https://www.youtube.com/watch?v=fc6PQ7KpII0
 https://www.youtube.com/watch?v=zCzkhuW0SQ8
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/zT2M2RExsHk/hqdefault.jpg" group-title="Marvel",Avengers: Doomsday | Popcorn Bucket
 https://www.youtube.com/watch?v=zT2M2RExsHk
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/RvYsV_vARm4/hqdefault.jpg" group-title="Marvel Italia",Visione deve ancora scoprire chi vuole essere.
+https://www.youtube.com/shorts/RvYsV_vARm4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/qNRU3Sgt2uk/hqdefault.jpg" group-title="Marvel Italia",Quell'amico che proprio non sopporti quando fa il precisino.
 https://www.youtube.com/shorts/qNRU3Sgt2uk
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/iyhg7Xnzpbk/hqdefault.jpg" group-title="Marvel Italia",E.D.I.T.H. ha delle ottime argomentazioni.
@@ -237,8 +239,6 @@ https://www.youtube.com/shorts/KfIIO5cwB64
 https://www.youtube.com/shorts/JBWPEhUhp8Q
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1QLnO7eHv5A/hqdefault.jpg" group-title="Marvel Italia",Ha conquistato tutti. #VisionQuest, una serie Marvel Television, ti aspetta su #DisneyPlus.
 https://www.youtube.com/shorts/1QLnO7eHv5A
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/_koxnUfPqHc/hqdefault.jpg" group-title="Marvel Italia",Il tuo mese = il tuo costume di Halloween.
-https://www.youtube.com/shorts/_koxnUfPqHc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ylYSnvZEH0Y/hqdefault.jpg" group-title="Netflix",Salish's 12 Games of Christmas | Official Trailer | Netflix
 https://www.youtube.com/watch?v=ylYSnvZEH0Y
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/2K_UAaKQN0I/hqdefault.jpg" group-title="Netflix",Ethos: Season 2 | Official Teaser | Netflix
@@ -359,13 +359,17 @@ https://www.youtube.com/shorts/dWVRmxJs0kE
 https://www.youtube.com/shorts/ChRWtIklQVU
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/l0SVOPzz84c/hqdefault.jpg" group-title="Paramount Pictures",Who is your favorite Ghostface?
 https://www.youtube.com/shorts/l0SVOPzz84c
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CQo5429ntRg/hqdefault.jpg" group-title="Paramount Plus",Among Us | Funniest Moments | Paramount+
+https://www.youtube.com/watch?v=CQo5429ntRg
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5KbOrGx2DgQ/hqdefault.jpg" group-title="Paramount Plus",Can you keep up with JLo? 👀
+https://www.youtube.com/shorts/5KbOrGx2DgQ
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/AFdahlJR5TA/hqdefault.jpg" group-title="Paramount Plus",Casually reading each other’s love life to filth. #ItGetsWorse
 https://www.youtube.com/shorts/AFdahlJR5TA
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/ShpxxNv7dgU/hqdefault.jpg" group-title="Paramount Plus",The Good Wife | Season 1's Most Intense Moments | Paramount+
 https://www.youtube.com/watch?v=ShpxxNv7dgU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wDiqz4HVJ3E/hqdefault.jpg" group-title="Paramount Plus",An absolutely electric guest star cast list for #ItGetsWorse
 https://www.youtube.com/shorts/wDiqz4HVJ3E
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tg5X3KVzEfU/hqdefault.jpg" group-title="Paramount Plus",Landman | Rebecca Calls Out Sexist Lawyers (S1, E4) | Paramount+
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/tg5X3KVzEfU/hqdefault.jpg" group-title="Paramount Plus",Landman | Rebecca Puts Room Full of Male Lawyers in Their Place (S1, E4) | Paramount+
 https://www.youtube.com/watch?v=tg5X3KVzEfU
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nMRmVTB1iCk/hqdefault.jpg" group-title="Paramount Plus",Does this count as scream therapy? #Yellowjackets
 https://www.youtube.com/shorts/nMRmVTB1iCk
@@ -385,10 +389,10 @@ https://www.youtube.com/shorts/tSi8wph1T6A
 https://www.youtube.com/shorts/cgAlytb5ZcU
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/7L8LvHygckw/hqdefault.jpg" group-title="Paramount Plus",21 Jump Street | “Infiltrate the Dealers, Find the Supplier” | Paramount+
 https://www.youtube.com/watch?v=7L8LvHygckw
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/dm2Ir9TN3KY/hqdefault.jpg" group-title="Paramount Plus",Alicia “I will not shut up” Florrick #TheGoodWife
-https://www.youtube.com/shorts/dm2Ir9TN3KY
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/qfcjUjrh_nM/hqdefault.jpg" group-title="Paramount Plus",There's drama and then there's ✨ drama ✨
-https://www.youtube.com/shorts/qfcjUjrh_nM
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/o_q4l0s0I3M/hqdefault.jpg" group-title="Prime Video","I give you money, you give me ideas!" – Don Draper vs Peggy Olson 🔥 | Mad Men
+https://www.youtube.com/shorts/o_q4l0s0I3M
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/7vCt88ZtSO8/hqdefault.jpg" group-title="Prime Video",If he hasn’t been obsessed since childhood then I don’t want him
+https://www.youtube.com/shorts/7vCt88ZtSO8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/iV5eNJkYdH4/hqdefault.jpg" group-title="Prime Video",Clear your schedule … tomorrow. #MaxtonHall premieres December 9 only on Prime Video.
 https://www.youtube.com/shorts/iV5eNJkYdH4
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jUeBdVH2cTo/hqdefault.jpg" group-title="Prime Video",It's giving 10am on a Sunday morning #Fleabag
@@ -415,10 +419,6 @@ https://www.youtube.com/shorts/_yElPtDSl04
 https://www.youtube.com/shorts/PIt1IERrGjY
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1QsGWaUCbv0/hqdefault.jpg" group-title="Prime Video",Me making it to Friday in one piece #Scarface #PrimeVideo
 https://www.youtube.com/shorts/1QsGWaUCbv0
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/bzI7IsHUAuo/hqdefault.jpg" group-title="Prime Video",With these two, there's zero chance of small talk 😅
-https://www.youtube.com/shorts/bzI7IsHUAuo
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/LNSP0nM0tj4/hqdefault.jpg" group-title="Prime Video",Not responsible for how many times you replay this. 🎥: #After
-https://www.youtube.com/shorts/LNSP0nM0tj4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/I9K4hAH8_1s/hqdefault.jpg" group-title="Prime Video Italia",Main character energy, servita.
 https://www.youtube.com/shorts/I9K4hAH8_1s
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1wuxZqlPeEQ/hqdefault.jpg" group-title="Prime Video Italia",La scelta dei traditori | The Traitors S2
@@ -569,6 +569,10 @@ https://www.youtube.com/watch?v=Royri8TTBXQ
 https://www.youtube.com/shorts/THyDT1XHjAM
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/BqlS3tVi_To/hqdefault.jpg" group-title="Universal Pictures Italia",Ragione e Sentimento | Al cinema
 https://www.youtube.com/watch?v=BqlS3tVi_To
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/kWdQdCY2AYo/hqdefault.jpg" group-title="Warner Bros",Who let the Cat out? #TheCatInTheHat - now playing only in theaters
+https://www.youtube.com/shorts/kWdQdCY2AYo
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NmACG1QA39g/hqdefault.jpg" group-title="Warner Bros",Come on in, there’s room for everyone and every Thing! #TheCatInTheHat
+https://www.youtube.com/shorts/NmACG1QA39g
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/IwAy6725mYo/hqdefault.jpg" group-title="Warner Bros",Chaotic? Yes. But messy? Also yes. #TheCatInTheHat - now playing only in theaters
 https://www.youtube.com/shorts/IwAy6725mYo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/y89TTLHtd04/hqdefault.jpg" group-title="Warner Bros",Can’t a few friends carpool without it being a whole Thing? #TheCatInTheHat
@@ -595,10 +599,8 @@ https://www.youtube.com/shorts/H1BmvDA9drA
 https://www.youtube.com/shorts/FL_q9vliC98
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/ktI_6BaMv5U/hqdefault.jpg" group-title="Warner Bros",So here’s the thing: we lost our Thing. 😲 #TheCatInTheHat - Only in theaters this Friday
 https://www.youtube.com/shorts/ktI_6BaMv5U
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Maulx2Ah2H8/hqdefault.jpg" group-title="Warner Bros",Not to be dramatic, but this could change EVERYTHING. ‼️#TheCatInTheHat
-https://www.youtube.com/shorts/Maulx2Ah2H8
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/n_oKB51Etu8/hqdefault.jpg" group-title="Warner Bros",This fun is for everyone. 🎉 #TheCatInTheHat - Only in theaters this Friday
-https://www.youtube.com/shorts/n_oKB51Etu8
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/SKMIt12R06Q/hqdefault.jpg" group-title="Warrner Bros Italia",Il mood cambia, ma il caos resta! #IlGattoColCappelloIlFilm è al cinema!
+https://www.youtube.com/shorts/SKMIt12R06Q
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/UxM7VovXmWQ/hqdefault.jpg" group-title="Warrner Bros Italia",Il Gatto più pasticcione di tutti! #IlGattoColCappelloIlFilm, al cinema.
 https://www.youtube.com/shorts/UxM7VovXmWQ
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/OdcZoLFeNfg/hqdefault.jpg" group-title="Warrner Bros Italia",Uno ha il cappello, l'altro ha le pinne! #IlGattoColCappelloIlFilm è AL CINEMA.
@@ -627,5 +629,3 @@ https://www.youtube.com/watch?v=w0oA6SAvCUM
 https://www.youtube.com/watch?v=QEiab9LH5WE
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/Wii_BpU1B4E/hqdefault.jpg" group-title="Warrner Bros Italia",Il Gatto sta per arrivare! | Il Gatto Col Cappello dal 5 novembre al cinema
 https://www.youtube.com/watch?v=Wii_BpU1B4E
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/C8G0NZQos5o/hqdefault.jpg" group-title="Warrner Bros Italia",Il Gatto Col Cappello sta arrivando! | Il Gatto Col Cappello dal 5 novembre al cinema
-https://www.youtube.com/watch?v=C8G0NZQos5o
