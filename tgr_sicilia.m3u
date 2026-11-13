@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",Ultima Puntata
 https://tgrsicilia.xer94x.workers.dev/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",13 novembre 2026 - ore 14:00
+https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30833645.mp4/playlist.m3u8?auth=daEb_afcycia9a.ddbFdkbNbDdSahbxcubG-bQ9YwU-c0-DjwwvGv&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",12 novembre 2026 - ore 19:30
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30828226.mp4/playlist.m3u8?auth=daEdWc6b2b1aSb0crdfbacad1cRasdychaI-bQ9Jw0-c0-IlzvvFq&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",12 novembre 2026 - ore 14:00
@@ -99,5 +101,3 @@ https://vod8-rai-it.akamaized.net/podcastcdn/NewsVod/rubriche_tgr/Buongiorno_Ita
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30651784.mp4/playlist.m3u8?auth=daEcEacbkbecWbGb_aObZd9cUd0bPc5dbcT-bQ2GnP-c0-AjtvrFr&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",22 ottobre 2026 - ore 19:30
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30645782.mp4/playlist.m3u8?auth=daEaec5cidqaxcyaxbHbUdVbIducaaadWdM-bQ2u8u-c0-ElywzHt&aifp=V001
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",21 ottobre 2026
-https://vod8-rai-it.akamaized.net/podcastcdn/NewsVod/rubriche_tgr/Buongiorno_Italia/30638060_,1800,2400/playlist.m3u8?auth=daEaQbTaLc7c8b3cgdpcndhdJaecqdrcxbw-bQ2pH2-c0-CkwuyGw&aifp=V001
