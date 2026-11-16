@@ -647,54 +647,54 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569227&e
 #EXTINF:-1 tvg-chno="313" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/icone_epg/IT%20-%20Primafila%201.png" group-title="",SKY MIX SERIES
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169287&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-chno="314" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Netflix.png" group-title="",NETFLIX PREMIERE
+#EXTINF:-1 tvg-chno="314" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Netflix.png",NETFLIX PREMIERE
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169316&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-chno="315" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Netflix.png" group-title="",NETFLIX SERIES
+#EXTINF:-1 tvg-chno="315" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Netflix.png",NETFLIX SERIES
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1169351&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-chno="316" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/HBO_Max.png" group-title="",HBO MAX
+#EXTINF:-1 tvg-chno="316" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/HBO_Max.png",HBO MAX
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569127&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-chno="317" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png" group-title="",PRIME VIDEO SERIES
+#EXTINF:-1 tvg-chno="317" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png",PRIME VIDEO SERIES
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569181&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-chno="318" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Hulu.png" group-title="",HULU
+#EXTINF:-1 tvg-chno="318" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Hulu.png",HULU
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569109&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-chno="319" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Apple_TV%2B.png" group-title="",APPLE TV+ SERIES
+#EXTINF:-1 tvg-chno="319" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Apple_TV%2B.png",APPLE TV+ SERIES
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569192&extension=ts&play_token=L0Xl56Xx2u
 
-#EXTINF:-1 tvg-chno="320" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Paramount_Plus.png" group-title="",PARAMOUNT+
+#EXTINF:-1 tvg-chno="320" tvg-id="Primafila 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Paramount_Plus.png",PARAMOUNT+
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=569159&extension=ts&play_token=L0Xl56Xx2u
 
 # ANIMAZIONE 600
 
-#EXTINF:-1 tvg-chno="601" tvg-id="DeA Kids" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DeAKids.png" group-title="E",DEA KIDS
+#EXTINF:-1 tvg-chno="601" tvg-id="DeA Kids" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DeAKids.png",DEA KIDS
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177605&extension=ts
 
-#EXTINF:-1 tvg-chno="602" tvg-id="Nick Jr." tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Nick Jr.png" group-title="",NICK JR
+#EXTINF:-1 tvg-chno="602" tvg-id="Nick Jr." tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Nick Jr.png",NICK JR
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177599&extension=ts
 
-#EXTINF:-1 tvg-chno="603" tvg-id="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Nickelodeon.png" group-title="",NICKELODEON
+#EXTINF:-1 tvg-chno="603" tvg-id="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Nickelodeon.png",NICKELODEON
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177598&extension=ts
 
-#EXTINF:-1 tvg-chno="606" tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Cartoon Network.png" group-title="",CARTOON NETWORK
+#EXTINF:-1 tvg-chno="606" tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Cartoon Network.png",CARTOON NETWORK
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177600&extension=ts
 
-#EXTINF:-1 tvg-chno="607" tvg-id="Boomerang" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Boomerang.png" group-title="",BOOMERANG
+#EXTINF:-1 tvg-chno="607" tvg-id="Boomerang" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Boomerang.png",BOOMERANG
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177601&extension=ts
 
-#EXTINF:-1 tvg-chno="611" tvg-id="611" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg" group-title="",ONE KIDS PAW PATROL
+#EXTINF:-1 tvg-chno="611" tvg-id="611" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS PAW PATROL
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168816&extension=ts
 
-#EXTINF:-1 tvg-chno="612" tvg-id="612" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg" group-title="",ONE KIDS MASHA E ORSO
+#EXTINF:-1 tvg-chno="612" tvg-id="612" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS MASHA E ORSO
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168815&extension=ts
 
-#EXTINF:-1 tvg-chno="613" tvg-id="613" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg" group-title="",ONE KIDS PEPPA PIG
+#EXTINF:-1 tvg-chno="613" tvg-id="613" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS PEPPA PIG
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168813&extension=ts
 
-#EXTINF:-1 tvg-chno="614" tvg-id="614" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg" group-title="",ONE KIDS PJ MASKS
+#EXTINF:-1 tvg-chno="614" tvg-id="614" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS PJ MASKS
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168814&extension=ts
 
 # RADIO 700
