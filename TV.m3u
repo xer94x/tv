@@ -441,10 +441,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158716&
 #EXTINF:-1 tvg-chno="218" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 4.png",DAZN SERIE A 4
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158717&extension=ts
 
-#EXTINF:-1 tvg-chno="219" tvg-id="DAZN 5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png",PRIME VIDEO SPORTSBAR 1
+#EXTINF:-1 tvg-chno="219" tvg-id="Prime Video" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png",PRIME VIDEO SPORTSBAR 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167390&extension=ts
 
-#EXTINF:-1 tvg-chno="220" tvg-id="DAZN 6" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png",PRIME VIDEO SPORTSBAR 2
+#EXTINF:-1 tvg-chno="220" tvg-id="Prime Video" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/Prime%20Video.png",PRIME VIDEO SPORTSBAR 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167389&extension=ts
 
 #EXTINF:-1 tvg-chno="221" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%201.png",DAZN WEB 1
