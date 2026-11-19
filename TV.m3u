@@ -429,10 +429,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177966&e
 #EXTINF:-1 tvg-chno="214" tvg-id="Zona DAZN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN.png",DAZN 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158736&extension=ts
 
-#EXTINF:-1 tvg-chno="215" tvg-id="DAZN 1" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 1.png",DAZN SERIE A 1
+#EXTINF:-1 tvg-chno="215" tvg-id="Zona DAZN" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 1.png",DAZN SERIE A 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158714&extension=ts
 
-#EXTINF:-1 tvg-chno="216" tvg-id="DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 2.png",DAZN SERIE A 2
+#EXTINF:-1 tvg-chno="216" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 2.png",DAZN SERIE A 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158715&extension=ts
 
 #EXTINF:-1 tvg-chno="217" tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 3.png",DAZN SERIE A 3
