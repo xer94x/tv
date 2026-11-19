@@ -685,18 +685,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177600&e
 #EXTINF:-1 tvg-chno="607" tvg-id="Boomerang" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - Boomerang.png",BOOMERANG
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=177601&extension=ts
 
-#EXTINF:-1 tvg-chno="611" tvg-id="611" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS PAW PATROL
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168816&extension=ts
-
-#EXTINF:-1 tvg-chno="612" tvg-id="612" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS MASHA E ORSO
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168815&extension=ts
-
-#EXTINF:-1 tvg-chno="613" tvg-id="613" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS PEPPA PIG
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168813&extension=ts
-
-#EXTINF:-1 tvg-chno="614" tvg-id="614" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Sky_TG24.svg",ONE KIDS PJ MASKS
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1168814&extension=ts
-
 # RADIO 700
 
 #EXTINF:-1 tvg-chno="700" tvg-id="Deejay TV" tvg-name="Deejay TV" tvg-logo="https://i.ibb.co/Qj3Nd2fP/714-deejay-tv-it.png",Deejay TV
