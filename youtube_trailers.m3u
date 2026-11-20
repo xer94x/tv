@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/j6RBfo6-BYk/hqdefault.jpg" group-title="Apple Italia",Grandi sogni: un corto di Apple per le Feste, con MacBook Neo
+https://www.youtube.com/watch?v=j6RBfo6-BYk
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/qtX9b9xJBsk/hqdefault.jpg" group-title="Apple Italia",Il nuovo HomePod mini 2: un suono pieno e avvolgente in un design compatto.
 https://www.youtube.com/watch?v=qtX9b9xJBsk
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/72KXW62UbxQ/hqdefault.jpg" group-title="Apple Italia",La nuova Apple TV 4K: piccola, semplice, spettacolare.
@@ -27,8 +29,6 @@ https://www.youtube.com/watch?v=wZo1upcxfio
 https://www.youtube.com/shorts/mX-FU6hUIYM
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fXRlc3wvtVo/hqdefault.jpg" group-title="Apple Italia",Ricevi un avviso quando qualcuno chiama il tuo nome. #Shorts
 https://www.youtube.com/shorts/fXRlc3wvtVo
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/vWYkWvNWZSA/hqdefault.jpg" group-title="Apple Italia",Per vedere la lavagna anche dall’ultimo banco. #Shorts
-https://www.youtube.com/shorts/vWYkWvNWZSA
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/t7hI5L94CXs/hqdefault.jpg" group-title="Apple TV",Jude Law & Andrew Garfield are Siegfried & Roy. #WildThings premieres April 16.
 https://www.youtube.com/shorts/t7hI5L94CXs
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8OGY0dEV3T4/hqdefault.jpg" group-title="Apple TV",Great Movies to Watch on Apple TV
@@ -59,6 +59,10 @@ https://www.youtube.com/shorts/zq6k6xIJTKM
 https://www.youtube.com/watch?v=2xM-EWRlRT8
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/REFbpJi63ig/hqdefault.jpg" group-title="Apple TV",A familiar favorite made enchanting by Laufey. #Snoopy Presents: 12 Days of Snoopy — Now Streaming
 https://www.youtube.com/shorts/REFbpJi63ig
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oMVfV0oDhRY/hqdefault.jpg" group-title="Disney Plus",The Weight of the World | Episode 302 | Percy Jackson and the Olympians Official Podcast
+https://www.youtube.com/watch?v=oMVfV0oDhRY
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/4Aq_RTNLXg0/hqdefault.jpg" group-title="Disney Plus",Who’s the Most Powerful Demigod? | Episode 301 | Percy Jackson and the Olympians Official Podcast
+https://www.youtube.com/watch?v=4Aq_RTNLXg0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/ofo6JgXlNfA/hqdefault.jpg" group-title="Disney Plus",Watch a Sneak Peek | Percy Jackson & the Olympians Season 3 | Disney+
 https://www.youtube.com/watch?v=ofo6JgXlNfA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/mbluMRPoeWY/hqdefault.jpg" group-title="Disney Plus",A moment please for Loki's glorious purpose.
@@ -85,10 +89,8 @@ https://www.youtube.com/shorts/rDI7eiQFlH8
 https://www.youtube.com/watch?v=XOgIBuX5-hg
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3KvWD9p9Px0/hqdefault.jpg" group-title="Disney Plus",Ludwig did not need to go so hard with this score, but we're so glad he did.
 https://www.youtube.com/shorts/3KvWD9p9Px0
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8NRj-jl7n_E/hqdefault.jpg" group-title="Disney Plus",A Proud Family Wizmas | Trailer
-https://www.youtube.com/watch?v=8NRj-jl7n_E
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nD45l6hCyN8/hqdefault.jpg" group-title="Disney Plus",Percy Jackson & the Olympians Season 3 | Trailer | Disney+
-https://www.youtube.com/watch?v=nD45l6hCyN8
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/j-AURGv5P20/hqdefault.jpg" group-title="Disney Plus Italia",Percy Jackson e gli Dei dell'Olimpo Stagione 3 | Ora in esclusiva | Disney+ Italia
+https://www.youtube.com/shorts/j-AURGv5P20
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nYVk7kRpzS4/hqdefault.jpg" group-title="Disney Plus Italia",FX's Adults | Stagione 3 confermata | Disney+ Italia
 https://www.youtube.com/shorts/nYVk7kRpzS4
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/yVqfOQB7hKI/hqdefault.jpg" group-title="Disney Plus Italia",I Simpson | Disponibile ora | Disney+ Italia
@@ -117,8 +119,6 @@ https://www.youtube.com/watch?v=p0pgqujP9ZM
 https://www.youtube.com/shorts/gB0y2hZ8IOM
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fq9mnVSRn4I/hqdefault.jpg" group-title="Disney Plus Italia",L'Imperatrice Risposata | Da oggi in esclusiva | Disney+ Italia
 https://www.youtube.com/watch?v=fq9mnVSRn4I
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/teqtOie0YRI/hqdefault.jpg" group-title="Disney Plus Italia",Percy Jackson e gli Dei dell'Olimpo Stagione 3 | Trailer Ufficiale | Disney+ Italia
-https://www.youtube.com/watch?v=teqtOie0YRI
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/EkV3LMKE2FI/hqdefault.jpg" group-title="HBO Max",The Howard Stern Show | Zac Brown and Dolly Parton's Friendship
 https://www.youtube.com/shorts/EkV3LMKE2FI
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/U6d-wwXeH0Y/hqdefault.jpg" group-title="HBO Max",The Gilded Age Renewed for Season 5
@@ -269,6 +269,8 @@ https://www.youtube.com/shorts/gMb_i2QzeE4
 https://www.youtube.com/shorts/zyJrnIfizqk
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jc8QfRa9xP0/hqdefault.jpg" group-title="Netflix",Priscilla Can't Stand Cinderella #StepsNetflix
 https://www.youtube.com/shorts/jc8QfRa9xP0
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/c5oAAKbzeLk/hqdefault.jpg" group-title="Netflix Italia",La telefonata al cardiopalma di INSIDE MAN
+https://www.youtube.com/shorts/c5oAAKbzeLk
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/ai6Y_8qscow/hqdefault.jpg" group-title="Netflix Italia",Incontrano la moglie del nemico
 https://www.youtube.com/shorts/ai6Y_8qscow
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/nblccuM74e0/hqdefault.jpg" group-title="Netflix Italia",IL PARADOSSO più emozionante del cinema
@@ -297,8 +299,12 @@ https://www.youtube.com/shorts/baXb-gtvfl8
 https://www.youtube.com/shorts/prt2j2eUNho
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/P4YZEPjTzWY/hqdefault.jpg" group-title="Netflix Italia",L'horror coreano che non sapevi di voler vedere 😨
 https://www.youtube.com/shorts/P4YZEPjTzWY
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/yOu6QY3fK_s/hqdefault.jpg" group-title="Netflix Italia",Pierpaolo Spollon e Andrea Lattanzi raccontano ChiaroScuro e la loro amicizia!
-https://www.youtube.com/watch?v=yOu6QY3fK_s
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/IUpOFrvEbSM/hqdefault.jpg" group-title="Paramount Italia",Yellowjackets | Stagione finale - Paramount+
+https://www.youtube.com/shorts/IUpOFrvEbSM
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/l91IKR0iIgE/hqdefault.jpg" group-title="Paramount Italia",Dexter: Resurrection | Quando il gap generazionale lo gestisci alla Dexter 🔪 - Paramount+
+https://www.youtube.com/shorts/l91IKR0iIgE
+#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CYUbXVjlbMM/hqdefault.jpg" group-title="Paramount Italia",MobLand | La trama che amiamo - Paramount+
+https://www.youtube.com/shorts/CYUbXVjlbMM
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/QLAFGhmeiqA/hqdefault.jpg" group-title="Paramount Italia",South Park | Riportare la carne a scuola - Paramount+
 https://www.youtube.com/shorts/QLAFGhmeiqA
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/qQ3j2T2JS2U/hqdefault.jpg" group-title="Paramount Italia",Dexter: Resurrection | Il monologo di Dexter Morgan - Paramount+
@@ -323,12 +329,8 @@ https://www.youtube.com/shorts/t0zI-QELla8
 https://www.youtube.com/shorts/SKiGvcHOqU0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gtrGmxR2O0k/hqdefault.jpg" group-title="Paramount Italia",MobLand | Finale di stagione - Paramount+
 https://www.youtube.com/shorts/gtrGmxR2O0k
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/LllH02swarQ/hqdefault.jpg" group-title="Paramount Italia",Frenchie Shore | Trailer ufficiale - Paramount+
-https://www.youtube.com/watch?v=LllH02swarQ
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/wxFz7BS7C-A/hqdefault.jpg" group-title="Paramount Italia",Marshals | Golf a cavallo - Paramount+
-https://www.youtube.com/shorts/wxFz7BS7C-A
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/LeewuFjMe6Y/hqdefault.jpg" group-title="Paramount Italia",MobLand S02 | Io che trovo la risposta perfetta per un litigio del 2019 - Paramount+
-https://www.youtube.com/shorts/LeewuFjMe6Y
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/AlqS26rV9XU/hqdefault.jpg" group-title="Paramount Pictures",“African Love Story” by Tems from the #ChildrenOfBloodAndBone soundtrack, is out now!
+https://www.youtube.com/shorts/AlqS26rV9XU
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/hztY30RW3uw/hqdefault.jpg" group-title="Paramount Pictures",Gather the flock ❤️ JISOO’s “Sun Showers” is out TONIGHT. Pre-save here: JISOO.lnk.to/SunShowers
 https://www.youtube.com/shorts/hztY30RW3uw
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/E9G_s9JDESE/hqdefault.jpg" group-title="Paramount Pictures",No better way to get this party started than with all new music from JISOO! #AngryBirdsMovie3
@@ -357,8 +359,6 @@ https://www.youtube.com/shorts/K-xDBKcDZQY
 https://www.youtube.com/shorts/SvLXtFRAqVg
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/CN7gb3YcBN8/hqdefault.jpg" group-title="Paramount Pictures",New Trailer drops TOMORROW. #ChildrenOfBloodAndBone - only in theatres and IMAX January 15, 2027.
 https://www.youtube.com/shorts/CN7gb3YcBN8
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/fJf1ECd36H8/hqdefault.jpg" group-title="Paramount Pictures",Ebenezer | Draymond Green Humbug (2026 Movie)
-https://www.youtube.com/watch?v=fJf1ECd36H8
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/J-eUjok_FQk/hqdefault.jpg" group-title="Paramount Plus",Want to make more money? #Kingpin
 https://www.youtube.com/shorts/J-eUjok_FQk
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/2QX3iq_2sRg/hqdefault.jpg" group-title="Paramount Plus",Not a soul on the streets, but everyone’s behind the wheel. #SpongeBobSquarePants
@@ -419,6 +419,12 @@ https://www.youtube.com/shorts/dAFclwaG1dQ
 https://www.youtube.com/watch?v=t6H1LDJdVM0
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/WctoDJXTAdg/hqdefault.jpg" group-title="Prime Video",Pattinson. Robert Pattinson.  #Twilight is available to rent or buy on Prime Video.
 https://www.youtube.com/shorts/WctoDJXTAdg
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/XwmLVHTZyCI/hqdefault.jpg" group-title="Prime Video Italia",I best player di Daniele Gattano | The Traitors Italia
+https://www.youtube.com/shorts/XwmLVHTZyCI
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jvxvN5W-aeU/hqdefault.jpg" group-title="Prime Video Italia",MOBLAND | Prime Video | Paramount+
+https://www.youtube.com/shorts/jvxvN5W-aeU
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/0Lq3IPcyl30/hqdefault.jpg" group-title="Prime Video Italia",Convocazione dei maledetti | The Traitors Italia
+https://www.youtube.com/shorts/0Lq3IPcyl30
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/0XSCZ-lBzG8/hqdefault.jpg" group-title="Prime Video Italia",La sacra reliquia - Trailer ufficiale | Prime Video
 https://www.youtube.com/watch?v=0XSCZ-lBzG8
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/sPD1CIdKeN8/hqdefault.jpg" group-title="Prime Video Italia",Filippo e Daniele accusano Valentina | The Traitors Italia
@@ -443,12 +449,6 @@ https://www.youtube.com/shorts/LsKeSdgEvXo
 https://www.youtube.com/shorts/vtSIWaaHJV8
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/4SHbdOI0ktM/hqdefault.jpg" group-title="Prime Video Italia",Jolanda apre la Round Table | The Traitors Italia
 https://www.youtube.com/shorts/4SHbdOI0ktM
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/f6ceknvXUfo/hqdefault.jpg" group-title="Prime Video Italia",La reazione a caldo della sesta eliminazione | The Traitors Italia
-https://www.youtube.com/watch?v=f6ceknvXUfo
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/WdRlv0kyoAY/hqdefault.jpg" group-title="Prime Video Italia",Camihawke | Intervista post eliminazione
-https://www.youtube.com/shorts/WdRlv0kyoAY
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/6YM_cXANWgQ/hqdefault.jpg" group-title="Prime Video Italia",Pronti a vivere una stagione piena di colpi di scena | Mobland
-https://www.youtube.com/shorts/6YM_cXANWgQ
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gNHr2-JjKRM/hqdefault.jpg" group-title="Sony Pictures",THE NIGHTINGALE – Official Teaser Trailer (4K)
 https://www.youtube.com/watch?v=gNHr2-JjKRM
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/gC8mSp7_Vjs/hqdefault.jpg" group-title="Sony Pictures",RESIDENT EVIL | Creator Deep Dive with Filmmakers – Part 4 with Sarah Carlos
