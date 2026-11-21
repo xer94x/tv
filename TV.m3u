@@ -56,7 +56,7 @@ https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/rai3sicilia.png",TG3 Sicilia
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167311&extension=ts&play_token=9i2NAN24TI
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",TGR Sicilia
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",TGR Sicilia
 https://tgrsicilia.xer94x.workers.dev/stream.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/RTP.jpg",RTP
