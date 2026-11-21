@@ -435,46 +435,46 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158714&
 #EXTINF:-1 tvg-chno="216" tvg-id="Zona DAZN 2" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 2.png",DAZN SERIE A 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158715&extension=ts
 
-#EXTINF:-1 tvg-chno="217" tvg-id="DAZN 3" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 3.png",DAZN SERIE A 3
+#EXTINF:-1 tvg-chno="217" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 3.png",DAZN SERIE A 3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158716&extension=ts
 
-#EXTINF:-1 tvg-chno="218" tvg-id="DAZN 4" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 4.png",DAZN SERIE A 4
+#EXTINF:-1 tvg-chno="218" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 4.png",DAZN SERIE A 4
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158717&extension=ts
 
-#EXTINF:-1 tvg-chno="219" tvg-id="DAZN 5" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 5.png",DAZN SERIE A 5
+#EXTINF:-1 tvg-chno="219" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 5.png",DAZN SERIE A 5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158718&extension=ts
 
-#EXTINF:-1 tvg-chno="220" tvg-id="DAZN 6" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 6.png",DAZN SERIE A 6
+#EXTINF:-1 tvg-chno="220" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 6.png",DAZN SERIE A 6
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158719&extension=ts
 
-#EXTINF:-1 tvg-chno="221" tvg-id="DAZN 7" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 7.png",DAZN SERIE A 7
+#EXTINF:-1 tvg-chno="221" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 7.png",DAZN SERIE A 7
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158720&extension=ts
 
-#EXTINF:-1 tvg-chno="222" tvg-id="DAZN 8" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 8.png",DAZN SERIE A 8
+#EXTINF:-1 tvg-chno="222" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 8.png",DAZN SERIE A 8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158721&extension=ts
 
-#EXTINF:-1 tvg-chno="223" tvg-id="DAZN 9" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 9.png",DAZN SERIE A 9
+#EXTINF:-1 tvg-chno="223" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 9.png",DAZN SERIE A 9
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158722&extension=ts
 
-#EXTINF:-1 tvg-chno="224" tvg-id="DAZN 10" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 10.png",DAZN SERIE A 10
+#EXTINF:-1 tvg-chno="224" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 10.png",DAZN SERIE A 10
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158723&extension=ts
 
-#EXTINF:-1 tvg-chno="225" tvg-id="DAZN 11" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 11.png",DAZN SERIE A 11
+#EXTINF:-1 tvg-chno="225" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 11.png",DAZN SERIE A 11
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158724&extension=ts
 
-#EXTINF:-1 tvg-chno="226" tvg-id="DAZN 12" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 12.png",DAZN SERIE A 12
+#EXTINF:-1 tvg-chno="226" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 12.png",DAZN SERIE A 12
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158725&extension=ts
 
-#EXTINF:-1 tvg-chno="227" tvg-id="DAZN 13" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 13.png",DAZN SERIE A 13
+#EXTINF:-1 tvg-chno="227" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 13.png",DAZN SERIE A 13
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158726&extension=ts
 
-#EXTINF:-1 tvg-chno="228" tvg-id="DAZN 14" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 14.png",DAZN SERIE A 14
+#EXTINF:-1 tvg-chno="228" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - DAZN 14.png",DAZN SERIE A 14
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1158727&extension=ts
 
-#EXTINF:-1 tvg-chno="229" tvg-id="DAZN 41" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png",DAZN DIRETTA GOL SERIE A
+#EXTINF:-1 tvg-chno="229" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png",DAZN DIRETTA GOL SERIE A
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883850&extension=ts
 
-#EXTINF:-1 tvg-chno="230" tvg-id="DAZN 42" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png",DAZN DIRETTA GOL SERIE B
+#EXTINF:-1 tvg-chno="230" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT - ZONA DAZN 2.png",DAZN DIRETTA GOL SERIE B
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=883847&extension=ts
 
 #EXTINF:-1 tvg-chno="231" tvg-id="DAZN Italia" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/icone_epg/IT%20-%20DAZN%201.png",DAZN WEB 1
