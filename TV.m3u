@@ -41,8 +41,8 @@ https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/mas
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/refs/heads/main/loghi/TGS.png",TGS
 https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",TGR
-https://tgrsicilia.xer94x.workers.dev/stream.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Mediterraneo.png",Video Mediterraneo
+https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Regione%20Sicilia.jpg",Video Regione
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
@@ -53,11 +53,11 @@ https://topcalcio24.xer94x.workers.dev/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Tele%20One.png",Tele One
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/Video%20Mediterraneo.png",Video Mediterraneo
-https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/rai3sicilia.png",TG3 Sicilia
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=1167311&extension=ts&play_token=9i2NAN24TI
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/reitv.jpg",Rei Tv
-https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",TGR Sicilia
+https://tgrsicilia.xer94x.workers.dev/stream.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/xer94x/tv/main/loghi/RTP.jpg",RTP
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
