@@ -1,9 +1,17 @@
 # Canali che compaiono nei popup delle partite (Champions, Europa League, Premier, ecc.)
 # Un id EPG per riga = il tvg-id del canale nella playlist TV.m3u, in ORDINE DI PRIORITA' (il primo compare per primo).
 # Le righe vuote e quelle che iniziano con # vengono ignorate.
-# Per aggiungere un canale: scrivi qui il suo tvg-id, salva su GitHub e premi Ricarica nell'app. Non serve ribuildare.
+#
+# GRUPPI: una riga [Nome] apre un gruppo. Nel popup ogni gruppo ha la sua dicitura (NOME in maiuscolo) sopra i suoi canali,
+# nell'ordine in cui li scrivi qui. Le righe prima del primo [Nome] stanno nel gruppo "In TV".
+# Il gruppo [Altri] sta sempre in fondo: ci finiscono anche i canali DAZN WEB / DAZN SERIE A fissi (Serie B / Serie A).
+# Un canale scritto in due gruppi compare solo nel primo.
+#
+# Per aggiungere un canale o un gruppo: scrivi qui, salva su GitHub e premi Ricarica nell'app. Non serve ribuildare.
 # Il canale deve avere nell'EPG un programma "Casa - Ospite" vicino al fischio d'inizio.
-# Metti "DAZN Italia" sempre per ultimo: ha tanti canali con lo stesso id EPG.
+# Metti "DAZN Italia" sempre per ultimo del suo gruppo: ha tanti canali con lo stesso id EPG.
+
+[In TV]
 Sky Sport Calcio
 Sky Sport Uno
 Sky Sport Arena
@@ -26,3 +34,8 @@ Italia 1
 Canale 5
 20
 DAZN Italia
+
+# Esempio di un altro gruppo (togli il # per attivarlo):
+# [Estero]
+# Canale Esempio 1
+# Canale Esempio 2
