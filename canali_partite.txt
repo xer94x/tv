@@ -1,0 +1,28 @@
+# Canali che compaiono nei popup delle partite (Champions, Europa League, Premier, ecc.)
+# Un id EPG per riga = il tvg-id del canale nella playlist TV.m3u, in ORDINE DI PRIORITA' (il primo compare per primo).
+# Le righe vuote e quelle che iniziano con # vengono ignorate.
+# Per aggiungere un canale: scrivi qui il suo tvg-id, salva su GitHub e premi Ricarica nell'app. Non serve ribuildare.
+# Il canale deve avere nell'EPG un programma "Casa - Ospite" vicino al fischio d'inizio.
+# Metti "DAZN Italia" sempre per ultimo: ha tanti canali con lo stesso id EPG.
+Sky Sport Calcio
+Sky Sport Uno
+Sky Sport Arena
+Sky Sport Max
+Zona DAZN
+Zona DAZN 2
+Prime Video
+Sky Sport 251
+Sky Sport 252
+Sky Sport 253
+Sky Sport 254
+Sky Sport 255
+Sky Sport 256
+Sky Sport 257
+RSI LA2
+Rai 1
+Rai 2
+Rai Sport
+Italia 1
+Canale 5
+20
+DAZN Italia
