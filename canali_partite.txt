@@ -33,7 +33,6 @@ Rai Sport
 Italia 1
 Canale 5
 20
-DAZN Italia
 
 # Esempio di un altro gruppo (togli il # per attivarlo):
 # [Estero]
