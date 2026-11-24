@@ -29,6 +29,14 @@ API_URL = "https://www.rainews.it/tgr/sicilia/notiziari.json"
 WORKER_URL = "https://tgrsicilia.xer94x.workers.dev/stream.m3u8"
 MAX_VOD = 50
 
+# Rubriche/programmi da escludere (non sono il TG Sicilia)
+EXCLUDE_KEYWORDS = ("buongiorno", "rubriche")
+
+
+def is_excluded(url):
+    u = (url or "").lower()
+    return any(k in u for k in EXCLUDE_KEYWORDS)
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -76,8 +84,7 @@ def get_latest_vod():
         if r.status_code == 200:
             data = r.json()
             items = data if isinstance(data, list) else data.get("items", data.get("data", []))
-            if items:
-                item = items[0]
+            for item in items or []:
                 raw_title = item.get("title", "")
                 title = fix_title(raw_title)
                 video_url = (
@@ -86,9 +93,17 @@ def get_latest_vod():
                     or item.get("streamUrl")
                     or item.get("mediaUrl")
                 )
-                if video_url:
-                    print(f"  📺 Trovato via JSON: {title}")
-                    return resolve_stream(video_url), title
+                if not video_url:
+                    continue
+                if is_excluded(video_url):
+                    print(f"  ⏭️  Saltato (rubrica): {video_url[:80]}")
+                    continue
+                stream = resolve_stream(video_url)
+                if is_excluded(stream):
+                    print(f"  ⏭️  Saltato (rubrica): {stream[:80]}")
+                    continue
+                print(f"  📺 Trovato via JSON: {title}")
+                return stream, title
     except Exception as e:
         print(f"  ℹ️  JSON endpoint non disponibile: {e}")
 
@@ -101,10 +116,15 @@ def get_latest_vod():
 
         for tag in soup.find_all(attrs={"data-mediapolicontenturl": True}):
             url = tag["data-mediapolicontenturl"]
+            if is_excluded(url):
+                continue
             raw_title = tag.get("data-title", "")
             title = fix_title(raw_title)
+            stream = resolve_stream(url)
+            if is_excluded(stream):
+                continue
             print(f"  📺 Trovato via HTML attr: {title}")
-            return resolve_stream(url), title
+            return stream, title
 
         for script in soup.find_all("script"):
             text = script.string or ""
@@ -112,11 +132,15 @@ def get_latest_vod():
                 match = re.search(r'https://mediapolis[^\s"\']+', text)
                 if match:
                     url = match.group(0).rstrip("\\,;")
+                    if is_excluded(url):
+                        continue
                     print("  📺 Trovato via script embedded")
                     return resolve_stream(url), extract_title(soup)
                 match = re.search(r'https://[^\s"\']+\.m3u8[^\s"\']*', text)
                 if match:
                     url = match.group(0).rstrip("\\,;")
+                    if is_excluded(url):
+                        continue
                     print("  ✅ m3u8 trovato direttamente")
                     return url, extract_title(soup)
 
@@ -143,14 +167,16 @@ def get_stream_from_article(url):
         text = r.text
 
         match = re.search(r'https://[^\s"\']+\.m3u8[^\s"\']*', text)
-        if match:
+        if match and not is_excluded(match.group(0)):
             return match.group(0).rstrip("\\,;"), title
 
         match = re.search(r'https://mediapolis[^\s"\']+', text)
-        if match:
+        if match and not is_excluded(match.group(0)):
             return resolve_stream(match.group(0).rstrip("\\,;")), title
 
         for tag in soup.find_all(attrs={"data-mediapolicontenturl": True}):
+            if is_excluded(tag["data-mediapolicontenturl"]):
+                continue
             return resolve_stream(tag["data-mediapolicontenturl"]), title
 
     except Exception as e:
@@ -209,6 +235,9 @@ def append_to_playlist(stream_url, title):
     for extinf, url in entries:
         if url.strip() == WORKER_URL:
             continue
+        if is_excluded(url):
+            print(f"  🗑️  Rimossa rubrica dalla playlist: {extinf[-40:]}")
+            continue
         other_entries.append((extinf, url))
 
     # Controllo duplicati: confronta la parte base dell'URL
@@ -258,3 +287,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
