@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="IT2600002F6" tvg-name="Film Top - Rakuten TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/11c05b3e-6fb6-45f6-8d49-40de524478b0.jpeg" tvg-chno="0" group-title="Film",Film Top - Rakuten TV
 https://rakuten.xer94x.workers.dev/top-movies-rakuten-tv/index.m3u8?lang=ITA
 #EXTINF:-1 tvg-id="IT2600003FM" tvg-name="Azione - Rakuten TV" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f4795c00-5b72-45db-a2df-fc35cbe7f97a.jpeg" tvg-chno="1" group-title="Film",Azione - Rakuten TV
