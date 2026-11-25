@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",25 novembre 2026 - ore 19:30
+https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30922825.mp4/playlist.m3u8?auth=daEadcrbbaRc.dncpboarcIbkbEdfbAbgbT-bRbKRr-c0-DlyvsEq&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",24 novembre 2026 - ore 14:00
 https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Sicilia/30919331.mp4/playlist.m3u8?auth=daEdkd6ayaLb9aHdZdvbFdEbAb9c.cMaUaq-bRbDCd-c0-AmzuvEu&aifp=V001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjXmMZQ/images.jpg",23 novembre 2026 - ore 19:30
