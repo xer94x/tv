@@ -59,6 +59,10 @@ https://www.youtube.com/watch?v=sDMNuKvCXOc
 https://www.youtube.com/shorts/iOXHhAjqX58
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Hz1_sZCZgag/hqdefault.jpg" group-title="Apple TV",When the sun goes down, the fun is just getting started. Watch the #LasVegasGP for free tonight.
 https://www.youtube.com/shorts/Hz1_sZCZgag
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/vmuO4PejTSk/hqdefault.jpg" group-title="Disney Plus",Percy Jackson and the Olympians | Demigod Diaries 302 | Disney+
+https://www.youtube.com/watch?v=vmuO4PejTSk
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/QsEg2ep50p8/hqdefault.jpg" group-title="Disney Plus",Percy Jackson and the Olympians | Demigod Diaries 301 | Disney+
+https://www.youtube.com/watch?v=QsEg2ep50p8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Eueu7xHIxzE/hqdefault.jpg" group-title="Disney Plus",Cap. Mjolnir. Core memory.
 https://www.youtube.com/shorts/Eueu7xHIxzE
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oqH-IuYZO0I/hqdefault.jpg" group-title="Disney Plus",Percy Jackson and the Olympians | Season 3 Watch Party | Disney+
@@ -85,10 +89,6 @@ https://www.youtube.com/shorts/LvghEit9Wpw
 https://www.youtube.com/watch?v=VRxhrNWz7kQ
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/3pnpz8SqRI8/hqdefault.jpg" group-title="Disney Plus",Countdown to Avengers: Doomsday | Return to the Universe on Disney+
 https://www.youtube.com/watch?v=3pnpz8SqRI8
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/9TRC6Ktfylo/hqdefault.jpg" group-title="Disney Plus",Disney+ on Meta Quest | 3D Movies & Immersive Environments
-https://www.youtube.com/watch?v=9TRC6Ktfylo
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/rDI7eiQFlH8/hqdefault.jpg" group-title="Disney Plus",They didn't hold back.
-https://www.youtube.com/shorts/rDI7eiQFlH8
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Aq476BKNBCw/hqdefault.jpg" group-title="Disney Plus Italia",Grey's Anatomy | Dal 26 Novembre | Disney+ Italia
 https://www.youtube.com/shorts/Aq476BKNBCw
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/ZrZfll4d7ds/hqdefault.jpg" group-title="Disney Plus Italia",Grey's Anatomy | Dal 26 Novembre | Disney+ Italia
@@ -119,6 +119,8 @@ https://www.youtube.com/shorts/7WGuK0rIXWM
 https://www.youtube.com/shorts/AUwZSpTP_sc
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/59b1LABCLr8/hqdefault.jpg" group-title="Disney Plus Italia",Mosquito | Ora in produzione | Disney+ Italia
 https://www.youtube.com/shorts/59b1LABCLr8
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/biXWtvfPinY/hqdefault.jpg" group-title="HBO Max",*mentally preparing for the Thanksgiving dinner convos* #Girls
+https://www.youtube.com/shorts/biXWtvfPinY
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pMSinYxqE50/hqdefault.jpg" group-title="HBO Max",Former Theranos exec wowed. #OobahButler
 https://www.youtube.com/shorts/pMSinYxqE50
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/OERi5i-zKWM/hqdefault.jpg" group-title="HBO Max",Don’t forget to add it to your charts. Season 3 of #ThePitt premieres January 7 on HBO Max.
@@ -147,8 +149,6 @@ https://www.youtube.com/watch?v=HDUFjk0JNew
 https://www.youtube.com/watch?v=jMkq-h5QF0g
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/woWFs2kjVB0/hqdefault.jpg" group-title="HBO Max",The Gilded Age Season 4 | Episode 4 Preview | HBO Max
 https://www.youtube.com/watch?v=woWFs2kjVB0
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/Uz5qh6ih_Go/hqdefault.jpg" group-title="HBO Max",DC Studios Showcase Official Podcast | Megan Cruz on Clayface & Body Horror | HBO Max
-https://www.youtube.com/watch?v=Uz5qh6ih_Go
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/0AdjfaIeQ4Y/hqdefault.jpg" group-title="HBO Max Italia",Manca UN MESE all’apertura delle porte di Hogwarts. #HarryPotterHBO
 https://www.youtube.com/shorts/0AdjfaIeQ4Y
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8jThObNNnsM/hqdefault.jpg" group-title="HBO Max Italia",Non sono solo numeri. Sono persone, legami, progetti e sogni rimasti incompiuti. #MelaniaRea
@@ -239,6 +239,20 @@ https://www.youtube.com/watch?v=WBkOrw9daYQ
 https://www.youtube.com/shorts/hgQSgHCmExM
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Pe62BkRXUEI/hqdefault.jpg" group-title="Marvel Italia",Anthony Russo Analizza le Scene Iconiche di Avengers: Endgame
 https://www.youtube.com/watch?v=Pe62BkRXUEI
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/pWj4_aYZlHo/hqdefault.jpg" group-title="Netflix",Full. Body. Chills.
+https://www.youtube.com/shorts/pWj4_aYZlHo
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/6f2hlImqx5U/hqdefault.jpg" group-title="Netflix",WHERE THE STREETS HAVE NO NAME!
+https://www.youtube.com/shorts/6f2hlImqx5U
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/Lv9dpnWjpwk/hqdefault.jpg" group-title="Netflix",Dolly Forever. U2 pays tribute to Dolly Parton with “Torn” during their halftime performance
+https://www.youtube.com/shorts/Lv9dpnWjpwk
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/YQLjYjz_ukU/hqdefault.jpg" group-title="Netflix",U2 pays tribute to Dolly Parton at the NFL Thanksgiving Eve Game Halftime Performance | Netflix
+https://www.youtube.com/watch?v=YQLjYjz_ukU
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/rCwODizkGWA/hqdefault.jpg" group-title="Netflix",KYREN WILLIAMS.The first-ever TD in NFL Thanksgiving Eve history!
+https://www.youtube.com/shorts/rCwODizkGWA
+#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jCAylhPsXqk/hqdefault.jpg" group-title="Netflix",Gobble gobble. Packers vs. Rams -- LIVE now on Netflix
+https://www.youtube.com/shorts/jCAylhPsXqk
+#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/8lWNNkMLuZ4/hqdefault.jpg" group-title="Netflix","When in doubt, choose violence." Matthew Stafford ahead of the first-ever NFL Thanksgiving Eve game
+https://www.youtube.com/shorts/8lWNNkMLuZ4
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/Oh3qjUgkOgI/hqdefault.jpg" group-title="Netflix",“I’m holding the door open for you.” #TheTupacTapeswithAngieMartinez
 https://www.youtube.com/shorts/Oh3qjUgkOgI
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/ck3tVfxhQSE/hqdefault.jpg" group-title="Netflix",Oz Pearlman: Magic of the Mind | Official Trailer | Netflix
@@ -255,20 +269,6 @@ https://www.youtube.com/watch?v=HGY8x0qy0aI
 https://www.youtube.com/watch?v=3cSNBmJxHhg
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/L8zU_MDfaKw/hqdefault.jpg" group-title="Netflix",Salish's 12 Games of Christmas' cast share their fave memories of filming. On Netflix Nov. 28!
 https://www.youtube.com/shorts/L8zU_MDfaKw
-#EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/7JVXDzaJlb4/hqdefault.jpg" group-title="Netflix",season 2 is my 2026 survival kit 💅 #TheHuntingWives
-https://www.youtube.com/shorts/7JVXDzaJlb4
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/RLPUZxKbzaI/hqdefault.jpg" group-title="Netflix",INK | WIN. FREE. LOVE. | CLIP | Netflix
-https://www.youtube.com/watch?v=RLPUZxKbzaI
-#EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/jtmffkSP_jQ/hqdefault.jpg" group-title="Netflix",3 Body Problem | Season 1 Recap | Netflix
-https://www.youtube.com/watch?v=jtmffkSP_jQ
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/xVjpzd-fsJU/hqdefault.jpg" group-title="Netflix",The Trust | Official Trailer | Netflix
-https://www.youtube.com/watch?v=xVjpzd-fsJU
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/u6OL25KDyuI/hqdefault.jpg" group-title="Netflix",locked in on benedict and sophie.
-https://www.youtube.com/shorts/u6OL25KDyuI
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/PbrI4UaDDE0/hqdefault.jpg" group-title="Netflix",'Twas the night of SALISH'S 12 GAMES OF CHRISTMAS Netflix premiere 🎄 Coming Nov. 28!
-https://www.youtube.com/shorts/PbrI4UaDDE0
-#EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/4sqcMPRhl9M/hqdefault.jpg" group-title="Netflix",KPop Demon Hunters: The Immersive Experience is Open at Netflix House Philadelphia and Dallas
-https://www.youtube.com/shorts/4sqcMPRhl9M
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5ImZPD2Txxo/hqdefault.jpg" group-title="Netflix Italia",Niccolò ammette le sue colpe a Chiara 💀
 https://www.youtube.com/shorts/5ImZPD2Txxo
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/-AK3V8nkUps/hqdefault.jpg" group-title="Netflix Italia",CHIARA FERRAGNI commenta alcune scene dal suo DOCUMENTARIO
@@ -359,6 +359,8 @@ https://www.youtube.com/shorts/mSZCTpw_HYc
 https://www.youtube.com/shorts/XwTEMSMFj7c
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/5iOZk8JMml0/hqdefault.jpg" group-title="Paramount Pictures",Quite the introduction. #SweeneyTodd
 https://www.youtube.com/shorts/5iOZk8JMml0
+#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1usEG1nTlhQ/hqdefault.jpg" group-title="Paramount Plus",Even the toughest days deserve a sweet ending.
+https://www.youtube.com/shorts/1usEG1nTlhQ
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/c11wIAyEnA8/hqdefault.jpg" group-title="Paramount Plus",Bolbi providing the energy we need 👏👏👏 #JimmyNeutron
 https://www.youtube.com/shorts/c11wIAyEnA8
 #EXTINF:-1 tvg-logo="https://i1.ytimg.com/vi/HVNwRJxy7QQ/hqdefault.jpg" group-title="Paramount Plus",Lioness | Were the Russians Behind the Attack at Joe's Home? (S3, E4) | Paramount+
@@ -387,8 +389,6 @@ https://www.youtube.com/shorts/sEebc2-Yp2g
 https://www.youtube.com/watch?v=tRM6gEQvC60
 #EXTINF:-1 tvg-logo="https://i4.ytimg.com/vi/oQi32HDo0mY/hqdefault.jpg" group-title="Paramount Plus",They raised us 🖤 #TheAddamsFamily
 https://www.youtube.com/shorts/oQi32HDo0mY
-#EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/iLUjDZL5Pus/hqdefault.jpg" group-title="Paramount Plus",Oh, we've got big plans. #Landman
-https://www.youtube.com/shorts/iLUjDZL5Pus
 #EXTINF:-1 tvg-logo="https://i3.ytimg.com/vi/NpobK67y0rI/hqdefault.jpg" group-title="Prime Video",Karen Loderick-Peace calls out Amanda Cronin  👀 | The Real Housewives of London
 https://www.youtube.com/shorts/NpobK67y0rI
 #EXTINF:-1 tvg-logo="https://i2.ytimg.com/vi/1UE82Avl8iM/hqdefault.jpg" group-title="Prime Video",The moment Iris realises Amanda and her brother are 'romantically involved' 🙈 | The Holiday
